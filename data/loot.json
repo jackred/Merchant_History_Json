@@ -89,6 +89,15 @@
     "Type": "",
     "Desc": "placeholder"
   },
+  "30": {
+    "Id": "30",
+    "Name": "Giftbag",
+    "Parcel": "TutorialReward1",
+    "Region": 1,
+    "Rarity": 1,
+    "Type": "",
+    "Desc": "Gift from Merchant Man"
+  },
   "37": {
     "Id": "37",
     "Name": "Crafter Mana Bag",

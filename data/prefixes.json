@@ -1,9 +1,7994 @@
 {
-  "test": {
-    "Id": "test",
-    "Name": "Test",
+  "1": {
+    "Id": "1",
+    "Name": "Searing",
+    "Region": 1,
+    "Strength": 7,
+    "SlotStatsValues": [
+      [
+        6,
+        3
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "crit"
+    ]
+  },
+  "10": {
+    "Id": "10",
+    "Name": "Artic",
+    "Region": 1,
+    "Strength": 14,
+    "SlotStatsValues": [
+      [
+        4,
+        2
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "critMod"
+    ]
+  },
+  "11": {
+    "Id": "11",
+    "Name": "Subzero",
+    "Region": 1,
+    "Strength": 14,
+    "SlotStatsValues": [
+      [
+        4,
+        3
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "12": {
+    "Id": "12",
+    "Name": "Hesitant",
+    "Region": 1,
+    "Strength": 10,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        12
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        4,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "maxHP"
+    ]
+  },
+  "13": {
+    "Id": "13",
+    "Name": "Discreet",
+    "Region": 1,
+    "Strength": 15,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      null,
+      [
+        4,
+        1
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "crit"
+    ]
+  },
+  "14": {
+    "Id": "14",
+    "Name": "Smoldering",
+    "Region": 1,
+    "Strength": 4,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
+  },
+  "15": {
+    "Id": "15",
+    "Name": "Frozen",
+    "Region": 1,
+    "Strength": 9,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "16": {
+    "Id": "16",
+    "Name": "Deadly",
+    "Region": 1,
+    "Strength": 15,
+    "SlotStatsValues": [
+      [
+        5,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "crit",
+      "critMod"
+    ]
+  },
+  "17": {
+    "Id": "17",
+    "Name": "Vigilant",
+    "Region": 1,
+    "Strength": 8,
+    "SlotStatsValues": [
+      null,
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "def"
+    ]
+  },
+  "18": {
+    "Id": "18",
+    "Name": "Illuminated",
+    "Region": 1,
+    "Strength": 8,
+    "SlotStatsValues": [
+      null,
+      [
+        3,
+        2
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        2
+      ],
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "mdef"
+    ]
+  },
+  "19": {
+    "Id": "19",
+    "Name": "Vigilant",
+    "Region": 1,
+    "Strength": 9,
+    "SlotStatsValues": [
+      null,
+      [
+        3,
+        2
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "def"
+    ]
+  },
+  "2": {
+    "Id": "2",
+    "Name": "Scorching",
+    "Region": 1,
+    "Strength": 9,
+    "SlotStatsValues": [
+      [
+        4,
+        3
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "critMod"
+    ]
+  },
+  "20": {
+    "Id": "20",
+    "Name": "Illuminated",
+    "Region": 1,
+    "Strength": 9,
+    "SlotStatsValues": [
+      null,
+      [
+        3,
+        2
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "mdef"
+    ]
+  },
+  "21": {
+    "Id": "21",
+    "Name": "Smoldering",
+    "Region": 1,
+    "Strength": 11,
+    "SlotStatsValues": [
+      null,
+      null,
+      [
+        2,
+        1
+      ],
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
+  },
+  "22": {
+    "Id": "22",
+    "Name": "Frozen",
+    "Region": 1,
+    "Strength": 14,
+    "SlotStatsValues": [
+      null,
+      null,
+      [
+        2,
+        1
+      ],
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "23": {
+    "Id": "23",
+    "Name": "Smoldering",
+    "Region": 1,
+    "Strength": 7,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
+  },
+  "24": {
+    "Id": "24",
+    "Name": "Artic",
+    "Region": 1,
+    "Strength": 10,
+    "SlotStatsValues": [
+      [
+        4,
+        2
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "critMod"
+    ]
+  },
+  "25": {
+    "Id": "25",
+    "Name": "Enduring",
+    "Region": 1,
+    "Strength": 6,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      [
+        4,
+        4
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "mdef"
+    ]
+  },
+  "26": {
+    "Id": "26",
+    "Name": "Sharp",
+    "Region": 1,
+    "Strength": 9,
+    "SlotStatsValues": [
+      [
+        3,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "atk"
+    ]
+  },
+  "27": {
+    "Id": "27",
+    "Name": "Sturdy",
+    "Region": 1,
+    "Strength": 7,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "28": {
+    "Id": "28",
+    "Name": "Subzero",
+    "Region": 1,
+    "Strength": 14,
+    "SlotStatsValues": [
+      [
+        4,
+        3
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "29": {
+    "Id": "29",
+    "Name": "Illuminated",
+    "Region": 1,
+    "Strength": 9,
+    "SlotStatsValues": [
+      null,
+      [
+        3,
+        2
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "mdef"
+    ]
+  },
+  "3": {
+    "Id": "3",
+    "Name": "Sturdy",
+    "Region": 1,
+    "Strength": 5,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "4": {
+    "Id": "4",
+    "Name": "Bastioned",
+    "Region": 1,
+    "Strength": 5,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "maxHP"
+    ]
+  },
+  "5": {
+    "Id": "5",
+    "Name": "Enduring",
+    "Region": 1,
+    "Strength": 4,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      [
+        4,
+        4
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "mdef"
+    ]
+  },
+  "52": {
+    "Id": "52",
+    "Name": "Searing",
+    "Region": 2,
+    "Strength": 22,
+    "SlotStatsValues": [
+      [
+        14,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "crit"
+    ]
+  },
+  "53": {
+    "Id": "53",
+    "Name": "Scorching",
+    "Region": 2,
+    "Strength": 15,
+    "SlotStatsValues": [
+      [
+        10,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "critMod"
+    ]
+  },
+  "54": {
+    "Id": "54",
+    "Name": "Sturdy",
+    "Region": 2,
+    "Strength": 20,
+    "SlotStatsValues": [
+      null,
+      [
+        6,
+        24
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        12,
+        24
+      ],
+      [
+        12,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "55": {
+    "Id": "55",
+    "Name": "Bastioned",
+    "Region": 2,
+    "Strength": 16,
+    "SlotStatsValues": [
+      null,
+      [
+        6,
+        24
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        12,
+        24
+      ],
+      [
+        12,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "maxHP"
+    ]
+  },
+  "56": {
+    "Id": "56",
+    "Name": "Enduring",
+    "Region": 2,
+    "Strength": 19,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      [
+        12,
+        12
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "mdef"
+    ]
+  },
+  "57": {
+    "Id": "57",
+    "Name": "Searing",
+    "Region": 2,
+    "Strength": 15,
+    "SlotStatsValues": [
+      [
+        14,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "crit"
+    ]
+  },
+  "58": {
+    "Id": "58",
+    "Name": "Sharp",
+    "Region": 2,
+    "Strength": 17,
+    "SlotStatsValues": [
+      [
+        4,
+        10
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "atk"
+    ]
+  },
+  "59": {
+    "Id": "59",
+    "Name": "Perceptive",
+    "Region": 2,
+    "Strength": 15,
+    "SlotStatsValues": [
+      [
+        4,
+        10
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "matk"
+    ]
+  },
+  "6": {
+    "Id": "6",
+    "Name": "Searing",
+    "Region": 1,
+    "Strength": 13,
+    "SlotStatsValues": [
+      [
+        6,
+        3
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "crit"
+    ]
+  },
+  "60": {
+    "Id": "60",
+    "Name": "Subzero",
+    "Region": 2,
+    "Strength": 18,
+    "SlotStatsValues": [
+      [
+        10,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "61": {
+    "Id": "61",
+    "Name": "Artic",
+    "Region": 2,
+    "Strength": 23,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "critMod"
+    ]
+  },
+  "62": {
+    "Id": "62",
+    "Name": "Subzero",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      [
+        10,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "63": {
+    "Id": "63",
+    "Name": "Hesitant",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      null,
+      [
+        6,
+        24
+      ],
+      [
+        12,
+        24
+      ],
+      [
+        6,
+        24
+      ],
+      [
+        12,
+        24
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "maxHP"
+    ]
+  },
+  "64": {
+    "Id": "64",
+    "Name": "Smoldering",
+    "Region": 2,
+    "Strength": 22,
+    "SlotStatsValues": [
+      null,
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
+  },
+  "65": {
+    "Id": "65",
+    "Name": "Frozen",
+    "Region": 2,
+    "Strength": 23,
+    "SlotStatsValues": [
+      null,
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "66": {
+    "Id": "66",
+    "Name": "Deadly",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      [
+        10,
+        13
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "crit",
+      "critMod"
+    ]
+  },
+  "67": {
+    "Id": "67",
+    "Name": "Vigilant",
+    "Region": 2,
+    "Strength": 17,
+    "SlotStatsValues": [
+      null,
+      [
+        6,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "def"
+    ]
+  },
+  "68": {
+    "Id": "68",
+    "Name": "Illuminated",
+    "Region": 2,
+    "Strength": 17,
+    "SlotStatsValues": [
+      null,
+      [
+        6,
+        6
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        4,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "mdef"
+    ]
+  },
+  "69": {
+    "Id": "69",
+    "Name": "Frozen",
+    "Region": 2,
+    "Strength": 23,
+    "SlotStatsValues": [
+      null,
+      null,
+      [
+        4,
+        3
+      ],
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "7": {
+    "Id": "7",
+    "Name": "Sharp",
+    "Region": 1,
+    "Strength": 4,
+    "SlotStatsValues": [
+      [
+        3,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "atk"
+    ]
+  },
+  "70": {
+    "Id": "70",
+    "Name": "Transcendant",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      [
+        2,
+        14
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "int",
+      "matk"
+    ]
+  },
+  "71": {
+    "Id": "71",
+    "Name": "Blistering",
+    "Region": 2,
+    "Strength": 23,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      [
+        9,
+        -6
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "72": {
+    "Id": "72",
+    "Name": "Arcane",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      null,
+      [
+        2,
+        4
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "int",
+      "acc"
+    ]
+  },
+  "73": {
+    "Id": "73",
+    "Name": "Frosty",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      [
+        14,
+        -3
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "acc"
+    ]
+  },
+  "74": {
+    "Id": "74",
+    "Name": "Recondite",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        -4
+      ],
+      [
+        12,
+        -4
+      ],
+      [
+        18,
+        -4
+      ],
+      [
+        18,
+        -4
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "matk"
+    ]
+  },
+  "75": {
+    "Id": "75",
+    "Name": "Brutish",
+    "Region": 2,
+    "Strength": 20,
+    "SlotStatsValues": [
+      null,
+      [
+        36,
+        -12
+      ],
+      [
+        36,
+        -12
+      ],
+      [
+        48,
+        -18
+      ],
+      [
+        36,
+        -12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "maxHP",
+      "def"
+    ]
+  },
+  "76": {
+    "Id": "76",
+    "Name": "Frigid",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      [
+        35,
+        -8
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "77": {
+    "Id": "77",
+    "Name": "Hasty",
+    "Region": 2,
+    "Strength": 22,
+    "SlotStatsValues": [
+      [
+        16,
+        -3
+      ],
+      [
+        18,
+        -6
+      ],
+      [
+        12,
+        -4
+      ],
+      [
+        12,
+        -4
+      ],
+      [
+        24,
+        -9
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "acc"
+    ]
+  },
+  "78": {
+    "Id": "78",
+    "Name": "Smoldering",
+    "Region": 2,
+    "Strength": 16,
+    "SlotStatsValues": [
+      null,
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        3
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
+  },
+  "79": {
+    "Id": "79",
+    "Name": "Sharp",
+    "Region": 2,
+    "Strength": 18,
+    "SlotStatsValues": [
+      [
+        4,
+        10
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "atk"
+    ]
+  },
+  "8": {
+    "Id": "8",
+    "Name": "Perceptive",
+    "Region": 1,
+    "Strength": 8,
+    "SlotStatsValues": [
+      [
+        3,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "matk"
+    ]
+  },
+  "80": {
+    "Id": "80",
+    "Name": "Sturdy",
+    "Region": 2,
+    "Strength": 25,
+    "SlotStatsValues": [
+      null,
+      [
+        6,
+        24
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        12,
+        24
+      ],
+      [
+        12,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "9": {
+    "Id": "9",
+    "Name": "Subzero",
+    "Region": 1,
+    "Strength": 8,
+    "SlotStatsValues": [
+      [
+        4,
+        3
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "a111": {
+    "Id": "a111",
+    "Name": "acc",
+    "IconOnly": true,
     "BStats": {
-      "crit": 21
-    }
+      "acc": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a112": {
+    "Id": "a112",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a119": {
+    "Id": "a119",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 2
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a11a": {
+    "Id": "a11a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a11d": {
+    "Id": "a11d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a11e": {
+    "Id": "a11e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a11h": {
+    "Id": "a11h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 3
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a11m": {
+    "Id": "a11m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "a121": {
+    "Id": "a121",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a122": {
+    "Id": "a122",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a129": {
+    "Id": "a129",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 3
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a12a": {
+    "Id": "a12a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a12d": {
+    "Id": "a12d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a12e": {
+    "Id": "a12e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a12h": {
+    "Id": "a12h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 6
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a12m": {
+    "Id": "a12m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "a131": {
+    "Id": "a131",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a132": {
+    "Id": "a132",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a139": {
+    "Id": "a139",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a13a": {
+    "Id": "a13a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a13d": {
+    "Id": "a13d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a13e": {
+    "Id": "a13e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a13h": {
+    "Id": "a13h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a13m": {
+    "Id": "a13m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "a141": {
+    "Id": "a141",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a142": {
+    "Id": "a142",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a149": {
+    "Id": "a149",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 5
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a14a": {
+    "Id": "a14a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a14d": {
+    "Id": "a14d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a14e": {
+    "Id": "a14e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a14h": {
+    "Id": "a14h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 18
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a14m": {
+    "Id": "a14m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "a151": {
+    "Id": "a151",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a152": {
+    "Id": "a152",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 8
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a159": {
+    "Id": "a159",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a15a": {
+    "Id": "a15a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a15c": {
+    "Id": "a15c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 1
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a15d": {
+    "Id": "a15d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 8
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a15e": {
+    "Id": "a15e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 8
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a15h": {
+    "Id": "a15h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 24
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a15m": {
+    "Id": "a15m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "a161": {
+    "Id": "a161",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a162": {
+    "Id": "a162",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 10
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a164": {
+    "Id": "a164",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a169": {
+    "Id": "a169",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16a": {
+    "Id": "a16a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16c": {
+    "Id": "a16c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 2
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16d": {
+    "Id": "a16d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 10
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16e": {
+    "Id": "a16e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 10
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16h": {
+    "Id": "a16h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 38
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16i": {
+    "Id": "a16i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16m": {
+    "Id": "a16m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a16s": {
+    "Id": "a16s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "a211": {
+    "Id": "a211",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a212": {
+    "Id": "a212",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a219": {
+    "Id": "a219",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a21a": {
+    "Id": "a21a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a21d": {
+    "Id": "a21d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a21e": {
+    "Id": "a21e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a21h": {
+    "Id": "a21h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 6
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a21m": {
+    "Id": "a21m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "a221": {
+    "Id": "a221",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a222": {
+    "Id": "a222",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a229": {
+    "Id": "a229",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 5
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a22a": {
+    "Id": "a22a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a22d": {
+    "Id": "a22d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a22e": {
+    "Id": "a22e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a22h": {
+    "Id": "a22h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a22m": {
+    "Id": "a22m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "a231": {
+    "Id": "a231",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a232": {
+    "Id": "a232",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 12
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a239": {
+    "Id": "a239",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a23a": {
+    "Id": "a23a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a23c": {
+    "Id": "a23c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 1
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a23d": {
+    "Id": "a23d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 12
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a23e": {
+    "Id": "a23e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 12
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a23h": {
+    "Id": "a23h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 24
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a23m": {
+    "Id": "a23m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "a241": {
+    "Id": "a241",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a242": {
+    "Id": "a242",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 18
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a249": {
+    "Id": "a249",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 8
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a24a": {
+    "Id": "a24a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a24c": {
+    "Id": "a24c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 2
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a24d": {
+    "Id": "a24d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 18
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a24e": {
+    "Id": "a24e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 18
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a24h": {
+    "Id": "a24h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 36
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a24m": {
+    "Id": "a24m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "a251": {
+    "Id": "a251",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a252": {
+    "Id": "a252",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 24
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a254": {
+    "Id": "a254",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a259": {
+    "Id": "a259",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 12
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25a": {
+    "Id": "a25a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25c": {
+    "Id": "a25c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25d": {
+    "Id": "a25d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 24
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25e": {
+    "Id": "a25e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 24
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25h": {
+    "Id": "a25h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 48
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25i": {
+    "Id": "a25i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25m": {
+    "Id": "a25m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a25s": {
+    "Id": "a25s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "a261": {
+    "Id": "a261",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a262": {
+    "Id": "a262",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 30
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a264": {
+    "Id": "a264",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a269": {
+    "Id": "a269",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 15
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26a": {
+    "Id": "a26a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26c": {
+    "Id": "a26c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26d": {
+    "Id": "a26d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 30
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26e": {
+    "Id": "a26e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 30
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26h": {
+    "Id": "a26h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 75
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26i": {
+    "Id": "a26i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26m": {
+    "Id": "a26m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a26s": {
+    "Id": "a26s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "a311": {
+    "Id": "a311",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 5
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a312": {
+    "Id": "a312",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a319": {
+    "Id": "a319",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 4
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a31a": {
+    "Id": "a31a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 5
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a31c": {
+    "Id": "a31c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a31d": {
+    "Id": "a31d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a31e": {
+    "Id": "a31e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a31h": {
+    "Id": "a31h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a31m": {
+    "Id": "a31m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 5
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "a321": {
+    "Id": "a321",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a322": {
+    "Id": "a322",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 12
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a329": {
+    "Id": "a329",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 6
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a32a": {
+    "Id": "a32a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a32c": {
+    "Id": "a32c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a32d": {
+    "Id": "a32d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 12
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a32e": {
+    "Id": "a32e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 12
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a32h": {
+    "Id": "a32h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 24
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a32m": {
+    "Id": "a32m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "a331": {
+    "Id": "a331",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 15
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a332": {
+    "Id": "a332",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 18
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a339": {
+    "Id": "a339",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 9
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a33a": {
+    "Id": "a33a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 15
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a33c": {
+    "Id": "a33c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a33d": {
+    "Id": "a33d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 18
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a33e": {
+    "Id": "a33e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 18
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a33h": {
+    "Id": "a33h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 50
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a33m": {
+    "Id": "a33m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 15
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "a341": {
+    "Id": "a341",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 21
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a342": {
+    "Id": "a342",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 27
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a349": {
+    "Id": "a349",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 12
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a34a": {
+    "Id": "a34a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 21
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a34c": {
+    "Id": "a34c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 5
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a34d": {
+    "Id": "a34d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 27
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a34e": {
+    "Id": "a34e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 27
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a34h": {
+    "Id": "a34h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 75
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a34m": {
+    "Id": "a34m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 21
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "a351": {
+    "Id": "a351",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 33
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a352": {
+    "Id": "a352",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 39
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a354": {
+    "Id": "a354",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a359": {
+    "Id": "a359",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 15
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35a": {
+    "Id": "a35a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 33
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35c": {
+    "Id": "a35c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 6
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35d": {
+    "Id": "a35d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 39
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35e": {
+    "Id": "a35e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 39
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35h": {
+    "Id": "a35h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 100
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35i": {
+    "Id": "a35i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35m": {
+    "Id": "a35m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 33
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a35s": {
+    "Id": "a35s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "a361": {
+    "Id": "a361",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 53
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a362": {
+    "Id": "a362",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 54
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a364": {
+    "Id": "a364",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 2
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a369": {
+    "Id": "a369",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 20
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36a": {
+    "Id": "a36a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 53
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36c": {
+    "Id": "a36c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 8
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36d": {
+    "Id": "a36d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 54
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36e": {
+    "Id": "a36e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 54
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36h": {
+    "Id": "a36h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 150
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36i": {
+    "Id": "a36i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 2
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36m": {
+    "Id": "a36m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 53
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "a36s": {
+    "Id": "a36s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 2
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t111": {
+    "Id": "t111",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t112": {
+    "Id": "t112",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t119": {
+    "Id": "t119",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 2
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t11a": {
+    "Id": "t11a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t11c": {
+    "Id": "t11c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t11d": {
+    "Id": "t11d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t11e": {
+    "Id": "t11e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t11h": {
+    "Id": "t11h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 3
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t11m": {
+    "Id": "t11m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "t121": {
+    "Id": "t121",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t122": {
+    "Id": "t122",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t129": {
+    "Id": "t129",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 3
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t12a": {
+    "Id": "t12a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t12c": {
+    "Id": "t12c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t12d": {
+    "Id": "t12d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t12e": {
+    "Id": "t12e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t12h": {
+    "Id": "t12h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 6
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t12m": {
+    "Id": "t12m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "t131": {
+    "Id": "t131",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t132": {
+    "Id": "t132",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t139": {
+    "Id": "t139",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t13a": {
+    "Id": "t13a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t13c": {
+    "Id": "t13c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t13d": {
+    "Id": "t13d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t13e": {
+    "Id": "t13e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t13h": {
+    "Id": "t13h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t13m": {
+    "Id": "t13m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "t141": {
+    "Id": "t141",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t142": {
+    "Id": "t142",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t149": {
+    "Id": "t149",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 5
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t14a": {
+    "Id": "t14a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t14c": {
+    "Id": "t14c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t14d": {
+    "Id": "t14d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t14e": {
+    "Id": "t14e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t14h": {
+    "Id": "t14h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 18
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t14m": {
+    "Id": "t14m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "t151": {
+    "Id": "t151",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t152": {
+    "Id": "t152",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 8
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t159": {
+    "Id": "t159",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t15a": {
+    "Id": "t15a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t15c": {
+    "Id": "t15c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 5
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t15d": {
+    "Id": "t15d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 8
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t15e": {
+    "Id": "t15e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 8
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t15h": {
+    "Id": "t15h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 24
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t15m": {
+    "Id": "t15m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "t161": {
+    "Id": "t161",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t162": {
+    "Id": "t162",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 10
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t169": {
+    "Id": "t169",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t16a": {
+    "Id": "t16a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t16c": {
+    "Id": "t16c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 6
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t16d": {
+    "Id": "t16d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 10
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t16e": {
+    "Id": "t16e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 10
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t16h": {
+    "Id": "t16h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 38
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t16m": {
+    "Id": "t16m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "t211": {
+    "Id": "t211",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t212": {
+    "Id": "t212",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t219": {
+    "Id": "t219",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t21a": {
+    "Id": "t21a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t21c": {
+    "Id": "t21c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t21d": {
+    "Id": "t21d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t21e": {
+    "Id": "t21e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t21h": {
+    "Id": "t21h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 6
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t21m": {
+    "Id": "t21m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "t221": {
+    "Id": "t221",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t222": {
+    "Id": "t222",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t229": {
+    "Id": "t229",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 5
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t22a": {
+    "Id": "t22a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t22c": {
+    "Id": "t22c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t22d": {
+    "Id": "t22d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t22e": {
+    "Id": "t22e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t22h": {
+    "Id": "t22h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t22m": {
+    "Id": "t22m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "t231": {
+    "Id": "t231",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t232": {
+    "Id": "t232",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 12
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t239": {
+    "Id": "t239",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t23a": {
+    "Id": "t23a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t23c": {
+    "Id": "t23c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t23d": {
+    "Id": "t23d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 12
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t23e": {
+    "Id": "t23e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 12
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t23h": {
+    "Id": "t23h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 24
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t23m": {
+    "Id": "t23m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "t241": {
+    "Id": "t241",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t242": {
+    "Id": "t242",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 18
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t249": {
+    "Id": "t249",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 8
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t24a": {
+    "Id": "t24a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t24c": {
+    "Id": "t24c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 5
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t24d": {
+    "Id": "t24d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 18
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t24e": {
+    "Id": "t24e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 18
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t24h": {
+    "Id": "t24h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 36
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t24m": {
+    "Id": "t24m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "t251": {
+    "Id": "t251",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t252": {
+    "Id": "t252",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 24
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t254": {
+    "Id": "t254",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t259": {
+    "Id": "t259",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 12
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25a": {
+    "Id": "t25a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25c": {
+    "Id": "t25c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 6
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25d": {
+    "Id": "t25d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 24
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25e": {
+    "Id": "t25e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 24
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25h": {
+    "Id": "t25h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 48
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25i": {
+    "Id": "t25i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25m": {
+    "Id": "t25m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t25s": {
+    "Id": "t25s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "t261": {
+    "Id": "t261",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t262": {
+    "Id": "t262",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 30
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t264": {
+    "Id": "t264",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t269": {
+    "Id": "t269",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 15
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26a": {
+    "Id": "t26a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26c": {
+    "Id": "t26c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 8
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26d": {
+    "Id": "t26d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 30
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26e": {
+    "Id": "t26e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 30
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26h": {
+    "Id": "t26h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 75
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26i": {
+    "Id": "t26i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26m": {
+    "Id": "t26m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t26s": {
+    "Id": "t26s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "t311": {
+    "Id": "t311",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 5
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t312": {
+    "Id": "t312",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t319": {
+    "Id": "t319",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 4
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t31a": {
+    "Id": "t31a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 5
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t31c": {
+    "Id": "t31c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t31d": {
+    "Id": "t31d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t31e": {
+    "Id": "t31e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t31h": {
+    "Id": "t31h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 4
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t31m": {
+    "Id": "t31m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 5
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "t321": {
+    "Id": "t321",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t322": {
+    "Id": "t322",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 12
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t329": {
+    "Id": "t329",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 6
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t32a": {
+    "Id": "t32a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t32c": {
+    "Id": "t32c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t32d": {
+    "Id": "t32d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 12
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t32e": {
+    "Id": "t32e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 12
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t32h": {
+    "Id": "t32h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 6
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t32m": {
+    "Id": "t32m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "t331": {
+    "Id": "t331",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 15
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t332": {
+    "Id": "t332",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 18
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t334": {
+    "Id": "t334",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t339": {
+    "Id": "t339",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 9
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33a": {
+    "Id": "t33a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 15
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33c": {
+    "Id": "t33c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33d": {
+    "Id": "t33d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 18
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33e": {
+    "Id": "t33e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 18
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33h": {
+    "Id": "t33h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 8
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33i": {
+    "Id": "t33i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33m": {
+    "Id": "t33m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 15
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t33s": {
+    "Id": "t33s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "t341": {
+    "Id": "t341",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 21
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t342": {
+    "Id": "t342",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 27
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t344": {
+    "Id": "t344",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 2
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t349": {
+    "Id": "t349",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 12
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34a": {
+    "Id": "t34a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 21
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34c": {
+    "Id": "t34c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 5
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34d": {
+    "Id": "t34d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 27
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34e": {
+    "Id": "t34e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 27
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34h": {
+    "Id": "t34h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34i": {
+    "Id": "t34i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 2
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34m": {
+    "Id": "t34m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 21
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t34s": {
+    "Id": "t34s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 2
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "t351": {
+    "Id": "t351",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 33
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t352": {
+    "Id": "t352",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 39
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t354": {
+    "Id": "t354",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 3
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t359": {
+    "Id": "t359",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 15
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35a": {
+    "Id": "t35a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 33
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35c": {
+    "Id": "t35c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 6
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35d": {
+    "Id": "t35d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 39
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35e": {
+    "Id": "t35e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 39
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35h": {
+    "Id": "t35h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 14
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35i": {
+    "Id": "t35i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 3
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35m": {
+    "Id": "t35m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 33
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t35s": {
+    "Id": "t35s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 3
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "t361": {
+    "Id": "t361",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 53
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t362": {
+    "Id": "t362",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 54
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t364": {
+    "Id": "t364",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 4
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t369": {
+    "Id": "t369",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 20
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36a": {
+    "Id": "t36a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 53
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36c": {
+    "Id": "t36c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 8
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36d": {
+    "Id": "t36d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 54
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36e": {
+    "Id": "t36e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 54
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36h": {
+    "Id": "t36h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 20
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36i": {
+    "Id": "t36i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 4
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36m": {
+    "Id": "t36m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 53
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "t36s": {
+    "Id": "t36s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 4
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w111": {
+    "Id": "w111",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w112": {
+    "Id": "w112",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w119": {
+    "Id": "w119",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 2
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w11a": {
+    "Id": "w11a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w11c": {
+    "Id": "w11c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w11d": {
+    "Id": "w11d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w11e": {
+    "Id": "w11e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w11h": {
+    "Id": "w11h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 2
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w11m": {
+    "Id": "w11m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 1
+    },
+    "Region": 1,
+    "Strength": 1
+  },
+  "w121": {
+    "Id": "w121",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w122": {
+    "Id": "w122",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w129": {
+    "Id": "w129",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 3
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w12a": {
+    "Id": "w12a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w12c": {
+    "Id": "w12c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w12d": {
+    "Id": "w12d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w12e": {
+    "Id": "w12e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w12h": {
+    "Id": "w12h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 4
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w12m": {
+    "Id": "w12m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 2
+    },
+    "Region": 1,
+    "Strength": 2
+  },
+  "w131": {
+    "Id": "w131",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w132": {
+    "Id": "w132",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w139": {
+    "Id": "w139",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w13a": {
+    "Id": "w13a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w13c": {
+    "Id": "w13c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w13d": {
+    "Id": "w13d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w13e": {
+    "Id": "w13e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 3
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w13h": {
+    "Id": "w13h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 8
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w13m": {
+    "Id": "w13m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 4
+    },
+    "Region": 1,
+    "Strength": 3
+  },
+  "w141": {
+    "Id": "w141",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w142": {
+    "Id": "w142",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w149": {
+    "Id": "w149",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 5
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w14a": {
+    "Id": "w14a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w14c": {
+    "Id": "w14c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w14d": {
+    "Id": "w14d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w14e": {
+    "Id": "w14e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 4
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w14h": {
+    "Id": "w14h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w14m": {
+    "Id": "w14m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 6
+    },
+    "Region": 1,
+    "Strength": 4
+  },
+  "w151": {
+    "Id": "w151",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 10
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w152": {
+    "Id": "w152",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w159": {
+    "Id": "w159",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 8
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w15a": {
+    "Id": "w15a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 10
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w15c": {
+    "Id": "w15c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 5
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w15d": {
+    "Id": "w15d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w15e": {
+    "Id": "w15e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w15h": {
+    "Id": "w15h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 18
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w15m": {
+    "Id": "w15m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 10
+    },
+    "Region": 1,
+    "Strength": 5
+  },
+  "w161": {
+    "Id": "w161",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 16
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w162": {
+    "Id": "w162",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w164": {
+    "Id": "w164",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w169": {
+    "Id": "w169",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 10
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16a": {
+    "Id": "w16a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 16
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16c": {
+    "Id": "w16c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 6
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16d": {
+    "Id": "w16d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16e": {
+    "Id": "w16e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 8
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16h": {
+    "Id": "w16h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 25
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16i": {
+    "Id": "w16i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16m": {
+    "Id": "w16m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 16
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w16s": {
+    "Id": "w16s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 1,
+    "Strength": 6
+  },
+  "w211": {
+    "Id": "w211",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w212": {
+    "Id": "w212",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w219": {
+    "Id": "w219",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 4
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w21a": {
+    "Id": "w21a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w21c": {
+    "Id": "w21c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w21d": {
+    "Id": "w21d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w21e": {
+    "Id": "w21e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 2
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w21h": {
+    "Id": "w21h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 4
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w21m": {
+    "Id": "w21m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 3
+    },
+    "Region": 2,
+    "Strength": 1
+  },
+  "w221": {
+    "Id": "w221",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 5
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w222": {
+    "Id": "w222",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w229": {
+    "Id": "w229",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 6
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w22a": {
+    "Id": "w22a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 5
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w22c": {
+    "Id": "w22c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w22d": {
+    "Id": "w22d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w22e": {
+    "Id": "w22e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 4
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w22h": {
+    "Id": "w22h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 8
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w22m": {
+    "Id": "w22m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 5
+    },
+    "Region": 2,
+    "Strength": 2
+  },
+  "w231": {
+    "Id": "w231",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 10
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w232": {
+    "Id": "w232",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w239": {
+    "Id": "w239",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 8
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w23a": {
+    "Id": "w23a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 10
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w23c": {
+    "Id": "w23c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w23d": {
+    "Id": "w23d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w23e": {
+    "Id": "w23e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 6
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w23h": {
+    "Id": "w23h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 16
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w23m": {
+    "Id": "w23m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 10
+    },
+    "Region": 2,
+    "Strength": 3
+  },
+  "w241": {
+    "Id": "w241",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 14
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w242": {
+    "Id": "w242",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w249": {
+    "Id": "w249",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 10
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w24a": {
+    "Id": "w24a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 14
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w24c": {
+    "Id": "w24c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 5
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w24d": {
+    "Id": "w24d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w24e": {
+    "Id": "w24e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 9
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w24h": {
+    "Id": "w24h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 24
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w24m": {
+    "Id": "w24m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 14
+    },
+    "Region": 2,
+    "Strength": 4
+  },
+  "w251": {
+    "Id": "w251",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 22
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w252": {
+    "Id": "w252",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w254": {
+    "Id": "w254",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w259": {
+    "Id": "w259",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 15
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25a": {
+    "Id": "w25a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 22
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25c": {
+    "Id": "w25c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 6
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25d": {
+    "Id": "w25d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25e": {
+    "Id": "w25e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 13
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25h": {
+    "Id": "w25h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 36
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25i": {
+    "Id": "w25i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25m": {
+    "Id": "w25m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 22
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w25s": {
+    "Id": "w25s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 2,
+    "Strength": 5
+  },
+  "w261": {
+    "Id": "w261",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 35
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w262": {
+    "Id": "w262",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w264": {
+    "Id": "w264",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w269": {
+    "Id": "w269",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26a": {
+    "Id": "w26a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 35
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26c": {
+    "Id": "w26c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 8
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26d": {
+    "Id": "w26d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26e": {
+    "Id": "w26e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 18
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26h": {
+    "Id": "w26h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 50
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26i": {
+    "Id": "w26i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26m": {
+    "Id": "w26m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 35
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w26s": {
+    "Id": "w26s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 2
+    },
+    "Region": 2,
+    "Strength": 6
+  },
+  "w311": {
+    "Id": "w311",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w312": {
+    "Id": "w312",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 4
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w319": {
+    "Id": "w319",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 5
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w31a": {
+    "Id": "w31a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w31c": {
+    "Id": "w31c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 3
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w31d": {
+    "Id": "w31d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 4
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w31e": {
+    "Id": "w31e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 4
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w31h": {
+    "Id": "w31h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 8
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w31m": {
+    "Id": "w31m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 6
+    },
+    "Region": 3,
+    "Strength": 1
+  },
+  "w321": {
+    "Id": "w321",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 10
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w322": {
+    "Id": "w322",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w329": {
+    "Id": "w329",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w32a": {
+    "Id": "w32a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 10
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w32c": {
+    "Id": "w32c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 4
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w32d": {
+    "Id": "w32d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w32e": {
+    "Id": "w32e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 8
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w32h": {
+    "Id": "w32h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 16
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w32m": {
+    "Id": "w32m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 10
+    },
+    "Region": 3,
+    "Strength": 2
+  },
+  "w331": {
+    "Id": "w331",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 20
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w332": {
+    "Id": "w332",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 12
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w339": {
+    "Id": "w339",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 12
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w33a": {
+    "Id": "w33a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 20
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w33c": {
+    "Id": "w33c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 5
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w33d": {
+    "Id": "w33d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 12
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w33e": {
+    "Id": "w33e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 12
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w33h": {
+    "Id": "w33h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 32
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w33m": {
+    "Id": "w33m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 20
+    },
+    "Region": 3,
+    "Strength": 3
+  },
+  "w341": {
+    "Id": "w341",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 28
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w342": {
+    "Id": "w342",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 18
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w344": {
+    "Id": "w344",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 1
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w349": {
+    "Id": "w349",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 16
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34a": {
+    "Id": "w34a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 28
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34c": {
+    "Id": "w34c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 6
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34d": {
+    "Id": "w34d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 18
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34e": {
+    "Id": "w34e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 18
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34h": {
+    "Id": "w34h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 48
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34i": {
+    "Id": "w34i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 1
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34m": {
+    "Id": "w34m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 28
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w34s": {
+    "Id": "w34s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 1
+    },
+    "Region": 3,
+    "Strength": 4
+  },
+  "w351": {
+    "Id": "w351",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 44
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w352": {
+    "Id": "w352",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 26
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w354": {
+    "Id": "w354",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 2
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w359": {
+    "Id": "w359",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 20
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35a": {
+    "Id": "w35a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 44
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35c": {
+    "Id": "w35c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 7
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35d": {
+    "Id": "w35d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 26
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35e": {
+    "Id": "w35e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 26
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35h": {
+    "Id": "w35h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 70
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35i": {
+    "Id": "w35i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 2
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35m": {
+    "Id": "w35m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 44
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w35s": {
+    "Id": "w35s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 2
+    },
+    "Region": 3,
+    "Strength": 5
+  },
+  "w361": {
+    "Id": "w361",
+    "Name": "acc",
+    "IconOnly": true,
+    "BStats": {
+      "acc": 70
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w362": {
+    "Id": "w362",
+    "Name": "mdef",
+    "IconOnly": true,
+    "BStats": {
+      "mdef": 36
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w364": {
+    "Id": "w364",
+    "Name": "dex",
+    "IconOnly": true,
+    "BStats": {
+      "dex": 3
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w369": {
+    "Id": "w369",
+    "Name": "critMod",
+    "IconOnly": true,
+    "BStats": {
+      "critMod": 26
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36a": {
+    "Id": "w36a",
+    "Name": "atk",
+    "IconOnly": true,
+    "BStats": {
+      "atk": 70
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36c": {
+    "Id": "w36c",
+    "Name": "crit",
+    "IconOnly": true,
+    "BStats": {
+      "crit": 10
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36d": {
+    "Id": "w36d",
+    "Name": "def",
+    "IconOnly": true,
+    "BStats": {
+      "def": 36
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36e": {
+    "Id": "w36e",
+    "Name": "eva",
+    "IconOnly": true,
+    "BStats": {
+      "eva": 36
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36h": {
+    "Id": "w36h",
+    "Name": "maxHP",
+    "IconOnly": true,
+    "BStats": {
+      "maxHP": 100
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36i": {
+    "Id": "w36i",
+    "Name": "int",
+    "IconOnly": true,
+    "BStats": {
+      "int": 3
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36m": {
+    "Id": "w36m",
+    "Name": "matk",
+    "IconOnly": true,
+    "BStats": {
+      "matk": 70
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "w36s": {
+    "Id": "w36s",
+    "Name": "str",
+    "IconOnly": true,
+    "BStats": {
+      "str": 3
+    },
+    "Region": 3,
+    "Strength": 6
+  },
+  "100": {
+    "Id": "100",
+    "Name": "Rough",
+    "Region": 3,
+    "Strength": 26,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "atk"
+    ]
+  },
+  "101": {
+    "Id": "101",
+    "Name": "Discreet",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        48,
+        12
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "crit"
+    ]
+  },
+  "102": {
+    "Id": "102",
+    "Name": "Hesitant",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        16,
+        4
+      ],
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        50
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "maxHP"
+    ]
+  },
+  "103": {
+    "Id": "103",
+    "Name": "Frozen",
+    "Region": 3,
+    "Strength": 26,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "104": {
+    "Id": "104",
+    "Name": "Sturdy",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "105": {
+    "Id": "105",
+    "Name": "Bastioned",
+    "Region": 3,
+    "Strength": 29,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "maxHP"
+    ]
+  },
+  "106": {
+    "Id": "106",
+    "Name": "Scorching",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      [
+        20,
+        12
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "critMod"
+    ]
+  },
+  "107": {
+    "Id": "107",
+    "Name": "Shivery",
+    "Region": 3,
+    "Strength": 32,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "acc"
+    ]
+  },
+  "108": {
+    "Id": "108",
+    "Name": "Enduring",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "mdef"
+    ]
+  },
+  "109": {
+    "Id": "109",
+    "Name": "Powerful",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      [
+        3,
+        18
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "critMod"
+    ]
+  },
+  "110": {
+    "Id": "110",
+    "Name": "Mystical",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      [
+        3,
+        12
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "int",
+      "mdef"
+    ]
+  },
+  "111": {
+    "Id": "111",
+    "Name": "Torrid",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "acc"
+    ]
+  },
+  "112": {
+    "Id": "112",
+    "Name": "Searing",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        28,
+        8
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "crit"
+    ]
+  },
+  "113": {
+    "Id": "113",
+    "Name": "Hurculean",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        5,
+        70
+      ],
+      null,
+      null,
+      [
+        2,
+        8
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "atk"
+    ]
+  },
+  "114": {
+    "Id": "114",
+    "Name": "Unstoppable",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      null,
+      [
+        1,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "def"
+    ]
+  },
+  "115": {
+    "Id": "115",
+    "Name": "Hasty",
+    "Region": 3,
+    "Strength": 25,
+    "SlotStatsValues": [
+      [
+        16,
+        10
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "atk"
+    ]
+  },
+  "116": {
+    "Id": "116",
+    "Name": "Combustible",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "maxHP"
+    ]
+  },
+  "117": {
+    "Id": "117",
+    "Name": "Sultry",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        6,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "matk"
+    ]
+  },
+  "118": {
+    "Id": "118",
+    "Name": "Shivery",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "acc"
+    ]
+  },
+  "119": {
+    "Id": "119",
+    "Name": "Enduring",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        8,
+        8
+      ],
+      [
+        12,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "mdef"
+    ]
+  },
+  "120": {
+    "Id": "120",
+    "Name": "Snappy",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      null,
+      [
+        18,
+        21
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "acc"
+    ]
+  },
+  "121": {
+    "Id": "121",
+    "Name": "Subzero",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "122": {
+    "Id": "122",
+    "Name": "Artic",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "critMod"
+    ]
+  },
+  "123": {
+    "Id": "123",
+    "Name": "Perceptive",
+    "Region": 3,
+    "Strength": 29,
+    "SlotStatsValues": [
+      [
+        5,
+        20
+      ],
+      [
+        15,
+        5
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "matk"
+    ]
+  },
+  "124": {
+    "Id": "124",
+    "Name": "Warded",
+    "Region": 3,
+    "Strength": 29,
+    "SlotStatsValues": [
+      [
+        4,
+        3
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "acc"
+    ]
+  },
+  "125": {
+    "Id": "125",
+    "Name": "Frozen",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "126": {
+    "Id": "126",
+    "Name": "Arcane",
+    "Region": 3,
+    "Strength": 34,
+    "SlotStatsValues": [
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "int",
+      "acc"
+    ]
+  },
+  "127": {
+    "Id": "127",
+    "Name": "Stalwart",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        3,
+        1
+      ],
+      null,
+      null,
+      [
+        5,
+        2
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "int"
+    ]
+  },
+  "128": {
+    "Id": "128",
+    "Name": "Steamy",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        28,
+        -4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "acc"
+    ]
+  },
+  "129": {
+    "Id": "129",
+    "Name": "Frosty",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        28,
+        -4
+      ],
+      [
+        21,
+        -15
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "acc"
+    ]
+  },
+  "130": {
+    "Id": "130",
+    "Name": "Barbaric",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -2
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "int"
+    ]
+  },
+  "131": {
+    "Id": "131",
+    "Name": "Brutish",
+    "Region": 3,
+    "Strength": 32,
+    "SlotStatsValues": [
+      null,
+      [
+        75,
+        -18
+      ],
+      [
+        75,
+        -18
+      ],
+      [
+        100,
+        -27
+      ],
+      [
+        75,
+        -18
+      ],
+      null
+    ],
+    "SlotStats": [
+      "maxHP",
+      "def"
+    ]
+  },
+  "132": {
+    "Id": "132",
+    "Name": "Brisk",
+    "Region": 3,
+    "Strength": 26,
+    "SlotStatsValues": [
+      null,
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "def"
+    ]
+  },
+  "133": {
+    "Id": "133",
+    "Name": "Heavy",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      null,
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      [
+        27,
+        -12
+      ],
+      [
+        12,
+        -54
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "eva"
+    ]
+  },
+  "134": {
+    "Id": "134",
+    "Name": "Rigid",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      [
+        12,
+        -50
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "135": {
+    "Id": "135",
+    "Name": "Blazing",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        70,
+        -70
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "matk"
+    ]
+  },
+  "136": {
+    "Id": "136",
+    "Name": "Primitive",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      null,
+      [
+        75,
+        -18
+      ],
+      [
+        75,
+        -18
+      ],
+      [
+        100,
+        -27
+      ],
+      [
+        75,
+        -18
+      ],
+      null
+    ],
+    "SlotStats": [
+      "maxHP",
+      "mdef"
+    ]
+  },
+  "137": {
+    "Id": "137",
+    "Name": "Hasty",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      null,
+      [
+        27,
+        -15
+      ],
+      [
+        18,
+        -8
+      ],
+      [
+        18,
+        -8
+      ],
+      [
+        39,
+        -21
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "acc"
+    ]
+  },
+  "138": {
+    "Id": "138",
+    "Name": "Molten",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        10,
+        -4
+      ],
+      [
+        8,
+        -12
+      ],
+      [
+        8,
+        -12
+      ],
+      [
+        8,
+        -12
+      ],
+      [
+        8,
+        -12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
+  },
+  "139": {
+    "Id": "139",
+    "Name": "Sodered",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        28,
+        -16
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "crit"
+    ]
+  },
+  "140": {
+    "Id": "140",
+    "Name": "Rapid",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      null,
+      [
+        2,
+        54
+      ],
+      null
+    ],
+    "SlotStats": [
+      "dex",
+      "eva"
+    ]
+  },
+  "141": {
+    "Id": "141",
+    "Name": "Torrid",
+    "Region": 3,
+    "Strength": 23,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "acc"
+    ]
+  },
+  "142": {
+    "Id": "142",
+    "Name": "Combustible",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "maxHP"
+    ]
+  },
+  "143": {
+    "Id": "143",
+    "Name": "Artic",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "critMod"
+    ]
+  },
+  "144": {
+    "Id": "144",
+    "Name": "Bastioned",
+    "Region": 3,
+    "Strength": 24,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "maxHP"
+    ]
+  },
+  "98": {
+    "Id": "98",
+    "Name": "Bulwarked",
+    "Region": 3,
+    "Strength": 24,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "matk"
+    ]
+  },
+  "99": {
+    "Id": "99",
+    "Name": "Smoldering",
+    "Region": 3,
+    "Strength": 24,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
   }
 }

@@ -5,9 +5,6 @@
     "SubType": "Soup",
     "ItemLevel": 1,
     "Value": 8,
-    "Desc1": "The bare minimum sustinance",
-    "Desc2": "",
-    "Image": "Eatable-Region1-Forest_Gruel",
     "Rarity": 1,
     "Region": 1,
     "CrafterID": 6,
@@ -34,15 +31,12 @@
     "Name": "Hearty Tuvale Soup",
     "SubType": "Soup",
     "ItemLevel": 8,
-    "Value": 138,
-    "Desc1": "A hearty meal for a cold day",
-    "Desc2": "",
-    "Image": "Eatable-Region1-Hearty_Tuvale_Soup",
+    "Value": 141,
     "Rarity": 3,
     "Region": 1,
     "CrafterID": 6,
     "Time": 45,
-    "Exp": 242,
+    "Exp": 243,
     "Recipe": [
       {
         "Id": "16",
@@ -60,7 +54,7 @@
         "Type": 2
       }
     ],
-    "Cost": 47,
+    "Cost": 48,
     "StatNameA": "heal",
     "StatValueA": 150
   },
@@ -70,9 +64,6 @@
     "SubType": "Drink",
     "ItemLevel": 2,
     "Value": 125,
-    "Desc1": "Add a little bit of spice",
-    "Desc2": "",
-    "Image": "Eatable-Region1-Ginger_Ale",
     "Rarity": 2,
     "Region": 1,
     "CrafterID": 6,
@@ -100,9 +91,6 @@
     "SubType": "Food",
     "ItemLevel": 3,
     "Value": 202,
-    "Desc1": "Would go great with a sugary frozen",
-    "Desc2": "treat...",
-    "Image": "Eatable-Region1-Apple_Pie",
     "Rarity": 2,
     "Region": 1,
     "CrafterID": 6,
@@ -135,9 +123,6 @@
     "SubType": "Drink",
     "ItemLevel": 10,
     "Value": 377,
-    "Desc1": "This is greeeeeat",
-    "Desc2": "",
-    "Image": "Eatable-Region1-Groks_Mead",
     "Rarity": 3,
     "Region": 1,
     "CrafterID": 6,
@@ -170,9 +155,6 @@
     "SubType": "Food",
     "ItemLevel": 5,
     "Value": 166,
-    "Desc1": "I love grilling",
-    "Desc2": "",
-    "Image": "Eatable-Region1-Mushroom_Skewer",
     "Rarity": 2,
     "Region": 1,
     "CrafterID": 6,
@@ -205,9 +187,6 @@
     "SubType": "Food",
     "ItemLevel": 9,
     "Value": 321,
-    "Desc1": "A well-rounded meal",
-    "Desc2": "",
-    "Image": "Eatable-Region1-Bear_Steak_Dinner",
     "Rarity": 3,
     "Region": 1,
     "CrafterID": 6,
@@ -240,9 +219,6 @@
     "SubType": "Soup",
     "ItemLevel": 10,
     "Value": 162,
-    "Desc1": "Smells fishy",
-    "Desc2": "",
-    "Image": "Eatable-Region2-Coastal_Chow",
     "Rarity": 1,
     "Region": 2,
     "CrafterID": 6,
@@ -270,9 +246,6 @@
     "SubType": "Food",
     "ItemLevel": 12,
     "Value": 753,
-    "Desc1": "Great when warmed over a fire",
-    "Desc2": "",
-    "Image": "Eatable-Region2-Sea_Salt_Brownie",
     "Rarity": 1,
     "Region": 2,
     "CrafterID": 6,
@@ -305,9 +278,6 @@
     "SubType": "Food",
     "ItemLevel": 17,
     "Value": 850,
-    "Desc1": "The staple Yarsol cousine",
-    "Desc2": "",
-    "Image": "Eatable-Region2-Crab_Onigiri",
     "Rarity": 2,
     "Region": 2,
     "CrafterID": 6,
@@ -340,9 +310,6 @@
     "SubType": "Drink",
     "ItemLevel": 15,
     "Value": 638,
-    "Desc1": "May contain chunks of sponge",
-    "Desc2": "",
-    "Image": "Eatable-Region2-Coconapple_Colada",
     "Rarity": 2,
     "Region": 2,
     "CrafterID": 6,
@@ -375,9 +342,6 @@
     "SubType": "Food",
     "ItemLevel": 19,
     "Value": 828,
-    "Desc1": "Very zesty",
-    "Desc2": "",
-    "Image": "Eatable-Region2-Fried_Rice",
     "Rarity": 3,
     "Region": 2,
     "CrafterID": 6,
@@ -410,9 +374,6 @@
     "SubType": "Food",
     "ItemLevel": 18,
     "Value": 919,
-    "Desc1": "Would go great with some Gazpacho or Kimchi",
-    "Desc2": "",
-    "Image": "Eatable-Region2-Clam_Chowder",
     "Rarity": 2,
     "Region": 2,
     "CrafterID": 6,
@@ -444,15 +405,12 @@
     "Name": "Grenouille Stir Fry",
     "SubType": "Food",
     "ItemLevel": 20,
-    "Value": 975,
-    "Desc1": "Makes one feel strong!",
-    "Desc2": "",
-    "Image": "Eatable-Region2-Grenouille_Stir_Fry",
-    "Rarity": 3,
+    "Value": 1032,
+    "Rarity": 4,
     "Region": 2,
     "CrafterID": 6,
     "Time": 120,
-    "Exp": 1058,
+    "Exp": 1398,
     "Recipe": [
       {
         "Id": "810",
@@ -470,7 +428,7 @@
         "Type": 2
       }
     ],
-    "Cost": 265,
+    "Cost": 305,
     "StatNameA": "str",
     "StatValueA": 10
   },
@@ -480,9 +438,6 @@
     "SubType": "Soup",
     "ItemLevel": 20,
     "Value": 467,
-    "Desc1": "Warms the soul",
-    "Desc2": "",
-    "Image": "Eatable-Region3-Plateau_Porridge",
     "Rarity": 1,
     "Region": 3,
     "CrafterID": 6,
@@ -502,6 +457,198 @@
     ],
     "Cost": 201,
     "StatNameA": "heal",
+    "StatValueA": 120
+  },
+  "16": {
+    "Id": "16",
+    "Name": "Valley Range Ribs",
+    "SubType": "Food",
+    "ItemLevel": 28,
+    "Value": 1514,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 1733,
+    "Recipe": [
+      {
+        "Id": "817",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "822",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "824",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 434,
+    "StatNameA": "atk",
+    "StatValueA": 48
+  },
+  "17": {
+    "Id": "17",
+    "Name": "Highland Pie",
+    "SubType": "Food",
+    "ItemLevel": 25,
+    "Value": 2401,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 1659,
+    "Recipe": [
+      {
+        "Id": "821",
+        "Amount": 12,
+        "Type": 2
+      },
+      {
+        "Id": "818",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "823",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 482,
+    "StatNameA": "acc",
+    "StatValueA": 48
+  },
+  "18": {
+    "Id": "18",
+    "Name": "Subterranean Libation",
+    "SubType": "Drink",
+    "ItemLevel": 26,
+    "Value": 1247,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 1640,
+    "Recipe": [
+      {
+        "Id": "821",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "826",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "193",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 388,
+    "StatNameA": "matk",
+    "StatValueA": 48
+  },
+  "19": {
+    "Id": "19",
+    "Name": "Damson Marlotini",
+    "SubType": "Drink",
+    "ItemLevel": 30,
+    "Value": 2685,
+    "Rarity": 4,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 3122,
+    "Recipe": [
+      {
+        "Id": "820",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "823",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "202",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 719,
+    "StatNameA": "int",
+    "StatValueA": 15
+  },
+  "20": {
+    "Id": "20",
+    "Name": "Shepard's Pie",
+    "SubType": "Food",
+    "ItemLevel": 29,
+    "Value": 2126,
+    "Rarity": 4,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 2864,
+    "Recipe": [
+      {
+        "Id": "817",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "822",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "825",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 653,
+    "StatNameA": "lckMod",
+    "StatValueA": 8
+  },
+  "21": {
+    "Id": "21",
+    "Name": "Cabbage Soup",
+    "SubType": "Soup",
+    "ItemLevel": 23,
+    "Value": 1861,
+    "Rarity": 3,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 1762,
+    "Recipe": [
+      {
+        "Id": "816",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "817",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "822",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 473,
+    "StatNameA": "maxHP",
     "StatValueA": 120
   }
 }

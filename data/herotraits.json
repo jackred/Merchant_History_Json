@@ -17,7 +17,8 @@
         "Type": "crit"
       }
     ],
-    "EquipMods": null
+    "EquipMods": null,
+    "TraitImpact": 0
   },
   "WandWielder": {
     "Id": "WandWielder",
@@ -37,7 +38,8 @@
         "Type": "evaPct"
       }
     ],
-    "EquipMods": null
+    "EquipMods": null,
+    "TraitImpact": 0
   },
   "AxeFighter": {
     "Id": "AxeFighter",
@@ -49,7 +51,8 @@
         "Type": "critMod"
       }
     ],
-    "EquipMods": null
+    "EquipMods": null,
+    "TraitImpact": 0
   },
   "DaggerMaster": {
     "Id": "DaggerMaster",
@@ -63,9 +66,14 @@
       {
         "Value": 1,
         "Type": "str"
+      },
+      {
+        "Value": 150,
+        "Type": "critMod"
       }
     ],
-    "EquipMods": null
+    "EquipMods": null,
+    "TraitImpact": 0
   },
   "SpearMaster": {
     "Id": "SpearMaster",
@@ -86,7 +94,8 @@
         "Mod": 2,
         "Type": "acc"
       }
-    ]
+    ],
+    "TraitImpact": 0
   },
   "ArcaneClubMaster": {
     "Id": "ArcaneClubMaster",
@@ -100,14 +109,14 @@
       {
         "Value": 300,
         "Type": "critMod"
+      },
+      {
+        "Value": 100,
+        "Type": "matkPct"
       }
     ],
-    "EquipMods": [
-      {
-        "Mod": 2,
-        "Type": "matk"
-      }
-    ]
+    "EquipMods": null,
+    "TraitImpact": 0
   },
   "AxeMaster": {
     "Id": "AxeMaster",
@@ -127,7 +136,8 @@
         "Type": "atkPct"
       }
     ],
-    "EquipMods": null
+    "EquipMods": null,
+    "TraitImpact": 0
   },
   "BruteClubMaster": {
     "Id": "BruteClubMaster",
@@ -147,6 +157,142 @@
         "Type": "atkPct"
       }
     ],
-    "EquipMods": null
+    "EquipMods": null,
+    "TraitImpact": 0
+  },
+  "SandalLover": {
+    "Id": "SandalLover",
+    "Name": "Sandal Lover",
+    "Cond": "EST:Sandals",
+    "Stats": [
+      {
+        "Value": 3,
+        "Type": "int"
+      },
+      {
+        "Value": 30,
+        "Type": "accPct"
+      }
+    ],
+    "EquipMods": null,
+    "TraitImpact": 0
+  },
+  "Nomad": {
+    "Id": "Nomad",
+    "Name": "Nomad",
+    "Cond": "EST:Boots",
+    "Stats": [
+      {
+        "Value": 1,
+        "Type": "dex"
+      },
+      {
+        "Value": 25,
+        "Type": "evaPct"
+      },
+      {
+        "Value": 30,
+        "Type": "def"
+      }
+    ],
+    "EquipMods": null,
+    "TraitImpact": 0
+  },
+  "GauntletWear": {
+    "Id": "GauntletWear",
+    "Name": "Gauntlet Bearer",
+    "Cond": "EST:Gauntlets",
+    "Stats": [
+      {
+        "Value": 3,
+        "Type": "str"
+      },
+      {
+        "Value": 25,
+        "Type": "atkPct"
+      }
+    ],
+    "EquipMods": null,
+    "TraitImpact": 0
+  },
+  "StaveDefense": {
+    "Id": "StaveDefense",
+    "Name": "Stave Defensive Stance",
+    "Cond": "EMT:Stave",
+    "Stats": [
+      {
+        "Value": 100,
+        "Type": "mdefPct"
+      },
+      {
+        "Value": -50,
+        "Type": "matkPct"
+      }
+    ],
+    "EquipMods": null,
+    "TraitImpact": 2
+  },
+  "DaggerEvasion": {
+    "Id": "DaggerEvasion",
+    "Name": "Dagger Evasive Stance",
+    "Cond": "EMT:Dagger",
+    "Stats": [
+      {
+        "Value": 50,
+        "Type": "evaPct"
+      },
+      {
+        "Value": -50,
+        "Type": "accPct"
+      }
+    ],
+    "EquipMods": null,
+    "TraitImpact": 2
+  },
+  "SwordDefense": {
+    "Id": "SwordDefense",
+    "Name": "Sword Defensive Stance",
+    "Cond": "EMT:Sword",
+    "Stats": [
+      {
+        "Value": 25,
+        "Type": "defPct"
+      },
+      {
+        "Value": 25,
+        "Type": "mdefPct"
+      },
+      {
+        "Value": -50,
+        "Type": "atkPct"
+      }
+    ],
+    "EquipMods": null,
+    "TraitImpact": 2
+  },
+  "HammerRage": {
+    "Id": "HammerRage",
+    "Name": "Hammer Rage",
+    "Cond": "EMT:Hammer",
+    "Stats": [
+      {
+        "Value": 5,
+        "Type": "str"
+      },
+      {
+        "Value": 100,
+        "Type": "atkPct"
+      },
+      {
+        "Value": 300,
+        "Type": "critMod"
+      },
+      {
+        "Value": -75,
+        "Type": "accPct"
+      }
+    ],
+    "EquipMods": null,
+    "TraitImpact": 2
   }
 }

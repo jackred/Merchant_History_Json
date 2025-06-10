@@ -18,8 +18,7 @@
               "stat": 2,
               "mod": 1.0
             }
-          ],
-          "StatToPenetrate": 4
+          ]
         }
       }
     ]
@@ -38,8 +37,7 @@
               "plv": 0.1
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -57,8 +55,7 @@
               "mod": 1.5
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -91,8 +88,7 @@
               "mod": 1.4
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "st": true
       },
@@ -123,8 +119,7 @@
               "mod": 1.5
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "am": 0.4,
         "ct": 1,
@@ -158,8 +153,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -181,8 +175,7 @@
               "mod": 1.2
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -205,8 +198,7 @@
             }
           ],
           "m": [],
-          "pen": 40.0,
-          "StatToPenetrate": 4
+          "pen": 40.0
         }
       }
     ]
@@ -241,8 +233,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "hc": 100
       },
@@ -278,8 +269,7 @@
               "mod": 1.5,
               "plv": 0.1
             }
-          ],
-          "StatToPenetrate": 5
+          ]
         }
       }
     ]
@@ -298,8 +288,7 @@
               "mod": 2.0
             }
           ],
-          "pen": 30.0,
-          "StatToPenetrate": 5
+          "pen": 30.0
         }
       }
     ]
@@ -317,8 +306,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "st": true
       },
@@ -353,8 +341,7 @@
               "mod": 1.6
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -581,8 +568,7 @@
               "mod": 1.4
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -617,8 +603,7 @@
               "mod": 1.1
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -636,8 +621,7 @@
               "mod": 1.7
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -684,8 +668,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -703,8 +686,7 @@
               "mod": 1.4
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -741,8 +723,7 @@
               "mod": 1.2
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -764,8 +745,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -834,8 +814,7 @@
               "mod": 1.5
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -853,8 +832,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -879,8 +857,7 @@
           "st": [
             {
               "stat": 51,
-              "mod": 40.0,
-              "plv": 5.0
+              "mod": 40.0
             }
           ]
         },
@@ -896,8 +873,7 @@
           "st": [
             {
               "stat": 51,
-              "mod": -30.0,
-              "plv": -5.0
+              "mod": -30.0
             }
           ]
         },
@@ -918,8 +894,7 @@
               "mod": 1.2
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "am": 0.5,
         "ct": 1,
@@ -940,8 +915,7 @@
               "mod": 1.2
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "am": 0.5,
         "ct": 1,
@@ -962,8 +936,7 @@
               "stat": 2,
               "mod": 1.5
             }
-          ],
-          "StatToPenetrate": 5
+          ]
         },
         "st": true
       },
@@ -999,8 +972,7 @@
               "stat": 2,
               "mod": 1.6
             }
-          ],
-          "StatToPenetrate": 5
+          ]
         },
         "st": true
       },
@@ -1035,8 +1007,7 @@
               "stat": 2,
               "mod": 1.8
             }
-          ],
-          "StatToPenetrate": 5
+          ]
         },
         "st": true
       },
@@ -1067,8 +1038,7 @@
               "mod": 1.4
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -1129,8 +1099,7 @@
               "mod": 3.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -1164,8 +1133,7 @@
               "mod": 1.2
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "st": true
       },
@@ -1200,8 +1168,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "st": true
       },
@@ -1293,8 +1260,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "hc": 100
       },
@@ -1343,8 +1309,7 @@
               "mod": 1.5
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -1362,8 +1327,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "st": true
       },
@@ -1426,8 +1390,7 @@
               "mod": 3.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -1477,8 +1440,7 @@
               "mod": 1.8
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]
@@ -1496,8 +1458,7 @@
               "mod": 1.8
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "st": true
       },
@@ -1532,8 +1493,7 @@
               "mod": 1.4
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "am": 0.44,
         "ct": 1,
@@ -1608,8 +1568,7 @@
               "mod": 3.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "tar": 12
       }
@@ -1628,8 +1587,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "tar": 1
       },
@@ -1691,8 +1649,7 @@
               "stat": 2,
               "mod": 2.0
             }
-          ],
-          "StatToPenetrate": 5
+          ]
         },
         "tar": 10
       },
@@ -1727,8 +1684,7 @@
               "stat": 2,
               "mod": 2.0
             }
-          ],
-          "StatToPenetrate": 5
+          ]
         },
         "tar": 1
       }
@@ -1747,8 +1703,7 @@
               "mod": 3.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "tar": 21
       }
@@ -1767,8 +1722,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "tar": 11
       },
@@ -1803,8 +1757,7 @@
               "mod": 1.5
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       },
       {
@@ -1838,8 +1791,7 @@
               "mod": 2.0
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         },
         "tar": 1
       },
@@ -1875,8 +1827,7 @@
               "mod": 1.5
             }
           ],
-          "m": [],
-          "StatToPenetrate": 4
+          "m": []
         }
       }
     ]

@@ -2,26 +2,22 @@
   "1": {
     "Id": "1",
     "Name": "Oak Log",
-    "SubType": "Log",
+    "SubType": "UnrefinedLumber",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Wood used to make Oak Lumber",
-    "Desc2": "",
-    "Image": "Materials-Region1-Oak_Log",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "2": {
     "Id": "2",
     "Name": "Iron Ore",
-    "SubType": "Ore",
+    "SubType": "UnrefinedIngot",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Ore used to make Iron Ingots",
-    "Desc2": "",
-    "Image": "Materials-Region1-Iron_Ore",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "3": {
     "Id": "3",
@@ -29,9 +25,6 @@
     "SubType": "CraftedLumber",
     "ItemLevel": 1,
     "Value": 7,
-    "Desc1": "Refined wood used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region1-Oak_Lumber",
     "Rarity": 1,
     "Region": 1,
     "CrafterID": 3,
@@ -43,7 +36,8 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "4": {
     "Id": "4",
@@ -51,9 +45,6 @@
     "SubType": "CraftedIngot",
     "ItemLevel": 1,
     "Value": 7,
-    "Desc1": "Reliable metal used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region1-Iron_Ingot",
     "Rarity": 1,
     "Region": 1,
     "CrafterID": 1,
@@ -65,7 +56,8 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "5": {
     "Id": "5",
@@ -73,9 +65,6 @@
     "SubType": "CraftedFabric",
     "ItemLevel": 1,
     "Value": 7,
-    "Desc1": "Woven cloth used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Hempen_Cloth",
     "Rarity": 1,
     "Region": 1,
     "CrafterID": 4,
@@ -87,7 +76,8 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "6": {
     "Id": "6",
@@ -95,9 +85,6 @@
     "SubType": "CraftedPlate",
     "ItemLevel": 1,
     "Value": 7,
-    "Desc1": "Reinforced plate used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Iron_Plate",
     "Rarity": 1,
     "Region": 1,
     "CrafterID": 2,
@@ -109,31 +96,28 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "7": {
     "Id": "7",
     "Name": "Hempen Fiber",
-    "SubType": "Fiber",
+    "SubType": "UnrefinedFabric",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Fiber used to make Hempen Cloth",
-    "Desc2": "",
-    "Image": "Materials-Region1-Hempen_Fiber",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "8": {
     "Id": "8",
     "Name": "Iron Chunk",
-    "SubType": "Metal",
+    "SubType": "UnrefinedPlate",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Chunk used to make Iron Plates",
-    "Desc2": "",
-    "Image": "Materials-Region1-Iron_Chunk",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "9": {
     "Id": "9",
@@ -141,11 +125,9 @@
     "SubType": "Herb",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Roots used in food, still tastes like dirt",
-    "Desc2": "",
-    "Image": "Materials-Region1-Tuvale_Roots",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "10": {
     "Id": "10",
@@ -153,11 +135,9 @@
     "SubType": "Herb",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Moss used in food, still tastes like",
-    "Desc2": "rocks",
-    "Image": "Materials-Region1-Tuvale_Moss",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "11": {
     "Id": "11",
@@ -165,9 +145,6 @@
     "SubType": "Bark",
     "ItemLevel": 5,
     "Value": 12,
-    "Desc1": "Bark from Tuvale, versatile for",
-    "Desc2": "weapons and armor",
-    "Image": "Materials-Region1-Tuvale_Bark",
     "Rarity": 2,
     "Region": 1
   },
@@ -177,9 +154,6 @@
     "SubType": "Minerals",
     "ItemLevel": 5,
     "Value": 12,
-    "Desc1": "Minerals from Tuvale, versatile for",
-    "Desc2": "weapons and armor",
-    "Image": "Materials-Region1-Tuvale_Minerals",
     "Rarity": 2,
     "Region": 1
   },
@@ -187,11 +161,8 @@
     "Id": "13",
     "Name": "Beetle Chitin",
     "SubType": "Shell",
-    "ItemLevel": 2,
-    "Value": 4,
-    "Desc1": "Hardened beetle chitin used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region1-Beetle_Chitin",
+    "ItemLevel": 1,
+    "Value": 3,
     "Rarity": 1,
     "Region": 1
   },
@@ -199,11 +170,8 @@
     "Id": "14",
     "Name": "Beetle Mandible",
     "SubType": "Claw",
-    "ItemLevel": 3,
-    "Value": 9,
-    "Desc1": "Hardened beetle mandible used to",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Beetle_Mandible",
+    "ItemLevel": 2,
+    "Value": 7,
     "Rarity": 2,
     "Region": 1
   },
@@ -213,9 +181,6 @@
     "SubType": "Shell",
     "ItemLevel": 3,
     "Value": 9,
-    "Desc1": "Giant shell of a scarab used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region1-Giant_Scarab_Shell",
     "Rarity": 2,
     "Region": 1
   },
@@ -223,11 +188,8 @@
     "Id": "16",
     "Name": "Beetle Heart",
     "SubType": "Heart",
-    "ItemLevel": 2,
-    "Value": 7,
-    "Desc1": "The still beating heart of a beetle",
-    "Desc2": "used in food",
-    "Image": "Materials-Region1-Beetle_Heart",
+    "ItemLevel": 3,
+    "Value": 9,
     "Rarity": 2,
     "Region": 1
   },
@@ -235,11 +197,8 @@
     "Id": "17",
     "Name": "Spider Leg",
     "SubType": "Limb",
-    "ItemLevel": 6,
-    "Value": 8,
-    "Desc1": "Leg of spiders used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region1-Spider_Leg",
+    "ItemLevel": 3,
+    "Value": 5,
     "Rarity": 1,
     "Region": 1
   },
@@ -247,11 +206,8 @@
     "Id": "18",
     "Name": "Spider Silk",
     "SubType": "Thread",
-    "ItemLevel": 3,
-    "Value": 9,
-    "Desc1": "Silk of spiders used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Spider_Silk",
+    "ItemLevel": 4,
+    "Value": 10,
     "Rarity": 2,
     "Region": 1
   },
@@ -259,11 +215,8 @@
     "Id": "19",
     "Name": "Spider Eye",
     "SubType": "Eye",
-    "ItemLevel": 3,
-    "Value": 9,
-    "Desc1": "Eye of spiders used to make trinkets",
-    "Desc2": "",
-    "Image": "Materials-Region1-Spider_Eye",
+    "ItemLevel": 4,
+    "Value": 10,
     "Rarity": 2,
     "Region": 1
   },
@@ -273,9 +226,6 @@
     "SubType": "Scale",
     "ItemLevel": 3,
     "Value": 5,
-    "Desc1": "Scale of snakes used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Snake_Scale",
     "Rarity": 1,
     "Region": 1
   },
@@ -283,11 +233,8 @@
     "Id": "21",
     "Name": "Snake Venom",
     "SubType": "Extract",
-    "ItemLevel": 7,
-    "Value": 15,
-    "Desc1": "Venom of snakes used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Snake_Venom",
+    "ItemLevel": 5,
+    "Value": 12,
     "Rarity": 2,
     "Region": 1
   },
@@ -296,11 +243,8 @@
     "Name": "Snake Fang",
     "SubType": "Fang",
     "ItemLevel": 7,
-    "Value": 15,
-    "Desc1": "Fang from snakes used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Snake_Fang",
-    "Rarity": 2,
+    "Value": 32,
+    "Rarity": 3,
     "Region": 1
   },
   "23": {
@@ -309,9 +253,6 @@
     "SubType": "Hide",
     "ItemLevel": 4,
     "Value": 6,
-    "Desc1": "Hide of boars used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Boar_Hide",
     "Rarity": 1,
     "Region": 1
   },
@@ -319,11 +260,8 @@
     "Id": "24",
     "Name": "Boar Tusk",
     "SubType": "Tooth",
-    "ItemLevel": 8,
-    "Value": 16,
-    "Desc1": "Tusk of boars used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region1-Boar_Tusk",
+    "ItemLevel": 7,
+    "Value": 15,
     "Rarity": 2,
     "Region": 1
   },
@@ -331,11 +269,8 @@
     "Id": "25",
     "Name": "Enchanted Boar Tusk",
     "SubType": "Tooth",
-    "ItemLevel": 10,
-    "Value": 42,
-    "Desc1": "Magical tusk of boars used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Enchanted_Boar_Tusk",
+    "ItemLevel": 9,
+    "Value": 39,
     "Rarity": 3,
     "Region": 1
   },
@@ -343,11 +278,8 @@
     "Id": "26",
     "Name": "Wolf Fur",
     "SubType": "Fur",
-    "ItemLevel": 4,
-    "Value": 6,
-    "Desc1": "Pelt of wolf used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Wolf_Fur",
+    "ItemLevel": 5,
+    "Value": 7,
     "Rarity": 1,
     "Region": 1
   },
@@ -355,11 +287,8 @@
     "Id": "27",
     "Name": "Wolf Paw",
     "SubType": "Claw",
-    "ItemLevel": 9,
-    "Value": 18,
-    "Desc1": "Paw of wolf used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Wolf_Paw",
+    "ItemLevel": 8,
+    "Value": 16,
     "Rarity": 2,
     "Region": 1
   },
@@ -369,9 +298,6 @@
     "SubType": "Head",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Head of wolf used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Wolf_Skull",
     "Rarity": 3,
     "Region": 1
   },
@@ -381,9 +307,6 @@
     "SubType": "Heart",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Still beating heart of an alpha wolf",
-    "Desc2": "used to make armor and hearty food",
-    "Image": "Materials-Region1-Wolf_Alpha_Heart",
     "Rarity": 3,
     "Region": 1
   },
@@ -391,11 +314,8 @@
     "Id": "30",
     "Name": "Goblin Cloth",
     "SubType": "Cloth",
-    "ItemLevel": 5,
-    "Value": 7,
-    "Desc1": "A shred of cloth dropped by slain",
-    "Desc2": "Goblin used to make armor",
-    "Image": "Materials-Region1-Goblin_Cloth",
+    "ItemLevel": 6,
+    "Value": 8,
     "Rarity": 1,
     "Region": 1
   },
@@ -403,11 +323,8 @@
     "Id": "31",
     "Name": "Goblin Hilt",
     "SubType": "Hilt",
-    "ItemLevel": 9,
-    "Value": 18,
-    "Desc1": "Hilt of a Goblin weapon used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Goblin_Hilt",
+    "ItemLevel": 8,
+    "Value": 16,
     "Rarity": 2,
     "Region": 1
   },
@@ -417,9 +334,6 @@
     "SubType": "Blade",
     "ItemLevel": 9,
     "Value": 18,
-    "Desc1": "Blade forged of skilled Goblins, used",
-    "Desc2": "to make weapons",
-    "Image": "Materials-Region1-Goblin_Blade",
     "Rarity": 2,
     "Region": 1
   },
@@ -427,11 +341,8 @@
     "Id": "33",
     "Name": "Goblin Plate",
     "SubType": "Plate",
-    "ItemLevel": 6,
+    "ItemLevel": 7,
     "Value": 8,
-    "Desc1": "Plate forged of skilled Goblins, used",
-    "Desc2": "to make armor",
-    "Image": "Materials-Region1-Goblin_Plate",
     "Rarity": 1,
     "Region": 1
   },
@@ -439,11 +350,8 @@
     "Id": "34",
     "Name": "Goblin Rod",
     "SubType": "Log",
-    "ItemLevel": 9,
-    "Value": 18,
-    "Desc1": "Rod of Goblin weapon used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Goblin_Rod",
+    "ItemLevel": 8,
+    "Value": 16,
     "Rarity": 2,
     "Region": 1
   },
@@ -453,9 +361,6 @@
     "SubType": "Blade",
     "ItemLevel": 13,
     "Value": 53,
-    "Desc1": "Blade cursed upon a vengeful Goblin",
-    "Desc2": "death, used to make weapons",
-    "Image": "Materials-Region1-Cursed_Goblin_Blade",
     "Rarity": 3,
     "Region": 1
   },
@@ -465,9 +370,6 @@
     "SubType": "Blade",
     "ItemLevel": 9,
     "Value": 18,
-    "Desc1": "Blade of Goblin capable of being",
-    "Desc2": "concealed, used to make weapons",
-    "Image": "Materials-Region1-Hidden_Goblin_Blade",
     "Rarity": 2,
     "Region": 1
   },
@@ -477,9 +379,6 @@
     "SubType": "Crystal",
     "ItemLevel": 9,
     "Value": 39,
-    "Desc1": "Magical stone held by Goblins of",
-    "Desc2": "higher minds, used to make trinkets",
-    "Image": "Materials-Region1-Goblin_Focus_Stone",
     "Rarity": 3,
     "Region": 1
   },
@@ -489,9 +388,6 @@
     "SubType": "Scripture",
     "ItemLevel": 9,
     "Value": 39,
-    "Desc1": "Tome of Goblin secrets, versatile for",
-    "Desc2": "weapons and armor",
-    "Image": "Materials-Region1-Goblin_Tome",
     "Rarity": 3,
     "Region": 1
   },
@@ -501,9 +397,6 @@
     "SubType": "Scripture",
     "ItemLevel": 13,
     "Value": 53,
-    "Desc1": "Seal of renowned Goblins, used in",
-    "Desc2": "trinkets",
-    "Image": "Materials-Region1-Goblin_Seal",
     "Rarity": 3,
     "Region": 1
   },
@@ -513,9 +406,6 @@
     "SubType": "Misc",
     "ItemLevel": 13,
     "Value": 79,
-    "Desc1": "Emblem the most fearsome Goblin",
-    "Desc2": "fighters, the Goblin Warlords",
-    "Image": "Materials-Region1-Goblin_Warlords_Emblem",
     "Rarity": 4,
     "Region": 1
   },
@@ -525,9 +415,6 @@
     "SubType": "Hide",
     "ItemLevel": 10,
     "Value": 11,
-    "Desc1": "Hide of bears used in armor",
-    "Desc2": "",
-    "Image": "Materials-Region1-Bear_Hide",
     "Rarity": 1,
     "Region": 1
   },
@@ -537,9 +424,6 @@
     "SubType": "Claw",
     "ItemLevel": 11,
     "Value": 21,
-    "Desc1": "Claw of bears versatile for weapons",
-    "Desc2": "and armor",
-    "Image": "Materials-Region1-Bear_Claws",
     "Rarity": 2,
     "Region": 1
   },
@@ -549,9 +433,6 @@
     "SubType": "Head",
     "ItemLevel": 15,
     "Value": 59,
-    "Desc1": "Head ornament of great bear,",
-    "Desc2": "versatile for weapons and armor",
-    "Image": "Materials-Region1-Ursain_Headpiece",
     "Rarity": 3,
     "Region": 1
   },
@@ -561,9 +442,6 @@
     "SubType": "Bone",
     "ItemLevel": 15,
     "Value": 89,
-    "Desc1": "Breastplate of great bear, used to",
-    "Desc2": "make armor",
-    "Image": "Materials-Region1-Ursain_Breastplate",
     "Rarity": 4,
     "Region": 1
   },
@@ -573,9 +451,6 @@
     "SubType": "Log",
     "ItemLevel": 14,
     "Value": 56,
-    "Desc1": "Ancient oak wood of Tuvale, versatile",
-    "Desc2": "for weapons and armor",
-    "Image": "Materials-Region1-Ancient_Tuvale_Wood",
     "Rarity": 3,
     "Region": 1
   },
@@ -585,9 +460,6 @@
     "SubType": "Crystal",
     "ItemLevel": 14,
     "Value": 56,
-    "Desc1": "Strange stone emitting strong magic,",
-    "Desc2": "used to make trinkets",
-    "Image": "Materials-Region1-Arcane_Stone",
     "Rarity": 3,
     "Region": 1
   },
@@ -597,9 +469,6 @@
     "SubType": "Misc",
     "ItemLevel": 14,
     "Value": 84,
-    "Desc1": "Essence of great Tuvale Golems,",
-    "Desc2": "used to make trinkets",
-    "Image": "Materials-Region1-Forest_Charm",
     "Rarity": 4,
     "Region": 1
   },
@@ -609,48 +478,39 @@
     "SubType": "Essence",
     "ItemLevel": 14,
     "Value": 84,
-    "Desc1": "The life essence of the Tuvale Forest,",
-    "Desc2": "used to make trinkets",
-    "Image": "Materials-Region1-Forest_Essence_of_Life",
     "Rarity": 4,
     "Region": 1
   },
   "49": {
     "Id": "49",
     "Name": "Forest Crystal",
-    "SubType": "Crystal",
+    "SubType": "RegionCrystal",
     "ItemLevel": 3,
     "Value": 9,
-    "Desc1": "Fossilized crystal of the Tuvale Forest,",
-    "Desc2": "used to make Emeralds",
-    "Image": "Materials-Region1-Forest_Crystal",
     "Rarity": 2,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "50": {
     "Id": "50",
     "Name": "Emerald",
-    "SubType": "Gem",
+    "SubType": "RegionGem",
     "ItemLevel": 5,
     "Value": 40,
-    "Desc1": "Refined Forest Crystals used to make",
-    "Desc2": "Verdant Runes",
-    "Image": "Materials-Region1-Emerald",
     "Rarity": 3,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "51": {
     "Id": "51",
     "Name": "Verdant Rune",
-    "SubType": "Rune",
+    "SubType": "RegionRune",
     "ItemLevel": 8,
     "Value": 176,
-    "Desc1": "Most stable Tuvale Forest magic,",
-    "Desc2": "used to make",
-    "Image": "Materials-Region1-Verdant_Rune",
     "Rarity": 4,
     "Region": 1,
-    "Time": 22
+    "Time": 22,
+    "ForbidInfusion": true
   },
   "52": {
     "Id": "52",
@@ -658,23 +518,18 @@
     "SubType": "Eye",
     "ItemLevel": 6,
     "Value": 29,
-    "Desc1": "Eye of Maexna used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region1-Maexnas_Eye",
     "Rarity": 3,
     "Region": 1
   },
   "53": {
     "Id": "53",
     "Name": "Cobalt Ore",
-    "SubType": "Ore",
+    "SubType": "UnrefinedIngot",
     "ItemLevel": 10,
     "Value": 19,
-    "Desc1": "Ore used to make Cobalt Ingots",
-    "Desc2": "",
-    "Image": "Materials-Region2-Cobalt_Ore",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "54": {
     "Id": "54",
@@ -682,9 +537,6 @@
     "SubType": "CraftedIngot",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Speculative metal used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region2-Cobalt_Ingot",
     "Rarity": 1,
     "Region": 2,
     "CrafterID": 1,
@@ -696,19 +548,18 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "55": {
     "Id": "55",
     "Name": "Yew Log",
-    "SubType": "Log",
+    "SubType": "UnrefinedLumber",
     "ItemLevel": 10,
     "Value": 19,
-    "Desc1": "Wood used to make Yew Lumber",
-    "Desc2": "",
-    "Image": "Materials-Region2-Yew_Log",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "56": {
     "Id": "56",
@@ -716,9 +567,6 @@
     "SubType": "CraftedLumber",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Treated wood used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region2-Yew_Lumber",
     "Rarity": 1,
     "Region": 2,
     "CrafterID": 3,
@@ -730,7 +578,8 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "57": {
     "Id": "57",
@@ -738,23 +587,19 @@
     "SubType": "Herb",
     "ItemLevel": 10,
     "Value": 19,
-    "Desc1": "Roots used in food, has an aroma of",
-    "Desc2": "mold",
-    "Image": "Materials-Region2-Cypress_Roots",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "58": {
     "Id": "58",
     "Name": "Reed Fiber",
-    "SubType": "Fiber",
+    "SubType": "UnrefinedFabric",
     "ItemLevel": 10,
     "Value": 19,
-    "Desc1": "Fiber used to make Reed Cloth",
-    "Desc2": "",
-    "Image": "Materials-Region2-Reed_Fiber",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "59": {
     "Id": "59",
@@ -762,9 +607,6 @@
     "SubType": "CraftedFabric",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Interlaced cloth used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region2-Reed_Cloth",
     "Rarity": 1,
     "Region": 2,
     "CrafterID": 4,
@@ -776,19 +618,18 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "60": {
     "Id": "60",
     "Name": "Cobalt Chunk",
-    "SubType": "Ore",
+    "SubType": "UnrefinedPlate",
     "ItemLevel": 10,
     "Value": 19,
-    "Desc1": "Chunk used to make Cobalt Plates",
-    "Desc2": "",
-    "Image": "Materials-Region2-Cobalt_Chunk",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "61": {
     "Id": "61",
@@ -796,9 +637,6 @@
     "SubType": "CraftedPlate",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Enhanced plate used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region2-Cobalt_Plate",
     "Rarity": 1,
     "Region": 2,
     "CrafterID": 2,
@@ -810,7 +648,8 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "62": {
     "Id": "62",
@@ -818,11 +657,9 @@
     "SubType": "Minerals",
     "ItemLevel": 15,
     "Value": 28,
-    "Desc1": "Coral of Yarsol Golems, used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region2-Coral",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "63": {
     "Id": "63",
@@ -830,9 +667,6 @@
     "SubType": "Scale",
     "ItemLevel": 11,
     "Value": 21,
-    "Desc1": "Scale of lizards used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region2-Lizard_Scale",
     "Rarity": 1,
     "Region": 2
   },
@@ -842,9 +676,6 @@
     "SubType": "Limb",
     "ItemLevel": 11,
     "Value": 21,
-    "Desc1": "Tentacle of jellyfish used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region2-Jellyfish_Tentacle",
     "Rarity": 1,
     "Region": 2
   },
@@ -854,9 +685,6 @@
     "SubType": "Misc",
     "ItemLevel": 9,
     "Value": 18,
-    "Desc1": "Bile of turtles, versatile for weapons",
-    "Desc2": "and armor",
-    "Image": "Materials-Region2-Sargassum",
     "Rarity": 1,
     "Region": 2
   },
@@ -866,9 +694,6 @@
     "SubType": "Skull",
     "ItemLevel": 15,
     "Value": 28,
-    "Desc1": "Head of a sand striker used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region2-Sand_Striker_Maw",
     "Rarity": 1,
     "Region": 2
   },
@@ -878,9 +703,6 @@
     "SubType": "Leg",
     "ItemLevel": 20,
     "Value": 36,
-    "Desc1": "Leg of a giant frog used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region2-Giant_Frog_Leg",
     "Rarity": 1,
     "Region": 2
   },
@@ -890,9 +712,6 @@
     "SubType": "Feather",
     "ItemLevel": 8,
     "Value": 16,
-    "Desc1": "Feather of albatross used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region2-Albatross_Feather",
     "Rarity": 1,
     "Region": 2
   },
@@ -902,9 +721,6 @@
     "SubType": "Cloth",
     "ItemLevel": 16,
     "Value": 53,
-    "Desc1": "A shred of cloth dropped by slain",
-    "Desc2": "Kobald, used to make armor",
-    "Image": "Materials-Region2-Kobold_Cloth",
     "Rarity": 2,
     "Region": 2
   },
@@ -914,9 +730,6 @@
     "SubType": "Hilt",
     "ItemLevel": 18,
     "Value": 59,
-    "Desc1": "Broken pole of a slain Kobald weapon",
-    "Desc2": "used to make weapons",
-    "Image": "Materials-Region2-Kobold_Pole",
     "Rarity": 2,
     "Region": 2
   },
@@ -926,9 +739,6 @@
     "SubType": "Hilt",
     "ItemLevel": 22,
     "Value": 71,
-    "Desc1": "Hilt of a Kobald weapon used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region2-Kobold_Hilt",
     "Rarity": 2,
     "Region": 2
   },
@@ -938,9 +748,6 @@
     "SubType": "Scripture",
     "ItemLevel": 23,
     "Value": 74,
-    "Desc1": "Scroll of Kobald secrets, versatile for",
-    "Desc2": "weapons and armor",
-    "Image": "Materials-Region2-Water_Scroll",
     "Rarity": 2,
     "Region": 2
   },
@@ -950,9 +757,6 @@
     "SubType": "Ashes",
     "ItemLevel": 25,
     "Value": 267,
-    "Desc1": "Mystic ash dropped by a divine",
-    "Desc2": "Kobald, versatile for all equipment",
-    "Image": "Materials-Region2-Aquatic_Ash",
     "Rarity": 4,
     "Region": 2
   },
@@ -962,9 +766,6 @@
     "SubType": "Relic",
     "ItemLevel": 20,
     "Value": 216,
-    "Desc1": "Relic of upmost importance to the",
-    "Desc2": "Kobald used to make armor",
-    "Image": "Materials-Region2-Kobold_Relic",
     "Rarity": 4,
     "Region": 2
   },
@@ -974,9 +775,6 @@
     "SubType": "Claw",
     "ItemLevel": 15,
     "Value": 50,
-    "Desc1": "Talon of albatross used to make",
-    "Desc2": "armor",
-    "Image": "Materials-Region2-Albatross_Talon",
     "Rarity": 2,
     "Region": 2
   },
@@ -986,9 +784,6 @@
     "SubType": "Claw",
     "ItemLevel": 12,
     "Value": 23,
-    "Desc1": "Claw of crab used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region2-Crab_Claw",
     "Rarity": 1,
     "Region": 2
   },
@@ -998,9 +793,6 @@
     "SubType": "Misc",
     "ItemLevel": 17,
     "Value": 56,
-    "Desc1": "Toxin of jellyfish used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region2-Jellyfish_Toxin",
     "Rarity": 2,
     "Region": 2
   },
@@ -1010,9 +802,6 @@
     "SubType": "Shell",
     "ItemLevel": 16,
     "Value": 53,
-    "Desc1": "Shell of turtles used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region2-Turtle_Shell",
     "Rarity": 2,
     "Region": 2
   },
@@ -1022,9 +811,6 @@
     "SubType": "Misc",
     "ItemLevel": 25,
     "Value": 81,
-    "Desc1": "Mutilated pile of corpses from past",
-    "Desc2": "heroes, used to make armor",
-    "Image": "Materials-Region2-Swallowed_Remains",
     "Rarity": 2,
     "Region": 2
   },
@@ -1034,9 +820,6 @@
     "SubType": "Shell",
     "ItemLevel": 19,
     "Value": 62,
-    "Desc1": "Shell of crab used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region2-Crab_Carapace",
     "Rarity": 2,
     "Region": 2
   },
@@ -1046,9 +829,6 @@
     "SubType": "Misc",
     "ItemLevel": 20,
     "Value": 65,
-    "Desc1": "Gland of frog used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region2-Parotid_Sac",
     "Rarity": 2,
     "Region": 2
   },
@@ -1058,9 +838,6 @@
     "SubType": "Log",
     "ItemLevel": 15,
     "Value": 50,
-    "Desc1": "Eerie wood used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region2-Driftwood",
     "Rarity": 2,
     "Region": 2
   },
@@ -1070,9 +847,6 @@
     "SubType": "Gem",
     "ItemLevel": 15,
     "Value": 50,
-    "Desc1": "Radiant stone used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region2-Fluorescent_Stone",
     "Rarity": 2,
     "Region": 2
   },
@@ -1082,9 +856,6 @@
     "SubType": "Claw",
     "ItemLevel": 18,
     "Value": 59,
-    "Desc1": "Claw of lizard used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region2-Lizard_Claw",
     "Rarity": 2,
     "Region": 2
   },
@@ -1094,9 +865,6 @@
     "SubType": "Scale",
     "ItemLevel": 22,
     "Value": 158,
-    "Desc1": "Molt of Kobald, versatile for weapons",
-    "Desc2": "and armor",
-    "Image": "Materials-Region2-Kobold_Scale",
     "Rarity": 3,
     "Region": 2
   },
@@ -1106,9 +874,6 @@
     "SubType": "Ore",
     "ItemLevel": 18,
     "Value": 131,
-    "Desc1": "Refined Cobalt forged of skilled",
-    "Desc2": "Kobalds, used to make weapons",
-    "Image": "Materials-Region2-Imbued_Cobalt",
     "Rarity": 3,
     "Region": 2
   },
@@ -1118,9 +883,6 @@
     "SubType": "Blade",
     "ItemLevel": 22,
     "Value": 158,
-    "Desc1": "Blade of enraged Kobald, used to",
-    "Desc2": "make weapons",
-    "Image": "Materials-Region2-Agitated_Blade",
     "Rarity": 3,
     "Region": 2
   },
@@ -1130,9 +892,6 @@
     "SubType": "Minerals",
     "ItemLevel": 23,
     "Value": 165,
-    "Desc1": "Magical sediment, versatile for",
-    "Desc2": "weapons and armor",
-    "Image": "Materials-Region2-Sediment_Arcana",
     "Rarity": 3,
     "Region": 2
   },
@@ -1142,9 +901,6 @@
     "SubType": "Relic",
     "ItemLevel": 25,
     "Value": 178,
-    "Desc1": "Crux of a divine Kobald, versatile for",
-    "Desc2": "weapons and armor",
-    "Image": "Materials-Region2-Alkaline_Crux",
     "Rarity": 3,
     "Region": 2
   },
@@ -1154,9 +910,6 @@
     "SubType": "Bone",
     "ItemLevel": 20,
     "Value": 144,
-    "Desc1": "Bones of a renowned Kobald,",
-    "Desc2": "versatile for weapons and armor",
-    "Image": "Materials-Region2-Ancient_Marrow",
     "Rarity": 3,
     "Region": 2
   },
@@ -1166,9 +919,6 @@
     "SubType": "Bone",
     "ItemLevel": 15,
     "Value": 110,
-    "Desc1": "Beak of great a Albatross used to",
-    "Desc2": "make weapons",
-    "Image": "Materials-Region2-Giant_Neb",
     "Rarity": 3,
     "Region": 2
   },
@@ -1178,9 +928,6 @@
     "SubType": "Relic",
     "ItemLevel": 18,
     "Value": 131,
-    "Desc1": "Life force of a great Sand Lizard,",
-    "Desc2": "versatile for all equipment",
-    "Image": "Materials-Region2-Hydro_Sphere",
     "Rarity": 3,
     "Region": 2
   },
@@ -1190,9 +937,6 @@
     "SubType": "Misc",
     "ItemLevel": 17,
     "Value": 124,
-    "Desc1": "Membrane of a great Jellyfish used to",
-    "Desc2": "make armor",
-    "Image": "Materials-Region2-Fleshy_Membrane",
     "Rarity": 3,
     "Region": 2
   },
@@ -1202,9 +946,6 @@
     "SubType": "Minerals",
     "ItemLevel": 16,
     "Value": 117,
-    "Desc1": "Barnacle like material of a great turtle,",
-    "Desc2": "versatile for trinkets and armor",
-    "Image": "Materials-Region2-Reef_Minerals",
     "Rarity": 3,
     "Region": 2
   },
@@ -1214,9 +955,6 @@
     "SubType": "Bone",
     "ItemLevel": 25,
     "Value": 178,
-    "Desc1": "Exoskeleton of giant Sandstriker,",
-    "Desc2": "used to make armor",
-    "Image": "Materials-Region2-Sand_Striker_Exoskeleton",
     "Rarity": 3,
     "Region": 2
   },
@@ -1226,9 +964,6 @@
     "SubType": "Leg",
     "ItemLevel": 19,
     "Value": 138,
-    "Desc1": "Spider-like crab leg used to make",
-    "Desc2": "weapons",
-    "Image": "Materials-Region2-Marinachnid_Leg",
     "Rarity": 3,
     "Region": 2
   },
@@ -1238,9 +973,6 @@
     "SubType": "Hide",
     "ItemLevel": 25,
     "Value": 178,
-    "Desc1": "Rugged skin of frog, verstile for",
-    "Desc2": "weapons and armor",
-    "Image": "Materials-Region2-Warted_Skin",
     "Rarity": 3,
     "Region": 2
   },
@@ -1250,71 +982,57 @@
     "SubType": "Relic",
     "ItemLevel": 25,
     "Value": 267,
-    "Desc1": "Charm of the Yarsol Coast, versatile",
-    "Desc2": "for trinkets and armor",
-    "Image": "Materials-Region2-Coastal_Charm",
     "Rarity": 4,
     "Region": 2
   },
   "99": {
     "Id": "99",
-    "Name": "Coastal Essence",
+    "Name": "Coastal Essence of Water",
     "SubType": "Essence",
     "ItemLevel": 25,
     "Value": 267,
-    "Desc1": "Essence of great Yarsol Golems,",
-    "Desc2": "versatile for trinkets and armor",
-    "Image": "Materials-Region2-Coastal_Essence",
     "Rarity": 4,
     "Region": 2
   },
   "100": {
     "Id": "100",
     "Name": "Sandstone Crystal",
-    "SubType": "Crystal",
+    "SubType": "RegionCrystal",
     "ItemLevel": 10,
     "Value": 35,
-    "Desc1": "Fossilized crystal of the Yarsol Coast,",
-    "Desc2": "versatile for Aquamarine and weapons",
-    "Image": "Materials-Region2-Sandstone_Crystal",
     "Rarity": 2,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "101": {
     "Id": "101",
     "Name": "Aquamarine",
-    "SubType": "Gem",
+    "SubType": "RegionGem",
     "ItemLevel": 10,
     "Value": 154,
-    "Desc1": "Refined Sandstone Crystals used to",
-    "Desc2": "make Lazulite Runes",
-    "Image": "Materials-Region2-Aquamarine",
     "Rarity": 3,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "102": {
     "Id": "102",
     "Name": "Lazulite Rune",
-    "SubType": "Rune",
+    "SubType": "RegionRune",
     "ItemLevel": 10,
     "Value": 678,
-    "Desc1": "Most stable Yarsol Coast magic,",
-    "Desc2": "versatile for trinkets and armor",
-    "Image": "Materials-Region2-Lazulite_Rune",
     "Rarity": 4,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "150": {
     "Id": "150",
     "Name": "Titanium Ore",
-    "SubType": "Ore",
+    "SubType": "UnrefinedIngot",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Ore used to make Titanium Ingots",
-    "Desc2": "",
-    "Image": "Materials-Region3-Titanium_Ore",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "151": {
     "Id": "151",
@@ -1322,9 +1040,6 @@
     "SubType": "CraftedIngot",
     "ItemLevel": 20,
     "Value": 117,
-    "Desc1": "Robust metal used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region3-Titanium_Ingot",
     "Rarity": 1,
     "Region": 3,
     "CrafterID": 1,
@@ -1336,19 +1051,18 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "152": {
     "Id": "152",
     "Name": "Titanium Chunk",
-    "SubType": "Ore",
+    "SubType": "UnrefinedPlate",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Chunk used to make Titanium Plates",
-    "Desc2": "",
-    "Image": "Materials-Region3-Titanium_Chunk",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "153": {
     "Id": "153",
@@ -1356,9 +1070,6 @@
     "SubType": "CraftedPlate",
     "ItemLevel": 20,
     "Value": 117,
-    "Desc1": "Robust plate used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region3-Titanium_Plate",
     "Rarity": 1,
     "Region": 3,
     "CrafterID": 2,
@@ -1370,19 +1081,18 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "154": {
     "Id": "154",
     "Name": "Howlthorn Log",
-    "SubType": "Log",
+    "SubType": "UnrefinedLumber",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Wood used to make Howlthorn Lumber",
-    "Desc2": "",
-    "Image": "Materials-Region3-Howlthorn_Log",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "155": {
     "Id": "155",
@@ -1390,9 +1100,6 @@
     "SubType": "CraftedLumber",
     "ItemLevel": 20,
     "Value": 117,
-    "Desc1": "Enhanced wood used to make weapons",
-    "Desc2": "",
-    "Image": "Materials-Region3-Howlthorn_Lumber",
     "Rarity": 1,
     "Region": 3,
     "CrafterID": 3,
@@ -1404,19 +1111,18 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "156": {
     "Id": "156",
     "Name": "Highland Rye",
-    "SubType": "Fiber",
+    "SubType": "UnrefinedFabric",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Fiber used to make Highland Cloth",
-    "Desc2": "",
-    "Image": "Materials-Region3-Highland_Rye",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "157": {
     "Id": "157",
@@ -1424,9 +1130,6 @@
     "SubType": "CraftedFabric",
     "ItemLevel": 20,
     "Value": 117,
-    "Desc1": "Mighty cloth used to make armor",
-    "Desc2": "",
-    "Image": "Materials-Region3-Highland_Cloth",
     "Rarity": 1,
     "Region": 3,
     "CrafterID": 4,
@@ -1438,7 +1141,8 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "158": {
     "Id": "158",
@@ -1446,11 +1150,9 @@
     "SubType": "Fiber",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Goes great in a porridge",
-    "Desc2": "",
-    "Image": "Materials-Region3-Oats",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "159": {
     "Id": "159",
@@ -1458,11 +1160,9 @@
     "SubType": "Mushroom",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Smells of the highlands",
-    "Desc2": "",
-    "Image": "Materials-Region3-Chanterelle",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "160": {
     "Id": "160",
@@ -1470,9 +1170,6 @@
     "SubType": "Fur",
     "ItemLevel": 21,
     "Value": 56,
-    "Desc1": "Pelt of animals found in the highlands",
-    "Desc2": "",
-    "Image": "Materials-Region3-Aldurnian_Pelt",
     "Rarity": 1,
     "Region": 3
   },
@@ -1482,9 +1179,6 @@
     "SubType": "Antler",
     "ItemLevel": 23,
     "Value": 110,
-    "Desc1": "Hardened antlers of animals found in the highlands",
-    "Desc2": "",
-    "Image": "Materials-Region3-Alpine_Antler",
     "Rarity": 2,
     "Region": 3
   },
@@ -1494,9 +1188,6 @@
     "SubType": "Horn",
     "ItemLevel": 22,
     "Value": 59,
-    "Desc1": "Hoof used to scale mountains",
-    "Desc2": "",
-    "Image": "Materials-Region3-Stone_Worn_Hoof",
     "Rarity": 1,
     "Region": 3
   },
@@ -1506,9 +1197,6 @@
     "SubType": "Hide",
     "ItemLevel": 24,
     "Value": 114,
-    "Desc1": "Large horn from a great ram",
-    "Desc2": "",
-    "Image": "Materials-Region3-Ram_Horn",
     "Rarity": 2,
     "Region": 3
   },
@@ -1518,9 +1206,6 @@
     "SubType": "Claw",
     "ItemLevel": 22,
     "Value": 59,
-    "Desc1": "Feather of a Roc",
-    "Desc2": "",
-    "Image": "Materials-Region3-Roc_Feather",
     "Rarity": 1,
     "Region": 3
   },
@@ -1530,9 +1215,6 @@
     "SubType": "Bone",
     "ItemLevel": 23,
     "Value": 110,
-    "Desc1": "Abnormally large skeleton of a Roc",
-    "Desc2": "",
-    "Image": "Materials-Region3-Roc_Skeletal_Wing",
     "Rarity": 2,
     "Region": 3
   },
@@ -1542,9 +1224,6 @@
     "SubType": "Cloth",
     "ItemLevel": 24,
     "Value": 64,
-    "Desc1": "A shred of other-worldly cloth",
-    "Desc2": "",
-    "Image": "Materials-Region3-Ghostly_Cloth",
     "Rarity": 1,
     "Region": 3
   },
@@ -1554,45 +1233,404 @@
     "SubType": "Fire",
     "ItemLevel": 26,
     "Value": 123,
-    "Desc1": "Used to lure in lost souls",
-    "Desc2": "",
-    "Image": "Materials-Region3-Wayward_Flame",
     "Rarity": 2,
+    "Region": 3
+  },
+  "168": {
+    "Id": "168",
+    "Name": "Petrified Howlthorn",
+    "SubType": "Minerals",
+    "ItemLevel": 25,
+    "Value": 119,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "169": {
+    "Id": "169",
+    "Name": "Spirit Scythe Blade",
+    "SubType": "Blade",
+    "ItemLevel": 31,
+    "Value": 325,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "170": {
+    "Id": "170",
+    "Name": "Yak Hackles",
+    "SubType": "Fur",
+    "ItemLevel": 28,
+    "Value": 294,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "171": {
+    "Id": "171",
+    "Name": "Yak Chuck",
+    "SubType": "Meat",
+    "ItemLevel": 29,
+    "Value": 304,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "172": {
+    "Id": "172",
+    "Name": "Head of Skinwalker",
+    "SubType": "Head",
+    "ItemLevel": 30,
+    "Value": 471,
+    "Rarity": 4,
+    "Region": 3
+  },
+  "173": {
+    "Id": "173",
+    "Name": "Golden Roc Feather",
+    "SubType": "Feather",
+    "ItemLevel": 30,
+    "Value": 471,
+    "Rarity": 4,
+    "Region": 3
+  },
+  "174": {
+    "Id": "174",
+    "Name": "Drake Tail Spike",
+    "SubType": "Claw",
+    "ItemLevel": 27,
+    "Value": 71,
+    "Rarity": 1,
+    "Region": 3
+  },
+  "175": {
+    "Id": "175",
+    "Name": "Drake Ribs",
+    "SubType": "Bone",
+    "ItemLevel": 28,
+    "Value": 133,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "176": {
+    "Id": "176",
+    "Name": "Acid Sac",
+    "SubType": "Gland",
+    "ItemLevel": 32,
+    "Value": 335,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "177": {
+    "Id": "177",
+    "Name": "Vaudnite",
+    "SubType": "Ore",
+    "ItemLevel": 24,
+    "Value": 114,
+    "Rarity": 2,
+    "Region": 3,
+    "ForbidInfusion": true
+  },
+  "178": {
+    "Id": "178",
+    "Name": "Ogre Bone Chain",
+    "SubType": "Bone",
+    "ItemLevel": 26,
+    "Value": 69,
+    "Rarity": 1,
+    "Region": 3
+  },
+  "179": {
+    "Id": "179",
+    "Name": "Ogre Gorp",
+    "SubType": "Sweetener",
+    "ItemLevel": 30,
+    "Value": 142,
+    "Rarity": 2,
+    "Region": 3,
+    "ForbidInfusion": true
+  },
+  "180": {
+    "Id": "180",
+    "Name": "Fused Double Clavicle",
+    "SubType": "Bone",
+    "ItemLevel": 30,
+    "Value": 314,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "181": {
+    "Id": "181",
+    "Name": "Lucent Loch Moss",
+    "SubType": "Herb",
+    "ItemLevel": 31,
+    "Value": 146,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "182": {
+    "Id": "182",
+    "Name": "Loch Neck Chitin",
+    "SubType": "Chitin",
+    "ItemLevel": 33,
+    "Value": 345,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "183": {
+    "Id": "183",
+    "Name": "Loch Skullplate",
+    "SubType": "Skull",
+    "ItemLevel": 35,
+    "Value": 548,
+    "Rarity": 4,
+    "Region": 3
+  },
+  "184": {
+    "Id": "184",
+    "Name": "Mountainback Heart",
+    "SubType": "Gem",
+    "ItemLevel": 35,
+    "Value": 904,
+    "Rarity": 5,
+    "Region": 3
+  },
+  "185": {
+    "Id": "185",
+    "Name": "Harpy Feather",
+    "SubType": "Feather",
+    "ItemLevel": 25,
+    "Value": 66,
+    "Rarity": 1,
+    "Region": 3
+  },
+  "186": {
+    "Id": "186",
+    "Name": "Scrapper Scrap",
+    "SubType": "Metal",
+    "ItemLevel": 27,
+    "Value": 128,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "187": {
+    "Id": "187",
+    "Name": "Scrapper Talon",
+    "SubType": "Claw",
+    "ItemLevel": 28,
+    "Value": 294,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "188": {
+    "Id": "188",
+    "Name": "Harpy Axe Head",
+    "SubType": "Metal",
+    "ItemLevel": 27,
+    "Value": 128,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "189": {
+    "Id": "189",
+    "Name": "Harpy Headressing",
+    "SubType": "Fabric",
+    "ItemLevel": 28,
+    "Value": 294,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "190": {
+    "Id": "190",
+    "Name": "Harpy Rod",
+    "SubType": "Hilt",
+    "ItemLevel": 26,
+    "Value": 69,
+    "Rarity": 1,
+    "Region": 3
+  },
+  "191": {
+    "Id": "191",
+    "Name": "Harpy Tome",
+    "SubType": "Scripture",
+    "ItemLevel": 26,
+    "Value": 123,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "192": {
+    "Id": "192",
+    "Name": "Solar Imbued Artifact",
+    "SubType": "Rune",
+    "ItemLevel": 27,
+    "Value": 284,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "193": {
+    "Id": "193",
+    "Name": "Roc Treat",
+    "SubType": "Berry",
+    "ItemLevel": 28,
+    "Value": 294,
+    "Rarity": 3,
+    "Region": 3,
+    "ForbidInfusion": true
+  },
+  "194": {
+    "Id": "194",
+    "Name": "Vautanium Plate",
+    "SubType": "CraftedPlate",
+    "ItemLevel": 25,
+    "Value": 383,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 2,
+    "Time": 33,
+    "Exp": 55,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "177",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "ForbidInfusion": true
+  },
+  "195": {
+    "Id": "195",
+    "Name": "Skytamer Aeroblade",
+    "SubType": "Blade",
+    "ItemLevel": 29,
+    "Value": 304,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "196": {
+    "Id": "196",
+    "Name": "Moonlit Witch Dust",
+    "SubType": "Dust",
+    "ItemLevel": 29,
+    "Value": 137,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "197": {
+    "Id": "197",
+    "Name": "Lunar Artifact",
+    "SubType": "Rune",
+    "ItemLevel": 33,
+    "Value": 345,
+    "Rarity": 3,
     "Region": 3
   },
   "198": {
     "Id": "198",
     "Name": "Highland Crystal",
-    "SubType": "Crystal",
+    "SubType": "RegionCrystal",
     "ItemLevel": 20,
     "Value": 96,
-    "Desc1": "Crystal found in the heart of the mountains, a lesser Ruby",
-    "Desc2": "",
-    "Image": "Materials-Region3-Highland_Crystal",
     "Rarity": 2,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "199": {
     "Id": "199",
     "Name": "Ruby",
-    "SubType": "Gem",
+    "SubType": "RegionGem",
     "ItemLevel": 20,
     "Value": 212,
-    "Desc1": "Refined Highland Crystals, used to make Crimsonite Runes",
-    "Desc2": "",
-    "Image": "Materials-Region3-Ruby",
     "Rarity": 3,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "200": {
     "Id": "200",
     "Name": "Crimsonite Rune",
-    "SubType": "Rune",
+    "SubType": "RegionRune",
     "ItemLevel": 20,
     "Value": 318,
-    "Desc1": "Most stable Aldur Highland magic",
-    "Desc2": "",
-    "Image": "Materials-Region3-Crimsonite_Rune",
+    "Rarity": 4,
+    "Region": 3,
+    "ForbidInfusion": true
+  },
+  "201": {
+    "Id": "201",
+    "Name": "Hagwitch Moon Charm",
+    "SubType": "Relic",
+    "ItemLevel": 34,
+    "Value": 533,
+    "Rarity": 4,
+    "Region": 3
+  },
+  "202": {
+    "Id": "202",
+    "Name": "Witch Concotion",
+    "SubType": "Essence",
+    "ItemLevel": 29,
+    "Value": 304,
+    "Rarity": 3,
+    "Region": 3
+  },
+  "203": {
+    "Id": "203",
+    "Name": "Vautanium Ingot",
+    "SubType": "CraftedIngot",
+    "ItemLevel": 25,
+    "Value": 383,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 1,
+    "Time": 33,
+    "Exp": 55,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "177",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "ForbidInfusion": true
+  },
+  "204": {
+    "Id": "204",
+    "Name": "Highland Charm",
+    "SubType": "Relic",
+    "ItemLevel": 25,
+    "Value": 395,
+    "Rarity": 4,
+    "Region": 3
+  },
+  "205": {
+    "Id": "205",
+    "Name": "Highland Essence of Earth",
+    "SubType": "Essence",
+    "ItemLevel": 25,
+    "Value": 395,
+    "Rarity": 4,
+    "Region": 3
+  },
+  "206": {
+    "Id": "206",
+    "Name": "Ogre Bone Blade",
+    "SubType": "Blade",
+    "ItemLevel": 28,
+    "Value": 133,
+    "Rarity": 2,
+    "Region": 3
+  },
+  "207": {
+    "Id": "207",
+    "Name": "Cursed Blood Coagulum",
+    "SubType": "Blood",
+    "ItemLevel": 33,
+    "Value": 517,
     "Rarity": 4,
     "Region": 3
   },
@@ -1602,11 +1640,9 @@
     "SubType": "Grain",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Common grain from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Barley",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "802": {
     "Id": "802",
@@ -1614,11 +1650,9 @@
     "SubType": "Fruit",
     "ItemLevel": 3,
     "Value": 9,
-    "Desc1": "Common fruit from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Apple",
     "Rarity": 2,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "803": {
     "Id": "803",
@@ -1626,11 +1660,9 @@
     "SubType": "Spice",
     "ItemLevel": 5,
     "Value": 12,
-    "Desc1": "Uncommon spice from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Goblin_Spice_Pouch",
     "Rarity": 2,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "804": {
     "Id": "804",
@@ -1638,11 +1670,9 @@
     "SubType": "Mushroom",
     "ItemLevel": 3,
     "Value": 5,
-    "Desc1": "Common mushroom from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Tuvale_Mushroom",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "805": {
     "Id": "805",
@@ -1650,11 +1680,9 @@
     "SubType": "Spice",
     "ItemLevel": 3,
     "Value": 9,
-    "Desc1": "Common spice from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Ginger",
     "Rarity": 2,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "806": {
     "Id": "806",
@@ -1662,11 +1690,9 @@
     "SubType": "Vegetable",
     "ItemLevel": 1,
     "Value": 3,
-    "Desc1": "Common vegetable from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Potato",
     "Rarity": 1,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "807": {
     "Id": "807",
@@ -1674,11 +1700,9 @@
     "SubType": "Meat",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Rare meat from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Bear_Meat",
     "Rarity": 3,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "808": {
     "Id": "808",
@@ -1686,11 +1710,9 @@
     "SubType": "Sweetener",
     "ItemLevel": 10,
     "Value": 42,
-    "Desc1": "Rare sweetener from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Honey",
     "Rarity": 3,
-    "Region": 1
+    "Region": 1,
+    "ForbidInfusion": true
   },
   "809": {
     "Id": "809",
@@ -1698,13 +1720,10 @@
     "SubType": "CraftedFoodIngredient",
     "ItemLevel": 1,
     "Value": 7,
-    "Desc1": "Common crafted from Tuvale",
-    "Desc2": "",
-    "Image": "Materials-Region1-Flour",
     "Rarity": 1,
     "Region": 1,
     "CrafterID": 6,
-    "Time": 15,
+    "Time": 60,
     "Exp": 2,
     "Recipe": [
       {
@@ -1712,7 +1731,8 @@
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "810": {
     "Id": "810",
@@ -1720,11 +1740,9 @@
     "SubType": "Grain",
     "ItemLevel": 10,
     "Value": 19,
-    "Desc1": "Common Grain from Yarsol",
-    "Desc2": "",
-    "Image": "Materials-Region2-Rice",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "811": {
     "Id": "811",
@@ -1732,11 +1750,9 @@
     "SubType": "Fruit",
     "ItemLevel": 15,
     "Value": 50,
-    "Desc1": "A fruit from Yarsol",
-    "Desc2": "",
-    "Image": "Materials-Region2-Coconut",
     "Rarity": 2,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "812": {
     "Id": "812",
@@ -1744,11 +1760,9 @@
     "SubType": "Fruit",
     "ItemLevel": 15,
     "Value": 110,
-    "Desc1": "Sponges commonly use this as a house",
-    "Desc2": "",
-    "Image": "Materials-Region2-Pineapple",
     "Rarity": 3,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "813": {
     "Id": "813",
@@ -1756,11 +1770,9 @@
     "SubType": "Mushroom",
     "ItemLevel": 10,
     "Value": 19,
-    "Desc1": "Common fungus in Yarsol",
-    "Desc2": "",
-    "Image": "Materials-Region2-Lichen",
     "Rarity": 1,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "814": {
     "Id": "814",
@@ -1768,11 +1780,9 @@
     "SubType": "Gland",
     "ItemLevel": 13,
     "Value": 44,
-    "Desc1": "A mollusk from Yarsol",
-    "Desc2": "",
-    "Image": "Materials-Region2-Clam",
     "Rarity": 2,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "815": {
     "Id": "815",
@@ -1780,11 +1790,9 @@
     "SubType": "Sweetener",
     "ItemLevel": 15,
     "Value": 110,
-    "Desc1": "Seed used to grow trees in Yarsol",
-    "Desc2": "",
-    "Image": "Materials-Region2-Cocoa_Powder",
     "Rarity": 3,
-    "Region": 2
+    "Region": 2,
+    "ForbidInfusion": true
   },
   "816": {
     "Id": "816",
@@ -1792,11 +1800,9 @@
     "SubType": "Vegetable",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Common vegetable from Aldur",
-    "Desc2": "",
-    "Image": "Materials-Region3-Cabbage",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "817": {
     "Id": "817",
@@ -1804,11 +1810,9 @@
     "SubType": "Vegetable",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Common vegetable from Aldur",
-    "Desc2": "",
-    "Image": "Materials-Region3-Garlic",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "818": {
     "Id": "818",
@@ -1816,11 +1820,9 @@
     "SubType": "Vegetable",
     "ItemLevel": 23,
     "Value": 110,
-    "Desc1": "Uncommon vegetable from Aldur",
-    "Desc2": "",
-    "Image": "Materials-Region3-Sorrel",
     "Rarity": 2,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "819": {
     "Id": "819",
@@ -1828,33 +1830,29 @@
     "SubType": "Ichor",
     "ItemLevel": 23,
     "Value": 110,
-    "Desc1": "Milk from goat like animals",
-    "Desc2": "",
-    "Image": "Materials-Region3-Goat_Milk",
     "Rarity": 2,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
   },
   "820": {
     "Id": "820",
     "Name": "Buttermilk",
     "SubType": "CraftedFoodIngredient",
-    "ItemLevel": 23,
+    "ItemLevel": 21,
     "Value": 242,
-    "Desc1": "Creamy liquid from Goat Milk",
-    "Desc2": "",
-    "Image": "Materials-Region3-Buttermilk",
     "Rarity": 2,
     "Region": 3,
     "CrafterID": 6,
-    "Time": 15,
-    "Exp": 51,
+    "Time": 300,
+    "Exp": 47,
     "Recipe": [
       {
         "Id": "819",
         "Amount": 2,
         "Type": 2
       }
-    ]
+    ],
+    "ForbidInfusion": true
   },
   "821": {
     "Id": "821",
@@ -1862,10 +1860,93 @@
     "SubType": "Berry",
     "ItemLevel": 20,
     "Value": 53,
-    "Desc1": "Common berry from Aldur",
-    "Desc2": "",
-    "Image": "Materials-Region3-Howlthorn_Berry",
     "Rarity": 1,
-    "Region": 3
+    "Region": 3,
+    "ForbidInfusion": true
+  },
+  "822": {
+    "Id": "822",
+    "Name": "Carrot",
+    "SubType": "Vegetable",
+    "ItemLevel": 23,
+    "Value": 110,
+    "Rarity": 2,
+    "Region": 3,
+    "ForbidInfusion": true
+  },
+  "823": {
+    "Id": "823",
+    "Name": "Damson",
+    "SubType": "Fruit",
+    "ItemLevel": 25,
+    "Value": 263,
+    "Rarity": 3,
+    "Region": 3,
+    "ForbidInfusion": true
+  },
+  "824": {
+    "Id": "824",
+    "Name": "Cut Drake Ribs",
+    "SubType": "CraftedFoodIngredient",
+    "ItemLevel": 27,
+    "Value": 220,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 600,
+    "Exp": 60,
+    "Recipe": [
+      {
+        "Id": "175",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "ForbidInfusion": true
+  },
+  "825": {
+    "Id": "825",
+    "Name": "Yak Brisket",
+    "SubType": "CraftedFoodIngredient",
+    "ItemLevel": 24,
+    "Value": 84,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 1200,
+    "Exp": 53,
+    "Recipe": [
+      {
+        "Id": "171",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "ForbidInfusion": true
+  },
+  "826": {
+    "Id": "826",
+    "Name": "Gorp Slurry",
+    "SubType": "CraftedFoodIngredient",
+    "ItemLevel": 22,
+    "Value": 157,
+    "Rarity": 2,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 200,
+    "Exp": 49,
+    "Recipe": [
+      {
+        "Id": "179",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "176",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "ForbidInfusion": true
   }
 }

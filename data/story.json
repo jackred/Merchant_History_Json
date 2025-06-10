@@ -1,41 +1,328 @@
 {
   "Quests": [
     {
-      "_comment": "shop level 2",
-      "Rewards": "mat:2$5|mat:1$5",
-      "QuestType": 99020,
-      "RequiredAmount": 2,
-      "Var": "shop"
+      "Rewards": "gold:50|loot:1$1",
+      "QuestType": 31,
+      "RequiredAmount": 2
     },
     {
-      "_comment": "hero hall lvl 2",
-      "Rewards": "mat:7$5|mat:8$5",
-      "QuestType": 99020,
-      "RequiredAmount": 2,
-      "Var": "hhall",
+      "Rewards": "gold:50|csm:1$5",
+      "QuestType": 100,
+      "RequiredAmount": 5,
       "DependsOn": 0
     },
     {
-      "_comment": "reach lvl 5 any hero",
-      "Rewards": "gold:1200|tkn:1$3",
-      "QuestType": 9012,
+      "Rewards": "gold:100|mat:2$10|mat:7$10|mat:8$10|mat:1$10",
+      "QuestType": 20,
       "RequiredAmount": 5,
       "DependsOn": 1
     },
     {
-      "_comment": "Guild join/create",
-      "Rewards": "gold:2000|loot:1$5",
-      "QuestType": 9001,
-      "RequiredAmount": 1,
+      "Rewards": "gold:50|loot:1$1",
+      "QuestType": 40,
+      "RequiredAmount": 3,
       "DependsOn": 2
     },
     {
-      "_comment": "Win at goblin fort",
-      "Rewards": "gold:3500",
-      "QuestType": 10110,
-      "RequiredAmount": 25,
-      "Var": "goblin_fort",
+      "Rewards": "gold:500|tkn:0$5",
+      "QuestType": 9001,
+      "RequiredAmount": 1,
       "DependsOn": 3
+    },
+    {
+      "Rewards": "gold:100|tkn:120$5",
+      "QuestType": 99020,
+      "RequiredAmount": 2,
+      "Var": "shop",
+      "DependsOn": 4
+    },
+    {
+      "Rewards": "gold:100|tkn:0$5",
+      "QuestType": 41,
+      "RequiredAmount": 5,
+      "DependsOn": 5
+    },
+    {
+      "Rewards": "gold:100|tkn:2$5",
+      "QuestType": 99020,
+      "RequiredAmount": 2,
+      "Var": "hhall",
+      "DependsOn": 6
+    },
+    {
+      "Rewards": "gold:50|csm:1$5",
+      "QuestType": 9015,
+      "RequiredAmount": 2,
+      "DependsOn": 7
+    },
+    {
+      "Rewards": "gold:100|tkn:100$2",
+      "QuestType": 99020,
+      "RequiredAmount": 2,
+      "Var": "gate",
+      "DependsOn": 8
+    },
+    {
+      "Rewards": "gold:300|tkn:1$5|loot:2$1",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "3",
+      "DependsOn": 9,
+      "CustomDesc": "Legend says it roams the Scarab Woods"
+    },
+    {
+      "Rewards": "gold:300|tkn:0$5",
+      "QuestType": 3,
+      "RequiredAmount": 3,
+      "DependsOn": 10
+    },
+    {
+      "Rewards": "gold:1000|mat:2$20|mat:7$20|mat:8$20|mat:1$20",
+      "QuestType": 99020,
+      "RequiredAmount": 5,
+      "Var": "craft",
+      "DependsOn": 11
+    },
+    {
+      "Rewards": "gold:300|tkn:20$5",
+      "QuestType": 20,
+      "RequiredAmount": 20,
+      "DependsOn": 12
+    },
+    {
+      "Rewards": "gold:400|tkn:10$10",
+      "QuestType": 300,
+      "RequiredAmount": 20,
+      "DependsOn": 13
+    },
+    {
+      "Rewards": "gold:100|tkn:2$5",
+      "QuestType": 99020,
+      "RequiredAmount": 4,
+      "Var": "tavern",
+      "DependsOn": 14
+    },
+    {
+      "Rewards": "gold:100|tkn:1$5",
+      "QuestType": 10015,
+      "RequiredAmount": 1,
+      "Var": "Berserker",
+      "DependsOn": 15
+    },
+    {
+      "Rewards": "gold:100|tkn:1$5",
+      "QuestType": 99013,
+      "RequiredAmount": 2,
+      "Var": "5",
+      "DependsOn": 16
+    },
+    {
+      "Rewards": "gold:300|tkn:120$10",
+      "QuestType": 10100,
+      "RequiredAmount": 10,
+      "Var": "16",
+      "DependsOn": 17
+    },
+    {
+      "Rewards": "gold:300|tkn:21$5|tkn:22$5",
+      "QuestType": 99020,
+      "RequiredAmount": 6,
+      "Var": "craft",
+      "DependsOn": 18
+    },
+    {
+      "Rewards": "gold:300|tkn:45$5|loot:37$5",
+      "QuestType": 23,
+      "RequiredAmount": 10,
+      "DependsOn": 19
+    },
+    {
+      "Rewards": "gold:500|tkn:140$1|csm:1$20",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "9",
+      "DependsOn": 20,
+      "CustomDesc": "Legend says it roams the Snake Pit"
+    },
+    {
+      "Rewards": "gold:500|tkn:22$10|loot:37$2",
+      "QuestType": 20,
+      "RequiredAmount": 10,
+      "DependsOn": 21
+    },
+    {
+      "Rewards": "gold:1000|loot:2$10",
+      "QuestType": 99020,
+      "RequiredAmount": 3,
+      "Var": "shop",
+      "DependsOn": 22
+    },
+    {
+      "Rewards": "gold:100|loot:40$1",
+      "QuestType": 42,
+      "RequiredAmount": 6,
+      "DependsOn": 23
+    },
+    {
+      "Rewards": "gold:300|loot:40$1",
+      "QuestType": 41,
+      "RequiredAmount": 2,
+      "DependsOn": 24
+    },
+    {
+      "Rewards": "gold:500|tkn:1$10",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "6",
+      "DependsOn": 25,
+      "CustomDesc": "Legend says it roams the Spider Sanctuary"
+    },
+    {
+      "Rewards": "gold:200|tkn:11$10",
+      "QuestType": 10300,
+      "RequiredAmount": 20,
+      "Var": "2",
+      "DependsOn": 26
+    },
+    {
+      "Rewards": "gold:300|loot:2$5",
+      "QuestType": 10020,
+      "RequiredAmount": 1,
+      "Var": "51",
+      "DependsOn": 27
+    },
+    {
+      "Rewards": "gold:1000|loot:2$10|tkn:100$1",
+      "QuestType": 144,
+      "RequiredAmount": 10,
+      "DependsOn": 28
+    },
+    {
+      "Rewards": "gold:300|loot:1$10",
+      "QuestType": 10020,
+      "RequiredAmount": 1,
+      "Var": "16",
+      "DependsOn": 29
+    },
+    {
+      "Rewards": "gold:500|tkn:140$2|csm:4$5",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "12",
+      "DependsOn": 30,
+      "CustomDesc": "Legend says it roams Hogger's Lake"
+    },
+    {
+      "Rewards": "gold:500|csm:4$5|csm:1$20|csm:6$3",
+      "QuestType": 99020,
+      "RequiredAmount": 7,
+      "Var": "hhall",
+      "DependsOn": 31
+    },
+    {
+      "Rewards": "gold:300|tkn:1$5",
+      "QuestType": 9012,
+      "RequiredAmount": 10,
+      "DependsOn": 32
+    },
+    {
+      "Rewards": "gold:300|tkn:2$10",
+      "QuestType": 99020,
+      "RequiredAmount": 7,
+      "Var": "tavern",
+      "DependsOn": 33
+    },
+    {
+      "Rewards": "gold:300|tkn:12$5",
+      "QuestType": 10300,
+      "RequiredAmount": 2,
+      "Var": "3",
+      "DependsOn": 34
+    },
+    {
+      "Rewards": "gold:500|tkn:140$3|csm:4$10",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "15",
+      "DependsOn": 35,
+      "CustomDesc": "Legend says it roams the Crosscut Cave"
+    },
+    {
+      "Rewards": "gold:1000|tkn:45$10|loot:2$5",
+      "QuestType": 99020,
+      "RequiredAmount": 8,
+      "Var": "craft",
+      "DependsOn": 36
+    },
+    {
+      "Rewards": "gold:1500|loot:37$10",
+      "QuestType": 20,
+      "RequiredAmount": 10,
+      "DependsOn": 37
+    },
+    {
+      "Rewards": "gold:300|tkn:2$5",
+      "QuestType": 100,
+      "RequiredAmount": 50,
+      "DependsOn": 38
+    },
+    {
+      "Rewards": "gold:300|tkn:1$10|csm:1$30|mat:41$10|mat:42$6",
+      "QuestType": 10100,
+      "RequiredAmount": 10,
+      "Var": "27",
+      "DependsOn": 39
+    },
+    {
+      "Rewards": "gold:1000|tkn:1$20|loot:40$5|tkn:100$2",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "25",
+      "DependsOn": 40,
+      "CustomDesc": "2nd in command at the Goblin Fort"
+    },
+    {
+      "Rewards": "gold:500|mat:53$20|mat:60$20|mat:55$20|mat:58$20",
+      "QuestType": 99020,
+      "RequiredAmount": 9,
+      "Var": "gate",
+      "DependsOn": 41
+    },
+    {
+      "Rewards": "gold:200|loot:4$5",
+      "QuestType": 30,
+      "RequiredAmount": 4,
+      "DependsOn": 42
+    },
+    {
+      "Rewards": "gold:300|loot:37$5",
+      "QuestType": 10030,
+      "RequiredAmount": 10,
+      "Var": "61",
+      "DependsOn": 43
+    },
+    {
+      "Rewards": "gold:500|tkn:121$5",
+      "QuestType": 10120,
+      "RequiredAmount": 20,
+      "Var": "2",
+      "DependsOn": 44
+    },
+    {
+      "Rewards": "gold:1500|tkn:140$5|tkn:100$5|tkn:120$15",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "26",
+      "DependsOn": 45,
+      "CustomDesc": "Commander of the Goblin Fort"
+    },
+    {
+      "Rewards": "gold:2000|tkn:140$10|tkn:100$10|tkn:120$30|csm:7$5",
+      "QuestType": 10100,
+      "RequiredAmount": 1,
+      "Var": "29",
+      "DependsOn": 46,
+      "CustomDesc": "Legend says it roams Ursa's Den"
     }
   ]
 }

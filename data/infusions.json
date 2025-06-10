@@ -699,84 +699,1423 @@
   },
   "Two": [
     {
-      "Id": "t1",
-      "MaterialOne": "12",
-      "MaterialTwo": "13",
-      "Prefix": "test",
-      "SynergyLevel": 5,
-      "CrafterExclude": [
+      "Id": "1",
+      "Prefix": "1",
+      "MaterialOne": "17",
+      "MaterialTwo": "22",
+      "MinLevel": 2,
+      "MaxLevel": 15,
+      "SynergyLevel": 7,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "10",
+      "Prefix": "10",
+      "MaterialOne": "45",
+      "MaterialTwo": "36",
+      "MinLevel": 9,
+      "MaxLevel": 22,
+      "SynergyLevel": 14,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "100",
+      "Prefix": "100",
+      "MaterialOne": "162",
+      "MaterialTwo": "178",
+      "MinLevel": 21,
+      "MaxLevel": 34,
+      "SynergyLevel": 26,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "101",
+      "Prefix": "101",
+      "MaterialOne": "164",
+      "MaterialTwo": "169",
+      "MinLevel": 26,
+      "MaxLevel": 39,
+      "SynergyLevel": 31,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "102",
+      "Prefix": "102",
+      "MaterialOne": "165",
+      "MaterialTwo": "181",
+      "MinLevel": 26,
+      "MaxLevel": 39,
+      "SynergyLevel": 31,
+      "ItemSlots": [
         1,
-        3
-      ],
-      "MinLevel": 1,
-      "MaxLevel": 33
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
-      "Id": "t2",
-      "MaterialOne": "12",
+      "Id": "103",
+      "Prefix": "103",
+      "MaterialOne": "167",
+      "MaterialTwo": "168",
+      "MinLevel": 21,
+      "MaxLevel": 34,
+      "SynergyLevel": 26,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "104",
+      "Prefix": "104",
+      "MaterialOne": "170",
+      "MaterialTwo": "181",
+      "MinLevel": 26,
+      "MaxLevel": 39,
+      "SynergyLevel": 31,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "105",
+      "Prefix": "105",
+      "MaterialOne": "171",
+      "MaterialTwo": "166",
+      "MinLevel": 24,
+      "MaxLevel": 37,
+      "SynergyLevel": 29,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "106",
+      "Prefix": "106",
+      "MaterialOne": "172",
+      "MaterialTwo": "206",
+      "MinLevel": 25,
+      "MaxLevel": 38,
+      "SynergyLevel": 30,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "107",
+      "Prefix": "107",
+      "MaterialOne": "174",
+      "MaterialTwo": "176",
+      "MinLevel": 27,
+      "MaxLevel": 40,
+      "SynergyLevel": 32,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "108",
+      "Prefix": "108",
+      "MaterialOne": "175",
+      "MaterialTwo": "168",
+      "MinLevel": 23,
+      "MaxLevel": 36,
+      "SynergyLevel": 28,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "109",
+      "Prefix": "109",
+      "MaterialOne": "180",
+      "MaterialTwo": "205",
+      "MinLevel": 25,
+      "MaxLevel": 38,
+      "SynergyLevel": 30,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "11",
+      "Prefix": "11",
+      "MaterialOne": "38",
+      "MaterialTwo": "48",
+      "MinLevel": 9,
+      "MaxLevel": 22,
+      "SynergyLevel": 14,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "110",
+      "Prefix": "110",
+      "MaterialOne": "207",
+      "MaterialTwo": "176",
+      "MinLevel": 28,
+      "MaxLevel": 41,
+      "SynergyLevel": 33,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "111",
+      "Prefix": "111",
+      "MaterialOne": "182",
+      "MaterialTwo": "195",
+      "MinLevel": 28,
+      "MaxLevel": 41,
+      "SynergyLevel": 33,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "112",
+      "Prefix": "112",
+      "MaterialOne": "183",
+      "MaterialTwo": "173",
+      "MinLevel": 30,
+      "MaxLevel": 43,
+      "SynergyLevel": 35,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "113",
+      "Prefix": "113",
+      "MaterialOne": "184",
+      "MaterialTwo": "204",
+      "MinLevel": 30,
+      "MaxLevel": 43,
+      "SynergyLevel": 35,
+      "ItemSlots": [
+        1,
+        4
+      ]
+    },
+    {
+      "Id": "114",
+      "Prefix": "114",
+      "MaterialOne": "184",
+      "MaterialTwo": "183",
+      "MinLevel": 30,
+      "MaxLevel": 43,
+      "SynergyLevel": 35,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "115",
+      "Prefix": "115",
+      "MaterialOne": "185",
+      "MaterialTwo": "165",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "116",
+      "Prefix": "116",
+      "MaterialOne": "186",
+      "MaterialTwo": "181",
+      "MinLevel": 26,
+      "MaxLevel": 39,
+      "SynergyLevel": 31,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "117",
+      "Prefix": "117",
+      "MaterialOne": "187",
+      "MaterialTwo": "167",
+      "MinLevel": 23,
+      "MaxLevel": 36,
+      "SynergyLevel": 28,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "118",
+      "Prefix": "118",
+      "MaterialOne": "190",
+      "MaterialTwo": "174",
+      "MinLevel": 22,
+      "MaxLevel": 35,
+      "SynergyLevel": 27,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "119",
+      "Prefix": "119",
+      "MaterialOne": "188",
+      "MaterialTwo": "167",
+      "MinLevel": 22,
+      "MaxLevel": 35,
+      "SynergyLevel": 27,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "12",
+      "Prefix": "12",
+      "MaterialOne": "20",
+      "MaterialTwo": "41",
+      "MinLevel": 5,
+      "MaxLevel": 18,
+      "SynergyLevel": 10,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "120",
+      "Prefix": "120",
+      "MaterialOne": "189",
+      "MaterialTwo": "172",
+      "MinLevel": 25,
+      "MaxLevel": 38,
+      "SynergyLevel": 30,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "121",
+      "Prefix": "121",
+      "MaterialOne": "191",
+      "MaterialTwo": "169",
+      "MinLevel": 26,
+      "MaxLevel": 39,
+      "SynergyLevel": 31,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "122",
+      "Prefix": "122",
+      "MaterialOne": "192",
+      "MaterialTwo": "180",
+      "MinLevel": 25,
+      "MaxLevel": 38,
+      "SynergyLevel": 30,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "123",
+      "Prefix": "123",
+      "MaterialOne": "202",
+      "MaterialTwo": "192",
+      "MinLevel": 24,
+      "MaxLevel": 37,
+      "SynergyLevel": 29,
+      "ItemSlots": [
+        1,
+        2
+      ]
+    },
+    {
+      "Id": "124",
+      "Prefix": "124",
+      "MaterialOne": "196",
+      "MaterialTwo": "174",
+      "MinLevel": 24,
+      "MaxLevel": 37,
+      "SynergyLevel": 29,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "125",
+      "Prefix": "125",
+      "MaterialOne": "197",
+      "MaterialTwo": "166",
+      "MinLevel": 28,
+      "MaxLevel": 41,
+      "SynergyLevel": 33,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "126",
+      "Prefix": "126",
+      "MaterialOne": "201",
+      "MaterialTwo": "195",
+      "MinLevel": 29,
+      "MaxLevel": 42,
+      "SynergyLevel": 34,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "127",
+      "Prefix": "127",
+      "MaterialOne": "184",
+      "MaterialTwo": "201",
+      "MinLevel": 30,
+      "MaxLevel": 43,
+      "SynergyLevel": 35,
+      "ItemSlots": [
+        1,
+        4
+      ]
+    },
+    {
+      "Id": "128",
+      "Prefix": "128",
+      "MaterialOne": "165",
+      "MaterialTwo": "183",
+      "MinLevel": 30,
+      "MaxLevel": 43,
+      "SynergyLevel": 35,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "129",
+      "Prefix": "129",
+      "MaterialOne": "191",
+      "MaterialTwo": "183",
+      "MinLevel": 30,
+      "MaxLevel": 43,
+      "SynergyLevel": 35,
+      "ItemSlots": [
+        1,
+        2
+      ]
+    },
+    {
+      "Id": "13",
+      "Prefix": "13",
+      "MaterialOne": "44",
+      "MaterialTwo": "40",
+      "MinLevel": 10,
+      "MaxLevel": 23,
+      "SynergyLevel": 15,
+      "ItemSlots": [
+        5
+      ]
+    },
+    {
+      "Id": "130",
+      "Prefix": "130",
+      "MaterialOne": "205",
+      "MaterialTwo": "186",
+      "MinLevel": 22,
+      "MaxLevel": 35,
+      "SynergyLevel": 27,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "131",
+      "Prefix": "131",
+      "MaterialOne": "171",
+      "MaterialTwo": "176",
+      "MinLevel": 27,
+      "MaxLevel": 40,
+      "SynergyLevel": 32,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "132",
+      "Prefix": "132",
+      "MaterialOne": "185",
+      "MaterialTwo": "167",
+      "MinLevel": 21,
+      "MaxLevel": 34,
+      "SynergyLevel": 26,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "133",
+      "Prefix": "133",
+      "MaterialOne": "170",
+      "MaterialTwo": "178",
+      "MinLevel": 23,
+      "MaxLevel": 36,
+      "SynergyLevel": 28,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "134",
+      "Prefix": "134",
+      "MaterialOne": "182",
+      "MaterialTwo": "202",
+      "MinLevel": 28,
+      "MaxLevel": 41,
+      "SynergyLevel": 33,
+      "ItemSlots": [
+        4
+      ]
+    },
+    {
+      "Id": "135",
+      "Prefix": "135",
+      "MaterialOne": "163",
+      "MaterialTwo": "206",
+      "MinLevel": 23,
+      "MaxLevel": 36,
+      "SynergyLevel": 28,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "136",
+      "Prefix": "136",
+      "MaterialOne": "181",
+      "MaterialTwo": "207",
+      "MinLevel": 28,
+      "MaxLevel": 41,
+      "SynergyLevel": 33,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "137",
+      "Prefix": "137",
+      "MaterialOne": "173",
+      "MaterialTwo": "180",
+      "MinLevel": 25,
+      "MaxLevel": 38,
+      "SynergyLevel": 30,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "138",
+      "Prefix": "138",
+      "MaterialOne": "206",
+      "MaterialTwo": "192",
+      "MinLevel": 23,
+      "MaxLevel": 36,
+      "SynergyLevel": 28,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "139",
+      "Prefix": "139",
+      "MaterialOne": "187",
+      "MaterialTwo": "175",
+      "MinLevel": 23,
+      "MaxLevel": 36,
+      "SynergyLevel": 28,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "14",
+      "Prefix": "14",
+      "MaterialOne": "17",
+      "MaterialTwo": "23",
+      "MinLevel": 1,
+      "MaxLevel": 12,
+      "SynergyLevel": 4,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "140",
+      "Prefix": "140",
+      "MaterialOne": "173",
+      "MaterialTwo": "92",
+      "MinLevel": 25,
+      "MaxLevel": 38,
+      "SynergyLevel": 30,
+      "ItemSlots": [
+        5
+      ]
+    },
+    {
+      "Id": "141",
+      "Prefix": "141",
+      "MaterialOne": "161",
+      "MaterialTwo": "77",
+      "MinLevel": 18,
+      "MaxLevel": 31,
+      "SynergyLevel": 23,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "142",
+      "Prefix": "142",
+      "MaterialOne": "206",
+      "MaterialTwo": "79",
+      "MinLevel": 23,
+      "MaxLevel": 36,
+      "SynergyLevel": 28,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "143",
+      "Prefix": "143",
+      "MaterialOne": "192",
+      "MaterialTwo": "74",
+      "MinLevel": 22,
+      "MaxLevel": 35,
+      "SynergyLevel": 27,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "144",
+      "Prefix": "144",
+      "MaterialOne": "166",
+      "MaterialTwo": "65",
+      "MinLevel": 19,
+      "MaxLevel": 32,
+      "SynergyLevel": 24,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "15",
+      "Prefix": "15",
+      "MaterialOne": "25",
+      "MaterialTwo": "18",
+      "MinLevel": 4,
+      "MaxLevel": 17,
+      "SynergyLevel": 9,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "16",
+      "Prefix": "16",
+      "MaterialOne": "43",
+      "MaterialTwo": "28",
+      "MinLevel": 10,
+      "MaxLevel": 23,
+      "SynergyLevel": 15,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "17",
+      "Prefix": "17",
+      "MaterialOne": "27",
+      "MaterialTwo": "13",
+      "MinLevel": 3,
+      "MaxLevel": 16,
+      "SynergyLevel": 8,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "18",
+      "Prefix": "18",
+      "MaterialOne": "27",
+      "MaterialTwo": "18",
+      "MinLevel": 3,
+      "MaxLevel": 16,
+      "SynergyLevel": 8,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "19",
+      "Prefix": "19",
+      "MaterialOne": "37",
+      "MaterialTwo": "26",
+      "MinLevel": 4,
+      "MaxLevel": 17,
+      "SynergyLevel": 9,
+      "ItemSlots": [
+        2
+      ]
+    },
+    {
+      "Id": "2",
+      "Prefix": "2",
+      "MaterialOne": "24",
+      "MaterialTwo": "36",
+      "MinLevel": 4,
+      "MaxLevel": 17,
+      "SynergyLevel": 9,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "20",
+      "Prefix": "20",
+      "MaterialOne": "37",
+      "MaterialTwo": "25",
+      "MinLevel": 4,
+      "MaxLevel": 17,
+      "SynergyLevel": 9,
+      "ItemSlots": [
+        2
+      ]
+    },
+    {
+      "Id": "21",
+      "Prefix": "21",
+      "MaterialOne": "42",
+      "MaterialTwo": "23",
+      "MinLevel": 6,
+      "MaxLevel": 19,
+      "SynergyLevel": 11,
+      "ItemSlots": [
+        3
+      ]
+    },
+    {
+      "Id": "22",
+      "Prefix": "22",
+      "MaterialOne": "46",
+      "MaterialTwo": "47",
+      "MinLevel": 9,
+      "MaxLevel": 22,
+      "SynergyLevel": 14,
+      "ItemSlots": [
+        3
+      ]
+    },
+    {
+      "Id": "23",
+      "Prefix": "23",
+      "MaterialOne": "21",
+      "MaterialTwo": "24",
+      "MinLevel": 2,
+      "MaxLevel": 15,
+      "SynergyLevel": 7,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "24",
+      "Prefix": "24",
+      "MaterialOne": "29",
+      "MaterialTwo": "31",
+      "MinLevel": 5,
+      "MaxLevel": 18,
+      "SynergyLevel": 10,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "25",
+      "Prefix": "25",
+      "MaterialOne": "30",
+      "MaterialTwo": "18",
+      "MinLevel": 1,
+      "MaxLevel": 14,
+      "SynergyLevel": 6,
+      "ItemSlots": [
+        4
+      ]
+    },
+    {
+      "Id": "26",
+      "Prefix": "26",
+      "MaterialOne": "32",
+      "MaterialTwo": "19",
+      "MinLevel": 4,
+      "MaxLevel": 17,
+      "SynergyLevel": 9,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "27",
+      "Prefix": "27",
+      "MaterialOne": "33",
       "MaterialTwo": "16",
-      "Prefix": "test2",
+      "MinLevel": 2,
+      "MaxLevel": 15,
+      "SynergyLevel": 7,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "28",
+      "Prefix": "28",
+      "MaterialOne": "45",
+      "MaterialTwo": "22",
+      "MinLevel": 9,
+      "MaxLevel": 22,
+      "SynergyLevel": 14,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "29",
+      "Prefix": "29",
+      "MaterialOne": "52",
+      "MaterialTwo": "38",
+      "MinLevel": 4,
+      "MaxLevel": 17,
+      "SynergyLevel": 9,
+      "ItemSlots": [
+        2
+      ]
+    },
+    {
+      "Id": "3",
+      "Prefix": "3",
+      "MaterialOne": "12",
+      "MaterialTwo": "15",
+      "MinLevel": 1,
+      "MaxLevel": 13,
       "SynergyLevel": 5,
       "ItemSlots": [
         2,
-        4
-      ],
-      "MinLevel": 1,
-      "MaxLevel": 33
+        3,
+        4,
+        5
+      ]
     },
     {
-      "Id": "t3",
-      "MaterialOne": "41",
-      "MaterialTwo": "42",
-      "Prefix": "test3",
-      "SynergyLevel": 4,
+      "Id": "4",
+      "Prefix": "4",
+      "MaterialOne": "11",
+      "MaterialTwo": "16",
+      "MinLevel": 1,
+      "MaxLevel": 13,
+      "SynergyLevel": 5,
       "ItemSlots": [
         2,
         3,
         4,
         5
-      ],
-      "MinLevel": 1,
-      "MaxLevel": 33
+      ]
     },
     {
-      "Id": "t4",
-      "MaterialOne": "34",
-      "MaterialTwo": "30",
-      "Prefix": "test4",
-      "SynergyLevel": 4,
-      "ItemSlots": [
-        2,
-        3,
-        4,
-        5
-      ],
-      "MinLevel": 1,
-      "MaxLevel": 33
-    },
-    {
-      "Id": "t5",
-      "MaterialOne": "27",
-      "MaterialTwo": "24",
-      "Prefix": "test5",
-      "SynergyLevel": 4,
-      "ItemSlots": [
-        1
-      ],
-      "MinLevel": 1,
-      "MaxLevel": 33
-    },
-    {
-      "Id": "t6",
+      "Id": "5",
+      "Prefix": "5",
       "MaterialOne": "13",
-      "MaterialTwo": "12",
-      "Prefix": "test6",
+      "MaterialTwo": "18",
+      "MinLevel": 1,
+      "MaxLevel": 12,
+      "SynergyLevel": 4,
+      "ItemSlots": [
+        4
+      ]
+    },
+    {
+      "Id": "52",
+      "Prefix": "52",
+      "MaterialOne": "71",
+      "MaterialTwo": "87",
+      "MinLevel": 17,
+      "MaxLevel": 30,
+      "SynergyLevel": 22,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "53",
+      "Prefix": "53",
+      "MaterialOne": "66",
+      "MaterialTwo": "75",
+      "MinLevel": 10,
+      "MaxLevel": 23,
+      "SynergyLevel": 15,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "54",
+      "Prefix": "54",
+      "MaterialOne": "91",
+      "MaterialTwo": "90",
+      "MinLevel": 15,
+      "MaxLevel": 28,
+      "SynergyLevel": 20,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "55",
+      "Prefix": "55",
+      "MaterialOne": "65",
+      "MaterialTwo": "69",
+      "MinLevel": 11,
+      "MaxLevel": 24,
+      "SynergyLevel": 16,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "56",
+      "Prefix": "56",
+      "MaterialOne": "80",
+      "MaterialTwo": "69",
+      "MinLevel": 14,
+      "MaxLevel": 27,
+      "SynergyLevel": 19,
+      "ItemSlots": [
+        4
+      ]
+    },
+    {
+      "Id": "57",
+      "Prefix": "57",
+      "MaterialOne": "91",
+      "MaterialTwo": "83",
+      "MinLevel": 10,
+      "MaxLevel": 23,
+      "SynergyLevel": 15,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "58",
+      "Prefix": "58",
+      "MaterialOne": "75",
+      "MaterialTwo": "77",
+      "MinLevel": 12,
+      "MaxLevel": 25,
+      "SynergyLevel": 17,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "59",
+      "Prefix": "59",
+      "MaterialOne": "64",
+      "MaterialTwo": "82",
+      "MinLevel": 10,
+      "MaxLevel": 23,
+      "SynergyLevel": 15,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "6",
+      "Prefix": "6",
+      "MaterialOne": "35",
+      "MaterialTwo": "39",
+      "MinLevel": 8,
+      "MaxLevel": 21,
+      "SynergyLevel": 13,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "60",
+      "Prefix": "60",
+      "MaterialOne": "70",
+      "MaterialTwo": "83",
+      "MinLevel": 13,
+      "MaxLevel": 26,
+      "SynergyLevel": 18,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "61",
+      "Prefix": "61",
+      "MaterialOne": "86",
+      "MaterialTwo": "72",
+      "MinLevel": 18,
+      "MaxLevel": 31,
+      "SynergyLevel": 23,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "62",
+      "Prefix": "62",
+      "MaterialOne": "89",
+      "MaterialTwo": "83",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "63",
+      "Prefix": "63",
+      "MaterialOne": "68",
+      "MaterialTwo": "79",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "64",
+      "Prefix": "64",
+      "MaterialOne": "63",
+      "MaterialTwo": "71",
+      "MinLevel": 17,
+      "MaxLevel": 30,
+      "SynergyLevel": 22,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "65",
+      "Prefix": "65",
+      "MaterialOne": "67",
+      "MaterialTwo": "72",
+      "MinLevel": 18,
+      "MaxLevel": 31,
+      "SynergyLevel": 23,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "66",
+      "Prefix": "66",
+      "MaterialOne": "99",
+      "MaterialTwo": "74",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "67",
+      "Prefix": "67",
+      "MaterialOne": "77",
+      "MaterialTwo": "78",
+      "MinLevel": 12,
+      "MaxLevel": 25,
+      "SynergyLevel": 17,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "68",
+      "Prefix": "68",
+      "MaterialOne": "77",
+      "MaterialTwo": "69",
+      "MinLevel": 12,
+      "MaxLevel": 25,
+      "SynergyLevel": 17,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "69",
+      "Prefix": "69",
+      "MaterialOne": "81",
+      "MaterialTwo": "72",
+      "MinLevel": 18,
+      "MaxLevel": 31,
+      "SynergyLevel": 23,
+      "ItemSlots": [
+        3
+      ]
+    },
+    {
+      "Id": "7",
+      "Prefix": "7",
+      "MaterialOne": "19",
+      "MaterialTwo": "14",
+      "MinLevel": 1,
+      "MaxLevel": 12,
       "SynergyLevel": 4,
       "ItemSlots": [
         1
-      ],
-      "MinLevel": 1,
-      "MaxLevel": 33
+      ]
+    },
+    {
+      "Id": "70",
+      "Prefix": "70",
+      "MaterialOne": "73",
+      "MaterialTwo": "89",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "71",
+      "Prefix": "71",
+      "MaterialOne": "88",
+      "MaterialTwo": "81",
+      "MinLevel": 18,
+      "MaxLevel": 31,
+      "SynergyLevel": 23,
+      "ItemSlots": [
+        4
+      ]
+    },
+    {
+      "Id": "72",
+      "Prefix": "72",
+      "MaterialOne": "73",
+      "MaterialTwo": "96",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        2
+      ]
+    },
+    {
+      "Id": "73",
+      "Prefix": "73",
+      "MaterialOne": "89",
+      "MaterialTwo": "72",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "74",
+      "Prefix": "74",
+      "MaterialOne": "93",
+      "MaterialTwo": "97",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "75",
+      "Prefix": "75",
+      "MaterialOne": "94",
+      "MaterialTwo": "67",
+      "MinLevel": 15,
+      "MaxLevel": 28,
+      "SynergyLevel": 20,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "76",
+      "Prefix": "76",
+      "MaterialOne": "88",
+      "MaterialTwo": "98",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "77",
+      "Prefix": "77",
+      "MaterialOne": "92",
+      "MaterialTwo": "85",
+      "MinLevel": 17,
+      "MaxLevel": 30,
+      "SynergyLevel": 22,
+      "ItemSlots": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "78",
+      "Prefix": "78",
+      "MaterialOne": "76",
+      "MaterialTwo": "78",
+      "MinLevel": 11,
+      "MaxLevel": 24,
+      "SynergyLevel": 16,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "79",
+      "Prefix": "79",
+      "MaterialOne": "84",
+      "MaterialTwo": "77",
+      "MinLevel": 13,
+      "MaxLevel": 26,
+      "SynergyLevel": 18,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "8",
+      "Prefix": "8",
+      "MaterialOne": "11",
+      "MaterialTwo": "31",
+      "MinLevel": 3,
+      "MaxLevel": 16,
+      "SynergyLevel": 8,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "80",
+      "Prefix": "80",
+      "MaterialOne": "95",
+      "MaterialTwo": "65",
+      "MinLevel": 20,
+      "MaxLevel": 33,
+      "SynergyLevel": 25,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "9",
+      "Prefix": "9",
+      "MaterialOne": "34",
+      "MaterialTwo": "22",
+      "MinLevel": 3,
+      "MaxLevel": 16,
+      "SynergyLevel": 8,
+      "ItemSlots": [
+        1
+      ]
+    },
+    {
+      "Id": "98",
+      "Prefix": "98",
+      "MaterialOne": "160",
+      "MaterialTwo": "166",
+      "MinLevel": 19,
+      "MaxLevel": 32,
+      "SynergyLevel": 24,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "Id": "99",
+      "Prefix": "99",
+      "MaterialOne": "161",
+      "MaterialTwo": "163",
+      "MinLevel": 19,
+      "MaxLevel": 32,
+      "SynergyLevel": 24,
+      "ItemSlots": [
+        1
+      ]
     }
   ]
 }

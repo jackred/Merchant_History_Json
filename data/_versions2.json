@@ -1,86 +1,78 @@
 {
   "buildings": {
-    "Version": "1.14.3",
-    "Hash": "2db9d7144d42363e6500d52f173ddf03"
+    "Version": "1.14.8",
+    "Hash": "22df49c29c6a9ac4aab08c92db273cbd"
   },
   "equipment": {
-    "Version": "1.15.4",
-    "Hash": "88bab52e4649039bee6c10642d599d84"
+    "Version": "1.15.7",
+    "Hash": "8b9732540a7a8127d75be24484f5f4f7"
   },
   "default": {
-    "Version": "1.18.10",
-    "Hash": "882d4022ec5717ccdf108c839504aa34"
+    "Version": "1.18.19",
+    "Hash": "d10cfa5a269897ab21bef61f1997f2b0"
   },
   "formula": {
-    "Version": "1.2.2",
-    "Hash": "51dcd66355fdc4957cb45eb9634b9361"
+    "Version": "1.2.3",
+    "Hash": "a1ee2e99601851f0e5fb1173b14dd6f9"
   },
   "heroes": {
-    "Version": "1.11.5",
-    "Hash": "075489eab8abdd5118b0ac1e8e4fb43f"
+    "Version": "1.11.6",
+    "Hash": "20c5b0dbfd3692506213dc9e1c39d1b1"
   },
   "quests": {
-    "Version": "1.15.5",
-    "Hash": "089019cac52d6f6c9b79575a7b5befa8"
+    "Version": "1.15.10",
+    "Hash": "3b4523b8611830c1a66c0e6352c782ad"
   },
   "pois": {
-    "Version": "1.8.5",
-    "Hash": "0290602c967f5ed2cb956a590cd1f30f"
+    "Version": "1.8.7",
+    "Hash": "2a576723846bb5b42897b83858a63561"
   },
   "materials": {
-    "Version": "1.14.2",
-    "Hash": "852c6361a56ee58a5da01f1307880f82"
+    "Version": "1.14.7",
+    "Hash": "3becb799942123b4884f406b139c0423"
   },
   "workerDrops": {
-    "Version": "1.2.4",
-    "Hash": "72a0578b93a1f154463409f23c988118"
+    "Version": "1.2.5",
+    "Hash": "8c1b9fe9c1f692fec787dfc6d0806180"
   },
   "consumables": {
-    "Version": "1.11.8",
-    "Hash": "89612a3099f24767cf0e77dcb854c978"
-  },
-  "customers": {
-    "Version": "1.7.3",
-    "Hash": "11d2d2f99091b9a002e1a007e111a90c"
+    "Version": "1.11.11",
+    "Hash": "ebd7ceec5041ed576ae8df3111ad43e7"
   },
   "skills": {
-    "Version": "1.0.4",
-    "Hash": "86c5daf5bcddf0a64095bb0cbe3d49f9"
-  },
-  "passives": {
-    "Version": "1.0.1",
-    "Hash": "82b55de7b249de751907c319e20e207b"
+    "Version": "1.0.5",
+    "Hash": "64bd56139ab8a2c628c9b2bebe4a5fe8"
   },
   "skills.descr.en": {
-    "Version": "1.0.0",
-    "Hash": null
+    "Version": "1.0.5",
+    "Hash": "511b4da952bd8838207052b578253bb5"
   },
   "loot": {
-    "Version": "1.0.5",
-    "Hash": "f883564d7bd391f0439e3a1017b3eb8f"
+    "Version": "1.0.6",
+    "Hash": "6c1529fb40ecd495aeb461d4537e34c5"
   },
   "tokens": {
     "Version": "1.0.0",
-    "Hash": "35448b14d8ad32e2bd347b1b9d382bac"
+    "Hash": "89bfd31a021e67aeaf0a737b01cef40d"
   },
   "herotraits": {
     "Version": "1.0.0",
-    "Hash": "1625a0f31a67f4e8ac38df27ddb98afa"
+    "Hash": "491ccdad59d212ea913e2020a27d2129"
   },
   "momentum": {
-    "Version": "1.0.0",
-    "Hash": "0496abfa5c2f76cfa5d23579981233dc"
+    "Version": "1.0.2",
+    "Hash": "5d67898cd0691416d9b12c1c06634861"
   },
   "prefixes": {
-    "Version": "1.0.0",
-    "Hash": "e70d8b5083e2a74214e889c30e9227ac"
+    "Version": "1.0.3",
+    "Hash": "ede942dbcb0aa0c186f5183557cc3e17"
   },
   "infusions": {
     "Version": "1.0.0",
-    "Hash": "4f23ebeed52f5b13cd8e420d93390622"
+    "Hash": "8ec812109bdfb78695daabf86d54283a"
   },
   "story": {
-    "Version": "1.0.0",
-    "Hash": "555c42971caf0c1aa1dd59254c081a49"
+    "Version": "1.0.2",
+    "Hash": "5c4be0223c3e81250daa776df467467b"
   }
 }
