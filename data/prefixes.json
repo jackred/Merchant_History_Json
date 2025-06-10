@@ -41,6 +41,276 @@
       "critMod"
     ]
   },
+  "100": {
+    "Id": "100",
+    "Name": "Rough",
+    "Region": 3,
+    "Strength": 26,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "atk"
+    ]
+  },
+  "101": {
+    "Id": "101",
+    "Name": "Discreet",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        48,
+        12
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "crit"
+    ]
+  },
+  "102": {
+    "Id": "102",
+    "Name": "Hesitant",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        16,
+        4
+      ],
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        50
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "maxHP"
+    ]
+  },
+  "103": {
+    "Id": "103",
+    "Name": "Frozen",
+    "Region": 3,
+    "Strength": 26,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "104": {
+    "Id": "104",
+    "Name": "Sturdy",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "105": {
+    "Id": "105",
+    "Name": "Bastioned",
+    "Region": 3,
+    "Strength": 29,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "maxHP"
+    ]
+  },
+  "106": {
+    "Id": "106",
+    "Name": "Scorching",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      [
+        20,
+        12
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "critMod"
+    ]
+  },
+  "107": {
+    "Id": "107",
+    "Name": "Shivery",
+    "Region": 3,
+    "Strength": 32,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "acc"
+    ]
+  },
+  "108": {
+    "Id": "108",
+    "Name": "Enduring",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "mdef"
+    ]
+  },
+  "109": {
+    "Id": "109",
+    "Name": "Powerful",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      [
+        3,
+        18
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "critMod"
+    ]
+  },
   "11": {
     "Id": "11",
     "Name": "Subzero",
@@ -60,6 +330,276 @@
     "SlotStats": [
       "matk",
       "crit"
+    ]
+  },
+  "110": {
+    "Id": "110",
+    "Name": "Mystical",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      [
+        3,
+        12
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "int",
+      "mdef"
+    ]
+  },
+  "111": {
+    "Id": "111",
+    "Name": "Torrid",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        5,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "acc"
+    ]
+  },
+  "112": {
+    "Id": "112",
+    "Name": "Searing",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        28,
+        8
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "crit"
+    ]
+  },
+  "113": {
+    "Id": "113",
+    "Name": "Hurculean",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        5,
+        70
+      ],
+      null,
+      null,
+      [
+        2,
+        8
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "atk"
+    ]
+  },
+  "114": {
+    "Id": "114",
+    "Name": "Unstoppable",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      null,
+      [
+        1,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        1,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "def"
+    ]
+  },
+  "115": {
+    "Id": "115",
+    "Name": "Hasty",
+    "Region": 3,
+    "Strength": 25,
+    "SlotStatsValues": [
+      [
+        16,
+        10
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "atk"
+    ]
+  },
+  "116": {
+    "Id": "116",
+    "Name": "Combustible",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "maxHP"
+    ]
+  },
+  "117": {
+    "Id": "117",
+    "Name": "Sultry",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        6,
+        6
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "matk"
+    ]
+  },
+  "118": {
+    "Id": "118",
+    "Name": "Shivery",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "acc"
+    ]
+  },
+  "119": {
+    "Id": "119",
+    "Name": "Enduring",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        8,
+        8
+      ],
+      [
+        12,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      [
+        18,
+        18
+      ],
+      [
+        18,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "mdef"
     ]
   },
   "12": {
@@ -92,6 +632,282 @@
       "maxHP"
     ]
   },
+  "120": {
+    "Id": "120",
+    "Name": "Snappy",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      null,
+      [
+        18,
+        21
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "acc"
+    ]
+  },
+  "121": {
+    "Id": "121",
+    "Name": "Subzero",
+    "Region": 3,
+    "Strength": 31,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "crit"
+    ]
+  },
+  "122": {
+    "Id": "122",
+    "Name": "Artic",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      [
+        5,
+        4
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "critMod"
+    ]
+  },
+  "123": {
+    "Id": "123",
+    "Name": "Perceptive",
+    "Region": 3,
+    "Strength": 29,
+    "SlotStatsValues": [
+      [
+        5,
+        20
+      ],
+      [
+        15,
+        5
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "acc",
+      "matk"
+    ]
+  },
+  "124": {
+    "Id": "124",
+    "Name": "Warded",
+    "Region": 3,
+    "Strength": 29,
+    "SlotStatsValues": [
+      [
+        4,
+        3
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "acc"
+    ]
+  },
+  "125": {
+    "Id": "125",
+    "Name": "Frozen",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        6
+      ],
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "mdef"
+    ]
+  },
+  "126": {
+    "Id": "126",
+    "Name": "Arcane",
+    "Region": 3,
+    "Strength": 34,
+    "SlotStatsValues": [
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "int",
+      "acc"
+    ]
+  },
+  "127": {
+    "Id": "127",
+    "Name": "Stalwart",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        3,
+        1
+      ],
+      null,
+      null,
+      [
+        5,
+        2
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "int"
+    ]
+  },
+  "128": {
+    "Id": "128",
+    "Name": "Steamy",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        28,
+        -4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "acc"
+    ]
+  },
+  "129": {
+    "Id": "129",
+    "Name": "Frosty",
+    "Region": 3,
+    "Strength": 35,
+    "SlotStatsValues": [
+      [
+        28,
+        -4
+      ],
+      [
+        21,
+        -15
+      ],
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "acc"
+    ]
+  },
   "13": {
     "Id": "13",
     "Name": "Discreet",
@@ -110,6 +926,285 @@
     ],
     "SlotStats": [
       "eva",
+      "crit"
+    ]
+  },
+  "130": {
+    "Id": "130",
+    "Name": "Barbaric",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -2
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      null
+    ],
+    "SlotStats": [
+      "str",
+      "int"
+    ]
+  },
+  "131": {
+    "Id": "131",
+    "Name": "Brutish",
+    "Region": 3,
+    "Strength": 32,
+    "SlotStatsValues": [
+      null,
+      [
+        75,
+        -18
+      ],
+      [
+        75,
+        -18
+      ],
+      [
+        100,
+        -27
+      ],
+      [
+        75,
+        -18
+      ],
+      null
+    ],
+    "SlotStats": [
+      "maxHP",
+      "def"
+    ]
+  },
+  "132": {
+    "Id": "132",
+    "Name": "Brisk",
+    "Region": 3,
+    "Strength": 26,
+    "SlotStatsValues": [
+      null,
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "def"
+    ]
+  },
+  "133": {
+    "Id": "133",
+    "Name": "Heavy",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      null,
+      [
+        18,
+        -12
+      ],
+      [
+        18,
+        -12
+      ],
+      [
+        27,
+        -12
+      ],
+      [
+        12,
+        -54
+      ],
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "eva"
+    ]
+  },
+  "134": {
+    "Id": "134",
+    "Name": "Rigid",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      [
+        12,
+        -50
+      ],
+      null,
+      null
+    ],
+    "SlotStats": [
+      "def",
+      "maxHP"
+    ]
+  },
+  "135": {
+    "Id": "135",
+    "Name": "Blazing",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        70,
+        -70
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "matk"
+    ]
+  },
+  "136": {
+    "Id": "136",
+    "Name": "Primitive",
+    "Region": 3,
+    "Strength": 33,
+    "SlotStatsValues": [
+      null,
+      [
+        75,
+        -18
+      ],
+      [
+        75,
+        -18
+      ],
+      [
+        100,
+        -27
+      ],
+      [
+        75,
+        -18
+      ],
+      null
+    ],
+    "SlotStats": [
+      "maxHP",
+      "mdef"
+    ]
+  },
+  "137": {
+    "Id": "137",
+    "Name": "Hasty",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      null,
+      [
+        27,
+        -15
+      ],
+      [
+        18,
+        -8
+      ],
+      [
+        18,
+        -8
+      ],
+      [
+        39,
+        -21
+      ],
+      null
+    ],
+    "SlotStats": [
+      "eva",
+      "acc"
+    ]
+  },
+  "138": {
+    "Id": "138",
+    "Name": "Molten",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        10,
+        -4
+      ],
+      [
+        8,
+        -12
+      ],
+      [
+        8,
+        -12
+      ],
+      [
+        8,
+        -12
+      ],
+      [
+        8,
+        -12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
+    ]
+  },
+  "139": {
+    "Id": "139",
+    "Name": "Sodered",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        28,
+        -16
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
       "crit"
     ]
   },
@@ -141,6 +1236,132 @@
     "SlotStats": [
       "atk",
       "def"
+    ]
+  },
+  "140": {
+    "Id": "140",
+    "Name": "Rapid",
+    "Region": 3,
+    "Strength": 30,
+    "SlotStatsValues": [
+      null,
+      null,
+      null,
+      null,
+      [
+        2,
+        54
+      ],
+      null
+    ],
+    "SlotStats": [
+      "dex",
+      "eva"
+    ]
+  },
+  "141": {
+    "Id": "141",
+    "Name": "Torrid",
+    "Region": 3,
+    "Strength": 23,
+    "SlotStatsValues": [
+      [
+        10,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "acc"
+    ]
+  },
+  "142": {
+    "Id": "142",
+    "Name": "Combustible",
+    "Region": 3,
+    "Strength": 28,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        12
+      ],
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "maxHP"
+    ]
+  },
+  "143": {
+    "Id": "143",
+    "Name": "Artic",
+    "Region": 3,
+    "Strength": 27,
+    "SlotStatsValues": [
+      [
+        20,
+        8
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "matk",
+      "critMod"
+    ]
+  },
+  "144": {
+    "Id": "144",
+    "Name": "Bastioned",
+    "Region": 3,
+    "Strength": 24,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      [
+        18,
+        50
+      ],
+      [
+        18,
+        24
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "maxHP"
     ]
   },
   "15": {
@@ -1407,6 +2628,57 @@
     "SlotStats": [
       "matk",
       "crit"
+    ]
+  },
+  "98": {
+    "Id": "98",
+    "Name": "Bulwarked",
+    "Region": 3,
+    "Strength": 24,
+    "SlotStatsValues": [
+      null,
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        5
+      ],
+      null
+    ],
+    "SlotStats": [
+      "mdef",
+      "matk"
+    ]
+  },
+  "99": {
+    "Id": "99",
+    "Name": "Smoldering",
+    "Region": 3,
+    "Strength": 24,
+    "SlotStatsValues": [
+      [
+        20,
+        4
+      ],
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SlotStats": [
+      "atk",
+      "def"
     ]
   },
   "a111": {
@@ -6718,1277 +7990,5 @@
     },
     "Region": 3,
     "Strength": 6
-  },
-  "100": {
-    "Id": "100",
-    "Name": "Rough",
-    "Region": 3,
-    "Strength": 26,
-    "SlotStatsValues": [
-      null,
-      [
-        12,
-        5
-      ],
-      [
-        12,
-        5
-      ],
-      [
-        12,
-        5
-      ],
-      [
-        12,
-        5
-      ],
-      null
-    ],
-    "SlotStats": [
-      "def",
-      "atk"
-    ]
-  },
-  "101": {
-    "Id": "101",
-    "Name": "Discreet",
-    "Region": 3,
-    "Strength": 31,
-    "SlotStatsValues": [
-      [
-        48,
-        12
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "eva",
-      "crit"
-    ]
-  },
-  "102": {
-    "Id": "102",
-    "Name": "Hesitant",
-    "Region": 3,
-    "Strength": 31,
-    "SlotStatsValues": [
-      [
-        16,
-        4
-      ],
-      [
-        12,
-        50
-      ],
-      [
-        18,
-        50
-      ],
-      [
-        12,
-        50
-      ],
-      [
-        18,
-        50
-      ],
-      null
-    ],
-    "SlotStats": [
-      "eva",
-      "maxHP"
-    ]
-  },
-  "103": {
-    "Id": "103",
-    "Name": "Frozen",
-    "Region": 3,
-    "Strength": 26,
-    "SlotStatsValues": [
-      [
-        20,
-        4
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        8,
-        6
-      ],
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "mdef"
-    ]
-  },
-  "104": {
-    "Id": "104",
-    "Name": "Sturdy",
-    "Region": 3,
-    "Strength": 31,
-    "SlotStatsValues": [
-      null,
-      [
-        12,
-        50
-      ],
-      [
-        18,
-        24
-      ],
-      [
-        18,
-        50
-      ],
-      [
-        18,
-        24
-      ],
-      null
-    ],
-    "SlotStats": [
-      "def",
-      "maxHP"
-    ]
-  },
-  "105": {
-    "Id": "105",
-    "Name": "Bastioned",
-    "Region": 3,
-    "Strength": 29,
-    "SlotStatsValues": [
-      null,
-      [
-        12,
-        50
-      ],
-      [
-        18,
-        24
-      ],
-      [
-        18,
-        50
-      ],
-      [
-        18,
-        24
-      ],
-      null
-    ],
-    "SlotStats": [
-      "mdef",
-      "maxHP"
-    ]
-  },
-  "106": {
-    "Id": "106",
-    "Name": "Scorching",
-    "Region": 3,
-    "Strength": 30,
-    "SlotStatsValues": [
-      [
-        20,
-        12
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "critMod"
-    ]
-  },
-  "107": {
-    "Id": "107",
-    "Name": "Shivery",
-    "Region": 3,
-    "Strength": 32,
-    "SlotStatsValues": [
-      [
-        10,
-        4
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "acc"
-    ]
-  },
-  "108": {
-    "Id": "108",
-    "Name": "Enduring",
-    "Region": 3,
-    "Strength": 28,
-    "SlotStatsValues": [
-      null,
-      [
-        12,
-        18
-      ],
-      [
-        18,
-        12
-      ],
-      [
-        18,
-        18
-      ],
-      [
-        18,
-        12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "def",
-      "mdef"
-    ]
-  },
-  "109": {
-    "Id": "109",
-    "Name": "Powerful",
-    "Region": 3,
-    "Strength": 30,
-    "SlotStatsValues": [
-      [
-        3,
-        18
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "str",
-      "critMod"
-    ]
-  },
-  "110": {
-    "Id": "110",
-    "Name": "Mystical",
-    "Region": 3,
-    "Strength": 33,
-    "SlotStatsValues": [
-      [
-        3,
-        12
-      ],
-      [
-        2,
-        12
-      ],
-      [
-        1,
-        12
-      ],
-      [
-        1,
-        12
-      ],
-      [
-        1,
-        12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "int",
-      "mdef"
-    ]
-  },
-  "111": {
-    "Id": "111",
-    "Name": "Torrid",
-    "Region": 3,
-    "Strength": 33,
-    "SlotStatsValues": [
-      [
-        10,
-        4
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
-        5
-      ],
-      [
-        5,
-        5
-      ],
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "acc"
-    ]
-  },
-  "112": {
-    "Id": "112",
-    "Name": "Searing",
-    "Region": 3,
-    "Strength": 35,
-    "SlotStatsValues": [
-      [
-        28,
-        8
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "crit"
-    ]
-  },
-  "113": {
-    "Id": "113",
-    "Name": "Hurculean",
-    "Region": 3,
-    "Strength": 35,
-    "SlotStatsValues": [
-      [
-        5,
-        70
-      ],
-      null,
-      null,
-      [
-        2,
-        8
-      ],
-      null,
-      null
-    ],
-    "SlotStats": [
-      "str",
-      "atk"
-    ]
-  },
-  "114": {
-    "Id": "114",
-    "Name": "Unstoppable",
-    "Region": 3,
-    "Strength": 35,
-    "SlotStatsValues": [
-      null,
-      [
-        1,
-        12
-      ],
-      [
-        1,
-        12
-      ],
-      [
-        5,
-        12
-      ],
-      [
-        1,
-        12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "str",
-      "def"
-    ]
-  },
-  "115": {
-    "Id": "115",
-    "Name": "Hasty",
-    "Region": 3,
-    "Strength": 25,
-    "SlotStatsValues": [
-      [
-        16,
-        10
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "eva",
-      "atk"
-    ]
-  },
-  "116": {
-    "Id": "116",
-    "Name": "Combustible",
-    "Region": 3,
-    "Strength": 31,
-    "SlotStatsValues": [
-      [
-        20,
-        8
-      ],
-      [
-        5,
-        12
-      ],
-      [
-        5,
-        12
-      ],
-      [
-        5,
-        12
-      ],
-      [
-        5,
-        12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "maxHP"
-    ]
-  },
-  "117": {
-    "Id": "117",
-    "Name": "Sultry",
-    "Region": 3,
-    "Strength": 28,
-    "SlotStatsValues": [
-      [
-        6,
-        6
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "matk"
-    ]
-  },
-  "118": {
-    "Id": "118",
-    "Name": "Shivery",
-    "Region": 3,
-    "Strength": 27,
-    "SlotStatsValues": [
-      [
-        10,
-        4
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "acc"
-    ]
-  },
-  "119": {
-    "Id": "119",
-    "Name": "Enduring",
-    "Region": 3,
-    "Strength": 27,
-    "SlotStatsValues": [
-      [
-        8,
-        8
-      ],
-      [
-        12,
-        18
-      ],
-      [
-        18,
-        12
-      ],
-      [
-        18,
-        18
-      ],
-      [
-        18,
-        12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "def",
-      "mdef"
-    ]
-  },
-  "120": {
-    "Id": "120",
-    "Name": "Snappy",
-    "Region": 3,
-    "Strength": 30,
-    "SlotStatsValues": [
-      null,
-      [
-        18,
-        21
-      ],
-      [
-        12,
-        8
-      ],
-      [
-        12,
-        8
-      ],
-      [
-        12,
-        8
-      ],
-      null
-    ],
-    "SlotStats": [
-      "eva",
-      "acc"
-    ]
-  },
-  "121": {
-    "Id": "121",
-    "Name": "Subzero",
-    "Region": 3,
-    "Strength": 31,
-    "SlotStatsValues": [
-      [
-        20,
-        8
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "crit"
-    ]
-  },
-  "122": {
-    "Id": "122",
-    "Name": "Artic",
-    "Region": 3,
-    "Strength": 30,
-    "SlotStatsValues": [
-      [
-        20,
-        8
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        5,
-        4
-      ],
-      [
-        5,
-        4
-      ],
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "critMod"
-    ]
-  },
-  "123": {
-    "Id": "123",
-    "Name": "Perceptive",
-    "Region": 3,
-    "Strength": 29,
-    "SlotStatsValues": [
-      [
-        5,
-        20
-      ],
-      [
-        15,
-        5
-      ],
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "acc",
-      "matk"
-    ]
-  },
-  "124": {
-    "Id": "124",
-    "Name": "Warded",
-    "Region": 3,
-    "Strength": 29,
-    "SlotStatsValues": [
-      [
-        4,
-        3
-      ],
-      [
-        12,
-        8
-      ],
-      [
-        12,
-        8
-      ],
-      [
-        12,
-        8
-      ],
-      [
-        12,
-        8
-      ],
-      null
-    ],
-    "SlotStats": [
-      "mdef",
-      "acc"
-    ]
-  },
-  "125": {
-    "Id": "125",
-    "Name": "Frozen",
-    "Region": 3,
-    "Strength": 33,
-    "SlotStatsValues": [
-      [
-        20,
-        4
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        8,
-        6
-      ],
-      [
-        8,
-        6
-      ],
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "mdef"
-    ]
-  },
-  "126": {
-    "Id": "126",
-    "Name": "Arcane",
-    "Region": 3,
-    "Strength": 34,
-    "SlotStatsValues": [
-      [
-        3,
-        6
-      ],
-      [
-        2,
-        8
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        1,
-        5
-      ],
-      [
-        1,
-        5
-      ],
-      null
-    ],
-    "SlotStats": [
-      "int",
-      "acc"
-    ]
-  },
-  "127": {
-    "Id": "127",
-    "Name": "Stalwart",
-    "Region": 3,
-    "Strength": 35,
-    "SlotStatsValues": [
-      [
-        3,
-        1
-      ],
-      null,
-      null,
-      [
-        5,
-        2
-      ],
-      null,
-      null
-    ],
-    "SlotStats": [
-      "str",
-      "int"
-    ]
-  },
-  "128": {
-    "Id": "128",
-    "Name": "Steamy",
-    "Region": 3,
-    "Strength": 35,
-    "SlotStatsValues": [
-      [
-        28,
-        -4
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "acc"
-    ]
-  },
-  "129": {
-    "Id": "129",
-    "Name": "Frosty",
-    "Region": 3,
-    "Strength": 35,
-    "SlotStatsValues": [
-      [
-        28,
-        -4
-      ],
-      [
-        21,
-        -15
-      ],
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "acc"
-    ]
-  },
-  "130": {
-    "Id": "130",
-    "Name": "Barbaric",
-    "Region": 3,
-    "Strength": 27,
-    "SlotStatsValues": [
-      [
-        1,
-        -1
-      ],
-      [
-        1,
-        -2
-      ],
-      [
-        1,
-        -1
-      ],
-      [
-        1,
-        -1
-      ],
-      [
-        1,
-        -1
-      ],
-      null
-    ],
-    "SlotStats": [
-      "str",
-      "int"
-    ]
-  },
-  "131": {
-    "Id": "131",
-    "Name": "Brutish",
-    "Region": 3,
-    "Strength": 32,
-    "SlotStatsValues": [
-      null,
-      [
-        75,
-        -18
-      ],
-      [
-        75,
-        -18
-      ],
-      [
-        100,
-        -27
-      ],
-      [
-        75,
-        -18
-      ],
-      null
-    ],
-    "SlotStats": [
-      "maxHP",
-      "def"
-    ]
-  },
-  "132": {
-    "Id": "132",
-    "Name": "Brisk",
-    "Region": 3,
-    "Strength": 26,
-    "SlotStatsValues": [
-      null,
-      [
-        18,
-        -12
-      ],
-      [
-        18,
-        -12
-      ],
-      [
-        18,
-        -12
-      ],
-      [
-        18,
-        -12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "eva",
-      "def"
-    ]
-  },
-  "133": {
-    "Id": "133",
-    "Name": "Heavy",
-    "Region": 3,
-    "Strength": 28,
-    "SlotStatsValues": [
-      null,
-      [
-        18,
-        -12
-      ],
-      [
-        18,
-        -12
-      ],
-      [
-        27,
-        -12
-      ],
-      [
-        12,
-        -54
-      ],
-      null
-    ],
-    "SlotStats": [
-      "def",
-      "eva"
-    ]
-  },
-  "134": {
-    "Id": "134",
-    "Name": "Rigid",
-    "Region": 3,
-    "Strength": 33,
-    "SlotStatsValues": [
-      null,
-      null,
-      null,
-      [
-        12,
-        -50
-      ],
-      null,
-      null
-    ],
-    "SlotStats": [
-      "def",
-      "maxHP"
-    ]
-  },
-  "135": {
-    "Id": "135",
-    "Name": "Blazing",
-    "Region": 3,
-    "Strength": 28,
-    "SlotStatsValues": [
-      [
-        70,
-        -70
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "matk"
-    ]
-  },
-  "136": {
-    "Id": "136",
-    "Name": "Primitive",
-    "Region": 3,
-    "Strength": 33,
-    "SlotStatsValues": [
-      null,
-      [
-        75,
-        -18
-      ],
-      [
-        75,
-        -18
-      ],
-      [
-        100,
-        -27
-      ],
-      [
-        75,
-        -18
-      ],
-      null
-    ],
-    "SlotStats": [
-      "maxHP",
-      "mdef"
-    ]
-  },
-  "137": {
-    "Id": "137",
-    "Name": "Hasty",
-    "Region": 3,
-    "Strength": 30,
-    "SlotStatsValues": [
-      null,
-      [
-        27,
-        -15
-      ],
-      [
-        18,
-        -8
-      ],
-      [
-        18,
-        -8
-      ],
-      [
-        39,
-        -21
-      ],
-      null
-    ],
-    "SlotStats": [
-      "eva",
-      "acc"
-    ]
-  },
-  "138": {
-    "Id": "138",
-    "Name": "Molten",
-    "Region": 3,
-    "Strength": 28,
-    "SlotStatsValues": [
-      [
-        10,
-        -4
-      ],
-      [
-        8,
-        -12
-      ],
-      [
-        8,
-        -12
-      ],
-      [
-        8,
-        -12
-      ],
-      [
-        8,
-        -12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "def"
-    ]
-  },
-  "139": {
-    "Id": "139",
-    "Name": "Sodered",
-    "Region": 3,
-    "Strength": 28,
-    "SlotStatsValues": [
-      [
-        28,
-        -16
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "crit"
-    ]
-  },
-  "140": {
-    "Id": "140",
-    "Name": "Rapid",
-    "Region": 3,
-    "Strength": 30,
-    "SlotStatsValues": [
-      null,
-      null,
-      null,
-      null,
-      [
-        2,
-        54
-      ],
-      null
-    ],
-    "SlotStats": [
-      "dex",
-      "eva"
-    ]
-  },
-  "141": {
-    "Id": "141",
-    "Name": "Torrid",
-    "Region": 3,
-    "Strength": 23,
-    "SlotStatsValues": [
-      [
-        10,
-        4
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "acc"
-    ]
-  },
-  "142": {
-    "Id": "142",
-    "Name": "Combustible",
-    "Region": 3,
-    "Strength": 28,
-    "SlotStatsValues": [
-      [
-        20,
-        4
-      ],
-      [
-        5,
-        12
-      ],
-      [
-        5,
-        12
-      ],
-      [
-        5,
-        12
-      ],
-      [
-        5,
-        12
-      ],
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "maxHP"
-    ]
-  },
-  "143": {
-    "Id": "143",
-    "Name": "Artic",
-    "Region": 3,
-    "Strength": 27,
-    "SlotStatsValues": [
-      [
-        20,
-        8
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "matk",
-      "critMod"
-    ]
-  },
-  "144": {
-    "Id": "144",
-    "Name": "Bastioned",
-    "Region": 3,
-    "Strength": 24,
-    "SlotStatsValues": [
-      null,
-      [
-        12,
-        50
-      ],
-      [
-        18,
-        24
-      ],
-      [
-        18,
-        50
-      ],
-      [
-        18,
-        24
-      ],
-      null
-    ],
-    "SlotStats": [
-      "mdef",
-      "maxHP"
-    ]
-  },
-  "98": {
-    "Id": "98",
-    "Name": "Bulwarked",
-    "Region": 3,
-    "Strength": 24,
-    "SlotStatsValues": [
-      null,
-      [
-        12,
-        5
-      ],
-      [
-        12,
-        5
-      ],
-      [
-        12,
-        5
-      ],
-      [
-        12,
-        5
-      ],
-      null
-    ],
-    "SlotStats": [
-      "mdef",
-      "matk"
-    ]
-  },
-  "99": {
-    "Id": "99",
-    "Name": "Smoldering",
-    "Region": 3,
-    "Strength": 24,
-    "SlotStatsValues": [
-      [
-        20,
-        4
-      ],
-      null,
-      null,
-      null,
-      null,
-      null
-    ],
-    "SlotStats": [
-      "atk",
-      "def"
-    ]
   }
 }

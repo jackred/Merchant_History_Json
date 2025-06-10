@@ -1,14 +1,8 @@
 {
   "craft": {
     "Id": "craft",
-    "Name": "Crafters' Circle",
-    "Desc": "Where crafters gather to sell their services",
-    "Lvldesc": [
-      "Unlocks Crafters' Circle",
-      "Max level: 3",
-      "Max level: 4. Stack craft limit: 3"
-    ],
     "MaxLvl": 40,
+    "Image": "crafters_circle",
     "LevelCosts": [
       10,
       65,
@@ -92,19 +86,12 @@
       1756,
       2106,
       2506
-    ],
-    "Image": "crafters_circle"
+    ]
   },
   "gate": {
     "Id": "gate",
-    "Name": "Town Gate",
-    "Desc": "The exit to leave town",
-    "Lvldesc": [
-      "Unlocks Town Gate",
-      "Unlock more quests",
-      "Unlock more quests. Region 1 speed bonus: 5%"
-    ],
     "MaxLvl": 29,
+    "Image": "town_gate",
     "LevelCosts": [
       0,
       60,
@@ -168,31 +155,26 @@
       590,
       650,
       690
-    ],
-    "Image": "town_gate"
+    ]
   },
   "ghall": {
     "Id": "ghall",
-    "Name": "Guild Hall",
-    "Desc": "Where guild mates come together to chat and trade",
-    "Lvldesc": [
-      "Unlocks Guild Hall",
-      "Higher Guild Max",
-      "Higher Guild Max"
-    ],
     "MaxLvl": 11,
+    "Image": "guild_hall",
     "LevelCosts": [
-      10,
-      110,
-      245,
-      395,
-      610,
-      875,
-      1185,
-      1605,
-      2170,
-      2845,
-      3645
+      1,
+      11,
+      24,
+      539,
+      561,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "IndividualContribution": [
       10,
@@ -206,53 +188,53 @@
       275,
       330,
       390
-    ],
-    "Image": "guild_hall"
+    ]
   },
   "hhall": {
     "Id": "hhall",
-    "Name": "Heroes' Hall",
-    "Desc": "Where all hired heroes reside",
-    "Lvldesc": [
-      "Unlocks Heroes' Hall",
-      "Max level: 4",
-      "Max level: 5. Hero slots: 2"
-    ],
     "MaxLvl": 33,
+    "Image": "heroes_hall",
     "LevelCosts": [
-      10,
-      120,
-      185,
-      250,
-      320,
-      395,
-      485,
-      585,
-      695,
-      815,
-      935,
-      1055,
-      1215,
-      1351,
-      1487,
-      1623,
-      1759,
-      1879,
-      2077,
-      2275,
-      2473,
-      2671,
-      2896,
-      3112,
-      3328,
-      3544,
-      3760,
-      4110,
-      4370,
-      4630,
-      4890,
-      5150,
-      5450
+      101,
+      201,
+      852,
+      503,
+      203,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "IndividualContribution": [
       10,
@@ -288,27 +270,20 @@
       610,
       636,
       666
-    ],
-    "Image": "heroes_hall"
+    ]
   },
   "shop": {
     "Id": "shop",
-    "Name": "Shop",
-    "Desc": "Where all items are sold",
-    "Lvldesc": [
-      "Unlocks Shop",
-      "Unlocks Room #2",
-      "Unlocks Room #3"
-    ],
     "MaxLvl": 7,
+    "Image": "shop",
     "LevelCosts": [
+      12,
+      33,
+      61,
+      85,
+      12,
       0,
-      120,
-      330,
-      610,
-      850,
-      1200,
-      1600
+      0
     ],
     "IndividualContribution": [
       0,
@@ -318,19 +293,12 @@
       125,
       160,
       200
-    ],
-    "Image": "shop"
+    ]
   },
   "stock": {
     "Id": "stock",
-    "Name": "Warehouse",
-    "Desc": "Where all items are stored for safe keeping",
-    "Lvldesc": [
-      "Unlocks Warehouse",
-      "Slots: 42. Stack: 50",
-      "Slots: 44. Stack: 55"
-    ],
     "MaxLvl": 51,
+    "Image": "warehouse",
     "LevelCosts": [
       0,
       35,
@@ -436,19 +404,12 @@
       842,
       877,
       912
-    ],
-    "Image": "warehouse"
+    ]
   },
   "tavern": {
     "Id": "tavern",
-    "Name": "Tavern",
-    "Desc": "Where heroes gather to relax and look for work",
-    "Lvldesc": [
-      "Unlocks Tavern",
-      "Income: ~12.5 g/hour. Up to 4 h",
-      "Income: ~17.5 g/hour. Up to 6 h"
-    ],
     "MaxLvl": 18,
+    "Image": "tavern",
     "LevelCosts": [
       0,
       50,
@@ -488,19 +449,12 @@
       493,
       528,
       568
-    ],
-    "Image": "tavern"
+    ]
   },
   "work": {
     "Id": "work",
-    "Name": "Workers' Barracks",
-    "Desc": "Where workers reside",
-    "Lvldesc": [
-      "Unlocks Workers' Barracks",
-      "Unlock more work locations",
-      "Unlock more work options"
-    ],
     "MaxLvl": 18,
+    "Image": "workers_barracks",
     "LevelCosts": [
       0,
       40,
@@ -540,7 +494,6 @@
       552,
       632,
       717
-    ],
-    "Image": "workers_barracks"
+    ]
   }
 }
