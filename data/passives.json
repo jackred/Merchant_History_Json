@@ -1,0 +1,129 @@
+{
+  "Vitality": {
+    "n": "Vitality",
+    "i": "vitality",
+    "st": {
+      "hpPct": 25
+    }
+  },
+  "Might": {
+    "n": "Might",
+    "i": "might",
+    "st": {
+      "atkPct": 15
+    }
+  },
+  "Mystic": {
+    "n": "Mystic",
+    "i": "mystic",
+    "st": {
+      "matkPct": 15
+    }
+  },
+  "Tough": {
+    "n": "Tough",
+    "i": "tough",
+    "st": {
+      "defPct": 15
+    }
+  },
+  "Arcane": {
+    "n": "Arcane",
+    "i": "arcane",
+    "st": {
+      "mdefPct": 15
+    }
+  },
+  "Perceptive": {
+    "n": "Perceptive",
+    "i": "perceptive",
+    "st": {
+      "accPct": 15
+    }
+  },
+  "Swift": {
+    "n": "Swift",
+    "i": "swift",
+    "st": {
+      "evaPct": 15
+    }
+  },
+  "Juggernaut": {
+    "n": "Juggernaut",
+    "i": "juggernaut",
+    "st": {
+      "defPct": 10,
+      "mdefPct": 10
+    }
+  },
+  "Strong": {
+    "n": "Strong",
+    "i": "strong",
+    "st": {
+      "atkPct": 10,
+      "defPct": 10
+    }
+  },
+  "Enigmatic": {
+    "n": "Enigmatic",
+    "i": "enigmatic",
+    "st": {
+      "matkPct": 10,
+      "mdefPct": 10
+    }
+  },
+  "Covert": {
+    "n": "Covert",
+    "i": "covert",
+    "st": {
+      "accPct": 10,
+      "evaPct": 10
+    }
+  },
+  "Deadly": {
+    "n": "Deadly",
+    "i": "deadly",
+    "st": {
+      "crit": 10,
+      "critMod": 35
+    }
+  },
+  "Adroit": {
+    "n": "Adroit",
+    "i": "adroit",
+    "st": {
+      "accPct": 10,
+      "crit": 10
+    }
+  },
+  "Nimble": {
+    "n": "Nimble",
+    "i": "nimble",
+    "st": {
+      "atkPct": 10,
+      "evaPct": 10
+    }
+  },
+  "Whimsical": {
+    "n": "Whimsical",
+    "i": "whimsical",
+    "st": {
+      "matkPct": 10,
+      "evaPct": 10
+    }
+  },
+  "Radiant": {
+    "n": "Radiant",
+    "i": "radiant",
+    "st": {
+      "incHeal": 40
+    }
+  },
+  "Generous": {
+    "n": "Generous",
+    "i": "generous",
+    "st": {
+      "outHeal": 40
+    }
+  }
+}

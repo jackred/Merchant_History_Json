@@ -1,0 +1,41 @@
+{
+  "Quests": [
+    {
+      "_comment": "shop level 2",
+      "Rewards": "mat:2$5|mat:1$5",
+      "QuestType": 99020,
+      "RequiredAmount": 2,
+      "Var": "shop"
+    },
+    {
+      "_comment": "hero hall lvl 2",
+      "Rewards": "mat:7$5|mat:8$5",
+      "QuestType": 99020,
+      "RequiredAmount": 2,
+      "Var": "hhall",
+      "DependsOn": 0
+    },
+    {
+      "_comment": "reach lvl 5 any hero",
+      "Rewards": "gold:1200|tkn:1$3",
+      "QuestType": 9012,
+      "RequiredAmount": 5,
+      "DependsOn": 1
+    },
+    {
+      "_comment": "Guild join/create",
+      "Rewards": "gold:2000|loot:1$5",
+      "QuestType": 9001,
+      "RequiredAmount": 1,
+      "DependsOn": 2
+    },
+    {
+      "_comment": "Win at goblin fort",
+      "Rewards": "gold:3500",
+      "QuestType": 10110,
+      "RequiredAmount": 25,
+      "Var": "goblin_fort",
+      "DependsOn": 3
+    }
+  ]
+}

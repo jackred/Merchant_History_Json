@@ -1,0 +1,441 @@
+{
+  "Basic": {
+    "n": "Basic",
+    "ft": "Deal 1x{atk} & 1x{matk} {target}"
+  },
+  "Slash": {
+    "n": "Slash",
+    "t": 1,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}",
+    "fbt": "Deal 1.5x{atk} {target}"
+  },
+  "StabnShield": {
+    "n": "Stab 'n Shield",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} & !NB{2}!HL{3}%{4} {self} !NB!HL{5}{turn}",
+    "fbt": "Deal 1.5x{atk} {target} & {buff}40%{def} {self} 2{turn}"
+  },
+  "BewBlow": {
+    "n": "Bewildering Blow",
+    "t": 4,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB!HL{2}% {chance} {3} {target} !NB!HL{4}{turn}",
+    "fbt": "Deal 1.4x{atk} & 20% {chance} {stun} {target} 1{turn}"
+  },
+  "Slam": {
+    "n": "Slam",
+    "t": 5,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}. !NB{2}!HL{3}% if {target} has {4}",
+    "fbt": "Deal 1.5x{atk} {target}. +40% if {target} has {stun}"
+  },
+  "BlindKick": {
+    "n": "Blindside Kick",
+    "t": 7,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} with !NB{2}!HL{3}%{4} {self}",
+    "fbt": "Deal 2x{atk} {target} with {debuff}40%{acc} {self}"
+  },
+  "CheapShot": {
+    "n": "Cheap Shot",
+    "t": 10,
+    "ft": "Deal !NB!HL{0:f1}x({1}+{2}) {target}",
+    "fbt": "Deal 1.2x({atk}+{acc}) {target}"
+  },
+  "Sunder": {
+    "n": "Sunder",
+    "t": 11,
+    "ft": "Deal !NB!HL{0:f1}x({1}+{2}) with !NB!HL{3}%{4} {pent} {target}",
+    "fbt": "Deal 1.5x({atk}+{acc}) with 40%{def} {pent} {target}"
+  },
+  "PoisonTrap": {
+    "n": "Poison Trap",
+    "t": 12,
+    "ft": "Next time {self} attacked deal !NB!HL{0:f1}x{1} & apply {2} {target} !NB!HL{3}{turn}. !CL{2} damage is !NB!HL{4:f1}x{5}",
+    "fbt": "Next time {self} attacked deal 2x{atk} & apply {poison} {target} 2{turn}. {Poison} damage is 1.2x{atk}"
+  },
+  "__PoisonTrapTriggerAction": {
+    "n": "__PoisonTrapTriggerAction",
+    "ft": "Special"
+  },
+  "MindBlast": {
+    "n": "Mind Blast",
+    "t": 1,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}"
+  },
+  "MagicMissile": {
+    "n": "Magic Missile",
+    "t": 8,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} with !NB!HL{2}%{3} {pent} {target}",
+    "fbt": "Deal 2x{matk} with 30%{mdef} {pent}"
+  },
+  "Cleave": {
+    "n": "Cleave",
+    "t": 2,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {target} rest of {turn}",
+    "fbt": "Deal 2x{atk} & {debuff}40%{def} {target} rest of {turn}"
+  },
+  "FlurryStrikes": {
+    "n": "Flurry Strikes",
+    "t": 9,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB!HL{2}% {chance} apply {3} {target} !NB!HL{4}{turn}. !CL{3} damage is !NB!HL{5:f1}x{6}",
+    "fbt": "Deal 1.6x{atk} & 40%{chance} apply {bleed} {target} 2{turn}. {Bleed} damage is 0.5x{atk}"
+  },
+  "LesserHeal": {
+    "n": "Lesser Heal",
+    "t": 15,
+    "ft": "{Heal} !NB!HL{0}%{self}{1} {ally} directly in front of {self}. If none then apply to {self}",
+    "fbt": "{Heal} 20%{self}{mdef} the {ally} directly in front of {self}. If none {heal} {self}"
+  },
+  "LesserCleanse": {
+    "n": "Lesser Cleanse",
+    "ft": "{Cleanse} {ally} directly in front of {self}. If none apply to {self}"
+  },
+  "HolyCleanse": {
+    "n": "Holy Cleanse",
+    "ft": "{Cleanse} {party}"
+  },
+  "GreaterHeal": {
+    "n": "Greater Heal",
+    "ft": "{Heal} 50%{maxHP}{self} the {ally} directly in front of {self}. If none {heal} {self} for 50%{maxHP}{self}"
+  },
+  "HealingCleanse": {
+    "n": "Healing Cleanse",
+    "t": 16,
+    "ft": "{Heal} !NB!HL{0}%{self}{1} & {cleanse} {ally} directly in front of {self}. If none then apply to {self}",
+    "fbt": "{Heal} 10%{mdef}{self} & {cleanse} {ally} directly in front of {self}. If none apply to {self}"
+  },
+  "DodrBlessing": {
+    "n": "Dodr's Blessing",
+    "t": 17,
+    "ft": "!NB{0}!HL{1}%{2}{ally} the {ally} directly in front of {self} !NB!HL{3}{turn}",
+    "fbt": "{buff}50%{def}{ally} the {ally} directly in front of {self} 2{turn}"
+  },
+  "MercBlessing": {
+    "n": "Merci's Blessing",
+    "t": 17,
+    "ft": "!NB{0}!HL{1}%{2}{ally} the {ally} directly in front of {self} !NB!HL{3}{turn}",
+    "fbt": "{buff}50%{mdef}{ally} the {ally} directly in front of {self} 2{turn}"
+  },
+  "SanBlessing": {
+    "n": "Sanir's Blessing",
+    "t": 18,
+    "ft": "!NB{0}!HL{1}%{2}&{3}{ally} the {ally} directly in front of {self} !NB!HL{4}{turn}",
+    "fbt": "{buff}50%{def}&{mdef}{ally} the {ally} directly in front of {self} 2{turn}"
+  },
+  "LightShield": {
+    "n": "Light Shield",
+    "ft": "Give {ally} directly left of {self} 50% {hp} {shield}"
+  },
+  "BluntBlow": {
+    "n": "Blunt Blow",
+    "t": 20,
+    "ft": "Deal !NB!HL{0:f1}x({1}+{2}) {target} with !NB!HL{3}{4} {self}",
+    "fbt": "Deal 1.4x({atk}+{acc}) {target} with {debuff}100{crit} {self}"
+  },
+  "PrecariousPierce": {
+    "n": "Precarious Pierce",
+    "t": 20,
+    "ft": "Deal !NB!HL{0:f1}x({1}+{2}) {target} with !NB!HL{3}{4} {self}",
+    "fbt": "Deal 1.1x({atk}+{acc}) {target} with {buff}25{crit} {self}"
+  },
+  "SmokeBomb": {
+    "n": "Smoke Bomb",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {target} !NB!HL{5}{turn}",
+    "fbt": "Deal 1.7x{atk} & {debuff} 30% {acc} {target} 1{turn}"
+  },
+  "Backstab": {
+    "n": "Backstab",
+    "t": 7,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} with !NB{2}!HL{3}%{4} {self}",
+    "fbt": "Deal 2x{atk} {target} with {buff}150%{critMod} {self}"
+  },
+  "ShieldRiposte": {
+    "n": "Shield Riposte",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} & !NB{2}!HL{3}%{4} {self} !NB!HL{5}{turn}",
+    "fbt": "Deal 1.4x{def} {target} & {buff}40%{def} {self} 2{turn}"
+  },
+  "ShieldSlam": {
+    "n": "Shield Slam",
+    "t": 10,
+    "ft": "Deal !NB!HL{0:f1}x({1}+{2}) {target}",
+    "fbt": "Deal 1.2x({def}+{mdef}) {target}"
+  },
+  "VulnerableDrive": {
+    "n": "Vulnerable Drive",
+    "t": 22,
+    "ft": "Deal !NB!HL{0:f1}x({1}+{2}) {target} & !NB{3}!HL{4}%{5} {self} !NB!HL{6}{turn}",
+    "fbt": "Deal 2x({atk}+{def}) {target} & {debuff}40%{def} {self} 1{turn}"
+  },
+  "ShieldUp": {
+    "n": "Shield Up",
+    "t": 21,
+    "ft": "{Block} !NB!HL{0}% incoming damage !NB!HL{1}{turn}",
+    "fbt": "{Block} 50% incoming damage 2{turn}"
+  },
+  "UnholySlash": {
+    "n": "Unholy Slash",
+    "t": 23,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} with !HL{2}% {leech}",
+    "fbt": "Deal 1.5x{atk} with 6% {leech} {target}"
+  },
+  "UnholyUppercut": {
+    "n": "Unholy Uppercut",
+    "t": 24,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB!HL{2}% {chance} {silence} {target}",
+    "fbt": "Deal 2x{atk} & 40% {chance} {silence} {target}"
+  },
+  "WarCry": {
+    "n": "War Cry",
+    "t": 6,
+    "ft": "!NB{buff}!HL{0}%{1} {self} & !NB{debuff}!HL{2}%{3} {target} !NB!HL{4}{turn}",
+    "fbt": "{buff}40%{atk} {self} & {debuff}30%{atk} {target} 2{turn}"
+  },
+  "Gouge": {
+    "n": "Gouge",
+    "t": 5,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}. !NB{2}!HL{3}% if {target} has {4}",
+    "fbt": "Deal 1.2x{atk} {target}. +50% if {target} has {bleed}"
+  },
+  "OiledStrike": {
+    "n": "Oiled Strike",
+    "t": 5,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}. !NB{2}!HL{3}% if {target} has {4}",
+    "fbt": "Deal 1.2x{atk} {target}. +50% if {target} has {fire}"
+  },
+  "FireTwister": {
+    "n": "Fire Twister",
+    "t": 9,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB!HL{2}% {chance} apply {3} {target} !NB!HL{4}{turn}. !CL{3} damage is !NB!HL{5:f1}x{6}",
+    "fbt": "Deal 1.5x{matk} & 40% {chance} apply {fire} {target} for 2{turn}. {Fire} damage is 0.6x{matk}"
+  },
+  "Blizzard": {
+    "n": "Blizzard",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {target} !NB!HL{5}{turn}",
+    "fbt": "Deal 1.6x{matk} & {debuff}30%{mdef} {target} 2{turn}"
+  },
+  "LightningBolt": {
+    "n": "Lightning Bolt",
+    "t": 4,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB!HL{2}% {chance} {3} {target} !NB!HL{4}{turn}",
+    "fbt": "Deal 1.8x{matk} & 10% {chance} to {stun} {target} 1{turn}"
+  },
+  "SwiftStrike": {
+    "n": "Swift Strike",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} & !NB{2}!HL{3}%{4} {self} !NB!HL{5}{turn}",
+    "fbt": "Deal 1.4x{atk} {target} & {buff}30%{eva} {self} 2{turn}"
+  },
+  "SharpenBlades": {
+    "n": "Sharpen Blades",
+    "ft": "{buff}100{crit} & {buff}100%{atk} {self} for next attack"
+  },
+  "AchillesSlice": {
+    "n": "Achilles Slice",
+    "t": 2,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {target} rest of {turn}",
+    "fbt": "Deal 3x{atk} & {debuff}80%{eva} {target} rest of {turn}"
+  },
+  "Skewer": {
+    "n": "Skewer",
+    "t": 13,
+    "ft": "Deal !NB!HL{0:f1}x{1} & apply {2} {target} !NB!HL{3}{turn}. !CL{2} damage is !NB!HL{4:f1}x{5}",
+    "fbt": "Deal 1.2x{atk} & apply {bleed} {target} 2{turn}. {Bleed} damage is 0.2x{atk}"
+  },
+  "BerserkCharge": {
+    "n": "Berserk Charge",
+    "t": 14,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4}&{5} {target} rest of {turn}",
+    "fbt": "Deal 2x{atk} & {debuff}40%{def}&{mdef} {target} rest of {turn}"
+  },
+  "NatureFury": {
+    "n": "Nature's Fury",
+    "ft": "{buff}300%{atk} next attack"
+  },
+  "Silence": {
+    "n": "Silence",
+    "ft": "{Silence} {target}"
+  },
+  "HiddenBlade": {
+    "n": "Hidden Blade",
+    "t": 19,
+    "ft": "Next time {self} attacked deal !NB!HL{0:f1}x{1} & !NB!HL{2}% {chance} apply {3} {target} !NB!HL{4}{turn}. !CL{3} damage is !NB!HL{5:f1}x{6}",
+    "fbt": "Next time {self} attacked deal 2x{atk} & 40% {chance} apply {bleed} {target} 2{turn}. {Bleed} damage is 0.5xatk"
+  },
+  "__HiddenBladeTriggerAction": {
+    "n": "__HiddenBladeTriggerAction",
+    "ft": "Special"
+  },
+  "PreciseStrike": {
+    "n": "Precise Strike",
+    "t": 7,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target} with !NB{2}!HL{3}%{4} {self}",
+    "fbt": "Deal 1.5x{atk} {target} with {buff}25%{acc} {self}"
+  },
+  "ArteryJab": {
+    "n": "Artery Jab",
+    "t": 13,
+    "ft": "Deal !NB!HL{0:f1}x{1} & apply {2} {target} !NB!HL{3}{turn}. !CL{2} damage is !NB!HL{4:f1}x{5}",
+    "fbt": "Deal 2x{atk} & apply {bleed} {target} 2{turn}. {Bleed} damage is 0.3x{atk}"
+  },
+  "Eviscerate": {
+    "n": "Eviscerate",
+    "ft": "Deal 3x{atk} {target} with {buff}300%{critMod} {self} & {debuff}100%{eva} {target}"
+  },
+  "TemplarInvocation": {
+    "n": "Templar Invocation",
+    "ft": "{buff}50%({def}&{mdef}) {party} 3{turn}"
+  },
+  "SlashBash": {
+    "n": "Slash 'n Bash",
+    "t": 10,
+    "ft": "Deal !NB!HL{0:f1}x({1}+{2}) {target}",
+    "fbt": "Deal 1.8x({atk}+{def}) {target}"
+  },
+  "Lacerate": {
+    "n": "Lacerate",
+    "t": 13,
+    "ft": "Deal !NB!HL{0:f1}x{1} & apply {2} {target} !NB!HL{3}{turn}. !CL{2} damage is !NB!HL{4:f1}x{5}",
+    "fbt": "Deal 1.8x{atk} & apply {bleed} {target} 2{turn}. {Bleed} is 0.2x{atk}"
+  },
+  "UnholyFlail": {
+    "n": "Unholy Flail",
+    "t": 5,
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}. !NB{2}!HL{3}% if {target} has {4}",
+    "fbt": "Deal 1.4x{atk} {target}. +44% if {target} has {poison}"
+  },
+  "CleansingIncantation": {
+    "n": "Cleansing Incantation",
+    "ft": "{Cleanse} {self}"
+  },
+  "BeastBellow": {
+    "n": "Beast Bellow",
+    "t": 25,
+    "ft": "!NB{debuff}!HL{0}%({1}&{2}) {party} !NB!HL{3}{turn} & !NB{buff}!HL{4}%{5} {self} !NB!HL{6}{turn}",
+    "fbt": "{debuff}40%({atk}&{matk}) {party} 1{turn} & {buff}60%{atk} {self} 2{turn}"
+  },
+  "BestialCharge": {
+    "n": "Bestial Charge",
+    "t": 1,
+    "ft": "Deal !NB!HL{0:f1}x{1} center line",
+    "fbt": "Deal 3x{atk} center line"
+  },
+  "Stampede": {
+    "n": "Stampede",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {party} !NB!HL{5}{turn}",
+    "fbt": "Deal 2x{atk} & {debuff}30%{eva} {party} 1{turn}"
+  },
+  "SanirGreatCurse": {
+    "n": "Sanir's Greater Curse",
+    "t": 18,
+    "ft": "!NB{0}!HL{1}%{2}&{3} {party} !NB!HL{4}{turn}",
+    "fbt": "{debuff}50%{def}&{mdef} {party} 2{turn}"
+  },
+  "SteamGeysers": {
+    "n": "Steam Geysers",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} front row !NB!HL{5}{turn}",
+    "fbt": "Deal 2x{matk} & {debuff}50%{acc} front row 2{turn}"
+  },
+  "Flood": {
+    "n": "Flood",
+    "ft": "Deal 2x{matk} {party}. Removes {fire} from all combatants"
+  },
+  "ColossalChomp": {
+    "n": "Colossal Chomp",
+    "t": 1,
+    "ft": "Deal !NB!HL{0:f1}x{1} highest {maxHP} {target}",
+    "fbt": "Deal 3x{atk} highest {maxHP} {target}"
+  },
+  "TunnelRush": {
+    "n": "Tunnel Rush",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} back row !NB!HL{5}{turn}",
+    "fbt": "Deal 2x{atk} & {debuff}30%{eva} back row 2{turn}"
+  },
+  "Sandstorm": {
+    "n": "Sandstorm",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {party} !NB!HL{5}{turn}",
+    "fbt": "Deal 1.5x{atk} & {debuff}50%{acc} {party} 3{turn}"
+  },
+  "LeapQuake": {
+    "n": "Leap Quake",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {party} !NB!HL{5}{turn}",
+    "fbt": "Deal 2x{atk} & {debuff}40%{acc} {party} 1{turn}"
+  },
+  "CelestialBeam": {
+    "n": "Celestial Beam",
+    "ft": "This {turn} charge up the beam. Next {turn} unleash the beam dealing 3x({matk}+{acc}) & {debuff}60%{mdef} {target} 3{turn}"
+  },
+  "Vitality": {
+    "n": "Vitality",
+    "ft": "{buff}25%{maxHP}"
+  },
+  "Might": {
+    "n": "Might",
+    "ft": "{buff}15%{atk}"
+  },
+  "Mystic": {
+    "n": "Mystic",
+    "ft": "{buff}15%{matk}"
+  },
+  "Tough": {
+    "n": "Tough",
+    "ft": "{buff}15%{def}"
+  },
+  "Arcane": {
+    "n": "Arcane",
+    "ft": "{buff}15%{mdef}"
+  },
+  "Perceptive": {
+    "n": "Perceptive",
+    "ft": "{buff}15%{acc}"
+  },
+  "Swift": {
+    "n": "Swift",
+    "ft": "{buff}15%{eva}"
+  },
+  "Juggernaut": {
+    "n": "Juggernaut",
+    "ft": "{buff}10%{def}&{mdef}"
+  },
+  "Strong": {
+    "n": "Strong",
+    "ft": "{buff}10%{atk}&{def}"
+  },
+  "Enigmatic": {
+    "n": "Enigmatic",
+    "ft": "{buff}10%{matk}&{mdef}"
+  },
+  "Covert": {
+    "n": "Covert",
+    "ft": "{buff}10%{acc}&{eva}"
+  },
+  "Deadly": {
+    "n": "Deadly",
+    "ft": "{buff}10%{crit} & 35%{critMod}"
+  },
+  "Adroit": {
+    "n": "Adroit",
+    "ft": "{buff}10%{acc}&{crit}"
+  },
+  "Nimble": {
+    "n": "Nimble",
+    "ft": "{buff}10%{atk}&{eva}"
+  },
+  "Whimsical": {
+    "n": "Whimsical",
+    "ft": "{buff}10%{matk}&{eva}"
+  },
+  "Radiant": {
+    "n": "Radiant",
+    "ft": "{buff}40%{incHeal}"
+  },
+  "Generous": {
+    "n": "Generous",
+    "ft": "{buff}40%{outHeal}"
+  }
+}

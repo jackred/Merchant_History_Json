@@ -1,0 +1,152 @@
+{
+  "SwordMaster": {
+    "Id": "SwordMaster",
+    "Name": "Sword Master",
+    "Cond": "EMT:Sword",
+    "Stats": [
+      {
+        "Value": 1,
+        "Type": "str"
+      },
+      {
+        "Value": 25,
+        "Type": "atkPct"
+      },
+      {
+        "Value": 20,
+        "Type": "crit"
+      }
+    ],
+    "EquipMods": null
+  },
+  "WandWielder": {
+    "Id": "WandWielder",
+    "Name": "Wand Wielder",
+    "Cond": "EMT:Wand",
+    "Stats": [
+      {
+        "Value": 30,
+        "Type": "crit"
+      },
+      {
+        "Value": 100,
+        "Type": "critMod"
+      },
+      {
+        "Value": 50,
+        "Type": "evaPct"
+      }
+    ],
+    "EquipMods": null
+  },
+  "AxeFighter": {
+    "Id": "AxeFighter",
+    "Name": "Axe Fighter",
+    "Cond": "EMT:Axe",
+    "Stats": [
+      {
+        "Value": 300,
+        "Type": "critMod"
+      }
+    ],
+    "EquipMods": null
+  },
+  "DaggerMaster": {
+    "Id": "DaggerMaster",
+    "Name": "Dagger Master",
+    "Cond": "EMT:Dagger",
+    "Stats": [
+      {
+        "Value": 1,
+        "Type": "dex"
+      },
+      {
+        "Value": 1,
+        "Type": "str"
+      }
+    ],
+    "EquipMods": null
+  },
+  "SpearMaster": {
+    "Id": "SpearMaster",
+    "Name": "Spear Master",
+    "Cond": "EMT:Spear",
+    "Stats": [
+      {
+        "Value": 1,
+        "Type": "str"
+      },
+      {
+        "Value": 20,
+        "Type": "crit"
+      }
+    ],
+    "EquipMods": [
+      {
+        "Mod": 2,
+        "Type": "acc"
+      }
+    ]
+  },
+  "ArcaneClubMaster": {
+    "Id": "ArcaneClubMaster",
+    "Name": "Arcane Club Master",
+    "Cond": "EMT:Club",
+    "Stats": [
+      {
+        "Value": 5,
+        "Type": "int"
+      },
+      {
+        "Value": 300,
+        "Type": "critMod"
+      }
+    ],
+    "EquipMods": [
+      {
+        "Mod": 2,
+        "Type": "matk"
+      }
+    ]
+  },
+  "AxeMaster": {
+    "Id": "AxeMaster",
+    "Name": "Axe Master",
+    "Cond": "EMT:Axe",
+    "Stats": [
+      {
+        "Value": 1,
+        "Type": "str"
+      },
+      {
+        "Value": 100,
+        "Type": "accPct"
+      },
+      {
+        "Value": 20,
+        "Type": "atkPct"
+      }
+    ],
+    "EquipMods": null
+  },
+  "BruteClubMaster": {
+    "Id": "BruteClubMaster",
+    "Name": "Brute Club Master",
+    "Cond": "EMT:Club",
+    "Stats": [
+      {
+        "Value": 5,
+        "Type": "str"
+      },
+      {
+        "Value": 300,
+        "Type": "critMod"
+      },
+      {
+        "Value": 100,
+        "Type": "atkPct"
+      }
+    ],
+    "EquipMods": null
+  }
+}

@@ -1,0 +1,782 @@
+{
+  "One": {
+    "11": {
+      "MaterialId": "11",
+      "WeaponPrefix": "w12m",
+      "ArmorPrefix": "a132",
+      "TrinketPrefix": "a132"
+    },
+    "12": {
+      "MaterialId": "12",
+      "WeaponPrefix": "w12a",
+      "ArmorPrefix": "a13d",
+      "TrinketPrefix": "a13d"
+    },
+    "13": {
+      "MaterialId": "13",
+      "WeaponPrefix": "w11d",
+      "ArmorPrefix": "a12d",
+      "TrinketPrefix": "a12d"
+    },
+    "14": {
+      "MaterialId": "14",
+      "WeaponPrefix": "w13a",
+      "ArmorPrefix": "a11d",
+      "TrinketPrefix": "a11d"
+    },
+    "15": {
+      "MaterialId": "15",
+      "WeaponPrefix": "w12d",
+      "ArmorPrefix": "a14d",
+      "TrinketPrefix": "a14d"
+    },
+    "16": {
+      "MaterialId": "16",
+      "WeaponPrefix": "w12h",
+      "ArmorPrefix": "a13h",
+      "TrinketPrefix": "a13h"
+    },
+    "160": {
+      "MaterialId": "160",
+      "WeaponPrefix": "w312",
+      "ArmorPrefix": "a322",
+      "TrinketPrefix": "a322"
+    },
+    "161": {
+      "MaterialId": "161",
+      "WeaponPrefix": "w33a",
+      "ArmorPrefix": "a322",
+      "TrinketPrefix": "a322"
+    },
+    "162": {
+      "MaterialId": "162",
+      "WeaponPrefix": "w31a",
+      "ArmorPrefix": "a32d",
+      "TrinketPrefix": "a32d"
+    },
+    "163": {
+      "MaterialId": "163",
+      "WeaponPrefix": "w32a",
+      "ArmorPrefix": "a33d",
+      "TrinketPrefix": "a33d"
+    },
+    "164": {
+      "MaterialId": "164",
+      "WeaponPrefix": "w31e",
+      "ArmorPrefix": "a32e",
+      "TrinketPrefix": "a32e"
+    },
+    "165": {
+      "MaterialId": "165",
+      "WeaponPrefix": "w33a",
+      "ArmorPrefix": "a33e",
+      "TrinketPrefix": "a33e"
+    },
+    "166": {
+      "MaterialId": "166",
+      "WeaponPrefix": "w31m",
+      "ArmorPrefix": "a322",
+      "TrinketPrefix": "a322"
+    },
+    "167": {
+      "MaterialId": "167",
+      "WeaponPrefix": "w33m",
+      "ArmorPrefix": "a332",
+      "TrinketPrefix": "a332"
+    },
+    "168": {
+      "MaterialId": "168",
+      "WeaponPrefix": "w33m",
+      "ArmorPrefix": "a322",
+      "TrinketPrefix": "a322"
+    },
+    "169": {
+      "MaterialId": "169",
+      "WeaponPrefix": "w33c",
+      "ArmorPrefix": "a342",
+      "TrinketPrefix": "a342"
+    },
+    "17": {
+      "MaterialId": "17",
+      "WeaponPrefix": "w12a",
+      "ArmorPrefix": "a11d",
+      "TrinketPrefix": "a11d"
+    },
+    "170": {
+      "MaterialId": "170",
+      "WeaponPrefix": "w33d",
+      "ArmorPrefix": "a35d",
+      "TrinketPrefix": "a35d"
+    },
+    "171": {
+      "MaterialId": "171",
+      "WeaponPrefix": "w33h",
+      "ArmorPrefix": "a35h",
+      "TrinketPrefix": "a35h"
+    },
+    "172": {
+      "MaterialId": "172",
+      "WeaponPrefix": "w369",
+      "ArmorPrefix": "a361",
+      "TrinketPrefix": "a361"
+    },
+    "173": {
+      "MaterialId": "173",
+      "WeaponPrefix": "w36c",
+      "ArmorPrefix": "a354",
+      "TrinketPrefix": "a354"
+    },
+    "174": {
+      "MaterialId": "174",
+      "WeaponPrefix": "w331",
+      "ArmorPrefix": "a32a",
+      "TrinketPrefix": "a32a"
+    },
+    "175": {
+      "MaterialId": "175",
+      "WeaponPrefix": "w34a",
+      "ArmorPrefix": "a34d",
+      "TrinketPrefix": "a34d"
+    },
+    "176": {
+      "MaterialId": "176",
+      "WeaponPrefix": "w36m",
+      "ArmorPrefix": "a362",
+      "TrinketPrefix": "a362"
+    },
+    "178": {
+      "MaterialId": "178",
+      "WeaponPrefix": "w33a",
+      "ArmorPrefix": "a32d",
+      "TrinketPrefix": "a32d"
+    },
+    "18": {
+      "MaterialId": "18",
+      "WeaponPrefix": "w122",
+      "ArmorPrefix": "a132",
+      "TrinketPrefix": "a132"
+    },
+    "180": {
+      "MaterialId": "180",
+      "WeaponPrefix": "w359",
+      "ArmorPrefix": "a36d",
+      "TrinketPrefix": "a36d"
+    },
+    "181": {
+      "MaterialId": "181",
+      "WeaponPrefix": "w33h",
+      "ArmorPrefix": "a34h",
+      "TrinketPrefix": "a34h"
+    },
+    "182": {
+      "MaterialId": "182",
+      "WeaponPrefix": "w34a",
+      "ArmorPrefix": "a35d",
+      "TrinketPrefix": "a35d"
+    },
+    "183": {
+      "MaterialId": "183",
+      "WeaponPrefix": "w36a",
+      "ArmorPrefix": "a36d",
+      "TrinketPrefix": "a36d"
+    },
+    "184": {
+      "MaterialId": "184",
+      "WeaponPrefix": "w36s",
+      "ArmorPrefix": "a36s",
+      "TrinketPrefix": "a36s"
+    },
+    "185": {
+      "MaterialId": "185",
+      "WeaponPrefix": "w32e",
+      "ArmorPrefix": "a33e",
+      "TrinketPrefix": "a33e"
+    },
+    "186": {
+      "MaterialId": "186",
+      "WeaponPrefix": "w33a",
+      "ArmorPrefix": "a33d",
+      "TrinketPrefix": "a33d"
+    },
+    "187": {
+      "MaterialId": "187",
+      "WeaponPrefix": "w35a",
+      "ArmorPrefix": "a33a",
+      "TrinketPrefix": "a33a"
+    },
+    "188": {
+      "MaterialId": "188",
+      "WeaponPrefix": "w33a",
+      "ArmorPrefix": "a32d",
+      "TrinketPrefix": "a32d"
+    },
+    "189": {
+      "MaterialId": "189",
+      "WeaponPrefix": "w341",
+      "ArmorPrefix": "a35e",
+      "TrinketPrefix": "a35e"
+    },
+    "19": {
+      "MaterialId": "19",
+      "WeaponPrefix": "w131",
+      "ArmorPrefix": "a12h",
+      "TrinketPrefix": "a12h"
+    },
+    "190": {
+      "MaterialId": "190",
+      "WeaponPrefix": "w32a",
+      "ArmorPrefix": "a31d",
+      "TrinketPrefix": "a31d"
+    },
+    "191": {
+      "MaterialId": "191",
+      "WeaponPrefix": "w33m",
+      "ArmorPrefix": "a332",
+      "TrinketPrefix": "a332"
+    },
+    "192": {
+      "MaterialId": "192",
+      "WeaponPrefix": "w36m",
+      "ArmorPrefix": "a35m",
+      "TrinketPrefix": "a35m"
+    },
+    "195": {
+      "MaterialId": "195",
+      "WeaponPrefix": "w35c",
+      "ArmorPrefix": "a351",
+      "TrinketPrefix": "a351"
+    },
+    "196": {
+      "MaterialId": "196",
+      "WeaponPrefix": "w35m",
+      "ArmorPrefix": "a352",
+      "TrinketPrefix": "a352"
+    },
+    "197": {
+      "MaterialId": "197",
+      "WeaponPrefix": "w36m",
+      "ArmorPrefix": "a36m",
+      "TrinketPrefix": "a36m"
+    },
+    "20": {
+      "MaterialId": "20",
+      "WeaponPrefix": "w11e",
+      "ArmorPrefix": "a12d",
+      "TrinketPrefix": "a12d"
+    },
+    "201": {
+      "MaterialId": "201",
+      "WeaponPrefix": "w35i",
+      "ArmorPrefix": "a36i",
+      "TrinketPrefix": "a36i"
+    },
+    "202": {
+      "MaterialId": "202",
+      "WeaponPrefix": "w361",
+      "ArmorPrefix": "a34m",
+      "TrinketPrefix": "a34m"
+    },
+    "204": {
+      "MaterialId": "204",
+      "WeaponPrefix": "w36a",
+      "ArmorPrefix": "a36a",
+      "TrinketPrefix": "a36a"
+    },
+    "205": {
+      "MaterialId": "205",
+      "WeaponPrefix": "w34s",
+      "ArmorPrefix": "a36d",
+      "TrinketPrefix": "a36d"
+    },
+    "206": {
+      "MaterialId": "206",
+      "WeaponPrefix": "w34a",
+      "ArmorPrefix": "a33d",
+      "TrinketPrefix": "a33d"
+    },
+    "207": {
+      "MaterialId": "207",
+      "WeaponPrefix": "w34i",
+      "ArmorPrefix": "a35i",
+      "TrinketPrefix": "a35i"
+    },
+    "21": {
+      "MaterialId": "21",
+      "WeaponPrefix": "w13a",
+      "ArmorPrefix": "a12a",
+      "TrinketPrefix": "a12a"
+    },
+    "22": {
+      "MaterialId": "22",
+      "WeaponPrefix": "w13c",
+      "ArmorPrefix": "a12e",
+      "TrinketPrefix": "a12e"
+    },
+    "23": {
+      "MaterialId": "23",
+      "WeaponPrefix": "w11h",
+      "ArmorPrefix": "a12d",
+      "TrinketPrefix": "a12d"
+    },
+    "24": {
+      "MaterialId": "24",
+      "WeaponPrefix": "w13a",
+      "ArmorPrefix": "a12d",
+      "TrinketPrefix": "a12d"
+    },
+    "25": {
+      "MaterialId": "25",
+      "WeaponPrefix": "w14m",
+      "ArmorPrefix": "a132",
+      "TrinketPrefix": "a132"
+    },
+    "26": {
+      "MaterialId": "26",
+      "WeaponPrefix": "w11d",
+      "ArmorPrefix": "a12d",
+      "TrinketPrefix": "a12d"
+    },
+    "27": {
+      "MaterialId": "27",
+      "WeaponPrefix": "w121",
+      "ArmorPrefix": "a13e",
+      "TrinketPrefix": "a13e"
+    },
+    "28": {
+      "MaterialId": "28",
+      "WeaponPrefix": "w169",
+      "ArmorPrefix": "a14d",
+      "TrinketPrefix": "a14d"
+    },
+    "29": {
+      "MaterialId": "29",
+      "WeaponPrefix": "w159",
+      "ArmorPrefix": "a16h",
+      "TrinketPrefix": "a16h"
+    },
+    "30": {
+      "MaterialId": "30",
+      "WeaponPrefix": "w11d",
+      "ArmorPrefix": "a12d",
+      "TrinketPrefix": "a12d"
+    },
+    "31": {
+      "MaterialId": "31",
+      "WeaponPrefix": "w121",
+      "ArmorPrefix": "a112",
+      "TrinketPrefix": "a112"
+    },
+    "32": {
+      "MaterialId": "32",
+      "WeaponPrefix": "w12a",
+      "ArmorPrefix": "a11d",
+      "TrinketPrefix": "a11d"
+    },
+    "33": {
+      "MaterialId": "33",
+      "WeaponPrefix": "w11a",
+      "ArmorPrefix": "a12d",
+      "TrinketPrefix": "a12d"
+    },
+    "34": {
+      "MaterialId": "34",
+      "WeaponPrefix": "w12m",
+      "ArmorPrefix": "a112",
+      "TrinketPrefix": "a112"
+    },
+    "35": {
+      "MaterialId": "35",
+      "WeaponPrefix": "w13c",
+      "ArmorPrefix": "a121",
+      "TrinketPrefix": "a121"
+    },
+    "36": {
+      "MaterialId": "36",
+      "WeaponPrefix": "w129",
+      "ArmorPrefix": "a11d",
+      "TrinketPrefix": "a11d"
+    },
+    "37": {
+      "MaterialId": "37",
+      "WeaponPrefix": "w161",
+      "ArmorPrefix": "a131",
+      "TrinketPrefix": "a131"
+    },
+    "38": {
+      "MaterialId": "38",
+      "WeaponPrefix": "w16m",
+      "ArmorPrefix": "a132",
+      "TrinketPrefix": "a132"
+    },
+    "39": {
+      "MaterialId": "39",
+      "WeaponPrefix": "w16a",
+      "ArmorPrefix": "a13h",
+      "TrinketPrefix": "a13h"
+    },
+    "40": {
+      "MaterialId": "40",
+      "WeaponPrefix": "w16c",
+      "ArmorPrefix": "a13e",
+      "TrinketPrefix": "a13e"
+    },
+    "41": {
+      "MaterialId": "41",
+      "WeaponPrefix": "w12h",
+      "ArmorPrefix": "a14h",
+      "TrinketPrefix": "a14h"
+    },
+    "42": {
+      "MaterialId": "42",
+      "WeaponPrefix": "w15a",
+      "ArmorPrefix": "a13a",
+      "TrinketPrefix": "a13a"
+    },
+    "43": {
+      "MaterialId": "43",
+      "WeaponPrefix": "w14h",
+      "ArmorPrefix": "a161",
+      "TrinketPrefix": "a161"
+    },
+    "44": {
+      "MaterialId": "44",
+      "WeaponPrefix": "w169",
+      "ArmorPrefix": "a16e",
+      "TrinketPrefix": "a16e"
+    },
+    "45": {
+      "MaterialId": "45",
+      "WeaponPrefix": "w15m",
+      "ArmorPrefix": "a152",
+      "TrinketPrefix": "a152"
+    },
+    "46": {
+      "MaterialId": "46",
+      "WeaponPrefix": "w15m",
+      "ArmorPrefix": "a15d",
+      "TrinketPrefix": "a15d"
+    },
+    "47": {
+      "MaterialId": "47",
+      "WeaponPrefix": "w16m",
+      "ArmorPrefix": "a162",
+      "TrinketPrefix": "a162"
+    },
+    "48": {
+      "MaterialId": "48",
+      "WeaponPrefix": "w16c",
+      "ArmorPrefix": "a16h",
+      "TrinketPrefix": "a16h"
+    },
+    "52": {
+      "MaterialId": "52",
+      "WeaponPrefix": "w161",
+      "ArmorPrefix": "a142",
+      "TrinketPrefix": "a142"
+    },
+    "63": {
+      "MaterialId": "63",
+      "WeaponPrefix": "w21a",
+      "ArmorPrefix": "a22d",
+      "TrinketPrefix": "a22d"
+    },
+    "64": {
+      "MaterialId": "64",
+      "WeaponPrefix": "w22m",
+      "ArmorPrefix": "a212",
+      "TrinketPrefix": "a212"
+    },
+    "65": {
+      "MaterialId": "65",
+      "WeaponPrefix": "w21m",
+      "ArmorPrefix": "a22h",
+      "TrinketPrefix": "a22h"
+    },
+    "66": {
+      "MaterialId": "66",
+      "WeaponPrefix": "w229",
+      "ArmorPrefix": "a23d",
+      "TrinketPrefix": "a23d"
+    },
+    "67": {
+      "MaterialId": "67",
+      "WeaponPrefix": "w23m",
+      "ArmorPrefix": "a23h",
+      "TrinketPrefix": "a23h"
+    },
+    "68": {
+      "MaterialId": "68",
+      "WeaponPrefix": "w21e",
+      "ArmorPrefix": "a22e",
+      "TrinketPrefix": "a22e"
+    },
+    "69": {
+      "MaterialId": "69",
+      "WeaponPrefix": "w21m",
+      "ArmorPrefix": "a232",
+      "TrinketPrefix": "a232"
+    },
+    "70": {
+      "MaterialId": "70",
+      "WeaponPrefix": "w23m",
+      "ArmorPrefix": "a222",
+      "TrinketPrefix": "a222"
+    },
+    "71": {
+      "MaterialId": "71",
+      "WeaponPrefix": "w23a",
+      "ArmorPrefix": "a21d",
+      "TrinketPrefix": "a21d"
+    },
+    "72": {
+      "MaterialId": "72",
+      "WeaponPrefix": "w23m",
+      "ArmorPrefix": "a232",
+      "TrinketPrefix": "a232"
+    },
+    "73": {
+      "MaterialId": "73",
+      "WeaponPrefix": "w26i",
+      "ArmorPrefix": "a26m",
+      "TrinketPrefix": "a26m"
+    },
+    "74": {
+      "MaterialId": "74",
+      "WeaponPrefix": "w269",
+      "ArmorPrefix": "a26c",
+      "TrinketPrefix": "a26c"
+    },
+    "75": {
+      "MaterialId": "75",
+      "WeaponPrefix": "w23a",
+      "ArmorPrefix": "a21a",
+      "TrinketPrefix": "a21a"
+    },
+    "76": {
+      "MaterialId": "76",
+      "WeaponPrefix": "w22a",
+      "ArmorPrefix": "a21d",
+      "TrinketPrefix": "a21d"
+    },
+    "77": {
+      "MaterialId": "77",
+      "WeaponPrefix": "w23m",
+      "ArmorPrefix": "a231",
+      "TrinketPrefix": "a231"
+    },
+    "78": {
+      "MaterialId": "78",
+      "WeaponPrefix": "w22h",
+      "ArmorPrefix": "a23d",
+      "TrinketPrefix": "a23d"
+    },
+    "79": {
+      "MaterialId": "79",
+      "WeaponPrefix": "w23a",
+      "ArmorPrefix": "a24h",
+      "TrinketPrefix": "a24h"
+    },
+    "80": {
+      "MaterialId": "80",
+      "WeaponPrefix": "w21d",
+      "ArmorPrefix": "a23d",
+      "TrinketPrefix": "a23d"
+    },
+    "81": {
+      "MaterialId": "81",
+      "WeaponPrefix": "w24m",
+      "ArmorPrefix": "a23e",
+      "TrinketPrefix": "a23e"
+    },
+    "82": {
+      "MaterialId": "82",
+      "WeaponPrefix": "w251",
+      "ArmorPrefix": "a232",
+      "TrinketPrefix": "a232"
+    },
+    "83": {
+      "MaterialId": "83",
+      "WeaponPrefix": "w23c",
+      "ArmorPrefix": "a25h",
+      "TrinketPrefix": "a25h"
+    },
+    "84": {
+      "MaterialId": "84",
+      "WeaponPrefix": "w23a",
+      "ArmorPrefix": "a21d",
+      "TrinketPrefix": "a21d"
+    },
+    "85": {
+      "MaterialId": "85",
+      "WeaponPrefix": "w23e",
+      "ArmorPrefix": "a24e",
+      "TrinketPrefix": "a24e"
+    },
+    "86": {
+      "MaterialId": "86",
+      "WeaponPrefix": "w259",
+      "ArmorPrefix": "a252",
+      "TrinketPrefix": "a252"
+    },
+    "87": {
+      "MaterialId": "87",
+      "WeaponPrefix": "w25c",
+      "ArmorPrefix": "a232",
+      "TrinketPrefix": "a232"
+    },
+    "88": {
+      "MaterialId": "88",
+      "WeaponPrefix": "w25m",
+      "ArmorPrefix": "a25m",
+      "TrinketPrefix": "a25m"
+    },
+    "89": {
+      "MaterialId": "89",
+      "WeaponPrefix": "w26m",
+      "ArmorPrefix": "a23c",
+      "TrinketPrefix": "a23c"
+    },
+    "90": {
+      "MaterialId": "90",
+      "WeaponPrefix": "w26d",
+      "ArmorPrefix": "a26h",
+      "TrinketPrefix": "a26h"
+    },
+    "91": {
+      "MaterialId": "91",
+      "WeaponPrefix": "w26a",
+      "ArmorPrefix": "a24d",
+      "TrinketPrefix": "a24d"
+    },
+    "92": {
+      "MaterialId": "92",
+      "WeaponPrefix": "w25m",
+      "ArmorPrefix": "a25e",
+      "TrinketPrefix": "a25e"
+    },
+    "93": {
+      "MaterialId": "93",
+      "WeaponPrefix": "w232",
+      "ArmorPrefix": "a252",
+      "TrinketPrefix": "a252"
+    },
+    "94": {
+      "MaterialId": "94",
+      "WeaponPrefix": "w26h",
+      "ArmorPrefix": "a259",
+      "TrinketPrefix": "a259"
+    },
+    "95": {
+      "MaterialId": "95",
+      "WeaponPrefix": "w25d",
+      "ArmorPrefix": "a26d",
+      "TrinketPrefix": "a26d"
+    },
+    "96": {
+      "MaterialId": "96",
+      "WeaponPrefix": "w261",
+      "ArmorPrefix": "a25d",
+      "TrinketPrefix": "a25d"
+    },
+    "97": {
+      "MaterialId": "97",
+      "WeaponPrefix": "w262",
+      "ArmorPrefix": "a262",
+      "TrinketPrefix": "a262"
+    },
+    "98": {
+      "MaterialId": "98",
+      "WeaponPrefix": "w26m",
+      "ArmorPrefix": "a26m",
+      "TrinketPrefix": "a26m"
+    },
+    "99": {
+      "MaterialId": "99",
+      "WeaponPrefix": "w26e",
+      "ArmorPrefix": "a26c",
+      "TrinketPrefix": "a26c"
+    }
+  },
+  "Two": [
+    {
+      "Id": "t1",
+      "MaterialOne": "12",
+      "MaterialTwo": "13",
+      "Prefix": "test",
+      "SynergyLevel": 5,
+      "CrafterExclude": [
+        1,
+        3
+      ],
+      "MinLevel": 1,
+      "MaxLevel": 33
+    },
+    {
+      "Id": "t2",
+      "MaterialOne": "12",
+      "MaterialTwo": "16",
+      "Prefix": "test2",
+      "SynergyLevel": 5,
+      "ItemSlots": [
+        2,
+        4
+      ],
+      "MinLevel": 1,
+      "MaxLevel": 33
+    },
+    {
+      "Id": "t3",
+      "MaterialOne": "41",
+      "MaterialTwo": "42",
+      "Prefix": "test3",
+      "SynergyLevel": 4,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "MinLevel": 1,
+      "MaxLevel": 33
+    },
+    {
+      "Id": "t4",
+      "MaterialOne": "34",
+      "MaterialTwo": "30",
+      "Prefix": "test4",
+      "SynergyLevel": 4,
+      "ItemSlots": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "MinLevel": 1,
+      "MaxLevel": 33
+    },
+    {
+      "Id": "t5",
+      "MaterialOne": "27",
+      "MaterialTwo": "24",
+      "Prefix": "test5",
+      "SynergyLevel": 4,
+      "ItemSlots": [
+        1
+      ],
+      "MinLevel": 1,
+      "MaxLevel": 33
+    },
+    {
+      "Id": "t6",
+      "MaterialOne": "13",
+      "MaterialTwo": "12",
+      "Prefix": "test6",
+      "SynergyLevel": 4,
+      "ItemSlots": [
+        1
+      ],
+      "MinLevel": 1,
+      "MaxLevel": 33
+    }
+  ]
+}

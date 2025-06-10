@@ -1,0 +1,507 @@
+{
+  "1": {
+    "Id": "1",
+    "Name": "Forest Gruel",
+    "SubType": "Soup",
+    "ItemLevel": 1,
+    "Value": 8,
+    "Desc1": "The bare minimum sustinance",
+    "Desc2": "",
+    "Image": "Eatable-Region1-Forest_Gruel",
+    "Rarity": 1,
+    "Region": 1,
+    "CrafterID": 6,
+    "Time": 15,
+    "Exp": 21,
+    "Recipe": [
+      {
+        "Id": "9",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "10",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 0,
+    "StatNameA": "heal",
+    "StatValueA": 50
+  },
+  "2": {
+    "Id": "2",
+    "Name": "Hearty Tuvale Soup",
+    "SubType": "Soup",
+    "ItemLevel": 8,
+    "Value": 138,
+    "Desc1": "A hearty meal for a cold day",
+    "Desc2": "",
+    "Image": "Eatable-Region1-Hearty_Tuvale_Soup",
+    "Rarity": 3,
+    "Region": 1,
+    "CrafterID": 6,
+    "Time": 45,
+    "Exp": 242,
+    "Recipe": [
+      {
+        "Id": "16",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "804",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "29",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 47,
+    "StatNameA": "heal",
+    "StatValueA": 150
+  },
+  "3": {
+    "Id": "3",
+    "Name": "Ginger Ale",
+    "SubType": "Drink",
+    "ItemLevel": 2,
+    "Value": 125,
+    "Desc1": "Add a little bit of spice",
+    "Desc2": "",
+    "Image": "Eatable-Region1-Ginger_Ale",
+    "Rarity": 2,
+    "Region": 1,
+    "CrafterID": 6,
+    "Time": 30,
+    "Exp": 58,
+    "Recipe": [
+      {
+        "Id": "801",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "805",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 18,
+    "StatNameA": "acc",
+    "StatValueA": 20
+  },
+  "4": {
+    "Id": "4",
+    "Name": "Apple Pie",
+    "SubType": "Food",
+    "ItemLevel": 3,
+    "Value": 202,
+    "Desc1": "Would go great with a sugary frozen",
+    "Desc2": "treat...",
+    "Image": "Eatable-Region1-Apple_Pie",
+    "Rarity": 2,
+    "Region": 1,
+    "CrafterID": 6,
+    "Time": 30,
+    "Exp": 93,
+    "Recipe": [
+      {
+        "Id": "802",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "809",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "805",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 28,
+    "StatNameA": "maxHP",
+    "StatValueA": 50
+  },
+  "5": {
+    "Id": "5",
+    "Name": "Grok's Mead",
+    "SubType": "Drink",
+    "ItemLevel": 10,
+    "Value": 377,
+    "Desc1": "This is greeeeeat",
+    "Desc2": "",
+    "Image": "Eatable-Region1-Groks_Mead",
+    "Rarity": 3,
+    "Region": 1,
+    "CrafterID": 6,
+    "Time": 45,
+    "Exp": 311,
+    "Recipe": [
+      {
+        "Id": "801",
+        "Amount": 14,
+        "Type": 2
+      },
+      {
+        "Id": "803",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "808",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 78,
+    "StatNameA": "matk",
+    "StatValueA": 20
+  },
+  "6": {
+    "Id": "6",
+    "Name": "Mushroom Skewer",
+    "SubType": "Food",
+    "ItemLevel": 5,
+    "Value": 166,
+    "Desc1": "I love grilling",
+    "Desc2": "",
+    "Image": "Eatable-Region1-Mushroom_Skewer",
+    "Rarity": 2,
+    "Region": 1,
+    "CrafterID": 6,
+    "Time": 30,
+    "Exp": 131,
+    "Recipe": [
+      {
+        "Id": "806",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "803",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "804",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 32,
+    "StatNameA": "atk",
+    "StatValueA": 20
+  },
+  "7": {
+    "Id": "7",
+    "Name": "Bear Steak Dinner",
+    "SubType": "Food",
+    "ItemLevel": 9,
+    "Value": 321,
+    "Desc1": "A well-rounded meal",
+    "Desc2": "",
+    "Image": "Eatable-Region1-Bear_Steak_Dinner",
+    "Rarity": 3,
+    "Region": 1,
+    "CrafterID": 6,
+    "Time": 45,
+    "Exp": 278,
+    "Recipe": [
+      {
+        "Id": "806",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "804",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "807",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 68,
+    "StatNameA": "expMod",
+    "StatValueA": 25
+  },
+  "8": {
+    "Id": "8",
+    "Name": "Coastal Chow",
+    "SubType": "Soup",
+    "ItemLevel": 10,
+    "Value": 162,
+    "Desc1": "Smells fishy",
+    "Desc2": "",
+    "Image": "Eatable-Region2-Coastal_Chow",
+    "Rarity": 1,
+    "Region": 2,
+    "CrafterID": 6,
+    "Time": 30,
+    "Exp": 350,
+    "Recipe": [
+      {
+        "Id": "57",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "813",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 67,
+    "StatNameA": "heal",
+    "StatValueA": 100
+  },
+  "9": {
+    "Id": "9",
+    "Name": "Sea Salt Brownie",
+    "SubType": "Food",
+    "ItemLevel": 12,
+    "Value": 753,
+    "Desc1": "Great when warmed over a fire",
+    "Desc2": "",
+    "Image": "Eatable-Region2-Sea_Salt_Brownie",
+    "Rarity": 1,
+    "Region": 2,
+    "CrafterID": 6,
+    "Time": 45,
+    "Exp": 419,
+    "Recipe": [
+      {
+        "Id": "809",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "815",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "62",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 131,
+    "StatNameA": "speed",
+    "StatValueA": 30
+  },
+  "10": {
+    "Id": "10",
+    "Name": "Crab Onigiri",
+    "SubType": "Food",
+    "ItemLevel": 17,
+    "Value": 850,
+    "Desc1": "The staple Yarsol cousine",
+    "Desc2": "",
+    "Image": "Eatable-Region2-Crab_Onigiri",
+    "Rarity": 2,
+    "Region": 2,
+    "CrafterID": 6,
+    "Time": 60,
+    "Exp": 751,
+    "Recipe": [
+      {
+        "Id": "810",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "812",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "96",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 197,
+    "StatNameA": "def",
+    "StatValueA": 30
+  },
+  "11": {
+    "Id": "11",
+    "Name": "Coconapple Colada",
+    "SubType": "Drink",
+    "ItemLevel": 15,
+    "Value": 638,
+    "Desc1": "May contain chunks of sponge",
+    "Desc2": "",
+    "Image": "Eatable-Region2-Coconapple_Colada",
+    "Rarity": 2,
+    "Region": 2,
+    "CrafterID": 6,
+    "Time": 60,
+    "Exp": 642,
+    "Recipe": [
+      {
+        "Id": "801",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "811",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "812",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 163,
+    "StatNameA": "eva",
+    "StatValueA": 30
+  },
+  "12": {
+    "Id": "12",
+    "Name": "Fried Rice",
+    "SubType": "Food",
+    "ItemLevel": 19,
+    "Value": 828,
+    "Desc1": "Very zesty",
+    "Desc2": "",
+    "Image": "Eatable-Region2-Fried_Rice",
+    "Rarity": 3,
+    "Region": 2,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 1007,
+    "Recipe": [
+      {
+        "Id": "810",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "77",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "73",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 243,
+    "StatNameA": "heal",
+    "StatValueA": 300
+  },
+  "13": {
+    "Id": "13",
+    "Name": "Clam Chowder",
+    "SubType": "Food",
+    "ItemLevel": 18,
+    "Value": 919,
+    "Desc1": "Would go great with some Gazpacho or Kimchi",
+    "Desc2": "",
+    "Image": "Eatable-Region2-Clam_Chowder",
+    "Rarity": 2,
+    "Region": 2,
+    "CrafterID": 6,
+    "Time": 60,
+    "Exp": 803,
+    "Recipe": [
+      {
+        "Id": "813",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "814",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "93",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 210,
+    "StatNameA": "mdef",
+    "StatValueA": 30
+  },
+  "14": {
+    "Id": "14",
+    "Name": "Grenouille Stir Fry",
+    "SubType": "Food",
+    "ItemLevel": 20,
+    "Value": 975,
+    "Desc1": "Makes one feel strong!",
+    "Desc2": "",
+    "Image": "Eatable-Region2-Grenouille_Stir_Fry",
+    "Rarity": 3,
+    "Region": 2,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 1058,
+    "Recipe": [
+      {
+        "Id": "810",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "67",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "97",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 265,
+    "StatNameA": "str",
+    "StatValueA": 10
+  },
+  "15": {
+    "Id": "15",
+    "Name": "Plateau Porridge",
+    "SubType": "Soup",
+    "ItemLevel": 20,
+    "Value": 467,
+    "Desc1": "Warms the soul",
+    "Desc2": "",
+    "Image": "Eatable-Region3-Plateau_Porridge",
+    "Rarity": 1,
+    "Region": 3,
+    "CrafterID": 6,
+    "Time": 120,
+    "Exp": 987,
+    "Recipe": [
+      {
+        "Id": "158",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "159",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 201,
+    "StatNameA": "heal",
+    "StatValueA": 120
+  }
+}

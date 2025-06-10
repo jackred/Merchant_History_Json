@@ -1,0 +1,110 @@
+{
+  "1": {
+    "Id": "1",
+    "Name": "Tuvale Bag",
+    "Parcel": "TuvaleUncommonBag",
+    "Region": 1,
+    "Rarity": 2,
+    "Type": "",
+    "Desc": "An uncommon Tuvale Bag"
+  },
+  "2": {
+    "Id": "2",
+    "Name": "Rare Tuvale Bag",
+    "Parcel": "TuvaleRareBag",
+    "Region": 1,
+    "Rarity": 3,
+    "Type": "",
+    "Desc": "A rare Tuvale Bag"
+  },
+  "3": {
+    "Id": "3",
+    "Name": "Legendary Tuvale Bag",
+    "Parcel": "TuvaleEpicBag",
+    "Region": 1,
+    "Rarity": 5,
+    "Type": "",
+    "Desc": "A legendary Tuvale Bag"
+  },
+  "4": {
+    "Id": "4",
+    "Name": "Yarsol Bag",
+    "Parcel": "YarsolUncommonBag",
+    "Region": 2,
+    "Rarity": 2,
+    "Type": "",
+    "Desc": "An uncommon Yarsol Bag"
+  },
+  "5": {
+    "Id": "5",
+    "Name": "Rare Yarsol Bag",
+    "Parcel": "YarsolRareBag",
+    "Region": 2,
+    "Rarity": 3,
+    "Type": "",
+    "Desc": "A rare Yarsol Bag"
+  },
+  "6": {
+    "Id": "6",
+    "Name": "Legendary Yarsol Bag",
+    "Parcel": "YarsolEpicBag",
+    "Region": 2,
+    "Rarity": 5,
+    "Type": "",
+    "Desc": "A legendary Yarsol Bag"
+  },
+  "7": {
+    "Id": "7",
+    "Name": "Aldur Bag",
+    "Parcel": "YarsolEpicBag",
+    "Region": 3,
+    "Rarity": 2,
+    "Type": "",
+    "Desc": "An uncommon Aldur Bag"
+  },
+  "8": {
+    "Id": "8",
+    "Name": "Rare Aldur Bag",
+    "Parcel": "YarsolEpicBag",
+    "Region": 3,
+    "Rarity": 3,
+    "Type": "",
+    "Desc": "A rare Aldur Bag"
+  },
+  "9": {
+    "Id": "9",
+    "Name": "Legendary Aldur Bag",
+    "Parcel": "YarsolEpicBag",
+    "Region": 3,
+    "Rarity": 5,
+    "Type": "",
+    "Desc": "A legendary Aldur Bag"
+  },
+  "10": {
+    "Id": "10",
+    "Name": "Region 4 Bag",
+    "Parcel": "YarsolEpicBag",
+    "Region": 4,
+    "Rarity": 2,
+    "Type": "",
+    "Desc": "placeholder"
+  },
+  "37": {
+    "Id": "37",
+    "Name": "Crafter Mana Bag",
+    "Parcel": "CrafterManaBag",
+    "Region": 0,
+    "Rarity": 3,
+    "Type": "",
+    "Desc": "A bag of crafter mana tokens"
+  },
+  "40": {
+    "Id": "40",
+    "Name": "Rare Token Bag",
+    "Parcel": "RareTokenBag",
+    "Region": 0,
+    "Rarity": 4,
+    "Type": "",
+    "Desc": "A rare bag of tokens"
+  }
+}

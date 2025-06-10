@@ -1,0 +1,544 @@
+{
+  "MainTypes": {
+    "Axe": {
+      "atk": 5,
+      "atkLvl": 0.5,
+      "acc": 2,
+      "accLvl": 0.2
+    },
+    "Club": {
+      "atk": 3,
+      "atkLvl": 0.3,
+      "acc": 3,
+      "accLvl": 0.3
+    },
+    "Dagger": {
+      "atk": 2,
+      "atkLvl": 0.2,
+      "acc": 1,
+      "accLvl": 0.1,
+      "crit": 2,
+      "critLvl": 0.2,
+      "critMod": 2,
+      "critModLvl": 0.2
+    },
+    "Wand": {
+      "matk": 2,
+      "matkLvl": 0.2,
+      "acc": 3,
+      "accLvl": 0.3
+    },
+    "Stave": {
+      "matk": 4,
+      "matkLvl": 0.4,
+      "acc": 1,
+      "accLvl": 0.1
+    },
+    "Sword": {
+      "atk": 4,
+      "atkLvl": 0.4,
+      "acc": 2,
+      "accLvl": 0.2,
+      "critMod": 1,
+      "critModLvl": 0.1
+    },
+    "Spear": {
+      "atk": 6,
+      "atkLvl": 0.6,
+      "acc": 1,
+      "accLvl": 0.1,
+      "crit": 1,
+      "critLvl": 0.1,
+      "critMod": 3,
+      "critModLvl": 0.3
+    },
+    "Whip": {
+      "atk": 2,
+      "atkLvl": 0.2,
+      "acc": 1,
+      "accLvl": 0.1
+    },
+    "Hammer": {
+      "atk": 6,
+      "atkLvl": 0.6,
+      "acc": 2,
+      "accLvl": 0.2,
+      "eva": -2,
+      "evaLvl": -0.2
+    },
+    "DefHead": {
+      "def": 2,
+      "defLvl": 0.3,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "MDefHead": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 2,
+      "mdefLvl": 0.3
+    },
+    "EvaHead": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1,
+      "eva": 1,
+      "evaLvl": 0.1
+    },
+    "DefChest": {
+      "def": 3,
+      "defLvl": 0.4,
+      "mdef": 2,
+      "mdefLvl": 0.2
+    },
+    "MDefChest": {
+      "def": 2,
+      "defLvl": 0.2,
+      "mdef": 3,
+      "mdefLvl": 0.4
+    },
+    "EvaChest": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1,
+      "eva": 2,
+      "evaLvl": 0.2
+    },
+    "DefArm": {
+      "def": 2,
+      "defLvl": 0.3,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "MDefArm": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 2,
+      "mdefLvl": 0.3
+    },
+    "EvaArm": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1,
+      "eva": 1,
+      "evaLvl": 0.1
+    },
+    "DefLeg": {
+      "def": 2,
+      "defLvl": 0.2,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "MDefLeg": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 2,
+      "mdefLvl": 0.2
+    },
+    "EvaLeg": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1,
+      "eva": 4,
+      "evaLvl": 0.4
+    },
+    "Necklace": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "Ring": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "Patch": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "Braclet": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    }
+  },
+  "SubTypes": {
+    "Dagger": {
+      "atk": 6,
+      "atkLvl": 0.3,
+      "acc": 12,
+      "accLvl": 0.6,
+      "critMod": 1,
+      "critModLvl": 0.1
+    },
+    "Knife": {
+      "atk": 6,
+      "atkLvl": 0.3,
+      "acc": 12,
+      "accLvl": 0.6,
+      "crit": 2,
+      "critLvl": 0.2
+    },
+    "Sword": {
+      "atk": 8,
+      "atkLvl": 0.6,
+      "acc": 8,
+      "accLvl": 0.4,
+      "critMod": 1,
+      "critModLvl": 0.1
+    },
+    "Longsword": {
+      "atk": 10,
+      "atkLvl": 0.7,
+      "acc": 4,
+      "accLvl": 0.2,
+      "critMod": 1,
+      "critModLvl": 0.2
+    },
+    "Hatchet": {
+      "atk": 8,
+      "atkLvl": 0.4,
+      "acc": 12,
+      "accLvl": 0.6,
+      "crit": 1,
+      "critLvl": 0.1
+    },
+    "Axe": {
+      "atk": 8,
+      "atkLvl": 0.6,
+      "acc": 6,
+      "accLvl": 0.3,
+      "crit": 1,
+      "critLvl": 0.1
+    },
+    "Great Axe": {
+      "atk": 16,
+      "atkLvl": 1,
+      "acc": 4,
+      "accLvl": 0.2
+    },
+    "Wand": {
+      "matk": 8,
+      "matkLvl": 0.3,
+      "acc": 12,
+      "accLvl": 1
+    },
+    "Mystic Wand": {
+      "matk": 12,
+      "matkLvl": 0.4,
+      "acc": 8,
+      "accLvl": 0.4,
+      "crit": 2,
+      "critLvl": 0.2
+    },
+    "Club": {
+      "atk": 8,
+      "atkLvl": 0.3,
+      "acc": 12,
+      "accLvl": 1
+    },
+    "Cudgel": {
+      "matk": 10,
+      "matkLvl": 0.4,
+      "acc": 10,
+      "accLvl": 0.7
+    },
+    "Stave": {
+      "matk": 14,
+      "matkLvl": 0.8,
+      "acc": 4,
+      "accLvl": 0.2
+    },
+    "Mystic Stave": {
+      "matk": 18,
+      "matkLvl": 1,
+      "acc": 3,
+      "accLvl": 0.1,
+      "critMod": 2,
+      "critModLvl": 0.2
+    },
+    "Rod": {
+      "atk": 8,
+      "atkLvl": 0.4,
+      "acc": 11,
+      "accLvl": 0.8
+    },
+    "Pike": {
+      "atk": 10,
+      "atkLvl": 0.4,
+      "acc": 3,
+      "accLvl": 0.1,
+      "crit": 1,
+      "critLvl": 0.1,
+      "critMod": 2,
+      "critModLvl": 0.2
+    },
+    "Pole": {
+      "atk": 8,
+      "atkLvl": 0.6,
+      "acc": 12,
+      "accLvl": 0.6
+    },
+    "Whip": {
+      "atk": 6,
+      "atkLvl": 0.2,
+      "acc": 4,
+      "accLvl": 0.2,
+      "crit": 1,
+      "critLvl": 0.1
+    },
+    "Hammer": {
+      "atk": 14,
+      "atkLvl": 0.8,
+      "acc": 6,
+      "accLvl": 0.3
+    },
+    "Warhammer": {
+      "atk": 18,
+      "atkLvl": 1.2,
+      "acc": 4,
+      "accLvl": 0.2,
+      "eva": -4,
+      "evaLvl": -0.2
+    },
+    "Helm": {
+      "def": 4,
+      "defLvl": 0.3,
+      "mdef": 2,
+      "mdefLvl": 0.2,
+      "acc": 6,
+      "accLvl": 0.2
+    },
+    "Great Helm": {
+      "def": 6,
+      "defLvl": 0.5,
+      "mdef": 2,
+      "mdefLvl": 0.2,
+      "hp": 4,
+      "hpLvl": 0.2
+    },
+    "Hood": {
+      "def": 2,
+      "defLvl": 0.2,
+      "mdef": 5,
+      "mdefLvl": 0.4,
+      "hp": 4,
+      "hpLvl": 0.2
+    },
+    "Hat": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 3,
+      "mdefLvl": 0.3,
+      "acc": 6,
+      "accLvl": 0.2
+    },
+    "Cowl": {
+      "def": 2,
+      "defLvl": 0.1,
+      "mdef": 2,
+      "mdefLvl": 0.1,
+      "eva": 4,
+      "evaLvl": 0.2
+    },
+    "Trifold": {
+      "def": 3,
+      "defLvl": 0.2,
+      "mdef": 3,
+      "mdefLvl": 0.2,
+      "eva": 2,
+      "evaLvl": 0.2
+    },
+    "Chainmail": {
+      "def": 10,
+      "defLvl": 0.5,
+      "mdef": 4,
+      "mdefLvl": 0.3,
+      "eva": 2,
+      "evaLvl": 0.1
+    },
+    "Platemail": {
+      "def": 12,
+      "defLvl": 0.7,
+      "mdef": 4,
+      "mdefLvl": 0.3,
+      "hp": 5,
+      "hpLvl": 0.3
+    },
+    "Tunic": {
+      "def": 6,
+      "defLvl": 0.2,
+      "mdef": 6,
+      "mdefLvl": 0.2,
+      "eva": 6,
+      "evaLvl": 0.3
+    },
+    "Robe": {
+      "def": 4,
+      "defLvl": 0.3,
+      "mdef": 10,
+      "mdefLvl": 0.4,
+      "hp": 5,
+      "hpLvl": 0.3
+    },
+    "Jacket": {
+      "def": 6,
+      "defLvl": 0.2,
+      "mdef": 6,
+      "mdefLvl": 0.2,
+      "acc": 8,
+      "accLvl": 0.3,
+      "eva": 5,
+      "evaLvl": 0.1
+    },
+    "Bracers": {
+      "def": 3,
+      "defLvl": 0.3,
+      "mdef": 1,
+      "mdefLvl": 0.2,
+      "acc": 4,
+      "accLvl": 0.2
+    },
+    "Gauntlets": {
+      "def": 3,
+      "defLvl": 0.5,
+      "mdef": 1,
+      "mdefLvl": 0.2,
+      "hp": 2,
+      "hpLvl": 0.1
+    },
+    "Wraps": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1,
+      "eva": 2,
+      "evaLvl": 0.2
+    },
+    "Mitts": {
+      "def": 1,
+      "defLvl": 0.2,
+      "mdef": 3,
+      "mdefLvl": 0.4,
+      "hp": 2,
+      "hpLvl": 0.1
+    },
+    "Gloves": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1,
+      "acc": 4,
+      "accLvl": 0.2,
+      "eva": 2,
+      "evaLvl": 0.1
+    },
+    "Hook": {
+      "def": 2,
+      "defLvl": 0.2,
+      "mdef": 2,
+      "mdefLvl": 0.2,
+      "acc": 4,
+      "accLvl": 0.2,
+      "crit": 4,
+      "critLvl": 0.1
+    },
+    "Greaves": {
+      "def": 6,
+      "defLvl": 0.5,
+      "mdef": 1,
+      "mdefLvl": 0.2,
+      "hp": 3,
+      "hpLvl": 0.1
+    },
+    "Sabatons": {
+      "def": 4,
+      "defLvl": 0.3,
+      "mdef": 1,
+      "mdefLvl": 0.2,
+      "eva": 3,
+      "evaLvl": 0.1
+    },
+    "Sandals": {
+      "def": 2,
+      "defLvl": 0.2,
+      "mdef": 3,
+      "mdefLvl": 0.2,
+      "acc": 8,
+      "accLvl": 0.4
+    },
+    "Crakows": {
+      "def": 1,
+      "defLvl": 0.2,
+      "mdef": 5,
+      "mdefLvl": 0.4,
+      "hp": 3,
+      "hpLvl": 0.1
+    },
+    "Boots": {
+      "def": 2,
+      "defLvl": 0.1,
+      "mdef": 2,
+      "mdefLvl": 0.1,
+      "acc": 3,
+      "accLvl": 0.2,
+      "eva": 4,
+      "evaLvl": 0.2
+    },
+    "Shoes": {
+      "def": 2,
+      "defLvl": 0.1,
+      "mdef": 2,
+      "mdefLvl": 0.1,
+      "eva": 8,
+      "evaLvl": 0.4
+    },
+    "Peg Leg": {
+      "def": 4,
+      "defLvl": 0.2,
+      "mdef": 4,
+      "mdefLvl": 0.2,
+      "critMod": 4,
+      "critModLvl": 0.4
+    },
+    "Medallion": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "Necklace": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "Ring": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "Trinket": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    },
+    "Pendant": {
+      "def": 1,
+      "defLvl": 0.1,
+      "mdef": 1,
+      "mdefLvl": 0.1
+    }
+  }
+}

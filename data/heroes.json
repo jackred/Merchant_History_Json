@@ -1,0 +1,965 @@
+{
+  "Assassin": {
+    "Id": "Assassin",
+    "ParentClass": "Assassin",
+    "TavernLvl": 10,
+    "BaseStats": [
+      13,
+      1,
+      12,
+      5,
+      4,
+      5,
+      10,
+      250,
+      0,
+      0,
+      0,
+      80,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      1.5,
+      0.2,
+      1.25,
+      0.15,
+      0.1,
+      0.5,
+      0.5,
+      0,
+      0,
+      0,
+      0,
+      4
+    ],
+    "StatMods": [
+      5,
+      0,
+      5,
+      0,
+      0,
+      4
+    ],
+    "DefaultHeroInventory": [
+      "2",
+      "-",
+      "-",
+      "34",
+      "30",
+      "-"
+    ],
+    "SkillList": [
+      "SmokeBomb",
+      "Backstab",
+      "PreciseStrike",
+      "ArteryJab",
+      "BluntBlow",
+      "PrecariousPierce"
+    ],
+    "SkillLevelUnlock": [
+      15,
+      20,
+      25,
+      30,
+      10,
+      10
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "PassiveList": [
+      "Deadly",
+      "Covert",
+      "Swift"
+    ],
+    "Traits": [
+      "DaggerMaster"
+    ],
+    "Description": "Silent but Deadly",
+    "Image": "Assassin-Assassin",
+    "Avatar": "Avatars-Heroes-Assassin"
+  },
+  "Berserker": {
+    "Id": "Berserker",
+    "ParentClass": "Berserker",
+    "TavernLvl": 4,
+    "BaseStats": [
+      10,
+      1,
+      3,
+      8,
+      6,
+      3,
+      1,
+      250,
+      0,
+      0,
+      0,
+      110,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      2.5,
+      0.1,
+      0.1,
+      0.4,
+      0.3,
+      0.2,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      8
+    ],
+    "StatMods": [
+      6,
+      0,
+      0,
+      2,
+      1,
+      2
+    ],
+    "DefaultHeroInventory": [
+      "2",
+      "-",
+      "-",
+      "34",
+      "30",
+      "-"
+    ],
+    "SkillList": [
+      "Slash",
+      "Cleave",
+      "Slam",
+      "Gouge",
+      "FlurryStrikes",
+      "BerserkCharge"
+    ],
+    "SkillLevelUnlock": [
+      25,
+      10,
+      15,
+      30,
+      10,
+      20
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "PassiveList": [
+      "Strong",
+      "Tough",
+      "Nimble"
+    ],
+    "Traits": [
+      "AxeFighter"
+    ],
+    "Description": "Force of Nature",
+    "Image": "Berserker-Berserker",
+    "Avatar": "Avatars-Heroes-Berserker"
+  },
+  "Cleric": {
+    "Id": "Cleric",
+    "ParentClass": "Cleric",
+    "TavernLvl": 7,
+    "BaseStats": [
+      1,
+      12,
+      12,
+      10,
+      16,
+      1,
+      1,
+      150,
+      0,
+      0,
+      0,
+      110,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      0.1,
+      1.3,
+      1,
+      0.3,
+      0.8,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9
+    ],
+    "StatMods": [
+      0,
+      4,
+      4,
+      0,
+      8,
+      0
+    ],
+    "DefaultHeroInventory": [
+      "2",
+      "-",
+      "-",
+      "34",
+      "30",
+      "-"
+    ],
+    "SkillList": [
+      "MindBlast",
+      "FireTwister",
+      "LightningBolt",
+      "LesserHeal",
+      "LesserCleanse",
+      "LightShield"
+    ],
+    "SkillLevelUnlock": [
+      10,
+      30,
+      25,
+      10,
+      15,
+      20
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      -1,
+      15
+    ],
+    "PassiveList": [
+      "Enigmatic",
+      "Generous",
+      "Arcane"
+    ],
+    "Traits": [
+      "ArcaneClubMaster"
+    ],
+    "Description": "Mystic Protector",
+    "Image": "Cleric-Cleric",
+    "Avatar": "Avatars-Heroes-Cleric"
+  },
+  "Dark Knight": {
+    "Id": "Dark Knight",
+    "ParentClass": "Dark Knight",
+    "TavernLvl": 99,
+    "BaseStats": [
+      14,
+      1,
+      6,
+      14,
+      4,
+      0,
+      1,
+      150,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      1.4,
+      0.1,
+      0.4,
+      1,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14
+    ],
+    "StatMods": [
+      6,
+      0,
+      2,
+      10,
+      1,
+      0
+    ],
+    "DefaultHeroInventory": [
+      "2",
+      "-",
+      "-",
+      "34",
+      "30",
+      "-"
+    ],
+    "SkillList": [
+      "Cleave",
+      "StabnShield",
+      "SlashBash",
+      "UnholySlash",
+      "Lacerate",
+      "UnholyUppercut"
+    ],
+    "SkillLevelUnlock": [
+      25,
+      30,
+      15,
+      10,
+      20,
+      10
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "PassiveList": [
+      "Might",
+      "Strong",
+      "Juggernaut"
+    ],
+    "Traits": [
+      ""
+    ],
+    "Description": "Agent of Chaos",
+    "Image": "Dark_Knight-Dark_Knight",
+    "Avatar": "Avatars-Heroes-Dark_Knight"
+  },
+  "Dwarf Warrior": {
+    "Id": "Dwarf Warrior",
+    "ParentClass": "Warrior",
+    "TavernLvl": 13,
+    "BaseStats": [
+      16,
+      1,
+      5,
+      16,
+      12,
+      4,
+      3,
+      150,
+      0,
+      0,
+      0,
+      175,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      1.4,
+      0.15,
+      0.25,
+      0.8,
+      0.65,
+      0.15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      11
+    ],
+    "StatMods": [
+      5,
+      0,
+      2,
+      5,
+      3,
+      0
+    ],
+    "DefaultHeroInventory": [
+      "2",
+      "-",
+      "-",
+      "34",
+      "30",
+      "-"
+    ],
+    "SkillList": [
+      "Cleave",
+      "Gouge",
+      "OiledStrike",
+      "ShieldRiposte",
+      "ShieldUp",
+      "VulnerableDrive"
+    ],
+    "SkillLevelUnlock": [
+      10,
+      15,
+      10,
+      25,
+      20,
+      30
+    ],
+    "SkillAutolevelInterval": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      15
+    ],
+    "PassiveList": [
+      "Vitality",
+      "Nimble",
+      "Strong"
+    ],
+    "Traits": [
+      "AxeMaster",
+      "GauntletWear",
+      "HammerRage"
+    ],
+    "Description": "Small but mighty",
+    "Image": "Warrior-Dwarf_Warrior",
+    "Avatar": "Avatars-Heroes-Dwarf_Warrior"
+  },
+  "Earth Mage": {
+    "Id": "Earth Mage",
+    "ParentClass": "Mage",
+    "TavernLvl": 13,
+    "BaseStats": [
+      1,
+      20,
+      10,
+      14,
+      12,
+      1,
+      1,
+      150,
+      0,
+      0,
+      0,
+      135,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      0.1,
+      1.6,
+      0.75,
+      0.3,
+      0.3,
+      0.1,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      8
+    ],
+    "StatMods": [
+      2,
+      7,
+      2,
+      3,
+      4,
+      0
+    ],
+    "DefaultHeroInventory": [
+      "3",
+      "-",
+      "-",
+      "34",
+      "26",
+      "-"
+    ],
+    "SkillList": [
+      "FireTwister",
+      "Blizzard",
+      "LightningBolt",
+      "LesserHeal",
+      "GreaterHeal",
+      "MercBlessing"
+    ],
+    "SkillLevelUnlock": [
+      10,
+      15,
+      25,
+      10,
+      30,
+      20
+    ],
+    "SkillAutolevelInterval": [
+      10,
+      10,
+      5,
+      10,
+      -1,
+      15
+    ],
+    "PassiveList": [
+      "Generous",
+      "Adroit",
+      "Arcane"
+    ],
+    "Traits": [
+      "WandWielder",
+      "SandalLover",
+      "StaveDefense"
+    ],
+    "Description": "Infused by nature",
+    "Image": "Mage-Earth_Mage",
+    "Avatar": "Avatars-Heroes-Earth_Mage"
+  },
+  "Mage": {
+    "Id": "Mage",
+    "ParentClass": "Mage",
+    "TavernLvl": 1,
+    "BaseStats": [
+      1,
+      16,
+      8,
+      8,
+      12,
+      1,
+      1,
+      150,
+      0,
+      0,
+      0,
+      100,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      0.1,
+      1.8,
+      0.8,
+      0.2,
+      0.4,
+      0.1,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      7
+    ],
+    "StatMods": [
+      0,
+      6,
+      2,
+      0,
+      5,
+      0
+    ],
+    "DefaultHeroInventory": [
+      "3",
+      "-",
+      "-",
+      "34",
+      "26",
+      "-"
+    ],
+    "SkillList": [
+      "MindBlast",
+      "MagicMissile",
+      "FireTwister",
+      "Blizzard",
+      "LightningBolt",
+      "Silence"
+    ],
+    "SkillLevelUnlock": [
+      10,
+      10,
+      20,
+      25,
+      15,
+      30
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      -1
+    ],
+    "PassiveList": [
+      "Mystic",
+      "Enigmatic",
+      "Adroit"
+    ],
+    "Traits": [
+      ""
+    ],
+    "Description": "Student of Magic",
+    "Image": "Mage-Mage",
+    "Avatar": "Avatars-Heroes-Mage"
+  },
+  "Paladin": {
+    "Id": "Paladin",
+    "ParentClass": "Paladin",
+    "TavernLvl": 16,
+    "BaseStats": [
+      4,
+      1,
+      6,
+      16,
+      14,
+      0,
+      1,
+      150,
+      0,
+      0,
+      0,
+      200,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      0.4,
+      0.1,
+      0.2,
+      1.4,
+      1.2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      20
+    ],
+    "StatMods": [
+      0,
+      0,
+      2,
+      10,
+      10,
+      0
+    ],
+    "DefaultHeroInventory": [
+      "2",
+      "-",
+      "-",
+      "34",
+      "30",
+      "-"
+    ],
+    "SkillList": [
+      "Slash",
+      "StabnShield",
+      "ShieldRiposte",
+      "ShieldSlam",
+      "ShieldUp",
+      "VulnerableDrive"
+    ],
+    "SkillLevelUnlock": [
+      25,
+      30,
+      10,
+      10,
+      20,
+      15
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "PassiveList": [
+      "Vitality",
+      "Juggernaut",
+      "Radiant"
+    ],
+    "Traits": [
+      "SwordDefense"
+    ],
+    "Description": "Defender of All",
+    "Image": "Paladin-Paladin",
+    "Avatar": "Avatars-Heroes-Paladin"
+  },
+  "Rogue": {
+    "Id": "Rogue",
+    "ParentClass": "Rogue",
+    "TavernLvl": 1,
+    "BaseStats": [
+      10,
+      1,
+      8,
+      10,
+      7,
+      5,
+      5,
+      200,
+      0,
+      0,
+      0,
+      100,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      1.2,
+      0.1,
+      0.8,
+      0.5,
+      0.3,
+      0.5,
+      0.2,
+      0,
+      0,
+      0,
+      0,
+      9
+    ],
+    "StatMods": [
+      5,
+      0,
+      4,
+      3,
+      2,
+      2
+    ],
+    "DefaultHeroInventory": [
+      "1",
+      "-",
+      "-",
+      "34",
+      "26",
+      "-"
+    ],
+    "SkillList": [
+      "CheapShot",
+      "Sunder",
+      "SwiftStrike",
+      "PoisonTrap",
+      "SharpenBlades",
+      "Skewer"
+    ],
+    "SkillLevelUnlock": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "PassiveList": [
+      "Might",
+      "Swift",
+      "Perceptive"
+    ],
+    "Traits": [
+      ""
+    ],
+    "Description": "Average Mercenary",
+    "Image": "Rogue-Rogue",
+    "Avatar": "Avatars-Heroes-Rogue"
+  },
+  "Skull Rogue": {
+    "Id": "Skull Rogue",
+    "ParentClass": "Rogue",
+    "TavernLvl": 13,
+    "BaseStats": [
+      12,
+      1,
+      10,
+      11,
+      8,
+      8,
+      5,
+      250,
+      0,
+      0,
+      0,
+      120,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      1.3,
+      0.2,
+      0.75,
+      0.4,
+      0.3,
+      0.6,
+      0.15,
+      0,
+      0,
+      0,
+      0,
+      8
+    ],
+    "StatMods": [
+      5,
+      0,
+      4,
+      3,
+      2,
+      2
+    ],
+    "DefaultHeroInventory": [
+      "1",
+      "-",
+      "-",
+      "34",
+      "26",
+      "-"
+    ],
+    "SkillList": [
+      "Gouge",
+      "SwiftStrike",
+      "Skewer",
+      "FlurryStrikes",
+      "SmokeBomb",
+      "HiddenBlade"
+    ],
+    "SkillLevelUnlock": [
+      20,
+      10,
+      10,
+      30,
+      15,
+      25
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      10,
+      10,
+      15,
+      10,
+      15
+    ],
+    "PassiveList": [
+      "Deadly",
+      "Adroit",
+      "Swift"
+    ],
+    "Traits": [
+      "SpearMaster",
+      "Nomad",
+      "DaggerEvasion"
+    ],
+    "Description": "Bone Breaker",
+    "Image": "Rogue-Skull_Rogue",
+    "Avatar": "Avatars-Heroes-Skull_Rogue"
+  },
+  "Warrior": {
+    "Id": "Warrior",
+    "ParentClass": "Warrior",
+    "TavernLvl": 1,
+    "BaseStats": [
+      12,
+      1,
+      6,
+      12,
+      8,
+      0,
+      1,
+      150,
+      0,
+      0,
+      0,
+      150,
+      0,
+      0,
+      0
+    ],
+    "PerLevelStats": [
+      1.4,
+      0.1,
+      0.3,
+      0.8,
+      0.6,
+      0.1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12
+    ],
+    "StatMods": [
+      5,
+      0,
+      2,
+      5,
+      3,
+      0
+    ],
+    "DefaultHeroInventory": [
+      "2",
+      "-",
+      "-",
+      "34",
+      "30",
+      "-"
+    ],
+    "SkillList": [
+      "Slash",
+      "StabnShield",
+      "BewBlow",
+      "Slam",
+      "BlindKick",
+      "OiledStrike"
+    ],
+    "SkillLevelUnlock": [
+      10,
+      20,
+      25,
+      15,
+      10,
+      30
+    ],
+    "SkillAutolevelInterval": [
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "PassiveList": [
+      "Might",
+      "Tough",
+      "Strong"
+    ],
+    "Traits": [
+      ""
+    ],
+    "Description": "Average Brute",
+    "Image": "Warrior-Warrior",
+    "Avatar": "Avatars-Heroes-Warrior"
+  }
+}

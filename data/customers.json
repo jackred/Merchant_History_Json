@@ -1,0 +1,456 @@
+{
+  "1": {
+    "Type": 1,
+    "Archetype": "",
+    "Name": "Warrior",
+    "ShopMinLevel": 1,
+    "Rarity": 1,
+    "Traits": [
+      "35",
+      "6",
+      "60"
+    ],
+    "TraitMods": [
+      20,
+      20,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "2": {
+    "Type": 1,
+    "Archetype": "",
+    "Name": "Rogue",
+    "ShopMinLevel": 1,
+    "Rarity": 1,
+    "Traits": [
+      "33",
+      "14",
+      "60"
+    ],
+    "TraitMods": [
+      20,
+      20,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "3": {
+    "Type": 1,
+    "Archetype": "",
+    "Name": "Mage",
+    "ShopMinLevel": 1,
+    "Rarity": 1,
+    "Traits": [
+      "60",
+      "19",
+      "59"
+    ],
+    "TraitMods": [
+      20,
+      20,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "4": {
+    "Type": 1,
+    "Archetype": "",
+    "Name": "Berserker",
+    "ShopMinLevel": 4,
+    "Rarity": 2,
+    "Traits": [
+      "31",
+      "9",
+      "60"
+    ],
+    "TraitMods": [
+      20,
+      20,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "5": {
+    "Type": 1,
+    "Archetype": "",
+    "Name": "Cleric",
+    "ShopMinLevel": 4,
+    "Rarity": 2,
+    "Traits": [
+      "60",
+      "10",
+      "59"
+    ],
+    "TraitMods": [
+      20,
+      20,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "6": {
+    "Type": 1,
+    "Archetype": "",
+    "Name": "Assassin",
+    "ShopMinLevel": 4,
+    "Rarity": 2,
+    "Traits": [
+      "59",
+      "18",
+      "60"
+    ],
+    "TraitMods": [
+      20,
+      20,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "7": {
+    "Type": 2,
+    "Archetype": "stern_male_1",
+    "Name": "Blacksmith",
+    "ShopMinLevel": 3,
+    "Rarity": 1,
+    "Traits": [
+      "39",
+      "64",
+      "2"
+    ],
+    "TraitMods": [
+      -100,
+      40,
+      10
+    ],
+    "MsToEnergy": 86400,
+    "MaxEnergy": 3000,
+    "Cooldown": 600000,
+    "BuyMod": 0
+  },
+  "8": {
+    "Type": 2,
+    "Archetype": "happy_male_2",
+    "Name": "Armorsmith",
+    "ShopMinLevel": 3,
+    "Rarity": 1,
+    "Traits": [
+      "67",
+      "63",
+      "47"
+    ],
+    "TraitMods": [
+      -100,
+      40,
+      10
+    ],
+    "MsToEnergy": 86400,
+    "MaxEnergy": 3000,
+    "Cooldown": 600000,
+    "BuyMod": 0
+  },
+  "9": {
+    "Type": 2,
+    "Archetype": "old_male_1",
+    "Name": "Woodworker",
+    "ShopMinLevel": 3,
+    "Rarity": 1,
+    "Traits": [
+      "39",
+      "61",
+      "6"
+    ],
+    "TraitMods": [
+      -100,
+      40,
+      10
+    ],
+    "MsToEnergy": 86400,
+    "MaxEnergy": 3000,
+    "Cooldown": 600000,
+    "BuyMod": 0
+  },
+  "10": {
+    "Type": 2,
+    "Archetype": "happy_female_1",
+    "Name": "Tailor",
+    "ShopMinLevel": 3,
+    "Rarity": 1,
+    "Traits": [
+      "67",
+      "62",
+      "46"
+    ],
+    "TraitMods": [
+      -100,
+      40,
+      10
+    ],
+    "MsToEnergy": 86400,
+    "MaxEnergy": 3000,
+    "Cooldown": 600000,
+    "BuyMod": 0
+  },
+  "11": {
+    "Type": 2,
+    "Archetype": "happy_male_1",
+    "Name": "Cook",
+    "ShopMinLevel": 3,
+    "Rarity": 1,
+    "Traits": [
+      "68",
+      "65",
+      "49"
+    ],
+    "TraitMods": [
+      -100,
+      40,
+      10
+    ],
+    "MsToEnergy": 86400,
+    "MaxEnergy": 3000,
+    "Cooldown": 600000,
+    "BuyMod": 0
+  },
+  "12": {
+    "Type": 3,
+    "Archetype": "young_cool_male_1",
+    "Name": "Mining",
+    "ShopMinLevel": 2,
+    "Rarity": 1,
+    "Traits": [
+      "32",
+      "16",
+      "19"
+    ],
+    "TraitMods": [
+      30,
+      20,
+      -100
+    ],
+    "MsToEnergy": 28800,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "13": {
+    "Type": 3,
+    "Archetype": "burly_male_1",
+    "Name": "Foraging",
+    "ShopMinLevel": 2,
+    "Rarity": 1,
+    "Traits": [
+      "31",
+      "18",
+      "7"
+    ],
+    "TraitMods": [
+      30,
+      20,
+      -50
+    ],
+    "MsToEnergy": 28800,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "14": {
+    "Type": 4,
+    "Archetype": "normal_male_3",
+    "Name": "Bob",
+    "ShopMinLevel": 1,
+    "Rarity": 1,
+    "Traits": [
+      "5",
+      "45"
+    ],
+    "TraitMods": [
+      10,
+      -10
+    ],
+    "MsToEnergy": 1800,
+    "MaxEnergy": 2000,
+    "Cooldown": 300000,
+    "BuyMod": 0
+  },
+  "15": {
+    "Type": 4,
+    "Archetype": "normal_female_1",
+    "Name": "Jenny",
+    "ShopMinLevel": 1,
+    "Rarity": 1,
+    "Traits": [
+      "8",
+      "47"
+    ],
+    "TraitMods": [
+      10,
+      -10
+    ],
+    "MsToEnergy": 3600,
+    "MaxEnergy": 3000,
+    "Cooldown": 300000,
+    "BuyMod": 0
+  },
+  "16": {
+    "Type": 4,
+    "Archetype": "old_female_1",
+    "Name": "Edna",
+    "ShopMinLevel": 2,
+    "Rarity": 2,
+    "Traits": [
+      "39",
+      "4",
+      "42"
+    ],
+    "TraitMods": [
+      -100,
+      30,
+      20
+    ],
+    "MsToEnergy": 7200,
+    "MaxEnergy": 4000,
+    "Cooldown": 600000,
+    "BuyMod": 0
+  },
+  "17": {
+    "Type": 5,
+    "Archetype": "fancy_male_1",
+    "Name": "Lotso Mooney",
+    "ShopMinLevel": 5,
+    "Rarity": 4,
+    "Traits": [
+      "48",
+      "15",
+      "9"
+    ],
+    "TraitMods": [
+      50,
+      -50,
+      -100
+    ],
+    "MsToEnergy": 576000,
+    "MaxEnergy": 1000,
+    "Cooldown": 1800000,
+    "BuyMod": 100
+  },
+  "18": {
+    "Type": 4,
+    "Archetype": "normal_male_1",
+    "Name": "Joe",
+    "ShopMinLevel": 1,
+    "Rarity": 1,
+    "Traits": [
+      ""
+    ],
+    "TraitMods": [
+      0
+    ],
+    "MsToEnergy": 300,
+    "MaxEnergy": 2000,
+    "Cooldown": 120000,
+    "BuyMod": 0
+  },
+  "19": {
+    "Type": 1,
+    "Archetype": "stern_male_1",
+    "Name": "Dwarf Warrior",
+    "ShopMinLevel": 5,
+    "Rarity": 1,
+    "Traits": [
+      "31",
+      "12",
+      "10"
+    ],
+    "TraitMods": [
+      30,
+      30,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "20": {
+    "Type": 1,
+    "Archetype": "normal_male_2",
+    "Name": "Skull Rogue",
+    "ShopMinLevel": 5,
+    "Rarity": 1,
+    "Traits": [
+      "37",
+      "18",
+      "60"
+    ],
+    "TraitMods": [
+      20,
+      20,
+      -40
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "21": {
+    "Type": 1,
+    "Archetype": "silly_old_male_2",
+    "Name": "Earth Mage",
+    "ShopMinLevel": 5,
+    "Rarity": 1,
+    "Traits": [
+      "36",
+      "19",
+      "59"
+    ],
+    "TraitMods": [
+      20,
+      40,
+      -50
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  },
+  "22": {
+    "Type": 1,
+    "Archetype": "stern_male_2",
+    "Name": "Paladin",
+    "ShopMinLevel": 5,
+    "Rarity": 1,
+    "Traits": [
+      "48",
+      "2",
+      "36"
+    ],
+    "TraitMods": [
+      30,
+      20,
+      -100
+    ],
+    "MsToEnergy": 43200,
+    "MaxEnergy": 2000,
+    "Cooldown": 1200000,
+    "BuyMod": 0
+  }
+}

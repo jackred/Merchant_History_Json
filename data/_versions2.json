@@ -1,0 +1,86 @@
+{
+  "buildings": {
+    "Version": "1.14.3",
+    "Hash": "2db9d7144d42363e6500d52f173ddf03"
+  },
+  "equipment": {
+    "Version": "1.15.4",
+    "Hash": "88bab52e4649039bee6c10642d599d84"
+  },
+  "default": {
+    "Version": "1.18.10",
+    "Hash": "882d4022ec5717ccdf108c839504aa34"
+  },
+  "formula": {
+    "Version": "1.2.2",
+    "Hash": "51dcd66355fdc4957cb45eb9634b9361"
+  },
+  "heroes": {
+    "Version": "1.11.5",
+    "Hash": "075489eab8abdd5118b0ac1e8e4fb43f"
+  },
+  "quests": {
+    "Version": "1.15.5",
+    "Hash": "089019cac52d6f6c9b79575a7b5befa8"
+  },
+  "pois": {
+    "Version": "1.8.5",
+    "Hash": "0290602c967f5ed2cb956a590cd1f30f"
+  },
+  "materials": {
+    "Version": "1.14.2",
+    "Hash": "852c6361a56ee58a5da01f1307880f82"
+  },
+  "workerDrops": {
+    "Version": "1.2.4",
+    "Hash": "72a0578b93a1f154463409f23c988118"
+  },
+  "consumables": {
+    "Version": "1.11.8",
+    "Hash": "89612a3099f24767cf0e77dcb854c978"
+  },
+  "customers": {
+    "Version": "1.7.3",
+    "Hash": "11d2d2f99091b9a002e1a007e111a90c"
+  },
+  "skills": {
+    "Version": "1.0.4",
+    "Hash": "86c5daf5bcddf0a64095bb0cbe3d49f9"
+  },
+  "passives": {
+    "Version": "1.0.1",
+    "Hash": "82b55de7b249de751907c319e20e207b"
+  },
+  "skills.descr.en": {
+    "Version": "1.0.0",
+    "Hash": null
+  },
+  "loot": {
+    "Version": "1.0.5",
+    "Hash": "f883564d7bd391f0439e3a1017b3eb8f"
+  },
+  "tokens": {
+    "Version": "1.0.0",
+    "Hash": "35448b14d8ad32e2bd347b1b9d382bac"
+  },
+  "herotraits": {
+    "Version": "1.0.0",
+    "Hash": "1625a0f31a67f4e8ac38df27ddb98afa"
+  },
+  "momentum": {
+    "Version": "1.0.0",
+    "Hash": "0496abfa5c2f76cfa5d23579981233dc"
+  },
+  "prefixes": {
+    "Version": "1.0.0",
+    "Hash": "e70d8b5083e2a74214e889c30e9227ac"
+  },
+  "infusions": {
+    "Version": "1.0.0",
+    "Hash": "4f23ebeed52f5b13cd8e420d93390622"
+  },
+  "story": {
+    "Version": "1.0.0",
+    "Hash": "555c42971caf0c1aa1dd59254c081a49"
+  }
+}

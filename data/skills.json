@@ -1,0 +1,1884 @@
+{
+  "Basic": {
+    "n": "Basic",
+    "sc": 0,
+    "ap": 0,
+    "mlv": 1,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.0
+            }
+          ],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 1.0
+            }
+          ],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "Slash": {
+    "n": "Slash",
+    "sc": 0,
+    "ap": 4,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5,
+              "plv": 0.1
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "StabnShield": {
+    "n": "StabnShield",
+    "sc": 0,
+    "ap": 7,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "e": {
+          "n": "Shield",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 54,
+              "mod": 40.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "BewBlow": {
+    "n": "BewBlow",
+    "sc": 4,
+    "ap": 8,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.4
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "st": true
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Stun",
+          "c": 1,
+          "tr": 29,
+          "tu": 1,
+          "st": null
+        },
+        "ch": 20,
+        "t": 1
+      }
+    ]
+  },
+  "Slam": {
+    "n": "Slam",
+    "sc": 0,
+    "ap": 5,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "am": 0.4,
+        "ct": 1,
+        "cp": 1
+      }
+    ]
+  },
+  "BlindKick": {
+    "n": "BlindKick",
+    "sc": 0,
+    "ap": 5,
+    "m": [
+      {
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 53,
+              "mod": -40.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "CheapShot": {
+    "n": "CheapShot",
+    "sc": 0,
+    "ap": 4,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.2
+            },
+            {
+              "stat": 3,
+              "mod": 1.2
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "Sunder": {
+    "n": "Sunder",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5
+            },
+            {
+              "stat": 3,
+              "mod": 1.5
+            }
+          ],
+          "m": [],
+          "pen": 40.0,
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "PoisonTrap": {
+    "n": "PoisonTrap",
+    "sc": 4,
+    "ap": 8,
+    "m": [
+      {
+        "e": {
+          "n": "Poison Trap",
+          "tr": 3,
+          "st": null,
+          "s1": "__PoisonTrapTriggerAction"
+        },
+        "t": 1
+      }
+    ]
+  },
+  "__PoisonTrapTriggerAction": {
+    "n": "__PoisonTrapTriggerAction",
+    "sc": 4,
+    "ap": 5,
+    "mlv": 1,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "hc": 100
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Poison Trap",
+          "c": 5,
+          "tr": 9,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 1,
+              "mod": 1.1
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "MindBlast": {
+    "n": "MindBlast",
+    "sc": 0,
+    "ap": 4,
+    "m": [
+      {
+        "param": {
+          "p": [],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 1.5,
+              "plv": 0.1
+            }
+          ],
+          "StatToPenetrate": 5
+        }
+      }
+    ]
+  },
+  "MagicMissile": {
+    "n": "MagicMissile",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 2.0
+            }
+          ],
+          "pen": 30.0,
+          "StatToPenetrate": 5
+        }
+      }
+    ]
+  },
+  "Cleave": {
+    "n": "Cleave",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "st": true
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Cleave",
+          "c": 8,
+          "tr": 1,
+          "tu": 0,
+          "st": [
+            {
+              "stat": 54,
+              "mod": -40.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "FlurryStrikes": {
+    "n": "FlurryStrikes",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.6
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Flurry Bleed",
+          "c": 2,
+          "tr": 9,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 1,
+              "mod": 0.5
+            }
+          ]
+        },
+        "ch": 40,
+        "t": 1
+      }
+    ]
+  },
+  "LesserHeal": {
+    "n": "LesserHeal",
+    "sc": 1,
+    "ap": 4,
+    "m": [
+      {
+        "h": [
+          {
+            "stat": 5,
+            "mod": 0.2
+          }
+        ],
+        "trg": 10,
+        "t": 2
+      }
+    ]
+  },
+  "LesserCleanse": {
+    "n": "LesserCleanse",
+    "sc": 1,
+    "ap": 4,
+    "mlv": 1,
+    "m": [
+      {
+        "trg": 10,
+        "p": false,
+        "t": 3
+      }
+    ]
+  },
+  "HolyCleanse": {
+    "n": "HolyCleanse",
+    "sc": 1,
+    "ap": 9,
+    "mlv": 1,
+    "m": [
+      {
+        "trg": 2,
+        "p": false,
+        "t": 3
+      }
+    ]
+  },
+  "GreaterHeal": {
+    "n": "GreaterHeal",
+    "sc": 1,
+    "ap": 8,
+    "mlv": 1,
+    "m": [
+      {
+        "h": [
+          {
+            "stat": 25,
+            "mod": 0.5
+          }
+        ],
+        "trg": 10,
+        "t": 2
+      }
+    ]
+  },
+  "HealingCleanse": {
+    "n": "HealingCleanse",
+    "sc": 1,
+    "ap": 6,
+    "m": [
+      {
+        "trg": 10,
+        "p": false,
+        "t": 3
+      },
+      {
+        "h": [
+          {
+            "stat": 5,
+            "mod": 0.1
+          }
+        ],
+        "trg": 10,
+        "t": 2
+      }
+    ]
+  },
+  "DodrBlessing": {
+    "n": "DodrBlessing",
+    "sc": 1,
+    "ap": 6,
+    "m": [
+      {
+        "trg": 10,
+        "e": {
+          "n": "Dodr's Blessing",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 54,
+              "mod": 50.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "MercBlessing": {
+    "n": "MercBlessing",
+    "sc": 1,
+    "ap": 6,
+    "m": [
+      {
+        "trg": 10,
+        "e": {
+          "n": "Merci's Blessing",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 55,
+              "mod": 50.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "SanBlessing": {
+    "n": "SanBlessing",
+    "sc": 1,
+    "ap": 8,
+    "m": [
+      {
+        "trg": 10,
+        "e": {
+          "n": "Sanir's Blessing",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 54,
+              "mod": 50.0
+            },
+            {
+              "stat": 55,
+              "mod": 50.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "LightShield": {
+    "n": "LightShield",
+    "sc": 2,
+    "ap": 6,
+    "mlv": 1,
+    "m": [
+      {
+        "h": [
+          {
+            "stat": 25,
+            "mod": 0.5
+          }
+        ],
+        "trg": 11,
+        "s": true,
+        "t": 2
+      }
+    ]
+  },
+  "BluntBlow": {
+    "n": "BluntBlow",
+    "sc": 0,
+    "ap": 4,
+    "m": [
+      {
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 10,
+              "mod": -100.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.4
+            },
+            {
+              "stat": 3,
+              "mod": 1.4
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "PrecariousPierce": {
+    "n": "PrecariousPierce",
+    "sc": 0,
+    "ap": 4,
+    "m": [
+      {
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 10,
+              "mod": 25.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.1
+            },
+            {
+              "stat": 3,
+              "mod": 1.1
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "SmokeBomb": {
+    "n": "SmokeBomb",
+    "sc": 4,
+    "ap": 7,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.7
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Smoke",
+          "c": 8,
+          "tr": 1,
+          "tu": 1,
+          "st": [
+            {
+              "stat": 53,
+              "mod": -30.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "Backstab": {
+    "n": "Backstab",
+    "sc": 4,
+    "ap": 7,
+    "m": [
+      {
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 11,
+              "mod": 1.5
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "ShieldRiposte": {
+    "n": "ShieldRiposte",
+    "sc": 0,
+    "ap": 5,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 4,
+              "mod": 1.4
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "e": {
+          "n": "Shield",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 54,
+              "mod": 40.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "ShieldSlam": {
+    "n": "ShieldSlam",
+    "sc": 0,
+    "ap": 4,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 4,
+              "mod": 1.2
+            },
+            {
+              "stat": 5,
+              "mod": 1.2
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "VulnerableDrive": {
+    "n": "VulnerableDrive",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            },
+            {
+              "stat": 4,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "e": {
+          "n": "Vulnerable Drive",
+          "c": 9,
+          "tr": 1,
+          "tu": 1,
+          "st": [
+            {
+              "stat": 54,
+              "mod": -40.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "ShieldUp": {
+    "n": "ShieldUp",
+    "sc": 1,
+    "ap": 8,
+    "m": [
+      {
+        "e": {
+          "n": "Shield Up",
+          "c": 9,
+          "tr": 4,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 0,
+              "mod": 50.0
+            }
+          ],
+          "s1": "RDMG"
+        },
+        "t": 1
+      }
+    ]
+  },
+  "UnholySlash": {
+    "n": "UnholySlash",
+    "sc": 0,
+    "ap": 4,
+    "m": [
+      {
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 21,
+              "mod": 6.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "UnholyUppercut": {
+    "n": "UnholyUppercut",
+    "sc": 4,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "trg": 1,
+        "ch": 40,
+        "p": true,
+        "t": 3
+      }
+    ]
+  },
+  "WarCry": {
+    "n": "WarCry",
+    "sc": 1,
+    "ap": 7,
+    "m": [
+      {
+        "e": {
+          "n": "WarCry",
+          "c": 9,
+          "tr": 1,
+          "tu": 3,
+          "st": [
+            {
+              "stat": 51,
+              "mod": 40.0,
+              "plv": 5.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "War Cry Debuff",
+          "c": 8,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 51,
+              "mod": -30.0,
+              "plv": -5.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "Gouge": {
+    "n": "Gouge",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.2
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "am": 0.5,
+        "ct": 1,
+        "cp": 2
+      }
+    ]
+  },
+  "OiledStrike": {
+    "n": "OiledStrike",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.2
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "am": 0.5,
+        "ct": 1,
+        "cp": 3
+      }
+    ]
+  },
+  "FireTwister": {
+    "n": "FireTwister",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 1.5
+            }
+          ],
+          "StatToPenetrate": 5
+        },
+        "st": true
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Fire",
+          "c": 3,
+          "tr": 9,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 2,
+              "mod": 0.6
+            }
+          ]
+        },
+        "ch": 40,
+        "t": 1
+      }
+    ]
+  },
+  "Blizzard": {
+    "n": "Blizzard",
+    "sc": 4,
+    "ap": 7,
+    "m": [
+      {
+        "param": {
+          "p": [],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 1.6
+            }
+          ],
+          "StatToPenetrate": 5
+        },
+        "st": true
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Blizzard",
+          "c": 8,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 55,
+              "mod": -30.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "LightningBolt": {
+    "n": "LightningBolt",
+    "sc": 4,
+    "ap": 8,
+    "m": [
+      {
+        "param": {
+          "p": [],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 1.8
+            }
+          ],
+          "StatToPenetrate": 5
+        },
+        "st": true
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Stun",
+          "c": 1,
+          "tr": 29,
+          "tu": 1,
+          "st": null
+        },
+        "ch": 10,
+        "t": 1
+      }
+    ]
+  },
+  "SwiftStrike": {
+    "n": "SwiftStrike",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.4
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "e": {
+          "n": "SwiftStrike",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 56,
+              "mod": 30.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "SharpenBlades": {
+    "n": "SharpenBlades",
+    "sc": 1,
+    "ap": 9,
+    "mlv": 1,
+    "m": [
+      {
+        "e": {
+          "n": "Sharpen",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 10,
+              "mod": 100.0
+            },
+            {
+              "stat": 51,
+              "mod": 100.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "AchillesSlice": {
+    "n": "AchillesSlice",
+    "sc": 4,
+    "ap": 10,
+    "mlv": 1,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 3.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "AchillesSlice",
+          "c": 8,
+          "tr": 1,
+          "tu": 0,
+          "st": [
+            {
+              "stat": 56,
+              "mod": -80.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "Skewer": {
+    "n": "Skewer",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.2
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "st": true
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Skewer",
+          "c": 2,
+          "tr": 9,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 1,
+              "mod": 0.2
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "BerserkCharge": {
+    "n": "BerserkCharge",
+    "sc": 4,
+    "ap": 8,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "st": true
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Berserk Charge",
+          "c": 8,
+          "tr": 1,
+          "tu": 0,
+          "st": [
+            {
+              "stat": 54,
+              "mod": -40.0
+            },
+            {
+              "stat": 55,
+              "mod": -40.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "NatureFury": {
+    "n": "NatureFury",
+    "sc": 1,
+    "ap": 10,
+    "mlv": 1,
+    "m": [
+      {
+        "e": {
+          "n": "Nature Fury",
+          "c": 9,
+          "tr": 1,
+          "tu": 1,
+          "st": [
+            {
+              "stat": 51,
+              "mod": 300.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "Silence": {
+    "n": "Silence",
+    "sc": 3,
+    "ap": 6,
+    "mlv": 1,
+    "m": [
+      {
+        "trg": 1,
+        "p": true,
+        "t": 3
+      }
+    ]
+  },
+  "HiddenBlade": {
+    "n": "HiddenBlade",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "e": {
+          "n": "Hidden Blade",
+          "tr": 3,
+          "st": null,
+          "s1": "__HiddenBladeTriggerAction"
+        },
+        "t": 1
+      }
+    ]
+  },
+  "__HiddenBladeTriggerAction": {
+    "n": "__HiddenBladeTriggerAction",
+    "sc": 4,
+    "ap": 5,
+    "mlv": 1,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "hc": 100
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Hidden Bleed",
+          "c": 2,
+          "tr": 9,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 1,
+              "mod": 0.5
+            }
+          ]
+        },
+        "ch": 40,
+        "t": 1
+      }
+    ]
+  },
+  "PreciseStrike": {
+    "n": "PreciseStrike",
+    "sc": 0,
+    "ap": 5,
+    "m": [
+      {
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 53,
+              "mod": 25.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "ArteryJab": {
+    "n": "ArteryJab",
+    "sc": 4,
+    "ap": 8,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "st": true
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Artery Jab",
+          "c": 2,
+          "tr": 9,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 1,
+              "mod": 0.2
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "Eviscerate": {
+    "n": "Eviscerate",
+    "sc": 4,
+    "ap": 10,
+    "mlv": 1,
+    "m": [
+      {
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 11,
+              "mod": 3.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "spec1",
+          "tr": 49,
+          "st": [
+            {
+              "stat": 56,
+              "mod": -100.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 3.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "TemplarInvocation": {
+    "n": "TemplarInvocation",
+    "sc": 1,
+    "ap": 10,
+    "mlv": 1,
+    "m": [
+      {
+        "trg": 2,
+        "e": {
+          "n": "Templar Invocation",
+          "c": 9,
+          "tr": 1,
+          "tu": 3,
+          "st": [
+            {
+              "stat": 54,
+              "mod": 50.0
+            },
+            {
+              "stat": 55,
+              "mod": 50.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "SlashBash": {
+    "n": "SlashBash",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.8
+            },
+            {
+              "stat": 4,
+              "mod": 1.8
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  },
+  "Lacerate": {
+    "n": "Lacerate",
+    "sc": 4,
+    "ap": 7,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.8
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "st": true
+      },
+      {
+        "trg": 1,
+        "e": {
+          "n": "Lacerate",
+          "c": 2,
+          "tr": 9,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 1,
+              "mod": 0.2
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "UnholyFlail": {
+    "n": "UnholyFlail",
+    "sc": 0,
+    "ap": 6,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.4
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "am": 0.44,
+        "ct": 1,
+        "cp": 5
+      }
+    ]
+  },
+  "CleansingIncantation": {
+    "n": "CleansingIncantation",
+    "sc": 1,
+    "ap": 4,
+    "mlv": 1,
+    "m": [
+      {
+        "p": false,
+        "t": 3
+      }
+    ]
+  },
+  "BeastBellow": {
+    "n": "BeastBellow",
+    "sc": 3,
+    "ap": 0,
+    "m": [
+      {
+        "trg": 3,
+        "e": {
+          "n": "Beast Bellow",
+          "c": 8,
+          "tr": 1,
+          "tu": 1,
+          "st": [
+            {
+              "stat": 51,
+              "mod": -40.0
+            },
+            {
+              "stat": 52,
+              "mod": -40.0
+            }
+          ]
+        },
+        "t": 1
+      },
+      {
+        "e": {
+          "n": "Bellow",
+          "c": 9,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 51,
+              "mod": 60.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "BestialCharge": {
+    "n": "BestialCharge",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 3.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "tar": 12
+      }
+    ]
+  },
+  "Stampede": {
+    "n": "Stampede",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "tar": 1
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Stampede",
+          "c": 8,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 56,
+              "mod": -30.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "SanirGreatCurse": {
+    "n": "SanirGreatCurse",
+    "sc": 3,
+    "ap": 0,
+    "m": [
+      {
+        "trg": 3,
+        "e": {
+          "n": "Sanir's Greater Curse",
+          "c": 8,
+          "tr": 1,
+          "tu": 3,
+          "st": [
+            {
+              "stat": 54,
+              "mod": -50.0
+            },
+            {
+              "stat": 55,
+              "mod": -50.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "SteamGeysers": {
+    "n": "SteamGeysers",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 2.0
+            }
+          ],
+          "StatToPenetrate": 5
+        },
+        "tar": 10
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Steam Geysers",
+          "c": 8,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 53,
+              "mod": -50.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "Flood": {
+    "n": "Flood",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [],
+          "m": [
+            {
+              "stat": 2,
+              "mod": 2.0
+            }
+          ],
+          "StatToPenetrate": 5
+        },
+        "tar": 1
+      }
+    ]
+  },
+  "ColossalChomp": {
+    "n": "ColossalChomp",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 3.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "tar": 21
+      }
+    ]
+  },
+  "TunnelRush": {
+    "n": "TunnelRush",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "tar": 11
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Tunnel Rush",
+          "c": 8,
+          "tr": 1,
+          "tu": 2,
+          "st": [
+            {
+              "stat": 56,
+              "mod": -30.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "Sandstorm": {
+    "n": "Sandstorm",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Sandstorm",
+          "c": 8,
+          "tr": 1,
+          "tu": 3,
+          "st": [
+            {
+              "stat": 53,
+              "mod": -50.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "LeapQuake": {
+    "n": "LeapQuake",
+    "sc": 4,
+    "ap": 0,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 2.0
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        },
+        "tar": 1
+      },
+      {
+        "trg": 3,
+        "e": {
+          "n": "Leap Quake",
+          "c": 8,
+          "tr": 1,
+          "tu": 1,
+          "st": [
+            {
+              "stat": 53,
+              "mod": -40.0
+            }
+          ]
+        },
+        "t": 1
+      }
+    ]
+  },
+  "CelestialBeam": {
+    "n": "CelestialBeam",
+    "sc": 4,
+    "ap": 10,
+    "mlv": 1,
+    "m": [
+      {
+        "param": {
+          "p": [
+            {
+              "stat": 1,
+              "mod": 1.5
+            }
+          ],
+          "m": [],
+          "StatToPenetrate": 4
+        }
+      }
+    ]
+  }
+}

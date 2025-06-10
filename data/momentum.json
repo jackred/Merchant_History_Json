@@ -1,0 +1,486 @@
+{
+  "Tiers": [
+    {
+      "GuildsPerLeague": 20,
+      "DoublePromote": 2,
+      "Promote": 6,
+      "Relegate": 0,
+      "MinToPromote": 11,
+      "MinToRelegate": 6
+    },
+    {
+      "GuildsPerLeague": 18,
+      "DoublePromote": 2,
+      "Promote": 6,
+      "Relegate": 6,
+      "MinToPromote": 14,
+      "MinToRelegate": 7
+    },
+    {
+      "GuildsPerLeague": 12,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 12,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 12,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 16,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 2,
+      "MinToPromote": 9,
+      "MinToRelegate": 5
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 2,
+      "Promote": 2,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 1,
+      "Promote": 3,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 8,
+      "DoublePromote": 0,
+      "Promote": 3,
+      "Relegate": 3,
+      "MinToPromote": 6,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 0,
+      "Promote": 2,
+      "Relegate": 2,
+      "MinToPromote": 6,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 12,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 2,
+      "Promote": 2,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 1,
+      "Promote": 3,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 8,
+      "DoublePromote": 0,
+      "Promote": 3,
+      "Relegate": 3,
+      "MinToPromote": 6,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 0,
+      "Promote": 2,
+      "Relegate": 2,
+      "MinToPromote": 6,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 12,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 2,
+      "MinToPromote": 7,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 2,
+      "Promote": 2,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 1,
+      "Promote": 3,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 8,
+      "DoublePromote": 0,
+      "Promote": 3,
+      "Relegate": 3,
+      "MinToPromote": 6,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 0,
+      "Promote": 2,
+      "Relegate": 2,
+      "MinToPromote": 6,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 12,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 8,
+      "DoublePromote": 2,
+      "Promote": 2,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 8,
+      "DoublePromote": 1,
+      "Promote": 3,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 7,
+      "DoublePromote": 0,
+      "Promote": 3,
+      "Relegate": 3,
+      "MinToPromote": 6,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 8,
+      "DoublePromote": 0,
+      "Promote": 2,
+      "Relegate": 2,
+      "MinToPromote": 5,
+      "MinToRelegate": 3
+    },
+    {
+      "GuildsPerLeague": 10,
+      "DoublePromote": 0,
+      "Promote": 4,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    },
+    {
+      "GuildsPerLeague": 8,
+      "DoublePromote": 2,
+      "Promote": 2,
+      "Relegate": 4,
+      "MinToPromote": 8,
+      "MinToRelegate": 4
+    }
+  ],
+  "MaxTier": 25,
+  "Points": {
+    "PointsPerStep": [
+      1,
+      1,
+      2,
+      3,
+      5,
+      8,
+      12,
+      20,
+      32,
+      52
+    ],
+    "GuildPointsPerStep": [
+      3,
+      5,
+      8,
+      12,
+      20,
+      32,
+      52,
+      84,
+      125,
+      200
+    ],
+    "MinGuildSize": 4,
+    "GuildStepRequirements": [
+      [
+        4,
+        6,
+        9,
+        13,
+        21,
+        30,
+        48,
+        66,
+        90,
+        126
+      ],
+      [
+        5,
+        8,
+        12,
+        18,
+        28,
+        40,
+        64,
+        88,
+        120,
+        168
+      ],
+      [
+        6,
+        10,
+        15,
+        22,
+        35,
+        50,
+        80,
+        110,
+        150,
+        210
+      ],
+      [
+        7,
+        12,
+        18,
+        27,
+        42,
+        60,
+        96,
+        132,
+        180,
+        252
+      ],
+      [
+        8,
+        14,
+        21,
+        31,
+        49,
+        70,
+        112,
+        154,
+        210,
+        294
+      ],
+      [
+        9,
+        16,
+        24,
+        36,
+        56,
+        80,
+        128,
+        176,
+        240,
+        336
+      ],
+      [
+        10,
+        18,
+        27,
+        40,
+        63,
+        90,
+        144,
+        198,
+        270,
+        378
+      ],
+      [
+        11,
+        20,
+        30,
+        45,
+        70,
+        100,
+        160,
+        220,
+        300,
+        420
+      ],
+      [
+        12,
+        22,
+        33,
+        49,
+        77,
+        110,
+        176,
+        242,
+        330,
+        462
+      ],
+      [
+        13,
+        24,
+        36,
+        54,
+        84,
+        120,
+        192,
+        264,
+        360,
+        504
+      ],
+      [
+        14,
+        26,
+        39,
+        58,
+        91,
+        130,
+        208,
+        286,
+        390,
+        546
+      ],
+      [
+        15,
+        28,
+        42,
+        63,
+        98,
+        140,
+        224,
+        308,
+        420,
+        588
+      ],
+      [
+        16,
+        30,
+        45,
+        67,
+        105,
+        150,
+        240,
+        330,
+        450,
+        630
+      ],
+      [
+        17,
+        32,
+        48,
+        72,
+        112,
+        160,
+        256,
+        352,
+        480,
+        672
+      ],
+      [
+        18,
+        34,
+        51,
+        76,
+        119,
+        170,
+        272,
+        374,
+        510,
+        714
+      ],
+      [
+        19,
+        36,
+        54,
+        81,
+        126,
+        180,
+        288,
+        396,
+        540,
+        756
+      ],
+      [
+        20,
+        38,
+        57,
+        85,
+        133,
+        190,
+        304,
+        418,
+        570,
+        798
+      ],
+      [
+        21,
+        40,
+        60,
+        90,
+        140,
+        200,
+        320,
+        440,
+        600,
+        840
+      ],
+      [
+        22,
+        42,
+        63,
+        94,
+        147,
+        210,
+        336,
+        462,
+        630,
+        882
+      ]
+    ]
+  }
+}

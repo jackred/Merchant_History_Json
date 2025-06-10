@@ -1,0 +1,3774 @@
+{
+  "1": {
+    "Id": "1",
+    "Name": "Stygian Beetle",
+    "EnemyType": "Beetle",
+    "PartySize": 1,
+    "LevelReq": 1,
+    "Rarity": 1,
+    "Region": 1,
+    "Exp": 10,
+    "Image": "Region1-Beetle-Stygian_Beetle",
+    "EnemyHp": 60,
+    "EnemyAtk": 10,
+    "EnemyMatk": 5,
+    "EnemyDef": 5,
+    "EnemyMdef": 2,
+    "EnemyEva": 3,
+    "EnemyAcc": 5,
+    "EnemyPower": 39,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "13",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "TuvaleCommon"
+    ]
+  },
+  "2": {
+    "Id": "2",
+    "Name": "Emerald Beetle",
+    "EnemyType": "Beetle",
+    "PartySize": 1,
+    "LevelReq": 2,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 20,
+    "Image": "Region1-Beetle-Emerald_Beetle",
+    "EnemyHp": 80,
+    "EnemyAtk": 19,
+    "EnemyMatk": 7,
+    "EnemyDef": 10,
+    "EnemyMdef": 3,
+    "EnemyEva": 4,
+    "EnemyAcc": 7,
+    "EnemyPower": 62,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "13",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "BeetleUncommon"
+    ]
+  },
+  "3": {
+    "Id": "3",
+    "Name": "Sacer",
+    "EnemyType": "Beetle",
+    "PartySize": 2,
+    "LevelReq": 3,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 60,
+    "Image": "Region1-Beetle-Sacer",
+    "EnemyHp": 343,
+    "EnemyAtk": 37,
+    "EnemyMatk": 13,
+    "EnemyDef": 11,
+    "EnemyMdef": 5,
+    "EnemyEva": 7,
+    "EnemyAcc": 13,
+    "EnemyPower": 141,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "13",
+        "Percent": 305
+      },
+      {
+        "Id": "14",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "BeetleRare"
+    ]
+  },
+  "4": {
+    "Id": "4",
+    "Name": "Grass Spider",
+    "EnemyType": "Spider",
+    "PartySize": 1,
+    "LevelReq": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Exp": 30,
+    "Image": "Region1-Spider-Grass_Spider",
+    "EnemyHp": 90,
+    "EnemyAtk": 15,
+    "EnemyMatk": 30,
+    "EnemyDef": 10,
+    "EnemyMdef": 10,
+    "EnemyEva": 5,
+    "EnemyAcc": 10,
+    "EnemyPower": 95,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "18",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "TuvaleCommon"
+    ]
+  },
+  "5": {
+    "Id": "5",
+    "Name": "Tarantula",
+    "EnemyType": "Spider",
+    "PartySize": 1,
+    "LevelReq": 4,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 40,
+    "Image": "Region1-Spider-Tarantula",
+    "EnemyHp": 91,
+    "EnemyAtk": 14,
+    "EnemyMatk": 28,
+    "EnemyDef": 14,
+    "EnemyMdef": 14,
+    "EnemyEva": 14,
+    "EnemyAcc": 14,
+    "EnemyPower": 107,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "18",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "SpiderUncommon"
+    ]
+  },
+  "6": {
+    "Id": "6",
+    "Name": "Maexna",
+    "EnemyType": "Spider",
+    "PartySize": 2,
+    "LevelReq": 6,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 120,
+    "Image": "Region1-Spider-Maexna",
+    "EnemyHp": 315,
+    "EnemyAtk": 24,
+    "EnemyMatk": 48,
+    "EnemyDef": 14,
+    "EnemyMdef": 14,
+    "EnemyEva": 7,
+    "EnemyAcc": 16,
+    "EnemyPower": 174,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "18",
+        "Percent": 305
+      },
+      {
+        "Id": "17",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "SpiderRare"
+    ]
+  },
+  "7": {
+    "Id": "7",
+    "Name": "Green Snake",
+    "EnemyType": "Snake",
+    "PartySize": 1,
+    "LevelReq": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Exp": 30,
+    "Image": "Region1-Snake-Green_Snake",
+    "EnemyHp": 90,
+    "EnemyAtk": 30,
+    "EnemyMatk": 5,
+    "EnemyDef": 15,
+    "EnemyMdef": 7,
+    "EnemyEva": 15,
+    "EnemyAcc": 5,
+    "EnemyPower": 86,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "20",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "TuvaleCommon"
+    ]
+  },
+  "8": {
+    "Id": "8",
+    "Name": "Viper",
+    "EnemyType": "Snake",
+    "PartySize": 1,
+    "LevelReq": 4,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 40,
+    "Image": "Region1-Snake-Viper",
+    "EnemyHp": 120,
+    "EnemyAtk": 38,
+    "EnemyMatk": 10,
+    "EnemyDef": 19,
+    "EnemyMdef": 9,
+    "EnemyEva": 19,
+    "EnemyAcc": 7,
+    "EnemyPower": 115,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "20",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "SnakeUncommon"
+    ]
+  },
+  "9": {
+    "Id": "9",
+    "Name": "Zahhak",
+    "EnemyType": "Snake",
+    "PartySize": 2,
+    "LevelReq": 7,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 140,
+    "Image": "Region1-Snake-Zahhak",
+    "EnemyHp": 343,
+    "EnemyAtk": 86,
+    "EnemyMatk": 9,
+    "EnemyDef": 33,
+    "EnemyMdef": 11,
+    "EnemyEva": 22,
+    "EnemyAcc": 9,
+    "EnemyPower": 219,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "20",
+        "Percent": 305
+      },
+      {
+        "Id": "21",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "SnakeRare"
+    ]
+  },
+  "10": {
+    "Id": "10",
+    "Name": "Boar",
+    "EnemyType": "Boar",
+    "PartySize": 1,
+    "LevelReq": 4,
+    "Rarity": 1,
+    "Region": 1,
+    "Exp": 40,
+    "Image": "Region1-Boar-Boar",
+    "EnemyHp": 150,
+    "EnemyAtk": 25,
+    "EnemyMatk": 10,
+    "EnemyDef": 20,
+    "EnemyMdef": 5,
+    "EnemyEva": 8,
+    "EnemyAcc": 10,
+    "EnemyPower": 95,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "23",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "TuvaleCommon"
+    ]
+  },
+  "11": {
+    "Id": "11",
+    "Name": "Great Boar",
+    "EnemyType": "Boar",
+    "PartySize": 1,
+    "LevelReq": 5,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 50,
+    "Image": "Region1-Boar-Great_Boar",
+    "EnemyHp": 188,
+    "EnemyAtk": 28,
+    "EnemyMatk": 17,
+    "EnemyDef": 22,
+    "EnemyMdef": 6,
+    "EnemyEva": 9,
+    "EnemyAcc": 11,
+    "EnemyPower": 117,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "23",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "BoarUncommon"
+    ]
+  },
+  "12": {
+    "Id": "12",
+    "Name": "Hogger",
+    "EnemyType": "Boar",
+    "PartySize": 2,
+    "LevelReq": 8,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 160,
+    "Image": "Region1-Boar-Hogger",
+    "EnemyHp": 600,
+    "EnemyAtk": 74,
+    "EnemyMatk": 18,
+    "EnemyDef": 44,
+    "EnemyMdef": 8,
+    "EnemyEva": 12,
+    "EnemyAcc": 18,
+    "EnemyPower": 257,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "23",
+        "Percent": 305
+      },
+      {
+        "Id": "24",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "BoarRare"
+    ]
+  },
+  "13": {
+    "Id": "13",
+    "Name": "Wolf",
+    "EnemyType": "Wolf",
+    "PartySize": 1,
+    "LevelReq": 4,
+    "Rarity": 1,
+    "Region": 1,
+    "Exp": 40,
+    "Image": "Region1-Wolf-Wolf",
+    "EnemyHp": 150,
+    "EnemyAtk": 35,
+    "EnemyMatk": 5,
+    "EnemyDef": 15,
+    "EnemyMdef": 5,
+    "EnemyEva": 12,
+    "EnemyAcc": 15,
+    "EnemyPower": 109,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "26",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "TuvaleCommon"
+    ]
+  },
+  "14": {
+    "Id": "14",
+    "Name": "Tattered Wolf",
+    "EnemyType": "Wolf",
+    "PartySize": 1,
+    "LevelReq": 6,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 60,
+    "Image": "Region1-Wolf-Tattered_Wolf",
+    "EnemyHp": 188,
+    "EnemyAtk": 39,
+    "EnemyMatk": 6,
+    "EnemyDef": 17,
+    "EnemyMdef": 6,
+    "EnemyEva": 14,
+    "EnemyAcc": 17,
+    "EnemyPower": 126,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "26",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "WolfUncommon"
+    ]
+  },
+  "15": {
+    "Id": "15",
+    "Name": "Amarok",
+    "EnemyType": "Wolf",
+    "PartySize": 2,
+    "LevelReq": 9,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 180,
+    "Image": "Region1-Wolf-Amarok",
+    "EnemyHp": 500,
+    "EnemyAtk": 80,
+    "EnemyMatk": 8,
+    "EnemyDef": 25,
+    "EnemyMdef": 20,
+    "EnemyEva": 29,
+    "EnemyAcc": 20,
+    "EnemyPower": 252,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "26",
+        "Percent": 305
+      },
+      {
+        "Id": "27",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "WolfRare"
+    ]
+  },
+  "16": {
+    "Id": "16",
+    "Name": "Goblin",
+    "EnemyType": "Goblin Footman",
+    "PartySize": 1,
+    "LevelReq": 5,
+    "Rarity": 1,
+    "Region": 1,
+    "Exp": 50,
+    "Image": "Region1-Goblin_Footman-Goblin",
+    "EnemyHp": 225,
+    "EnemyAtk": 40,
+    "EnemyMatk": 0,
+    "EnemyDef": 35,
+    "EnemyMdef": 25,
+    "EnemyEva": 5,
+    "EnemyAcc": 20,
+    "EnemyPower": 136,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "30",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "TuvaleCommon"
+    ]
+  },
+  "17": {
+    "Id": "17",
+    "Name": "Goblin Fighter",
+    "EnemyType": "Goblin Footman",
+    "PartySize": 1,
+    "LevelReq": 6,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 60,
+    "Image": "Region1-Goblin_Footman-Goblin_Fighter",
+    "EnemyHp": 300,
+    "EnemyAtk": 44,
+    "EnemyMatk": 0,
+    "EnemyDef": 39,
+    "EnemyMdef": 28,
+    "EnemyEva": 6,
+    "EnemyAcc": 10,
+    "EnemyPower": 145,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "33",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "GoblinFootmanUncommon"
+    ]
+  },
+  "18": {
+    "Id": "18",
+    "Name": "Goblin Pack Leader",
+    "EnemyType": "Goblin Footman",
+    "PartySize": 2,
+    "LevelReq": 9,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 180,
+    "Image": "Region1-Goblin_Footman-Goblin_Pack_Leader",
+    "EnemyHp": 536,
+    "EnemyAtk": 58,
+    "EnemyMatk": 0,
+    "EnemyDef": 42,
+    "EnemyMdef": 30,
+    "EnemyEva": 6,
+    "EnemyAcc": 29,
+    "EnemyPower": 220,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "33",
+        "Percent": 305
+      },
+      {
+        "Id": "31",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "GoblinFootmanRare"
+    ]
+  },
+  "19": {
+    "Id": "19",
+    "Name": "Goblin Mage",
+    "EnemyType": "Goblin Mage",
+    "PartySize": 1,
+    "LevelReq": 7,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 70,
+    "Image": "Region1-Goblin_Mage-Goblin_Mage",
+    "EnemyHp": 190,
+    "EnemyAtk": 6,
+    "EnemyMatk": 77,
+    "EnemyDef": 17,
+    "EnemyMdef": 39,
+    "EnemyEva": 4,
+    "EnemyAcc": 22,
+    "EnemyPower": 186,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "30",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "GoblinMageUncommon"
+    ]
+  },
+  "20": {
+    "Id": "20",
+    "Name": "Goblin Acolyte",
+    "EnemyType": "Goblin Mage",
+    "PartySize": 1,
+    "LevelReq": 9,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 90,
+    "Image": "Region1-Goblin_Mage-Goblin_Acolyte",
+    "EnemyHp": 250,
+    "EnemyAtk": 6,
+    "EnemyMatk": 84,
+    "EnemyDef": 18,
+    "EnemyMdef": 42,
+    "EnemyEva": 4,
+    "EnemyAcc": 24,
+    "EnemyPower": 208,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "30",
+        "Percent": 305
+      },
+      {
+        "Id": "34",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "GoblinMageRare"
+    ]
+  },
+  "21": {
+    "Id": "21",
+    "Name": "Goblin Thief",
+    "EnemyType": "Goblin Thief",
+    "PartySize": 1,
+    "LevelReq": 7,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 70,
+    "Image": "Region1-Goblin_Thief-Goblin_Thief",
+    "EnemyHp": 150,
+    "EnemyAtk": 55,
+    "EnemyMatk": 11,
+    "EnemyDef": 11,
+    "EnemyMdef": 11,
+    "EnemyEva": 33,
+    "EnemyAcc": 44,
+    "EnemyPower": 194,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "30",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "GoblinThiefUncommon"
+    ]
+  },
+  "22": {
+    "Id": "22",
+    "Name": "Goblin Ninja",
+    "EnemyType": "Goblin Thief",
+    "PartySize": 1,
+    "LevelReq": 9,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 90,
+    "Image": "Region1-Goblin_Thief-Goblin_Ninja",
+    "EnemyHp": 175,
+    "EnemyAtk": 60,
+    "EnemyMatk": 12,
+    "EnemyDef": 12,
+    "EnemyMdef": 12,
+    "EnemyEva": 36,
+    "EnemyAcc": 48,
+    "EnemyPower": 214,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "30",
+        "Percent": 305
+      },
+      {
+        "Id": "32",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "GoblinThiefRare"
+    ]
+  },
+  "23": {
+    "Id": "23",
+    "Name": "Goblin Archer",
+    "EnemyType": "Goblin Archer",
+    "PartySize": 1,
+    "LevelReq": 7,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 70,
+    "Image": "Region1-Goblin_Archer-Goblin_Archer",
+    "EnemyHp": 150,
+    "EnemyAtk": 66,
+    "EnemyMatk": 0,
+    "EnemyDef": 17,
+    "EnemyMdef": 17,
+    "EnemyEva": 4,
+    "EnemyAcc": 55,
+    "EnemyPower": 187,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "30",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "GoblinArcherUncommon"
+    ]
+  },
+  "24": {
+    "Id": "24",
+    "Name": "Goblin Ace",
+    "EnemyType": "Goblin Archer",
+    "PartySize": 1,
+    "LevelReq": 9,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 90,
+    "Image": "Region1-Goblin_Archer-Goblin_Ace",
+    "EnemyHp": 175,
+    "EnemyAtk": 72,
+    "EnemyMatk": 0,
+    "EnemyDef": 18,
+    "EnemyMdef": 18,
+    "EnemyEva": 4,
+    "EnemyAcc": 60,
+    "EnemyPower": 205,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "30",
+        "Percent": 305
+      },
+      {
+        "Id": "31",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "GoblinArcherRare"
+    ]
+  },
+  "25": {
+    "Id": "25",
+    "Name": "Goblin Chieftan",
+    "EnemyType": "Goblin Chieftan",
+    "PartySize": 2,
+    "LevelReq": 10,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 200,
+    "Image": "Region1-Goblin_Chieftan-Goblin_Chieftan",
+    "EnemyHp": 770,
+    "EnemyAtk": 87,
+    "EnemyMatk": 44,
+    "EnemyDef": 36,
+    "EnemyMdef": 30,
+    "EnemyEva": 24,
+    "EnemyAcc": 30,
+    "EnemyPower": 362,
+    "AttackList": [
+      "Slash",
+      "Slash",
+      "Cleave",
+      "Slash",
+      "Slash"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "33",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "GoblinChieftan"
+    ]
+  },
+  "26": {
+    "Id": "26",
+    "Name": "Goblin Warlord",
+    "EnemyType": "Goblin Chieftan",
+    "PartySize": 3,
+    "LevelReq": 13,
+    "Rarity": 4,
+    "Region": 1,
+    "Exp": 390,
+    "Image": "Region1-Goblin_Chieftan-Goblin_Warlord",
+    "EnemyHp": 1300,
+    "EnemyAtk": 102,
+    "EnemyMatk": 51,
+    "EnemyDef": 45,
+    "EnemyMdef": 40,
+    "EnemyEva": 26,
+    "EnemyAcc": 34,
+    "EnemyPower": 480,
+    "AttackList": [
+      "Slash",
+      "BestialCharge",
+      "Stampede",
+      "Slash",
+      "Stampede"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "33",
+        "Percent": 350
+      },
+      {
+        "Id": "35",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "TuvaleEpic",
+      "GoblinWarlord"
+    ]
+  },
+  "27": {
+    "Id": "27",
+    "Name": "Bear",
+    "EnemyType": "Bear",
+    "PartySize": 2,
+    "LevelReq": 10,
+    "Rarity": 2,
+    "Region": 1,
+    "Exp": 200,
+    "Image": "Region1-Bear-Bear",
+    "EnemyHp": 792,
+    "EnemyAtk": 150,
+    "EnemyMatk": 27,
+    "EnemyDef": 50,
+    "EnemyMdef": 40,
+    "EnemyEva": 28,
+    "EnemyAcc": 20,
+    "EnemyPower": 426,
+    "AttackList": [
+      "BeastBellow",
+      "BestialCharge",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "41",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "TuvaleUncommon",
+      "BearUncommon"
+    ]
+  },
+  "28": {
+    "Id": "28",
+    "Name": "Magic Bear",
+    "EnemyType": "Bear",
+    "PartySize": 2,
+    "LevelReq": 11,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 220,
+    "Image": "Region1-Bear-Magic_Bear",
+    "EnemyHp": 917,
+    "EnemyAtk": 70,
+    "EnemyMatk": 125,
+    "EnemyDef": 20,
+    "EnemyMdef": 50,
+    "EnemyEva": 30,
+    "EnemyAcc": 22,
+    "EnemyPower": 463,
+    "AttackList": [
+      "BeastBellow",
+      "BestialCharge",
+      "Stampede",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "41",
+        "Percent": 250
+      },
+      {
+        "Id": "42",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "BearRare"
+    ]
+  },
+  "29": {
+    "Id": "29",
+    "Name": "Kunnigas",
+    "EnemyType": "Bear",
+    "PartySize": 3,
+    "LevelReq": 15,
+    "Rarity": 4,
+    "Region": 1,
+    "Exp": 450,
+    "Image": "Region1-Bear-Kunnigas",
+    "EnemyHp": 1500,
+    "EnemyAtk": 195,
+    "EnemyMatk": 34,
+    "EnemyDef": 55,
+    "EnemyMdef": 45,
+    "EnemyEva": 33,
+    "EnemyAcc": 26,
+    "EnemyPower": 610,
+    "AttackList": [
+      "BeastBellow",
+      "BestialCharge",
+      "Stampede",
+      "BeastBellow",
+      "Stampede"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "41",
+        "Percent": 305
+      },
+      {
+        "Id": "42",
+        "Percent": 210
+      },
+      {
+        "Id": "43",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "TuvaleEpic",
+      "BearEpic"
+    ]
+  },
+  "30": {
+    "Id": "30",
+    "Name": "Oak Treant",
+    "EnemyType": "Tuvale Treant",
+    "PartySize": 2,
+    "LevelReq": 5,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 100,
+    "Image": "Region1-Tuvale_Treant-Oak_Treant",
+    "EnemyHp": 2380,
+    "EnemyAtk": 0,
+    "EnemyMatk": 19,
+    "EnemyDef": 12,
+    "EnemyMdef": 24,
+    "EnemyEva": 6,
+    "EnemyAcc": 29,
+    "EnemyPower": 418,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 800
+      },
+      {
+        "Id": "9",
+        "Percent": 800
+      },
+      {
+        "Id": "11",
+        "Percent": 250
+      },
+      {
+        "Id": "7",
+        "Percent": 800
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "TuvaleTreantRare"
+    ]
+  },
+  "31": {
+    "Id": "31",
+    "Name": "Ancient Oak Treant",
+    "EnemyType": "Tuvale Treant",
+    "PartySize": 3,
+    "LevelReq": 14,
+    "Rarity": 4,
+    "Region": 1,
+    "Exp": 420,
+    "Image": "Region1-Tuvale_Treant-Ancient_Oak_Treant",
+    "EnemyHp": 4600,
+    "EnemyAtk": 0,
+    "EnemyMatk": 30,
+    "EnemyDef": 39,
+    "EnemyMdef": 78,
+    "EnemyEva": 7,
+    "EnemyAcc": 34,
+    "EnemyPower": 791,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 1600
+      },
+      {
+        "Id": "9",
+        "Percent": 1600
+      },
+      {
+        "Id": "11",
+        "Percent": 350
+      },
+      {
+        "Id": "7",
+        "Percent": 1600
+      }
+    ],
+    "Parcels": [
+      "TuvaleEpic",
+      "TuvaleTreantEpic"
+    ]
+  },
+  "32": {
+    "Id": "32",
+    "Name": "Iron Golem",
+    "EnemyType": "Tuvale Golem",
+    "PartySize": 2,
+    "LevelReq": 5,
+    "Rarity": 3,
+    "Region": 1,
+    "Exp": 100,
+    "Image": "Region1-Tuvale_Golem-Iron_Golem",
+    "EnemyHp": 2380,
+    "EnemyAtk": 19,
+    "EnemyMatk": 0,
+    "EnemyDef": 24,
+    "EnemyMdef": 12,
+    "EnemyEva": 6,
+    "EnemyAcc": 29,
+    "EnemyPower": 418,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "2",
+        "Percent": 800
+      },
+      {
+        "Id": "10",
+        "Percent": 800
+      },
+      {
+        "Id": "12",
+        "Percent": 250
+      },
+      {
+        "Id": "8",
+        "Percent": 800
+      }
+    ],
+    "Parcels": [
+      "TuvaleRare",
+      "TuvaleGolemRare"
+    ]
+  },
+  "33": {
+    "Id": "33",
+    "Name": "Weathered Iron Golem",
+    "EnemyType": "Tuvale Golem",
+    "PartySize": 3,
+    "LevelReq": 14,
+    "Rarity": 4,
+    "Region": 1,
+    "Exp": 420,
+    "Image": "Region1-Tuvale_Golem-Weathered_Iron_Golem",
+    "EnemyHp": 4600,
+    "EnemyAtk": 30,
+    "EnemyMatk": 0,
+    "EnemyDef": 78,
+    "EnemyMdef": 39,
+    "EnemyEva": 7,
+    "EnemyAcc": 34,
+    "EnemyPower": 791,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "2",
+        "Percent": 1600
+      },
+      {
+        "Id": "10",
+        "Percent": 1600
+      },
+      {
+        "Id": "12",
+        "Percent": 350
+      },
+      {
+        "Id": "8",
+        "Percent": 1600
+      }
+    ],
+    "Parcels": [
+      "TuvaleEpic",
+      "TuvaleGolemEpic"
+    ]
+  },
+  "34": {
+    "Id": "34",
+    "Name": "Albatross",
+    "EnemyType": "Albatross",
+    "PartySize": 1,
+    "LevelReq": 8,
+    "Rarity": 1,
+    "Region": 2,
+    "Exp": 80,
+    "Image": "Region2-Albatross-Albatross",
+    "EnemyHp": 150,
+    "EnemyAtk": 70,
+    "EnemyMatk": 20,
+    "EnemyDef": 40,
+    "EnemyMdef": 20,
+    "EnemyEva": 40,
+    "EnemyAcc": 20,
+    "EnemyPower": 220,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "68",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "YarsolCommon"
+    ]
+  },
+  "35": {
+    "Id": "35",
+    "Name": "Enraged Albatross",
+    "EnemyType": "Albatross",
+    "PartySize": 1,
+    "LevelReq": 12,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 120,
+    "Image": "Region2-Albatross-Enraged_Albatross",
+    "EnemyHp": 180,
+    "EnemyAtk": 77,
+    "EnemyMatk": 22,
+    "EnemyDef": 44,
+    "EnemyMdef": 22,
+    "EnemyEva": 44,
+    "EnemyAcc": 22,
+    "EnemyPower": 244,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "68",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "AlbatrossUncommon"
+    ]
+  },
+  "36": {
+    "Id": "36",
+    "Name": "Garsci",
+    "EnemyType": "Albatross",
+    "PartySize": 2,
+    "LevelReq": 15,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 300,
+    "Image": "Region2-Albatross-Garsci",
+    "EnemyHp": 555,
+    "EnemyAtk": 172,
+    "EnemyMatk": 35,
+    "EnemyDef": 58,
+    "EnemyMdef": 29,
+    "EnemyEva": 58,
+    "EnemyAcc": 35,
+    "EnemyPower": 472,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "68",
+        "Percent": 305
+      },
+      {
+        "Id": "75",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "AlbatrossRare"
+    ]
+  },
+  "37": {
+    "Id": "37",
+    "Name": "Snapping Turtle",
+    "EnemyType": "Turtle",
+    "PartySize": 1,
+    "LevelReq": 9,
+    "Rarity": 1,
+    "Region": 2,
+    "Exp": 90,
+    "Image": "Region2-Turtle-Snapping_Turtle",
+    "EnemyHp": 500,
+    "EnemyAtk": 20,
+    "EnemyMatk": 15,
+    "EnemyDef": 100,
+    "EnemyMdef": 80,
+    "EnemyEva": 1,
+    "EnemyAcc": 20,
+    "EnemyPower": 217,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "65",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "YarsolCommon"
+    ]
+  },
+  "38": {
+    "Id": "38",
+    "Name": "Spiked Turtle",
+    "EnemyType": "Turtle",
+    "PartySize": 1,
+    "LevelReq": 12,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 120,
+    "Image": "Region2-Turtle-Spiked_Turtle",
+    "EnemyHp": 550,
+    "EnemyAtk": 40,
+    "EnemyMatk": 17,
+    "EnemyDef": 110,
+    "EnemyMdef": 88,
+    "EnemyEva": 1,
+    "EnemyAcc": 22,
+    "EnemyPower": 263,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "65",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "TurtleUncommon"
+    ]
+  },
+  "39": {
+    "Id": "39",
+    "Name": "Gopil",
+    "EnemyType": "Turtle",
+    "PartySize": 2,
+    "LevelReq": 16,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 320,
+    "Image": "Region2-Turtle-Gopil",
+    "EnemyHp": 1547,
+    "EnemyAtk": 100,
+    "EnemyMatk": 75,
+    "EnemyDef": 195,
+    "EnemyMdef": 156,
+    "EnemyEva": 2,
+    "EnemyAcc": 38,
+    "EnemyPower": 642,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "65",
+        "Percent": 305
+      },
+      {
+        "Id": "78",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "TurtleRare"
+    ]
+  },
+  "40": {
+    "Id": "40",
+    "Name": "Sand Lizard",
+    "EnemyType": "Sand Lizard",
+    "PartySize": 1,
+    "LevelReq": 11,
+    "Rarity": 1,
+    "Region": 2,
+    "Exp": 110,
+    "Image": "Region2-Sand_Lizard-Sand_Lizard",
+    "EnemyHp": 250,
+    "EnemyAtk": 80,
+    "EnemyMatk": 25,
+    "EnemyDef": 50,
+    "EnemyMdef": 40,
+    "EnemyEva": 15,
+    "EnemyAcc": 15,
+    "EnemyPower": 239,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "63",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "YarsolCommon"
+    ]
+  },
+  "41": {
+    "Id": "41",
+    "Name": "Evolved Lizard",
+    "EnemyType": "Sand Lizard",
+    "PartySize": 1,
+    "LevelReq": 14,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 140,
+    "Image": "Region2-Sand_Lizard-Evolved_Lizard",
+    "EnemyHp": 300,
+    "EnemyAtk": 132,
+    "EnemyMatk": 42,
+    "EnemyDef": 55,
+    "EnemyMdef": 44,
+    "EnemyEva": 17,
+    "EnemyAcc": 17,
+    "EnemyPower": 343,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "63",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "SandLizardUncommon"
+    ]
+  },
+  "42": {
+    "Id": "42",
+    "Name": "Ielec",
+    "EnemyType": "Sand Lizard",
+    "PartySize": 2,
+    "LevelReq": 18,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 360,
+    "Image": "Region2-Sand_Lizard-Ielec",
+    "EnemyHp": 1012,
+    "EnemyAtk": 115,
+    "EnemyMatk": 266,
+    "EnemyDef": 102,
+    "EnemyMdef": 82,
+    "EnemyEva": 31,
+    "EnemyAcc": 37,
+    "EnemyPower": 782,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "63",
+        "Percent": 305
+      },
+      {
+        "Id": "84",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "SandLizardRare"
+    ]
+  },
+  "43": {
+    "Id": "43",
+    "Name": "Giant Crab",
+    "EnemyType": "Crab",
+    "PartySize": 1,
+    "LevelReq": 12,
+    "Rarity": 1,
+    "Region": 2,
+    "Exp": 120,
+    "Image": "Region2-Crab-Giant_Crab",
+    "EnemyHp": 300,
+    "EnemyAtk": 100,
+    "EnemyMatk": 20,
+    "EnemyDef": 70,
+    "EnemyMdef": 40,
+    "EnemyEva": 10,
+    "EnemyAcc": 25,
+    "EnemyPower": 281,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "76",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "YarsolCommon"
+    ]
+  },
+  "44": {
+    "Id": "44",
+    "Name": "Volcano Crab",
+    "EnemyType": "Crab",
+    "PartySize": 1,
+    "LevelReq": 14,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 140,
+    "Image": "Region2-Crab-Volcano_Crab",
+    "EnemyHp": 360,
+    "EnemyAtk": 110,
+    "EnemyMatk": 22,
+    "EnemyDef": 77,
+    "EnemyMdef": 44,
+    "EnemyEva": 11,
+    "EnemyAcc": 28,
+    "EnemyPower": 314,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "76",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "CrabUncommon"
+    ]
+  },
+  "45": {
+    "Id": "45",
+    "Name": "Aosag",
+    "EnemyType": "Crab",
+    "PartySize": 2,
+    "LevelReq": 19,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 380,
+    "Image": "Region2-Crab-Aosag",
+    "EnemyHp": 1300,
+    "EnemyAtk": 200,
+    "EnemyMatk": 29,
+    "EnemyDef": 252,
+    "EnemyMdef": 200,
+    "EnemyEva": 12,
+    "EnemyAcc": 36,
+    "EnemyPower": 725,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "76",
+        "Percent": 305
+      },
+      {
+        "Id": "80",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "CrabRare"
+    ]
+  },
+  "46": {
+    "Id": "46",
+    "Name": "Jellyfish",
+    "EnemyType": "Jellyfish",
+    "PartySize": 1,
+    "LevelReq": 11,
+    "Rarity": 1,
+    "Region": 2,
+    "Exp": 110,
+    "Image": "Region2-Jellyfish-Jellyfish",
+    "EnemyHp": 200,
+    "EnemyAtk": 100,
+    "EnemyMatk": 120,
+    "EnemyDef": 15,
+    "EnemyMdef": 50,
+    "EnemyEva": 20,
+    "EnemyAcc": 30,
+    "EnemyPower": 391,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "64",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "YarsolCommon"
+    ]
+  },
+  "47": {
+    "Id": "47",
+    "Name": "Gloom Jellyfish",
+    "EnemyType": "Jellyfish",
+    "PartySize": 1,
+    "LevelReq": 13,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 130,
+    "Image": "Region2-Jellyfish-Gloom_Jellyfish",
+    "EnemyHp": 270,
+    "EnemyAtk": 110,
+    "EnemyMatk": 132,
+    "EnemyDef": 17,
+    "EnemyMdef": 55,
+    "EnemyEva": 22,
+    "EnemyAcc": 33,
+    "EnemyPower": 437,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "64",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "JellyfishUncommon"
+    ]
+  },
+  "48": {
+    "Id": "48",
+    "Name": "Griroa",
+    "EnemyType": "Jellyfish",
+    "PartySize": 2,
+    "LevelReq": 17,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 340,
+    "Image": "Region2-Jellyfish-Griroa",
+    "EnemyHp": 588,
+    "EnemyAtk": 756,
+    "EnemyMatk": 908,
+    "EnemyDef": 17,
+    "EnemyMdef": 54,
+    "EnemyEva": 36,
+    "EnemyAcc": 227,
+    "EnemyPower": 2544,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "64",
+        "Percent": 305
+      },
+      {
+        "Id": "77",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "JellyfishRare"
+    ]
+  },
+  "49": {
+    "Id": "49",
+    "Name": "Kobold Pikeman",
+    "EnemyType": "Kobold Pikeman",
+    "PartySize": 1,
+    "LevelReq": 16,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 160,
+    "Image": "Region2-Kobold_Pikeman-Kobold_Pikeman",
+    "EnemyHp": 600,
+    "EnemyAtk": 132,
+    "EnemyMatk": 17,
+    "EnemyDef": 88,
+    "EnemyMdef": 33,
+    "EnemyEva": 22,
+    "EnemyAcc": 28,
+    "EnemyPower": 380,
+    "AttackList": [
+      "Slash",
+      "Basic",
+      "Slash",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "69",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "KoboldPikemanUncommon"
+    ]
+  },
+  "50": {
+    "Id": "50",
+    "Name": "Kobold Guardsman",
+    "EnemyType": "Kobold Pikeman",
+    "PartySize": 1,
+    "LevelReq": 18,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 180,
+    "Image": "Region2-Kobold_Pikeman-Kobold_Guardsman",
+    "EnemyHp": 650,
+    "EnemyAtk": 140,
+    "EnemyMatk": 18,
+    "EnemyDef": 96,
+    "EnemyMdef": 36,
+    "EnemyEva": 24,
+    "EnemyAcc": 30,
+    "EnemyPower": 407,
+    "AttackList": [
+      "Slash",
+      "Slash",
+      "Basic",
+      "Slash",
+      "Slash"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "69",
+        "Percent": 305
+      },
+      {
+        "Id": "70",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "KoboldPikemanRare"
+    ]
+  },
+  "51": {
+    "Id": "51",
+    "Name": "Kobold Knife Thrower",
+    "EnemyType": "Kobold Assassin",
+    "PartySize": 1,
+    "LevelReq": 17,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 170,
+    "Image": "Region2-Kobold_Assassin-Kobold_Knife_Thrower",
+    "EnemyHp": 200,
+    "EnemyAtk": 220,
+    "EnemyMatk": 22,
+    "EnemyDef": 22,
+    "EnemyMdef": 22,
+    "EnemyEva": 55,
+    "EnemyAcc": 110,
+    "EnemyPower": 531,
+    "AttackList": [
+      "CheapShot",
+      "Basic",
+      "Basic",
+      "CheapShot",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "69",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "KoboldAssassinUncommon"
+    ]
+  },
+  "52": {
+    "Id": "52",
+    "Name": "Kobold Marksman Assassin",
+    "EnemyType": "Kobold Assassin",
+    "PartySize": 1,
+    "LevelReq": 22,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 220,
+    "Image": "Region2-Kobold_Assassin-Kobold_Marksman_Assassin",
+    "EnemyHp": 280,
+    "EnemyAtk": 240,
+    "EnemyMatk": 24,
+    "EnemyDef": 24,
+    "EnemyMdef": 24,
+    "EnemyEva": 60,
+    "EnemyAcc": 120,
+    "EnemyPower": 589,
+    "AttackList": [
+      "Basic",
+      "CheapShot",
+      "CheapShot",
+      "CheapShot",
+      "CheapShot"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "69",
+        "Percent": 305
+      },
+      {
+        "Id": "71",
+        "Percent": 100
+      },
+      {
+        "Id": "85",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "KoboldAssassinRare"
+    ]
+  },
+  "53": {
+    "Id": "53",
+    "Name": "Kobold Apprentice",
+    "EnemyType": "Kobold Mage",
+    "PartySize": 1,
+    "LevelReq": 17,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 170,
+    "Image": "Region2-Kobold_Mage-Kobold_Apprentice",
+    "EnemyHp": 400,
+    "EnemyAtk": 22,
+    "EnemyMatk": 165,
+    "EnemyDef": 28,
+    "EnemyMdef": 110,
+    "EnemyEva": 22,
+    "EnemyAcc": 33,
+    "EnemyPower": 413,
+    "AttackList": [
+      "MindBlast",
+      "Basic",
+      "MagicMissile",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "69",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "KoboldMageUncommon"
+    ]
+  },
+  "54": {
+    "Id": "54",
+    "Name": "Kobold Highpriest",
+    "EnemyType": "Kobold Mage",
+    "PartySize": 1,
+    "LevelReq": 23,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 230,
+    "Image": "Region2-Kobold_Mage-Kobold_Highpriest",
+    "EnemyHp": 500,
+    "EnemyAtk": 24,
+    "EnemyMatk": 180,
+    "EnemyDef": 30,
+    "EnemyMdef": 120,
+    "EnemyEva": 24,
+    "EnemyAcc": 36,
+    "EnemyPower": 460,
+    "AttackList": [
+      "MagicMissile",
+      "MagicMissile",
+      "MagicMissile",
+      "Basic",
+      "MagicMissile"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "69",
+        "Percent": 305
+      },
+      {
+        "Id": "72",
+        "Percent": 100
+      },
+      {
+        "Id": "85",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "KoboldMageRare"
+    ]
+  },
+  "55": {
+    "Id": "55",
+    "Name": "Kobold Chieftain",
+    "EnemyType": "Kobold Chieftain",
+    "PartySize": 2,
+    "LevelReq": 20,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 400,
+    "Image": "Region2-Kobold_Chieftain",
+    "EnemyHp": 1500,
+    "EnemyAtk": 216,
+    "EnemyMatk": 44,
+    "EnemyDef": 180,
+    "EnemyMdef": 120,
+    "EnemyEva": 36,
+    "EnemyAcc": 58,
+    "EnemyPower": 774,
+    "AttackList": [
+      "Slash",
+      "Cleave",
+      "Slash",
+      "NatureFury",
+      "Cleave"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "54",
+        "Percent": 325
+      },
+      {
+        "Id": "70",
+        "Percent": 260
+      },
+      {
+        "Id": "69",
+        "Percent": 215
+      },
+      {
+        "Id": "85",
+        "Percent": 345
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "KoboldChieftain"
+    ]
+  },
+  "56": {
+    "Id": "56",
+    "Name": "Kobold Monarch",
+    "EnemyType": "Kobold Monarch",
+    "PartySize": 3,
+    "LevelReq": 25,
+    "Rarity": 4,
+    "Region": 2,
+    "Exp": 750,
+    "Image": "Region2-Kobold_Monarch",
+    "EnemyHp": 3000,
+    "EnemyAtk": 17,
+    "EnemyMatk": 200,
+    "EnemyDef": 150,
+    "EnemyMdef": 250,
+    "EnemyEva": 13,
+    "EnemyAcc": 85,
+    "EnemyPower": 987,
+    "AttackList": [
+      "SanirGreatCurse",
+      "SteamGeysers",
+      "Flood",
+      "MagicMissile",
+      "SteamGeysers"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "59",
+        "Percent": 325
+      },
+      {
+        "Id": "72",
+        "Percent": 260
+      },
+      {
+        "Id": "69",
+        "Percent": 345
+      },
+      {
+        "Id": "85",
+        "Percent": 215
+      }
+    ],
+    "Parcels": [
+      "YarsolEpic",
+      "KoboldMonarch"
+    ]
+  },
+  "57": {
+    "Id": "57",
+    "Name": "Sand Striker",
+    "EnemyType": "Sandstriker",
+    "PartySize": 1,
+    "LevelReq": 15,
+    "Rarity": 2,
+    "Region": 2,
+    "Exp": 150,
+    "Image": "Region2-Sandstriker-Sand_Striker",
+    "EnemyHp": 500,
+    "EnemyAtk": 132,
+    "EnemyMatk": 22,
+    "EnemyDef": 80,
+    "EnemyMdef": 40,
+    "EnemyEva": 33,
+    "EnemyAcc": 22,
+    "EnemyPower": 374,
+    "AttackList": [
+      "BeastBellow",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "66",
+        "Percent": 125
+      }
+    ],
+    "Parcels": [
+      "YarsolUncommon",
+      "SandstrikerUncommon"
+    ]
+  },
+  "58": {
+    "Id": "58",
+    "Name": "Weeping Sand Striker",
+    "EnemyType": "Sandstriker",
+    "PartySize": 2,
+    "LevelReq": 21,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 420,
+    "Image": "Region2-Sandstriker-Weeping_Sand_Striker",
+    "EnemyHp": 2500,
+    "EnemyAtk": 200,
+    "EnemyMatk": 29,
+    "EnemyDef": 96,
+    "EnemyMdef": 48,
+    "EnemyEva": 40,
+    "EnemyAcc": 29,
+    "EnemyPower": 781,
+    "AttackList": [
+      "BeastBellow",
+      "ColossalChomp",
+      "Basic",
+      "TunnelRush",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "66",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "SandstrikerRare"
+    ]
+  },
+  "59": {
+    "Id": "59",
+    "Name": "Scorok",
+    "EnemyType": "Sandstriker",
+    "PartySize": 3,
+    "LevelReq": 25,
+    "Rarity": 4,
+    "Region": 2,
+    "Exp": 750,
+    "Image": "Region2-Sandstriker-Scorok",
+    "EnemyHp": 3500,
+    "EnemyAtk": 250,
+    "EnemyMatk": 34,
+    "EnemyDef": 104,
+    "EnemyMdef": 52,
+    "EnemyEva": 41,
+    "EnemyAcc": 34,
+    "EnemyPower": 1006,
+    "AttackList": [
+      "Sandstorm",
+      "BeastBellow",
+      "ColossalChomp",
+      "TunnelRush",
+      "ColossalChomp"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "66",
+        "Percent": 305
+      },
+      {
+        "Id": "79",
+        "Percent": 105
+      }
+    ],
+    "Parcels": [
+      "YarsolEpic",
+      "SandstrikerEpic"
+    ]
+  },
+  "60": {
+    "Id": "60",
+    "Name": "Giant Frog",
+    "EnemyType": "Giant Frog",
+    "PartySize": 2,
+    "LevelReq": 20,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 400,
+    "Image": "Region2-Giant_Frog-Giant_Frog",
+    "EnemyHp": 1500,
+    "EnemyAtk": 100,
+    "EnemyMatk": 216,
+    "EnemyDef": 100,
+    "EnemyMdef": 150,
+    "EnemyEva": 36,
+    "EnemyAcc": 44,
+    "EnemyPower": 809,
+    "AttackList": [
+      "BeastBellow",
+      "LeapQuake",
+      "Basic",
+      "ColossalChomp",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "67",
+        "Percent": 180
+      },
+      {
+        "Id": "81",
+        "Percent": 120
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "GiantFrogRare"
+    ]
+  },
+  "61": {
+    "Id": "61",
+    "Name": "Croaker",
+    "EnemyType": "Giant Frog",
+    "PartySize": 3,
+    "LevelReq": 25,
+    "Rarity": 4,
+    "Region": 2,
+    "Exp": 750,
+    "Image": "Region2-Giant_Frog-Croaker",
+    "EnemyHp": 2500,
+    "EnemyAtk": 150,
+    "EnemyMatk": 250,
+    "EnemyDef": 130,
+    "EnemyMdef": 195,
+    "EnemyEva": 39,
+    "EnemyAcc": 51,
+    "EnemyPower": 1102,
+    "AttackList": [
+      "BeastBellow",
+      "LeapQuake",
+      "BestialCharge",
+      "MagicMissile",
+      "ColossalChomp"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "67",
+        "Percent": 320
+      },
+      {
+        "Id": "81",
+        "Percent": 240
+      }
+    ],
+    "Parcels": [
+      "YarsolEpic",
+      "GiantFrogEpic"
+    ]
+  },
+  "62": {
+    "Id": "62",
+    "Name": "Yew Treant",
+    "EnemyType": "Yarsol Treant",
+    "PartySize": 2,
+    "LevelReq": 15,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 300,
+    "Image": "Region2-Yarsol_Treant-Yew_Treant",
+    "EnemyHp": 3780,
+    "EnemyAtk": 15,
+    "EnemyMatk": 90,
+    "EnemyDef": 96,
+    "EnemyMdef": 120,
+    "EnemyEva": 6,
+    "EnemyAcc": 58,
+    "EnemyPower": 839,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "55",
+        "Percent": 800
+      },
+      {
+        "Id": "58",
+        "Percent": 800
+      },
+      {
+        "Id": "57",
+        "Percent": 800
+      },
+      {
+        "Id": "82",
+        "Percent": 250
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "YarsolTreantRare"
+    ]
+  },
+  "63": {
+    "Id": "63",
+    "Name": "Ancient Yew Treant",
+    "EnemyType": "Yarsol Treant",
+    "PartySize": 3,
+    "LevelReq": 24,
+    "Rarity": 4,
+    "Region": 2,
+    "Exp": 720,
+    "Image": "Region2-Yarsol_Treant-Ancient_Yew_Treant",
+    "EnemyHp": 8100,
+    "EnemyAtk": 17,
+    "EnemyMatk": 102,
+    "EnemyDef": 104,
+    "EnemyMdef": 130,
+    "EnemyEva": 7,
+    "EnemyAcc": 68,
+    "EnemyPower": 1494,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "55",
+        "Percent": 1600
+      },
+      {
+        "Id": "58",
+        "Percent": 1600
+      },
+      {
+        "Id": "57",
+        "Percent": 1600
+      },
+      {
+        "Id": "82",
+        "Percent": 350
+      }
+    ],
+    "Parcels": [
+      "YarsolEpic",
+      "YarsolTreantEpic"
+    ]
+  },
+  "64": {
+    "Id": "64",
+    "Name": "Cobalt Golem",
+    "EnemyType": "Yarsol Golem",
+    "PartySize": 2,
+    "LevelReq": 15,
+    "Rarity": 3,
+    "Region": 2,
+    "Exp": 300,
+    "Image": "Region2-Yarsol_Golem-Cobalt_Golem",
+    "EnemyHp": 3780,
+    "EnemyAtk": 90,
+    "EnemyMatk": 15,
+    "EnemyDef": 120,
+    "EnemyMdef": 96,
+    "EnemyEva": 6,
+    "EnemyAcc": 58,
+    "EnemyPower": 839,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "53",
+        "Percent": 800
+      },
+      {
+        "Id": "60",
+        "Percent": 800
+      },
+      {
+        "Id": "62",
+        "Percent": 250
+      },
+      {
+        "Id": "813",
+        "Percent": 800
+      }
+    ],
+    "Parcels": [
+      "YarsolRare",
+      "YarsolGolemRare"
+    ]
+  },
+  "65": {
+    "Id": "65",
+    "Name": "Weathered Cobalt Golem",
+    "EnemyType": "Yarsol Golem",
+    "PartySize": 3,
+    "LevelReq": 24,
+    "Rarity": 4,
+    "Region": 2,
+    "Exp": 720,
+    "Image": "Region2-Yarsol_Golem-Weathered_Cobalt_Golem",
+    "EnemyHp": 8100,
+    "EnemyAtk": 102,
+    "EnemyMatk": 17,
+    "EnemyDef": 130,
+    "EnemyMdef": 104,
+    "EnemyEva": 7,
+    "EnemyAcc": 68,
+    "EnemyPower": 1494,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "53",
+        "Percent": 1600
+      },
+      {
+        "Id": "60",
+        "Percent": 1600
+      },
+      {
+        "Id": "62",
+        "Percent": 350
+      },
+      {
+        "Id": "813",
+        "Percent": 1600
+      }
+    ],
+    "Parcels": [
+      "YarsolEpic",
+      "YarsolGolemEpic"
+    ]
+  },
+  "66": {
+    "Id": "66",
+    "Name": "Rasselbock",
+    "EnemyType": "Deer",
+    "PartySize": 1,
+    "LevelReq": 20,
+    "Rarity": 1,
+    "Region": 3,
+    "Exp": 200,
+    "Image": "Region3-Deer-Rasselbock",
+    "EnemyHp": 1260,
+    "EnemyAtk": 102,
+    "EnemyMatk": 78,
+    "EnemyDef": 144,
+    "EnemyMdef": 90,
+    "EnemyEva": 48,
+    "EnemyAcc": 48,
+    "EnemyPower": 608,
+    "AttackList": [
+      "BluntBlow",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "160",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon",
+      "DeerCommon"
+    ]
+  },
+  "67": {
+    "Id": "67",
+    "Name": "Highland Deer",
+    "EnemyType": "Deer",
+    "PartySize": 1,
+    "LevelReq": 23,
+    "Rarity": 2,
+    "Region": 3,
+    "Exp": 230,
+    "Image": "Region3-Deer-Highland_Deer",
+    "EnemyHp": 1890,
+    "EnemyAtk": 141,
+    "EnemyMatk": 108,
+    "EnemyDef": 198,
+    "EnemyMdef": 124,
+    "EnemyEva": 66,
+    "EnemyAcc": 66,
+    "EnemyPower": 860,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "160",
+        "Percent": 200
+      }
+    ],
+    "Parcels": [
+      "AldurUncommon",
+      "DeerCommon"
+    ]
+  },
+  "68": {
+    "Id": "68",
+    "Name": "Thunderhoof Yak",
+    "EnemyType": "Deer",
+    "PartySize": 2,
+    "LevelReq": 26,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 520,
+    "Image": "Region3-Deer-Thunderhoof_Yak",
+    "EnemyHp": 9324,
+    "EnemyAtk": 160,
+    "EnemyMatk": 122,
+    "EnemyDef": 188,
+    "EnemyMdef": 117,
+    "EnemyEva": 63,
+    "EnemyAcc": 75,
+    "EnemyPower": 1965,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "160",
+        "Percent": 350
+      },
+      {
+        "Id": "161",
+        "Percent": 150
+      }
+    ],
+    "Parcels": [
+      "AldurRare",
+      "DeerCommon",
+      "DeerRare"
+    ]
+  },
+  "69": {
+    "Id": "69",
+    "Name": "Highland Goat",
+    "EnemyType": "Goat",
+    "PartySize": 1,
+    "LevelReq": 21,
+    "Rarity": 1,
+    "Region": 3,
+    "Exp": 210,
+    "Image": "Region3-Goat-Highland_Goat",
+    "EnemyHp": 1140,
+    "EnemyAtk": 96,
+    "EnemyMatk": 108,
+    "EnemyDef": 108,
+    "EnemyMdef": 114,
+    "EnemyEva": 36,
+    "EnemyAcc": 42,
+    "EnemyPower": 599,
+    "AttackList": [
+      "Basic",
+      "BluntBlow",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "162",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon",
+      "GoatCommon"
+    ]
+  },
+  "70": {
+    "Id": "70",
+    "Name": "Elder Ram",
+    "EnemyType": "Goat",
+    "PartySize": 1,
+    "LevelReq": 25,
+    "Rarity": 2,
+    "Region": 3,
+    "Exp": 250,
+    "Image": "Region3-Goat-Elder_Ram",
+    "EnemyHp": 1710,
+    "EnemyAtk": 132,
+    "EnemyMatk": 149,
+    "EnemyDef": 149,
+    "EnemyMdef": 157,
+    "EnemyEva": 50,
+    "EnemyAcc": 58,
+    "EnemyPower": 846,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "162",
+        "Percent": 200
+      }
+    ],
+    "Parcels": [
+      "AldurUncommon",
+      "GoatCommon"
+    ]
+  },
+  "71": {
+    "Id": "71",
+    "Name": "Cloven Shadowstalker",
+    "EnemyType": "Goat",
+    "PartySize": 2,
+    "LevelReq": 26,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 520,
+    "Image": "Region3-Goat-Cloven_Shadowstalker",
+    "EnemyHp": 3553,
+    "EnemyAtk": 138,
+    "EnemyMatk": 155,
+    "EnemyDef": 129,
+    "EnemyMdef": 136,
+    "EnemyEva": 43,
+    "EnemyAcc": 61,
+    "EnemyPower": 1104,
+    "AttackList": [
+      "Gouge",
+      "Basic",
+      "BestialCharge",
+      "Eviscerate",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "162",
+        "Percent": 350
+      },
+      {
+        "Id": "163",
+        "Percent": 150
+      }
+    ],
+    "Parcels": [
+      "AldurRare",
+      "GoatCommon",
+      "GoatRare"
+    ]
+  },
+  "72": {
+    "Id": "72",
+    "Name": "Roc",
+    "EnemyType": "Roc",
+    "PartySize": 1,
+    "LevelReq": 22,
+    "Rarity": 1,
+    "Region": 3,
+    "Exp": 220,
+    "Image": "Region3-Roc-Roc",
+    "EnemyHp": 560,
+    "EnemyAtk": 126,
+    "EnemyMatk": 91,
+    "EnemyDef": 70,
+    "EnemyMdef": 91,
+    "EnemyEva": 119,
+    "EnemyAcc": 77,
+    "EnemyPower": 618,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "164",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon",
+      "RocCommon"
+    ]
+  },
+  "73": {
+    "Id": "73",
+    "Name": "Burly Roc",
+    "EnemyType": "Roc",
+    "PartySize": 1,
+    "LevelReq": 23,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 230,
+    "Image": "Region3-Roc-Burly_Roc",
+    "EnemyHp": 840,
+    "EnemyAtk": 162,
+    "EnemyMatk": 117,
+    "EnemyDef": 90,
+    "EnemyMdef": 117,
+    "EnemyEva": 153,
+    "EnemyAcc": 99,
+    "EnemyPower": 812,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "164",
+        "Percent": 200
+      }
+    ],
+    "Parcels": [
+      "AldurUncommon",
+      "RocCommon"
+    ]
+  },
+  "74": {
+    "Id": "74",
+    "Name": "Radiant Cliff Roc",
+    "EnemyType": "Roc",
+    "PartySize": 2,
+    "LevelReq": 28,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 560,
+    "Image": "Region3-Roc-Radiant_Cliff_Roc",
+    "EnemyHp": 1632,
+    "EnemyAtk": 169,
+    "EnemyMatk": 122,
+    "EnemyDef": 78,
+    "EnemyMdef": 102,
+    "EnemyEva": 133,
+    "EnemyAcc": 103,
+    "EnemyPower": 916,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "164",
+        "Percent": 350
+      },
+      {
+        "Id": "165",
+        "Percent": 150
+      }
+    ],
+    "Parcels": [
+      "AldurRare",
+      "RocCommon",
+      "RocRare"
+    ]
+  },
+  "75": {
+    "Id": "75",
+    "Name": "Highland Spirit",
+    "EnemyType": "Spirit",
+    "PartySize": 1,
+    "LevelReq": 24,
+    "Rarity": 1,
+    "Region": 3,
+    "Exp": 240,
+    "Image": "Region3-Spirit-Highland_Spirit",
+    "EnemyHp": 750,
+    "EnemyAtk": 53,
+    "EnemyMatk": 195,
+    "EnemyDef": 188,
+    "EnemyMdef": 83,
+    "EnemyEva": 101,
+    "EnemyAcc": 60,
+    "EnemyPower": 697,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "166",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon",
+      "AldurSpiritCommon"
+    ]
+  },
+  "76": {
+    "Id": "76",
+    "Name": "Phantom of the Moor",
+    "EnemyType": "Spirit",
+    "PartySize": 2,
+    "LevelReq": 25,
+    "Rarity": 2,
+    "Region": 3,
+    "Exp": 500,
+    "Image": "Region3-Spirit-Phantom_of_the_Moor",
+    "EnemyHp": 1020,
+    "EnemyAtk": 47,
+    "EnemyMatk": 172,
+    "EnemyDef": 138,
+    "EnemyMdef": 61,
+    "EnemyEva": 74,
+    "EnemyAcc": 53,
+    "EnemyPower": 637,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "166",
+        "Percent": 200
+      }
+    ],
+    "Parcels": [
+      "AldurUncommon",
+      "AldurSpiritCommon"
+    ]
+  },
+  "77": {
+    "Id": "77",
+    "Name": "Summit Specter",
+    "EnemyType": "Spirit",
+    "PartySize": 3,
+    "LevelReq": 29,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 870,
+    "Image": "Region3-Spirit-Summit_Specter",
+    "EnemyHp": 1435,
+    "EnemyAtk": 55,
+    "EnemyMatk": 203,
+    "EnemyDef": 150,
+    "EnemyMdef": 66,
+    "EnemyEva": 81,
+    "EnemyAcc": 63,
+    "EnemyPower": 771,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "166",
+        "Percent": 350
+      },
+      {
+        "Id": "167",
+        "Percent": 150
+      }
+    ],
+    "Parcels": [
+      "AldurRare",
+      "AldurSpiritCommon",
+      "AldurSpiritRare"
+    ]
+  },
+  "78": {
+    "Id": "78",
+    "Name": "Murk Dweller",
+    "EnemyType": "Loch",
+    "PartySize": 2,
+    "LevelReq": 24,
+    "Rarity": 2,
+    "Region": 3,
+    "Exp": 480,
+    "Image": "Region3-Loch-Murk_Dweller",
+    "EnemyHp": 2958,
+    "EnemyAtk": 297,
+    "EnemyMatk": 60,
+    "EnemyDef": 154,
+    "EnemyMdef": 94,
+    "EnemyEva": 2,
+    "EnemyAcc": 53,
+    "EnemyPower": 1050,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "79": {
+    "Id": "79",
+    "Name": "Tidecaller Colossus",
+    "EnemyType": "Loch",
+    "PartySize": 3,
+    "LevelReq": 26,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 780,
+    "Image": "Region3-Loch-Tidecaller_Colossus",
+    "EnemyHp": 4162,
+    "EnemyAtk": 351,
+    "EnemyMatk": 71,
+    "EnemyDef": 168,
+    "EnemyMdef": 102,
+    "EnemyEva": 2,
+    "EnemyAcc": 63,
+    "EnemyPower": 1327,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "80": {
+    "Id": "80",
+    "Name": "Abyssal Leviathan",
+    "EnemyType": "Loch",
+    "PartySize": 6,
+    "LevelReq": 35,
+    "Rarity": 5,
+    "Region": 3,
+    "Exp": 2100,
+    "Image": "Region3-Loch-Abyssal_Leviathan",
+    "EnemyHp": 21859,
+    "EnemyAtk": 810,
+    "EnemyMatk": 162,
+    "EnemyDef": 945,
+    "EnemyMdef": 574,
+    "EnemyEva": 3,
+    "EnemyAcc": 144,
+    "EnemyPower": 5191,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "81": {
+    "Id": "81",
+    "Name": "Boulderback Ogre",
+    "EnemyType": "Ogre",
+    "PartySize": 2,
+    "LevelReq": 25,
+    "Rarity": 1,
+    "Region": 3,
+    "Exp": 500,
+    "Image": "Region3-Ogre-Boulderback_Ogre",
+    "EnemyHp": 2295,
+    "EnemyAtk": 261,
+    "EnemyMatk": 18,
+    "EnemyDef": 158,
+    "EnemyMdef": 38,
+    "EnemyEva": 23,
+    "EnemyAcc": 99,
+    "EnemyPower": 903,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      },
+      {
+        "Id": "158",
+        "Percent": 175
+      },
+      {
+        "Id": "159",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "82": {
+    "Id": "82",
+    "Name": "Twin Club Brute",
+    "EnemyType": "Ogre",
+    "PartySize": 3,
+    "LevelReq": 26,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 780,
+    "Image": "Region3-Ogre-Twin_Club_Brute",
+    "EnemyHp": 2583,
+    "EnemyAtk": 227,
+    "EnemyMatk": 16,
+    "EnemyDef": 126,
+    "EnemyMdef": 30,
+    "EnemyEva": 18,
+    "EnemyAcc": 86,
+    "EnemyPower": 862,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      },
+      {
+        "Id": "158",
+        "Percent": 300
+      },
+      {
+        "Id": "159",
+        "Percent": 175
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "83": {
+    "Id": "83",
+    "Name": "Warpaint Savage",
+    "EnemyType": "Ogre",
+    "PartySize": 4,
+    "LevelReq": 32,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 1280,
+    "Image": "Region3-Ogre-Warpaint_Savage",
+    "EnemyHp": 4320,
+    "EnemyAtk": 264,
+    "EnemyMatk": 19,
+    "EnemyDef": 137,
+    "EnemyMdef": 33,
+    "EnemyEva": 20,
+    "EnemyAcc": 101,
+    "EnemyPower": 1186,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "84": {
+    "Id": "84",
+    "Name": "Mountain Drake",
+    "EnemyType": "Drake",
+    "PartySize": 2,
+    "LevelReq": 27,
+    "Rarity": 2,
+    "Region": 3,
+    "Exp": 540,
+    "Image": "Region3-Drake-Mountain_Drake",
+    "EnemyHp": 1326,
+    "EnemyAtk": 126,
+    "EnemyMatk": 146,
+    "EnemyDef": 83,
+    "EnemyMdef": 94,
+    "EnemyEva": 66,
+    "EnemyAcc": 60,
+    "EnemyPower": 740,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "85": {
+    "Id": "85",
+    "Name": "Cinder Scale Drake",
+    "EnemyType": "Drake",
+    "PartySize": 3,
+    "LevelReq": 33,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 990,
+    "Image": "Region3-Drake-Cinder_Scale_Drake",
+    "EnemyHp": 2665,
+    "EnemyAtk": 223,
+    "EnemyMatk": 258,
+    "EnemyDef": 98,
+    "EnemyMdef": 111,
+    "EnemyEva": 78,
+    "EnemyAcc": 77,
+    "EnemyPower": 1244,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "86": {
+    "Id": "86",
+    "Name": "Harpy Scout",
+    "EnemyType": "Harpy Rogue",
+    "PartySize": 1,
+    "LevelReq": 26,
+    "Rarity": 1,
+    "Region": 3,
+    "Exp": 260,
+    "Image": "Region3-Harpy_Rogue-Harpy_Scout",
+    "EnemyHp": 400,
+    "EnemyAtk": 155,
+    "EnemyMatk": 50,
+    "EnemyDef": 25,
+    "EnemyMdef": 25,
+    "EnemyEva": 70,
+    "EnemyAcc": 85,
+    "EnemyPower": 499,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "87": {
+    "Id": "87",
+    "Name": "Harpy Windcaller",
+    "EnemyType": "Harpy Mage",
+    "PartySize": 1,
+    "LevelReq": 27,
+    "Rarity": 1,
+    "Region": 3,
+    "Exp": 270,
+    "Image": "Region3-Harpy_Mage-Harpy_Windcaller",
+    "EnemyHp": 500,
+    "EnemyAtk": 20,
+    "EnemyMatk": 90,
+    "EnemyDef": 40,
+    "EnemyMdef": 145,
+    "EnemyEva": 30,
+    "EnemyAcc": 45,
+    "EnemyPower": 369,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "88": {
+    "Id": "88",
+    "Name": "Harpy Skyblade",
+    "EnemyType": "Harpy Warrior",
+    "PartySize": 1,
+    "LevelReq": 28,
+    "Rarity": 2,
+    "Region": 3,
+    "Exp": 280,
+    "Image": "Region3-Harpy_Warrior-Harpy_Skyblade",
+    "EnemyHp": 930,
+    "EnemyAtk": 149,
+    "EnemyMatk": 22,
+    "EnemyDef": 121,
+    "EnemyMdef": 50,
+    "EnemyEva": 55,
+    "EnemyAcc": 44,
+    "EnemyPower": 523,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "89": {
+    "Id": "89",
+    "Name": "Harpy Stormsinger",
+    "EnemyType": "Harpy Mage",
+    "PartySize": 1,
+    "LevelReq": 28,
+    "Rarity": 2,
+    "Region": 3,
+    "Exp": 280,
+    "Image": "Region3-Harpy_Mage-Harpy_Stormsinger",
+    "EnemyHp": 600,
+    "EnemyAtk": 22,
+    "EnemyMatk": 99,
+    "EnemyDef": 44,
+    "EnemyMdef": 160,
+    "EnemyEva": 33,
+    "EnemyAcc": 50,
+    "EnemyPower": 414,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "90": {
+    "Id": "90",
+    "Name": "Harpy Shadowfeather",
+    "EnemyType": "Harpy Warrior",
+    "PartySize": 1,
+    "LevelReq": 29,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 290,
+    "Image": "Region3-Harpy_Warrior-Harpy_Shadowfeather",
+    "EnemyHp": 1085,
+    "EnemyAtk": 162,
+    "EnemyMatk": 24,
+    "EnemyDef": 132,
+    "EnemyMdef": 54,
+    "EnemyEva": 60,
+    "EnemyAcc": 48,
+    "EnemyPower": 580,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "91": {
+    "Id": "91",
+    "Name": "Harpy Hagwitch",
+    "EnemyType": "Harpy Witch",
+    "PartySize": 3,
+    "LevelReq": 30,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 900,
+    "Image": "Region3-Harpy_Witch-Harpy_Hagwitch",
+    "EnemyHp": 3690,
+    "EnemyAtk": 17,
+    "EnemyMatk": 702,
+    "EnemyDef": 260,
+    "EnemyMdef": 390,
+    "EnemyEva": 111,
+    "EnemyAcc": 85,
+    "EnemyPower": 1922,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "92": {
+    "Id": "92",
+    "Name": "Harpy Moon Seer",
+    "EnemyType": "Harpy Mage",
+    "PartySize": 1,
+    "LevelReq": 29,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 290,
+    "Image": "Region3-Harpy_Mage-Harpy_Moon_Seer",
+    "EnemyHp": 875,
+    "EnemyAtk": 30,
+    "EnemyMatk": 203,
+    "EnemyDef": 60,
+    "EnemyMdef": 218,
+    "EnemyEva": 45,
+    "EnemyAcc": 68,
+    "EnemyPower": 660,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "93": {
+    "Id": "93",
+    "Name": "Harpy Talon Assassin",
+    "EnemyType": "Harpy Rogue",
+    "PartySize": 1,
+    "LevelReq": 30,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 300,
+    "Image": "Region3-Harpy_Rogue-Harpy_Talon_Assassin",
+    "EnemyHp": 672,
+    "EnemyAtk": 224,
+    "EnemyMatk": 72,
+    "EnemyDef": 36,
+    "EnemyMdef": 36,
+    "EnemyEva": 202,
+    "EnemyAcc": 245,
+    "EnemyPower": 961,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "94": {
+    "Id": "94",
+    "Name": "Harpy Matriarch",
+    "EnemyType": "Harpy Witch",
+    "PartySize": 4,
+    "LevelReq": 32,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 1280,
+    "Image": "Region3-Harpy_Witch-Harpy_Matriarch",
+    "EnemyHp": 4320,
+    "EnemyAtk": 32,
+    "EnemyMatk": 936,
+    "EnemyDef": 260,
+    "EnemyMdef": 260,
+    "EnemyEva": 111,
+    "EnemyAcc": 91,
+    "EnemyPower": 2284,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "1",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "95": {
+    "Id": "95",
+    "Name": "Howlthorn Treant",
+    "EnemyType": "Aldur Treant",
+    "PartySize": 2,
+    "LevelReq": 22,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 440,
+    "Image": "Region3-Aldur_Treant-Howlthorn_Treant",
+    "EnemyHp": 2380,
+    "EnemyAtk": 15,
+    "EnemyMatk": 144,
+    "EnemyDef": 96,
+    "EnemyMdef": 132,
+    "EnemyEva": 6,
+    "EnemyAcc": 58,
+    "EnemyPower": 714,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "154",
+        "Percent": 100
+      },
+      {
+        "Id": "156",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "96": {
+    "Id": "96",
+    "Name": "Better Treant",
+    "EnemyType": "Aldur Treant",
+    "PartySize": 3,
+    "LevelReq": 30,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 900,
+    "Image": "Region3-Aldur_Treant-Better_Treant",
+    "EnemyHp": 6100,
+    "EnemyAtk": 17,
+    "EnemyMatk": 169,
+    "EnemyDef": 104,
+    "EnemyMdef": 143,
+    "EnemyEva": 7,
+    "EnemyAcc": 68,
+    "EnemyPower": 1300,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "154",
+        "Percent": 100
+      },
+      {
+        "Id": "156",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "97": {
+    "Id": "97",
+    "Name": "Titanium Golem",
+    "EnemyType": "Aldur Golem",
+    "PartySize": 2,
+    "LevelReq": 22,
+    "Rarity": 3,
+    "Region": 3,
+    "Exp": 440,
+    "Image": "Region3-Aldur_Golem-Titanium_Golem",
+    "EnemyHp": 3142,
+    "EnemyAtk": 159,
+    "EnemyMatk": 16,
+    "EnemyDef": 119,
+    "EnemyMdef": 106,
+    "EnemyEva": 7,
+    "EnemyAcc": 64,
+    "EnemyPower": 849,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "150",
+        "Percent": 100
+      },
+      {
+        "Id": "152",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  },
+  "98": {
+    "Id": "98",
+    "Name": "Better Golem",
+    "EnemyType": "Aldur Golem",
+    "PartySize": 3,
+    "LevelReq": 30,
+    "Rarity": 4,
+    "Region": 3,
+    "Exp": 900,
+    "Image": "Region3-Aldur_Golem-Better_Golem",
+    "EnemyHp": 8052,
+    "EnemyAtk": 186,
+    "EnemyMatk": 19,
+    "EnemyDef": 129,
+    "EnemyMdef": 115,
+    "EnemyEva": 8,
+    "EnemyAcc": 75,
+    "EnemyPower": 1611,
+    "AttackList": [
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic",
+      "Basic"
+    ],
+    "BaseRewards": [
+      {
+        "Id": "150",
+        "Percent": 100
+      },
+      {
+        "Id": "152",
+        "Percent": 100
+      }
+    ],
+    "Parcels": [
+      "AldurCommon"
+    ]
+  }
+}

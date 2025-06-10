@@ -1,0 +1,9 @@
+{
+  "test": {
+    "Id": "test",
+    "Name": "Test",
+    "BStats": {
+      "crit": 21
+    }
+  }
+}

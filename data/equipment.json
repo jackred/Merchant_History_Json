@@ -1,0 +1,6106 @@
+{
+  "1": {
+    "Id": "1",
+    "Name": "Iron Dagger",
+    "ItemLevel": 1,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 22,
+    "Time": 34,
+    "Exp": 13,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Iron_Dagger",
+    "Ssf": true
+  },
+  "2": {
+    "Id": "2",
+    "Name": "Iron Sword",
+    "ItemLevel": 1,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 30,
+    "Time": 34,
+    "Exp": 15,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Iron_Sword"
+  },
+  "3": {
+    "Id": "3",
+    "Name": "Oak Wand",
+    "ItemLevel": 1,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Wand",
+    "CrafterID": 3,
+    "Value": 22,
+    "Time": 34,
+    "Exp": 13,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Oak_Wand",
+    "Ssf": true
+  },
+  "4": {
+    "Id": "4",
+    "Name": "Oak Club",
+    "ItemLevel": 1,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Club",
+    "CrafterID": 3,
+    "Value": 22,
+    "Time": 34,
+    "Exp": 13,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Oak_Club"
+  },
+  "5": {
+    "Id": "5",
+    "Name": "Iron Knife",
+    "ItemLevel": 2,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Knife",
+    "CrafterID": 1,
+    "Value": 25,
+    "Time": 38,
+    "Exp": 22,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 5,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Iron_Knife",
+    "Ssf": true
+  },
+  "6": {
+    "Id": "6",
+    "Name": "Iron Axe",
+    "ItemLevel": 2,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Axe",
+    "CrafterID": 1,
+    "Value": 42,
+    "Time": 38,
+    "Exp": 25,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 6,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Iron_Axe",
+    "Ssf": true
+  },
+  "7": {
+    "Id": "7",
+    "Name": "Oak Stave",
+    "ItemLevel": 2,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Stave",
+    "CrafterID": 3,
+    "Value": 42,
+    "Time": 38,
+    "Exp": 25,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 6,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Oak_Stave"
+  },
+  "8": {
+    "Id": "8",
+    "Name": "Iron Hatchet",
+    "ItemLevel": 1,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Hatchet",
+    "CrafterID": 1,
+    "Value": 30,
+    "Time": 34,
+    "Exp": 15,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "3",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Iron_Hatchet",
+    "Ssf": true
+  },
+  "9": {
+    "Id": "9",
+    "Name": "Beetle Axe",
+    "ItemLevel": 3,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Axe",
+    "CrafterID": 1,
+    "Value": 62,
+    "Time": 45,
+    "Exp": 46,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "13",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 11,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "atk": 2
+    },
+    "Image": "Weapons-Region1-Beetle_Axe",
+    "Ssf": true
+  },
+  "10": {
+    "Id": "10",
+    "Name": "Iron Longsword",
+    "ItemLevel": 4,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Longsword",
+    "CrafterID": 1,
+    "Value": 75,
+    "Time": 46,
+    "Exp": 49,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 12,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Iron_Longsword"
+  },
+  "11": {
+    "Id": "11",
+    "Name": "Boar Club",
+    "ItemLevel": 4,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Club",
+    "CrafterID": 3,
+    "Value": 118,
+    "Time": 50,
+    "Exp": 68,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "24",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 17,
+    "Rarity": 2,
+    "Region": 1,
+    "Image": "Weapons-Region1-Boar_Club"
+  },
+  "12": {
+    "Id": "12",
+    "Name": "Beetle Wand",
+    "ItemLevel": 5,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Wand",
+    "CrafterID": 3,
+    "Value": 61,
+    "Time": 55,
+    "Exp": 68,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "14",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 15,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "acc": 2
+    },
+    "Image": "Weapons-Region1-Beetle_Wand",
+    "Ssf": true
+  },
+  "13": {
+    "Id": "13",
+    "Name": "Snake Stave",
+    "ItemLevel": 5,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Stave",
+    "CrafterID": 3,
+    "Value": 82,
+    "Time": 55,
+    "Exp": 72,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "20",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 16,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "matk": 2
+    },
+    "Image": "Weapons-Region1-Snake_Stave"
+  },
+  "14": {
+    "Id": "14",
+    "Name": "Maexna Wand",
+    "ItemLevel": 9,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Mystic Wand",
+    "CrafterID": 3,
+    "Value": 108,
+    "Time": 84,
+    "Exp": 148,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "17",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "52",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 32,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "matk": 5,
+      "acc": 5
+    },
+    "Image": "Weapons-Region1-Maexna_Wand",
+    "Ssf": true
+  },
+  "15": {
+    "Id": "15",
+    "Name": "Goblin Sword",
+    "ItemLevel": 6,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 201,
+    "Time": 60,
+    "Exp": 106,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "31",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "32",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 28,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "atk": 2
+    },
+    "Image": "Weapons-Region1-Goblin_Sword"
+  },
+  "16": {
+    "Id": "16",
+    "Name": "Goblin Longsword",
+    "ItemLevel": 7,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Longsword",
+    "CrafterID": 1,
+    "Value": 401,
+    "Time": 65,
+    "Exp": 144,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "31",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "32",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 45,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "atk": 2
+    },
+    "Image": "Weapons-Region1-Goblin_Longsword"
+  },
+  "17": {
+    "Id": "17",
+    "Name": "Oak Mystic Stave",
+    "ItemLevel": 3,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Mystic Stave",
+    "CrafterID": 3,
+    "Value": 51,
+    "Time": 42,
+    "Exp": 36,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "11",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 8,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Oak_Mystic_Stave"
+  },
+  "18": {
+    "Id": "18",
+    "Name": "Goblin Wand",
+    "ItemLevel": 7,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Mystic Wand",
+    "CrafterID": 3,
+    "Value": 159,
+    "Time": 72,
+    "Exp": 130,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "34",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "38",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 30,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "matk": 5,
+      "def": 5
+    },
+    "Image": "Weapons-Region1-Goblin_Wand",
+    "Ssf": true
+  },
+  "19": {
+    "Id": "19",
+    "Name": "Bear Mystic Stave",
+    "ItemLevel": 15,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Mystic Stave",
+    "CrafterID": 3,
+    "Value": 432,
+    "Time": 120,
+    "Exp": 295,
+    "Recipe": [
+      {
+        "Id": "18",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "11",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "43",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 72,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "matk": 6,
+      "mdef": 6
+    },
+    "Image": "Weapons-Region1-Bear_Mystic_Stave"
+  },
+  "20": {
+    "Id": "20",
+    "Name": "Cursed Blade",
+    "ItemLevel": 9,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 649,
+    "Time": 84,
+    "Exp": 212,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "31",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "35",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 73,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "acc": 5,
+      "atk": 5
+    },
+    "Image": "Weapons-Region1-Cursed_Blade"
+  },
+  "21": {
+    "Id": "21",
+    "Name": "Bear Cudgel",
+    "ItemLevel": 14,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Cudgel",
+    "CrafterID": 3,
+    "Value": 614,
+    "Time": 114,
+    "Exp": 315,
+    "Recipe": [
+      {
+        "Id": "45",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "42",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 84,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "matk": 6,
+      "atk": 6
+    },
+    "Image": "Weapons-Region1-Bear_Cudgel"
+  },
+  "22": {
+    "Id": "22",
+    "Name": "Bear Bane",
+    "ItemLevel": 13,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 944,
+    "Time": 108,
+    "Exp": 306,
+    "Recipe": [
+      {
+        "Id": "16",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "35",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "42",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 106,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "str": 5,
+      "maxHP": 17
+    },
+    "Image": "Weapons-Region1-Bear_Bane"
+  },
+  "23": {
+    "Id": "23",
+    "Name": "Hempen Hood",
+    "ItemLevel": 1,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Hood",
+    "CrafterID": 4,
+    "Value": 30,
+    "Time": 34,
+    "Exp": 15,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Hempen_Hood"
+  },
+  "24": {
+    "Id": "24",
+    "Name": "Hempen Gloves",
+    "ItemLevel": 1,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Gloves",
+    "CrafterID": 4,
+    "Value": 22,
+    "Time": 34,
+    "Exp": 13,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Hempen_Gloves"
+  },
+  "25": {
+    "Id": "25",
+    "Name": "Hempen Shirt",
+    "ItemLevel": 1,
+    "ItemSlot": 4,
+    "MainType": "EvaChest",
+    "SubType": "Tunic",
+    "CrafterID": 4,
+    "Value": 94,
+    "Time": 34,
+    "Exp": 18,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 8,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Hempen_Shirt"
+  },
+  "26": {
+    "Id": "26",
+    "Name": "Hempen Shoes",
+    "ItemLevel": 1,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Shoes",
+    "CrafterID": 4,
+    "Value": 59,
+    "Time": 34,
+    "Exp": 18,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 6,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Hempen_Shoes"
+  },
+  "27": {
+    "Id": "27",
+    "Name": "Iron Helm",
+    "ItemLevel": 1,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 30,
+    "Time": 34,
+    "Exp": 15,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Iron_Helm"
+  },
+  "28": {
+    "Id": "28",
+    "Name": "Iron Bracers",
+    "ItemLevel": 1,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 22,
+    "Time": 34,
+    "Exp": 13,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Iron_Bracers"
+  },
+  "29": {
+    "Id": "29",
+    "Name": "Iron Chestplate",
+    "ItemLevel": 1,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 94,
+    "Time": 34,
+    "Exp": 18,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 8,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Iron_Chestplate"
+  },
+  "30": {
+    "Id": "30",
+    "Name": "Iron Greaves",
+    "ItemLevel": 1,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 59,
+    "Time": 34,
+    "Exp": 18,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 6,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Iron_Greaves"
+  },
+  "31": {
+    "Id": "31",
+    "Name": "Hempen Cowl",
+    "ItemLevel": 2,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Cowl",
+    "CrafterID": 4,
+    "Value": 42,
+    "Time": 38,
+    "Exp": 25,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 6,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Hempen_Cowl"
+  },
+  "32": {
+    "Id": "32",
+    "Name": "Hempen Mitts",
+    "ItemLevel": 2,
+    "ItemSlot": 3,
+    "MainType": "MDefArm",
+    "SubType": "Mitts",
+    "CrafterID": 4,
+    "Value": 42,
+    "Time": 38,
+    "Exp": 25,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 6,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Hempen_Mitts"
+  },
+  "33": {
+    "Id": "33",
+    "Name": "Bug Bracers",
+    "ItemLevel": 2,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 34,
+    "Time": 38,
+    "Exp": 24,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "13",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 5,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Bug_Bracers"
+  },
+  "34": {
+    "Id": "34",
+    "Name": "Hempen Robe",
+    "ItemLevel": 2,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Robe",
+    "CrafterID": 4,
+    "Value": 97,
+    "Time": 38,
+    "Exp": 35,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 10,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Hempen_Robe"
+  },
+  "35": {
+    "Id": "35",
+    "Name": "Bovine Greaves",
+    "ItemLevel": 4,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 45,
+    "Time": 46,
+    "Exp": 43,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "23",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 9,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Armor-Region1-Bovine_Greaves"
+  },
+  "36": {
+    "Id": "36",
+    "Name": "Bovine Tunic",
+    "ItemLevel": 5,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Tunic",
+    "CrafterID": 4,
+    "Value": 140,
+    "Time": 55,
+    "Exp": 83,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "23",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 21,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Bovine_Tunic"
+  },
+  "37": {
+    "Id": "37",
+    "Name": "Snake Sandals",
+    "ItemLevel": 3,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Sandals",
+    "CrafterID": 4,
+    "Value": 93,
+    "Time": 45,
+    "Exp": 52,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "20",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 13,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "eva": 2
+    },
+    "Image": "Armor-Region1-Snake_Sandals"
+  },
+  "38": {
+    "Id": "38",
+    "Name": "Snake Tunic",
+    "ItemLevel": 3,
+    "ItemSlot": 4,
+    "MainType": "EvaChest",
+    "SubType": "Tunic",
+    "CrafterID": 4,
+    "Value": 156,
+    "Time": 45,
+    "Exp": 62,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "20",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 18,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Snake_Tunic"
+  },
+  "39": {
+    "Id": "39",
+    "Name": "Snake Gloves",
+    "ItemLevel": 3,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Gloves",
+    "CrafterID": 4,
+    "Value": 62,
+    "Time": 45,
+    "Exp": 46,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "20",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 11,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Snake_Gloves"
+  },
+  "40": {
+    "Id": "40",
+    "Name": "Snake Boots",
+    "ItemLevel": 3,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Boots",
+    "CrafterID": 4,
+    "Value": 109,
+    "Time": 45,
+    "Exp": 55,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "20",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 14,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "eva": 2
+    },
+    "Image": "Armor-Region1-Snake_Boots"
+  },
+  "41": {
+    "Id": "41",
+    "Name": "Silk Chainlinks",
+    "ItemLevel": 4,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Chainmail",
+    "CrafterID": 4,
+    "Value": 178,
+    "Time": 50,
+    "Exp": 79,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "18",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 22,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "mdef": 2
+    },
+    "Image": "Armor-Region1-Silk_Chainlinks"
+  },
+  "42": {
+    "Id": "42",
+    "Name": "Silk Mitts",
+    "ItemLevel": 4,
+    "ItemSlot": 3,
+    "MainType": "MDefArm",
+    "SubType": "Mitts",
+    "CrafterID": 4,
+    "Value": 118,
+    "Time": 50,
+    "Exp": 68,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "18",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 17,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "mdef": 2
+    },
+    "Image": "Armor-Region1-Silk_Mitts"
+  },
+  "43": {
+    "Id": "43",
+    "Name": "Bug Helmet",
+    "ItemLevel": 3,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 173,
+    "Time": 45,
+    "Exp": 62,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "15",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "18",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 19,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "maxHP": 6
+    },
+    "Image": "Armor-Region1-Bug_Helmet"
+  },
+  "44": {
+    "Id": "44",
+    "Name": "Spider Silk Robe",
+    "ItemLevel": 4,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Robe",
+    "CrafterID": 4,
+    "Value": 201,
+    "Time": 50,
+    "Exp": 82,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "18",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 23,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "mdef": 2
+    },
+    "Image": "Armor-Region1-Spider_Silk_Robe"
+  },
+  "45": {
+    "Id": "45",
+    "Name": "Spider Silk Hat",
+    "ItemLevel": 4,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Hat",
+    "CrafterID": 4,
+    "Value": 57,
+    "Time": 50,
+    "Exp": 56,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "18",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 12,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "mdef": 2
+    },
+    "Image": "Armor-Region1-Spider_Silk_Hat"
+  },
+  "46": {
+    "Id": "46",
+    "Name": "Wolf Boots",
+    "ItemLevel": 7,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Boots",
+    "CrafterID": 4,
+    "Value": 128,
+    "Time": 65,
+    "Exp": 104,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "27",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 24,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Wolf_Boots"
+  },
+  "47": {
+    "Id": "47",
+    "Name": "Wolf Hood",
+    "ItemLevel": 8,
+    "ItemSlot": 2,
+    "MainType": "EvaHead",
+    "SubType": "Hood",
+    "CrafterID": 4,
+    "Value": 64,
+    "Time": 70,
+    "Exp": 103,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "26",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 21,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Wolf_Hood"
+  },
+  "48": {
+    "Id": "48",
+    "Name": "Wolf Gloves",
+    "ItemLevel": 6,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Gloves",
+    "CrafterID": 4,
+    "Value": 110,
+    "Time": 60,
+    "Exp": 89,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "26",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 21,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Wolf_Gloves"
+  },
+  "49": {
+    "Id": "49",
+    "Name": "Wolf Feet",
+    "ItemLevel": 6,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Crakows",
+    "CrafterID": 4,
+    "Value": 191,
+    "Time": 60,
+    "Exp": 104,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "27",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 27,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "eva": 2
+    },
+    "Image": "Armor-Region1-Wolf_Feet"
+  },
+  "50": {
+    "Id": "50",
+    "Name": "Wolf Helm",
+    "ItemLevel": 8,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 195,
+    "Time": 70,
+    "Exp": 128,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "28",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 31,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Wolf_Helm"
+  },
+  "51": {
+    "Id": "51",
+    "Name": "Chitin Chestplate",
+    "ItemLevel": 5,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 233,
+    "Time": 60,
+    "Exp": 115,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "13",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "12",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 31,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "def": 4,
+      "maxHP": 13
+    },
+    "Image": "Armor-Region1-Chitin_Chestplate"
+  },
+  "52": {
+    "Id": "52",
+    "Name": "Gatherer Gloves",
+    "ItemLevel": 9,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Gloves",
+    "CrafterID": 4,
+    "Value": 304,
+    "Time": 84,
+    "Exp": 185,
+    "Recipe": [
+      {
+        "Id": "5",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "12",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "11",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 47,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "mdef": 5,
+      "acc": 5
+    },
+    "Image": "Armor-Region1-Gatherer_Gloves"
+  },
+  "53": {
+    "Id": "53",
+    "Name": "Goblin Bracers",
+    "ItemLevel": 6,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 159,
+    "Time": 60,
+    "Exp": 98,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "33",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 24,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Goblin_Bracers"
+  },
+  "54": {
+    "Id": "54",
+    "Name": "Goblin Chestplate",
+    "ItemLevel": 7,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 202,
+    "Time": 65,
+    "Exp": 118,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "33",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 30,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Goblin_Chestplate"
+  },
+  "55": {
+    "Id": "55",
+    "Name": "Bear Gauntlets",
+    "ItemLevel": 10,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Gauntlets",
+    "CrafterID": 2,
+    "Value": 180,
+    "Time": 80,
+    "Exp": 148,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "41",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "42",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 34,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "atk": 2
+    },
+    "Image": "Armor-Region1-Bear_Gauntlets"
+  },
+  "56": {
+    "Id": "56",
+    "Name": "Bear Sabatons",
+    "ItemLevel": 9,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Sabatons",
+    "CrafterID": 2,
+    "Value": 210,
+    "Time": 75,
+    "Exp": 142,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "41",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "42",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 35,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "def": 2
+    },
+    "Image": "Armor-Region1-Bear_Sabatons"
+  },
+  "57": {
+    "Id": "57",
+    "Name": "Forest Helm",
+    "ItemLevel": 14,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 562,
+    "Time": 114,
+    "Exp": 305,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "38",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "47",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 80,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "matk": 6,
+      "acc": 6
+    },
+    "Image": "Armor-Region1-Forest_Helm"
+  },
+  "58": {
+    "Id": "58",
+    "Name": "Bear Helmet",
+    "ItemLevel": 15,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Great Helm",
+    "CrafterID": 2,
+    "Value": 286,
+    "Time": 120,
+    "Exp": 267,
+    "Recipe": [
+      {
+        "Id": "6",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "41",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "43",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 61,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "def": 6,
+      "atk": 6
+    },
+    "Image": "Armor-Region1-Bear_Helmet"
+  },
+  "59": {
+    "Id": "59",
+    "Name": "Tuvale Robe",
+    "ItemLevel": 15,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Robe",
+    "CrafterID": 4,
+    "Value": 501,
+    "Time": 135,
+    "Exp": 380,
+    "Recipe": [
+      {
+        "Id": "44",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "30",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "47",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 86,
+    "Rarity": 4,
+    "Region": 1,
+    "BStats": {
+      "int": 7,
+      "mdef": 8
+    },
+    "Image": "Armor-Region1-Tuvale_Robe"
+  },
+  "60": {
+    "Id": "60",
+    "Name": "Tuvale Sabatons",
+    "ItemLevel": 14,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Sabatons",
+    "CrafterID": 2,
+    "Value": 582,
+    "Time": 128,
+    "Exp": 377,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "33",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "45",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 89,
+    "Rarity": 4,
+    "Region": 1,
+    "BStats": {
+      "crit": 7,
+      "matk": 8
+    },
+    "Image": "Armor-Region1-Tuvale_Sabatons"
+  },
+  "61": {
+    "Id": "61",
+    "Name": "Tuvale Hood",
+    "ItemLevel": 14,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Hood",
+    "CrafterID": 4,
+    "Value": 393,
+    "Time": 128,
+    "Exp": 341,
+    "Recipe": [
+      {
+        "Id": "47",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "41",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "37",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 74,
+    "Rarity": 4,
+    "Region": 1,
+    "BStats": {
+      "acc": 8,
+      "matk": 8
+    },
+    "Image": "Armor-Region1-Tuvale_Hood"
+  },
+  "62": {
+    "Id": "62",
+    "Name": "Tuvale Bracers",
+    "ItemLevel": 11,
+    "ItemSlot": 3,
+    "MainType": "MDefArm",
+    "SubType": "Bracers",
+    "CrafterID": 4,
+    "Value": 433,
+    "Time": 107,
+    "Exp": 292,
+    "Recipe": [
+      {
+        "Id": "53",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "42",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "29",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 68,
+    "Rarity": 4,
+    "Region": 1,
+    "BStats": {
+      "critMod": 8,
+      "matk": 8
+    },
+    "Image": "Armor-Region1-Tuvale_Bracers"
+  },
+  "63": {
+    "Id": "63",
+    "Name": "Oak Cudgel",
+    "ItemLevel": 1,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Cudgel",
+    "CrafterID": 3,
+    "Value": 29,
+    "Time": 34,
+    "Exp": 14,
+    "Recipe": [
+      {
+        "Id": "3",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "1",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 3,
+    "Rarity": 1,
+    "Region": 1,
+    "Image": "Weapons-Region1-Oak_Cudgel"
+  },
+  "64": {
+    "Id": "64",
+    "Name": "Kunnigas Breastplate",
+    "ItemLevel": 15,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 534,
+    "Time": 135,
+    "Exp": 387,
+    "Recipe": [
+      {
+        "Id": "51",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "12",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "44",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 88,
+    "Rarity": 4,
+    "Region": 1,
+    "BStats": {
+      "str": 7,
+      "maxHP": 26
+    },
+    "Image": "Armor-Region1-Kunnigas_Breastplate"
+  },
+  "65": {
+    "Id": "65",
+    "Name": "Viper's Fang",
+    "ItemLevel": 5,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 77,
+    "Time": 55,
+    "Exp": 71,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "22",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 16,
+    "Rarity": 2,
+    "Region": 1,
+    "BStats": {
+      "atk": 2
+    },
+    "Image": "Weapons-Region1-Vipers_Fang",
+    "Ssf": true
+  },
+  "66": {
+    "Id": "66",
+    "Name": "Bovine Carver",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Knife",
+    "CrafterID": 1,
+    "Value": 152,
+    "Time": 90,
+    "Exp": 171,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "31",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "25",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 38,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "matk": 5,
+      "atk": 5
+    },
+    "Image": "Weapons-Region1-Bovine_Carver",
+    "Ssf": true
+  },
+  "67": {
+    "Id": "67",
+    "Name": "Warlord's Medallion",
+    "ItemLevel": 13,
+    "ItemSlot": 6,
+    "MainType": "Necklace",
+    "SubType": "Medallion",
+    "CrafterID": 7,
+    "Value": 235,
+    "Time": 121,
+    "Exp": 292,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "50",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "40",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 59,
+    "Rarity": 4,
+    "Region": 1,
+    "BStats": {
+      "crit": 7,
+      "critMod": 8
+    },
+    "Image": "Armor-Region1-Warlords_Medallion"
+  },
+  "68": {
+    "Id": "68",
+    "Name": "Concealed Blade",
+    "ItemLevel": 8,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 229,
+    "Time": 78,
+    "Exp": 157,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "31",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "36",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 38,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "atk": 5,
+      "eva": 3
+    },
+    "Image": "Weapons-Region1-Concealed_Blade",
+    "Ssf": true
+  },
+  "69": {
+    "Id": "69",
+    "Name": "Star of the Forest",
+    "ItemLevel": 14,
+    "ItemSlot": 6,
+    "MainType": "Necklace",
+    "SubType": "Necklace",
+    "CrafterID": 7,
+    "Value": 326,
+    "Time": 114,
+    "Exp": 260,
+    "Recipe": [
+      {
+        "Id": "18",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "50",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "48",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 62,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "maxHP": 17,
+      "eva": 4
+    },
+    "Image": "Armor-Region1-Star_of_the_Forest"
+  },
+  "70": {
+    "Id": "70",
+    "Name": "Grok's Lucky Charm",
+    "ItemLevel": 13,
+    "ItemSlot": 6,
+    "MainType": "Necklace",
+    "SubType": "Necklace",
+    "CrafterID": 7,
+    "Value": 217,
+    "Time": 108,
+    "Exp": 225,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 2,
+        "Type": 2
+      },
+      {
+        "Id": "39",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 51,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "lckMod": 5,
+      "expMod": 5
+    },
+    "Image": "Armor-Region1-Groks_Lucky_Charm"
+  },
+  "71": {
+    "Id": "71",
+    "Name": "Magi Ring",
+    "ItemLevel": 14,
+    "ItemSlot": 6,
+    "MainType": "Ring",
+    "SubType": "Ring",
+    "CrafterID": 7,
+    "Value": 219,
+    "Time": 114,
+    "Exp": 240,
+    "Recipe": [
+      {
+        "Id": "4",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "25",
+        "Amount": 1,
+        "Type": 2
+      },
+      {
+        "Id": "46",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 53,
+    "Rarity": 3,
+    "Region": 1,
+    "BStats": {
+      "int": 6,
+      "matk": 6
+    },
+    "Image": "Armor-Region1-Magi_Ring"
+  },
+  "72": {
+    "Id": "72",
+    "Name": "Cobalt Dagger",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 272,
+    "Time": 160,
+    "Exp": 195,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 52,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Cobalt_Dagger",
+    "Ssf": true
+  },
+  "73": {
+    "Id": "73",
+    "Name": "Cobalt Axe",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Axe",
+    "CrafterID": 1,
+    "Value": 328,
+    "Time": 160,
+    "Exp": 206,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 57,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Cobalt_Axe",
+    "Ssf": true
+  },
+  "74": {
+    "Id": "74",
+    "Name": "Cobalt Sword",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 328,
+    "Time": 160,
+    "Exp": 206,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 57,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Cobalt_Sword"
+  },
+  "75": {
+    "Id": "75",
+    "Name": "Cobalt Pike",
+    "ItemLevel": 11,
+    "ItemSlot": 1,
+    "MainType": "Spear",
+    "SubType": "Pike",
+    "CrafterID": 1,
+    "Value": 444,
+    "Time": 164,
+    "Exp": 242,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 69,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Cobalt_Pike",
+    "Ssf": true
+  },
+  "76": {
+    "Id": "76",
+    "Name": "Yew Mystic Stave",
+    "ItemLevel": 12,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Mystic Stave",
+    "CrafterID": 3,
+    "Value": 448,
+    "Time": 168,
+    "Exp": 258,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 72,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Yew_Mystic_Stave"
+  },
+  "77": {
+    "Id": "77",
+    "Name": "Yew Mystic Wand",
+    "ItemLevel": 12,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Mystic Wand",
+    "CrafterID": 3,
+    "Value": 338,
+    "Time": 168,
+    "Exp": 237,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 64,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Yew_Mystic_Wand",
+    "Ssf": true
+  },
+  "78": {
+    "Id": "78",
+    "Name": "Yew Club",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Club",
+    "CrafterID": 3,
+    "Value": 328,
+    "Time": 160,
+    "Exp": 206,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 57,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Yew_Club"
+  },
+  "79": {
+    "Id": "79",
+    "Name": "Yew Wand",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Wand",
+    "CrafterID": 3,
+    "Value": 272,
+    "Time": 160,
+    "Exp": 195,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 52,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Yew_Wand",
+    "Ssf": true
+  },
+  "80": {
+    "Id": "80",
+    "Name": "Yew Cudgel",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Cudgel",
+    "CrafterID": 3,
+    "Value": 383,
+    "Time": 160,
+    "Exp": 216,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 61,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Yew_Cudgel"
+  },
+  "81": {
+    "Id": "81",
+    "Name": "Yew Stave",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Stave",
+    "CrafterID": 3,
+    "Value": 328,
+    "Time": 160,
+    "Exp": 206,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 57,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Yew_Stave"
+  },
+  "82": {
+    "Id": "82",
+    "Name": "Cobalt Knife",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Knife",
+    "CrafterID": 1,
+    "Value": 218,
+    "Time": 160,
+    "Exp": 185,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 48,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Cobalt_Knife"
+  },
+  "83": {
+    "Id": "83",
+    "Name": "Cobalt Chain Whip",
+    "ItemLevel": 12,
+    "ItemSlot": 1,
+    "MainType": "Whip",
+    "SubType": "Whip",
+    "CrafterID": 1,
+    "Value": 448,
+    "Time": 168,
+    "Exp": 258,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 72,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Cobalt_Chain_Whip"
+  },
+  "84": {
+    "Id": "84",
+    "Name": "Cobalt Longsword",
+    "ItemLevel": 11,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Longsword",
+    "CrafterID": 1,
+    "Value": 444,
+    "Time": 164,
+    "Exp": 242,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 69,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Weapons-Region2-Cobalt_Longsword"
+  },
+  "86": {
+    "Id": "86",
+    "Name": "Ashened Water Stave",
+    "ItemLevel": 25,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Mystic Stave",
+    "CrafterID": 3,
+    "Value": 3417,
+    "Time": 295,
+    "Exp": 1275,
+    "Recipe": [
+      {
+        "Id": "98",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "72",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "73",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 420,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "int": 10,
+      "matk": 10
+    },
+    "Image": "Weapons-Region2-Ashened_Water_Stave"
+  },
+  "87": {
+    "Id": "87",
+    "Name": "Water Wand",
+    "ItemLevel": 16,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Wand",
+    "CrafterID": 3,
+    "Value": 1041,
+    "Time": 216,
+    "Exp": 579,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "82",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 164,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "matk": 6,
+      "acc": 6
+    },
+    "Image": "Weapons-Region2-Water_Wand"
+  },
+  "88": {
+    "Id": "88",
+    "Name": "Luminous Pike",
+    "ItemLevel": 18,
+    "ItemSlot": 1,
+    "MainType": "Spear",
+    "SubType": "Pike",
+    "CrafterID": 1,
+    "Value": 1153,
+    "Time": 228,
+    "Exp": 648,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "70",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "83",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 183,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "matk": 6,
+      "acc": 6
+    },
+    "Image": "Weapons-Region2-Luminous_Pike",
+    "Ssf": true
+  },
+  "89": {
+    "Id": "89",
+    "Name": "Anguished Pike",
+    "ItemLevel": 25,
+    "ItemSlot": 1,
+    "MainType": "Spear",
+    "SubType": "Pike",
+    "CrafterID": 1,
+    "Value": 2437,
+    "Time": 270,
+    "Exp": 1060,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 20,
+        "Type": 2
+      },
+      {
+        "Id": "70",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "88",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 318,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "atk": 7,
+      "matk": 7
+    },
+    "Image": "Weapons-Region2-Anguished_Pike",
+    "Ssf": true
+  },
+  "90": {
+    "Id": "90",
+    "Name": "Axe of Agony",
+    "ItemLevel": 23,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Great Axe",
+    "CrafterID": 1,
+    "Value": 4192,
+    "Time": 258,
+    "Exp": 978,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 16,
+        "Type": 2
+      },
+      {
+        "Id": "85",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "87",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 442,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "atk": 7,
+      "speed": 7
+    },
+    "Image": "Weapons-Region2-Axe_of_Agony",
+    "Ssf": true
+  },
+  "91": {
+    "Id": "91",
+    "Name": "Sandy Dagger",
+    "ItemLevel": 22,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 904,
+    "Time": 230,
+    "Exp": 591,
+    "Recipe": [
+      {
+        "Id": "71",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "100",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 162,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "atk": 4
+    },
+    "Image": "Weapons-Region2-Sandy_Dagger",
+    "Ssf": true
+  },
+  "92": {
+    "Id": "92",
+    "Name": "Shell Axe",
+    "ItemLevel": 16,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Axe",
+    "CrafterID": 1,
+    "Value": 727,
+    "Time": 200,
+    "Exp": 443,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "78",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 123,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "acc": 3
+    },
+    "Image": "Weapons-Region2-Shell_Axe",
+    "Ssf": true
+  },
+  "93": {
+    "Id": "93",
+    "Name": "Fowled Knife",
+    "ItemLevel": 15,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Knife",
+    "CrafterID": 1,
+    "Value": 564,
+    "Time": 195,
+    "Exp": 393,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 3,
+        "Type": 2
+      },
+      {
+        "Id": "91",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 106,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "acc": 3
+    },
+    "Image": "Weapons-Region2-Fowled_Knife",
+    "Ssf": true
+  },
+  "94": {
+    "Id": "94",
+    "Name": "Scaled Blade",
+    "ItemLevel": 18,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Longsword",
+    "CrafterID": 1,
+    "Value": 973,
+    "Time": 210,
+    "Exp": 528,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "71",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "63",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 150,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "atk": 3
+    },
+    "Image": "Weapons-Region2-Scaled_Blade"
+  },
+  "95": {
+    "Id": "95",
+    "Name": "Water's Edge",
+    "ItemLevel": 19,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Longsword",
+    "CrafterID": 1,
+    "Value": 1505,
+    "Time": 215,
+    "Exp": 649,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "71",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "92",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 195,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "matk": 3
+    },
+    "Image": "Weapons-Region2-Waters_Edge"
+  },
+  "96": {
+    "Id": "96",
+    "Name": "Riptides Sorrow",
+    "ItemLevel": 24,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 2293,
+    "Time": 264,
+    "Exp": 1009,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 14,
+        "Type": 2
+      },
+      {
+        "Id": "86",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "87",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 302,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "matk": 7,
+      "acc": 7
+    },
+    "Image": "Weapons-Region2-Riptides_Sorrow"
+  },
+  "97": {
+    "Id": "97",
+    "Name": "Cnidocyte's Blight",
+    "ItemLevel": 17,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 1574,
+    "Time": 222,
+    "Exp": 705,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 12,
+        "Type": 2
+      },
+      {
+        "Id": "82",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "77",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 210,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "matk": 6,
+      "atk": 6
+    },
+    "Image": "Weapons-Region2-Cnidocytes_Blight",
+    "Ssf": true
+  },
+  "98": {
+    "Id": "98",
+    "Name": "Wand of Warts",
+    "ItemLevel": 22,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Mystic Wand",
+    "CrafterID": 3,
+    "Value": 1574,
+    "Time": 252,
+    "Exp": 824,
+    "Recipe": [
+      {
+        "Id": "77",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "97",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 237,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "int": 7,
+      "maxHP": 21
+    },
+    "Image": "Weapons-Region2-Wand_of_Warts",
+    "Ssf": true
+  },
+  "99": {
+    "Id": "99",
+    "Name": "Marinachnid's Bane",
+    "ItemLevel": 21,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Longsword",
+    "CrafterID": 1,
+    "Value": 1976,
+    "Time": 246,
+    "Exp": 877,
+    "Recipe": [
+      {
+        "Id": "84",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "76",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "96",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 262,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "atk": 7,
+      "maxHP": 21
+    },
+    "Image": "Weapons-Region2-Marinachnids_Bane"
+  },
+  "100": {
+    "Id": "100",
+    "Name": "Claw Longsword",
+    "ItemLevel": 14,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Longsword",
+    "CrafterID": 1,
+    "Value": 609,
+    "Time": 190,
+    "Exp": 383,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "76",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 105,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "atk": 3
+    },
+    "Image": "Weapons-Region2-Claw_Longsword"
+  },
+  "101": {
+    "Id": "101",
+    "Name": "Parotid Kriss",
+    "ItemLevel": 22,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 1448,
+    "Time": 230,
+    "Exp": 695,
+    "Recipe": [
+      {
+        "Id": "74",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "86",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "81",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 203,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "matk": 4
+    },
+    "Image": "Weapons-Region2-Parotid_Kriss"
+  },
+  "102": {
+    "Id": "102",
+    "Name": "Sailor's Knife",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Knife",
+    "CrafterID": 1,
+    "Value": 711,
+    "Time": 220,
+    "Exp": 516,
+    "Recipe": [
+      {
+        "Id": "54",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "86",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 139,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "matk": 3
+    },
+    "Image": "Weapons-Region2-Sailors_Knife",
+    "Ssf": true
+  },
+  "103": {
+    "Id": "103",
+    "Name": "Sargassum Wand",
+    "ItemLevel": 10,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Wand",
+    "CrafterID": 3,
+    "Value": 468,
+    "Time": 170,
+    "Exp": 279,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "65",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 78,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "matk": 2
+    },
+    "Image": "Weapons-Region2-Sargassum_Wand"
+  },
+  "104": {
+    "Id": "104",
+    "Name": "Hydrostave",
+    "ItemLevel": 18,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Stave",
+    "CrafterID": 3,
+    "Value": 1426,
+    "Time": 210,
+    "Exp": 614,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "82",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "92",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 185,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "speed": 3
+    },
+    "Image": "Weapons-Region2-Hydrostave"
+  },
+  "105": {
+    "Id": "105",
+    "Name": "Marrowed Club",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Club",
+    "CrafterID": 3,
+    "Value": 2054,
+    "Time": 240,
+    "Exp": 850,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "82",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "90",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 263,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "matk": 6,
+      "mdef": 6
+    },
+    "Image": "Weapons-Region2-Marrowed_Club"
+  },
+  "106": {
+    "Id": "106",
+    "Name": "Alkaline Cudgel",
+    "ItemLevel": 25,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Cudgel",
+    "CrafterID": 3,
+    "Value": 2723,
+    "Time": 270,
+    "Exp": 1063,
+    "Recipe": [
+      {
+        "Id": "80",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "88",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "89",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 340,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "int": 7,
+      "mdef": 7
+    },
+    "Image": "Weapons-Region2-Alkaline_Cudgel"
+  },
+  "107": {
+    "Id": "107",
+    "Name": "Reed Hood",
+    "ItemLevel": 10,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Hood",
+    "CrafterID": 4,
+    "Value": 438,
+    "Time": 160,
+    "Exp": 227,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 65,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Reed_Hood"
+  },
+  "108": {
+    "Id": "108",
+    "Name": "Reed Tunic",
+    "ItemLevel": 10,
+    "ItemSlot": 4,
+    "MainType": "EvaChest",
+    "SubType": "Tunic",
+    "CrafterID": 4,
+    "Value": 603,
+    "Time": 160,
+    "Exp": 258,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 78,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Reed_Tunic"
+  },
+  "109": {
+    "Id": "109",
+    "Name": "Reed Wraps",
+    "ItemLevel": 10,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Wraps",
+    "CrafterID": 4,
+    "Value": 328,
+    "Time": 160,
+    "Exp": 206,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 57,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Reed_Wraps"
+  },
+  "110": {
+    "Id": "110",
+    "Name": "Reed Crakows",
+    "ItemLevel": 10,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Crakows",
+    "CrafterID": 4,
+    "Value": 383,
+    "Time": 160,
+    "Exp": 216,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 61,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Reed_Crakows"
+  },
+  "111": {
+    "Id": "111",
+    "Name": "Cobalt Helm",
+    "ItemLevel": 10,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 438,
+    "Time": 160,
+    "Exp": 227,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 65,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Cobalt_Helm"
+  },
+  "112": {
+    "Id": "112",
+    "Name": "Cobalt Chestplate",
+    "ItemLevel": 10,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 603,
+    "Time": 160,
+    "Exp": 258,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 78,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Cobalt_Chestplate"
+  },
+  "113": {
+    "Id": "113",
+    "Name": "Cobalt Greaves",
+    "ItemLevel": 10,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 383,
+    "Time": 160,
+    "Exp": 216,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 61,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Cobalt_Greaves"
+  },
+  "114": {
+    "Id": "114",
+    "Name": "Cobalt Bracers",
+    "ItemLevel": 10,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 328,
+    "Time": 160,
+    "Exp": 206,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 57,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Cobalt_Bracers"
+  },
+  "115": {
+    "Id": "115",
+    "Name": "Trifold Hat",
+    "ItemLevel": 11,
+    "ItemSlot": 2,
+    "MainType": "EvaHead",
+    "SubType": "Trifold",
+    "CrafterID": 4,
+    "Value": 498,
+    "Time": 164,
+    "Exp": 253,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 73,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Trifold_Hat"
+  },
+  "116": {
+    "Id": "116",
+    "Name": "Cobalt Hook",
+    "ItemLevel": 11,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Hook",
+    "CrafterID": 2,
+    "Value": 444,
+    "Time": 164,
+    "Exp": 242,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 69,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Cobalt_Hook",
+    "Ssf": true
+  },
+  "117": {
+    "Id": "117",
+    "Name": "Yew Peg Leg",
+    "ItemLevel": 10,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Peg Leg",
+    "CrafterID": 3,
+    "Value": 328,
+    "Time": 160,
+    "Exp": 206,
+    "Recipe": [
+      {
+        "Id": "56",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 57,
+    "Rarity": 1,
+    "Region": 2,
+    "Image": "Armor-Region2-Yew_Peg_Leg"
+  },
+  "118": {
+    "Id": "118",
+    "Name": "Seafoam Robe",
+    "ItemLevel": 13,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Robe",
+    "CrafterID": 4,
+    "Value": 789,
+    "Time": 185,
+    "Exp": 398,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "65",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 115,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Seafoam_Robe"
+  },
+  "119": {
+    "Id": "119",
+    "Name": "Flowing Hood",
+    "ItemLevel": 16,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Hood",
+    "CrafterID": 4,
+    "Value": 609,
+    "Time": 200,
+    "Exp": 420,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "68",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 114,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "speed": 3
+    },
+    "Image": "Armor-Region2-Flowing_Hood"
+  },
+  "120": {
+    "Id": "120",
+    "Name": "Aquatic Sandals",
+    "ItemLevel": 11,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Sandals",
+    "CrafterID": 4,
+    "Value": 522,
+    "Time": 175,
+    "Exp": 309,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "64",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 86,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "matk": 3
+    },
+    "Image": "Armor-Region2-Aquatic_Sandals"
+  },
+  "121": {
+    "Id": "121",
+    "Name": "Hydro Wraps",
+    "ItemLevel": 18,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Wraps",
+    "CrafterID": 4,
+    "Value": 864,
+    "Time": 210,
+    "Exp": 507,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 142,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "eva": 3
+    },
+    "Image": "Armor-Region2-Hydro_Wraps"
+  },
+  "122": {
+    "Id": "122",
+    "Name": "Amphibian Boots",
+    "ItemLevel": 21,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Boots",
+    "CrafterID": 4,
+    "Value": 894,
+    "Time": 225,
+    "Exp": 570,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "67",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 157,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "eva": 4
+    },
+    "Image": "Armor-Region2-Amphibian_Boots"
+  },
+  "123": {
+    "Id": "123",
+    "Name": "Scaly Chest",
+    "ItemLevel": 11,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 852,
+    "Time": 175,
+    "Exp": 372,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "63",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 111,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Scaly_Chest"
+  },
+  "124": {
+    "Id": "124",
+    "Name": "Scaly Bracers",
+    "ItemLevel": 11,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 467,
+    "Time": 175,
+    "Exp": 298,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "63",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 82,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Scaly_Bracers"
+  },
+  "125": {
+    "Id": "125",
+    "Name": "Scaly Greaves",
+    "ItemLevel": 11,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 550,
+    "Time": 175,
+    "Exp": 314,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "63",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 88,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Scaly_Greaves"
+  },
+  "126": {
+    "Id": "126",
+    "Name": "Scaly Helm",
+    "ItemLevel": 11,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 632,
+    "Time": 175,
+    "Exp": 330,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "63",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 94,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Scaly_Helm"
+  },
+  "127": {
+    "Id": "127",
+    "Name": "Monarch's Robe",
+    "ItemLevel": 25,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Robe",
+    "CrafterID": 4,
+    "Value": 2839,
+    "Time": 270,
+    "Exp": 1063,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 20,
+        "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "89",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 349,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "int": 7,
+      "mdef": 7
+    },
+    "Image": "Armor-Region2-Monarchs_Robe"
+  },
+  "128": {
+    "Id": "128",
+    "Name": "Seamarrow Chestplate",
+    "ItemLevel": 21,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 1837,
+    "Time": 225,
+    "Exp": 750,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "90",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 229,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "maxHP": 12
+    },
+    "Image": "Armor-Region2-Seamarrow_Chestplate"
+  },
+  "129": {
+    "Id": "129",
+    "Name": "Seamarrow Helm",
+    "ItemLevel": 20,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 1288,
+    "Time": 220,
+    "Exp": 626,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "90",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 183,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "maxHP": 11
+    },
+    "Image": "Armor-Region2-Seamarrow_Helm"
+  },
+  "130": {
+    "Id": "130",
+    "Name": "Seamarrow Greaves",
+    "ItemLevel": 20,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 1044,
+    "Time": 220,
+    "Exp": 579,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "90",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 164,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "maxHP": 11
+    },
+    "Image": "Armor-Region2-Seamarrow_Greaves"
+  },
+  "131": {
+    "Id": "131",
+    "Name": "Seamarrow Gloves",
+    "ItemLevel": 19,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Gloves",
+    "CrafterID": 2,
+    "Value": 793,
+    "Time": 215,
+    "Exp": 513,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "90",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 141,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "maxHP": 11
+    },
+    "Image": "Armor-Region2-Seamarrow_Gloves"
+  },
+  "132": {
+    "Id": "132",
+    "Name": "Carrioned Chestplate",
+    "ItemLevel": 25,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Chainmail",
+    "CrafterID": 2,
+    "Value": 3573,
+    "Time": 270,
+    "Exp": 1063,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 20,
+        "Type": 2
+      },
+      {
+        "Id": "79",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "95",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 405,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "str": 7,
+      "def": 7
+    },
+    "Image": "Armor-Region2-Carrioned_Chestplate"
+  },
+  "133": {
+    "Id": "133",
+    "Name": "Carrioned Helm",
+    "ItemLevel": 16,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 1932,
+    "Time": 216,
+    "Exp": 680,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 16,
+        "Type": 2
+      },
+      {
+        "Id": "66",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "94",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 232,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "def": 6,
+      "mdef": 6
+    },
+    "Image": "Armor-Region2-Carrioned_Helm"
+  },
+  "134": {
+    "Id": "134",
+    "Name": "Carrioned Boots",
+    "ItemLevel": 23,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Boots",
+    "CrafterID": 2,
+    "Value": 1779,
+    "Time": 258,
+    "Exp": 887,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 14,
+        "Type": 2
+      },
+      {
+        "Id": "79",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "67",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 258,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "def": 7,
+      "eva": 5
+    },
+    "Image": "Armor-Region2-Carrioned_Boots"
+  },
+  "135": {
+    "Id": "135",
+    "Name": "Carrioned Gauntlets",
+    "ItemLevel": 18,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Gauntlets",
+    "CrafterID": 2,
+    "Value": 1336,
+    "Time": 228,
+    "Exp": 683,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 12,
+        "Type": 2
+      },
+      {
+        "Id": "65",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "93",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 197,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "def": 6,
+      "maxHP": 19
+    },
+    "Image": "Armor-Region2-Carrioned_Gauntlets"
+  },
+  "136": {
+    "Id": "136",
+    "Name": "Breakwater Band",
+    "ItemLevel": 18,
+    "ItemSlot": 6,
+    "MainType": "Braclet",
+    "SubType": "Ring",
+    "CrafterID": 7,
+    "Value": 5934,
+    "Time": 228,
+    "Exp": 765,
+    "Recipe": [
+      {
+        "Id": "94",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "92",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "102",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 548,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "eva": 5,
+      "speed": 6
+    },
+    "Image": "Armor-Region2-Breakwater_Band"
+  },
+  "137": {
+    "Id": "137",
+    "Name": "Seafoam Pendant",
+    "ItemLevel": 20,
+    "ItemSlot": 6,
+    "MainType": "Necklace",
+    "SubType": "Pendant",
+    "CrafterID": 7,
+    "Value": 1862,
+    "Time": 240,
+    "Exp": 831,
+    "Recipe": [
+      {
+        "Id": "100",
+        "Amount": 12,
+        "Type": 2
+      },
+      {
+        "Id": "74",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 248,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "mdef": 6,
+      "expMod": 6
+    },
+    "Image": "Armor-Region2-Seafoam_Pendant"
+  },
+  "138": {
+    "Id": "138",
+    "Name": "Littoral Ring",
+    "ItemLevel": 23,
+    "ItemSlot": 6,
+    "MainType": "Ring",
+    "SubType": "Ring",
+    "CrafterID": 7,
+    "Value": 4496,
+    "Time": 258,
+    "Exp": 978,
+    "Recipe": [
+      {
+        "Id": "85",
+        "Amount": 12,
+        "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "92",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 465,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "dex": 7,
+      "eva": 5
+    },
+    "Image": "Armor-Region2-Littoral_Ring"
+  },
+  "139": {
+    "Id": "139",
+    "Name": "Coastal Calamity",
+    "ItemLevel": 25,
+    "ItemSlot": 6,
+    "MainType": "Necklace",
+    "SubType": "Trinket",
+    "CrafterID": 7,
+    "Value": 8529,
+    "Time": 295,
+    "Exp": 1275,
+    "Recipe": [
+      {
+        "Id": "73",
+        "Amount": 12,
+        "Type": 2
+      },
+      {
+        "Id": "98",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "102",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 810,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "crit": 10,
+      "critMod": 10
+    },
+    "Image": "Armor-Region2-Coastal_Calamity"
+  },
+  "140": {
+    "Id": "140",
+    "Name": "Lazulite Amulet",
+    "ItemLevel": 25,
+    "ItemSlot": 6,
+    "MainType": "Necklace",
+    "SubType": "Necklace",
+    "CrafterID": 7,
+    "Value": 14619,
+    "Time": 270,
+    "Exp": 1063,
+    "Recipe": [
+      {
+        "Id": "99",
+        "Amount": 20,
+        "Type": 2
+      },
+      {
+        "Id": "85",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "102",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 1248,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "int": 7,
+      "lckMod": 7
+    },
+    "Image": "Armor-Region2-Lazulite_Amulet"
+  },
+  "141": {
+    "Id": "141",
+    "Name": "Crab Chestplate",
+    "ItemLevel": 19,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 1178,
+    "Time": 215,
+    "Exp": 586,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "80",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 170,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Crab_Chestplate"
+  },
+  "142": {
+    "Id": "142",
+    "Name": "Terror Helm",
+    "ItemLevel": 25,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Great Helm",
+    "CrafterID": 2,
+    "Value": 2099,
+    "Time": 270,
+    "Exp": 995,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 16,
+        "Type": 2
+      },
+      {
+        "Id": "66",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "95",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 293,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "str": 7,
+      "maxHP": 23
+    },
+    "Image": "Armor-Region2-Terror_Helm"
+  },
+  "143": {
+    "Id": "143",
+    "Name": "Terror Chest",
+    "ItemLevel": 25,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 4380,
+    "Time": 270,
+    "Exp": 1063,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 20,
+        "Type": 2
+      },
+      {
+        "Id": "85",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "95",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 467,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "str": 7,
+      "maxHP": 23
+    },
+    "Image": "Armor-Region2-Terror_Chest"
+  },
+  "144": {
+    "Id": "144",
+    "Name": "Charm Of Wisdom",
+    "ItemLevel": 25,
+    "ItemSlot": 6,
+    "MainType": "Necklace",
+    "SubType": "Medallion",
+    "CrafterID": 7,
+    "Value": 5964,
+    "Time": 320,
+    "Exp": 1700,
+    "Recipe": [
+      {
+        "Id": "85",
+        "Amount": 14,
+        "Type": 2
+      },
+      {
+        "Id": "74",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "99",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 640,
+    "Rarity": 5,
+    "Region": 2,
+    "BStats": {
+      "lckMod": 15,
+      "expMod": 15
+    },
+    "Image": "Armor-Region2-Charm_Of_Wisdom"
+  },
+  "145": {
+    "Id": "145",
+    "Name": "Yarsol Helm",
+    "ItemLevel": 25,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Great Helm",
+    "CrafterID": 2,
+    "Value": 3423,
+    "Time": 295,
+    "Exp": 1275,
+    "Recipe": [
+      {
+        "Id": "111",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "94",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "99",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 420,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "atk": 10,
+      "mdef": 10
+    },
+    "Image": "Armor-Region2-Yarsol_Helm"
+  },
+  "146": {
+    "Id": "146",
+    "Name": "Yarsol Chestplate",
+    "ItemLevel": 24,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 4066,
+    "Time": 288,
+    "Exp": 1224,
+    "Recipe": [
+      {
+        "Id": "112",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "90",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "74",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 463,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "str": 9,
+      "mdef": 10
+    },
+    "Image": "Armor-Region2-Yarsol_Chestplate"
+  },
+  "147": {
+    "Id": "147",
+    "Name": "Yarsol Greaves",
+    "ItemLevel": 22,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 4644,
+    "Time": 274,
+    "Exp": 1122,
+    "Recipe": [
+      {
+        "Id": "113",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "85",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "102",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 494,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "eva": 6,
+      "mdef": 10
+    },
+    "Image": "Armor-Region2-Yarsol_Greaves"
+  },
+  "148": {
+    "Id": "148",
+    "Name": "Yarsol Gloves",
+    "ItemLevel": 25,
+    "ItemSlot": 3,
+    "MainType": "MDefArm",
+    "SubType": "Gloves",
+    "CrafterID": 2,
+    "Value": 3753,
+    "Time": 295,
+    "Exp": 1275,
+    "Recipe": [
+      {
+        "Id": "114",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "85",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "73",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 446,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "acc": 10,
+      "mdef": 10
+    },
+    "Image": "Armor-Region2-Yarsol_Gloves"
+  },
+  "149": {
+    "Id": "149",
+    "Name": "Slimy Sabatons",
+    "ItemLevel": 17,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Sabatons",
+    "CrafterID": 2,
+    "Value": 1106,
+    "Time": 205,
+    "Exp": 534,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "93",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 156,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "speed": 3
+    },
+    "Image": "Armor-Region2-Slimy_Sabatons"
+  },
+  "150": {
+    "Id": "150",
+    "Name": "Lightweight Crakows",
+    "ItemLevel": 12,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Crakows",
+    "CrafterID": 4,
+    "Value": 524,
+    "Time": 180,
+    "Exp": 328,
+    "Recipe": [
+      {
+        "Id": "59",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "68",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 90,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "eva": 3
+    },
+    "Image": "Armor-Region2-Lightweight_Crakows"
+  },
+  "151": {
+    "Id": "151",
+    "Name": "Kobold Scaled Chestplate",
+    "ItemLevel": 22,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 2369,
+    "Time": 230,
+    "Exp": 823,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "85",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 274,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 4
+    },
+    "Image": "Armor-Region2-Kobold_Scaled_Chestplate"
+  },
+  "152": {
+    "Id": "152",
+    "Name": "Edged Bracers",
+    "ItemLevel": 12,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 626,
+    "Time": 180,
+    "Exp": 348,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "75",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 98,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "atk": 3
+    },
+    "Image": "Armor-Region2-Edged_Bracers"
+  },
+  "153": {
+    "Id": "153",
+    "Name": "Cavalier Boots",
+    "ItemLevel": 17,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Boots",
+    "CrafterID": 4,
+    "Value": 2592,
+    "Time": 222,
+    "Exp": 723,
+    "Recipe": [
+      {
+        "Id": "110",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "69",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "85",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 288,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "def": 6,
+      "eva": 5
+    },
+    "Image": "Armor-Region2-Cavalier_Boots"
+  },
+  "154": {
+    "Id": "154",
+    "Name": "Sailor's Tunic",
+    "ItemLevel": 22,
+    "ItemSlot": 4,
+    "MainType": "EvaChest",
+    "SubType": "Tunic",
+    "CrafterID": 4,
+    "Value": 2685,
+    "Time": 252,
+    "Exp": 935,
+    "Recipe": [
+      {
+        "Id": "108",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "69",
+        "Amount": 12,
+        "Type": 2
+      },
+      {
+        "Id": "88",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 321,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "int": 7,
+      "mdef": 7
+    },
+    "Image": "Armor-Region2-Sailors_Tunic"
+  },
+  "155": {
+    "Id": "155",
+    "Name": "Buccaneer's Cap",
+    "ItemLevel": 20,
+    "ItemSlot": 2,
+    "MainType": "EvaHead",
+    "SubType": "Trifold",
+    "CrafterID": 4,
+    "Value": 2042,
+    "Time": 240,
+    "Exp": 850,
+    "Recipe": [
+      {
+        "Id": "115",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "69",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "92",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 262,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "speed": 6,
+      "matk": 6
+    },
+    "Image": "Armor-Region2-Buccaneers_Cap"
+  },
+  "156": {
+    "Id": "156",
+    "Name": "Privateer's Gloves",
+    "ItemLevel": 19,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Gloves",
+    "CrafterID": 4,
+    "Value": 1544,
+    "Time": 234,
+    "Exp": 747,
+    "Recipe": [
+      {
+        "Id": "109",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "69",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 218,
+    "Rarity": 3,
+    "Region": 2,
+    "BStats": {
+      "eva": 5,
+      "mdef": 6
+    },
+    "Image": "Armor-Region2-Privateers_Gloves"
+  },
+  "157": {
+    "Id": "157",
+    "Name": "Admiral's Trifold",
+    "ItemLevel": 25,
+    "ItemSlot": 2,
+    "MainType": "EvaHead",
+    "SubType": "Trifold",
+    "CrafterID": 4,
+    "Value": 5640,
+    "Time": 295,
+    "Exp": 1275,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "88",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "99",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 590,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "eva": 7,
+      "maxHP": 33
+    },
+    "Image": "Armor-Region2-Admirals_Trifold"
+  },
+  "158": {
+    "Id": "158",
+    "Name": "Admiral's Jacket",
+    "ItemLevel": 25,
+    "ItemSlot": 4,
+    "MainType": "EvaChest",
+    "SubType": "Jacket",
+    "CrafterID": 4,
+    "Value": 6701,
+    "Time": 295,
+    "Exp": 1275,
+    "Recipe": [
+      {
+        "Id": "154",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "89",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "98",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 671,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "dex": 10,
+      "mdef": 10
+    },
+    "Image": "Armor-Region2-Admirals_Jacket"
+  },
+  "159": {
+    "Id": "159",
+    "Name": "Admiral's Boots",
+    "ItemLevel": 23,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Boots",
+    "CrafterID": 4,
+    "Value": 6071,
+    "Time": 281,
+    "Exp": 1173,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "92",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "98",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 610,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "eva": 6,
+      "speed": 12
+    },
+    "Image": "Armor-Region2-Admirals_Boots"
+  },
+  "160": {
+    "Id": "160",
+    "Name": "Admiral's Gloves",
+    "ItemLevel": 24,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Gloves",
+    "CrafterID": 4,
+    "Value": 5545,
+    "Time": 288,
+    "Exp": 1224,
+    "Recipe": [
+      {
+        "Id": "156",
+        "Amount": 1,
+        "Type": 1
+      },
+      {
+        "Id": "97",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "99",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 576,
+    "Rarity": 4,
+    "Region": 2,
+    "BStats": {
+      "crit": 9,
+      "acc": 10
+    },
+    "Image": "Armor-Region2-Admirals_Gloves"
+  },
+  "161": {
+    "Id": "161",
+    "Name": "Turtle Chestplate",
+    "ItemLevel": 13,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 1202,
+    "Time": 185,
+    "Exp": 477,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "78",
+        "Amount": 8,
+        "Type": 2
+      }
+    ],
+    "Cost": 146,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Turtle_Chestplate"
+  },
+  "162": {
+    "Id": "162",
+    "Name": "Turtle Boots",
+    "ItemLevel": 13,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Boots",
+    "CrafterID": 2,
+    "Value": 843,
+    "Time": 185,
+    "Exp": 408,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "78",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 119,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Turtle_Boots"
+  },
+  "163": {
+    "Id": "163",
+    "Name": "Turtle Bracers",
+    "ItemLevel": 13,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 649,
+    "Time": 185,
+    "Exp": 371,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "78",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 104,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Turtle_Bracers"
+  },
+  "164": {
+    "Id": "164",
+    "Name": "Turtle Helm",
+    "ItemLevel": 13,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 760,
+    "Time": 185,
+    "Exp": 392,
+    "Recipe": [
+      {
+        "Id": "61",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "78",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 113,
+    "Rarity": 2,
+    "Region": 2,
+    "BStats": {
+      "def": 3
+    },
+    "Image": "Armor-Region2-Turtle_Helm"
+  },
+  "165": {
+    "Id": "165",
+    "Name": "Titanium Knife",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Knife",
+    "CrafterID": 1,
+    "Value": 617,
+    "Time": 350,
+    "Exp": 520,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 143,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Titanium_Knife"
+  },
+  "166": {
+    "Id": "166",
+    "Name": "Titanium Hatchet",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Hatchet",
+    "CrafterID": 1,
+    "Value": 769,
+    "Time": 350,
+    "Exp": 549,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 154,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Titanium_Hatchet"
+  },
+  "167": {
+    "Id": "167",
+    "Name": "Titanium Sword",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 923,
+    "Time": 350,
+    "Exp": 579,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 166,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Titanium_Sword"
+  },
+  "168": {
+    "Id": "168",
+    "Name": "Howlthorn Wand",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Wand",
+    "CrafterID": 3,
+    "Value": 769,
+    "Time": 350,
+    "Exp": 549,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 154,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Howlthorn_Wand"
+  },
+  "169": {
+    "Id": "169",
+    "Name": "Howlthorn Stave",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Stave",
+    "CrafterID": 3,
+    "Value": 923,
+    "Time": 350,
+    "Exp": 579,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 166,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Howlthorn_Stave"
+  },
+  "170": {
+    "Id": "170",
+    "Name": "Howlthorn Club",
+    "ItemLevel": 20,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Club",
+    "CrafterID": 3,
+    "Value": 923,
+    "Time": 350,
+    "Exp": 579,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 166,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Howlthorn_Club"
+  },
+  "171": {
+    "Id": "171",
+    "Name": "Highrye Robe",
+    "ItemLevel": 20,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Robe",
+    "CrafterID": 4,
+    "Value": 1690,
+    "Time": 350,
+    "Exp": 725,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 225,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Highrye_Robe"
+  },
+  "172": {
+    "Id": "172",
+    "Name": "Highrye Cowl",
+    "ItemLevel": 20,
+    "ItemSlot": 2,
+    "MainType": "EvaHead",
+    "SubType": "Cowl",
+    "CrafterID": 4,
+    "Value": 1229,
+    "Time": 350,
+    "Exp": 637,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 189,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Highrye_Cowl"
+  },
+  "173": {
+    "Id": "173",
+    "Name": "Highrye Shoes",
+    "ItemLevel": 20,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Shoes",
+    "CrafterID": 4,
+    "Value": 1076,
+    "Time": 350,
+    "Exp": 608,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 178,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Highrye_Shoes"
+  },
+  "174": {
+    "Id": "174",
+    "Name": "Highrye Mits",
+    "ItemLevel": 20,
+    "ItemSlot": 3,
+    "MainType": "MDefArm",
+    "SubType": "Mitts",
+    "CrafterID": 4,
+    "Value": 923,
+    "Time": 350,
+    "Exp": 579,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 166,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Highrye_Mits"
+  },
+  "175": {
+    "Id": "175",
+    "Name": "Titanium Helm",
+    "ItemLevel": 20,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 1229,
+    "Time": 350,
+    "Exp": 637,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 189,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Titanium_Helm"
+  },
+  "176": {
+    "Id": "176",
+    "Name": "Titanium Chestplate",
+    "ItemLevel": 20,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 1690,
+    "Time": 350,
+    "Exp": 725,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 225,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Titanium_Chestplate"
+  },
+  "177": {
+    "Id": "177",
+    "Name": "Titanium Greaves",
+    "ItemLevel": 20,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 1076,
+    "Time": 350,
+    "Exp": 608,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 178,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Titanium_Greaves"
+  },
+  "178": {
+    "Id": "178",
+    "Name": "Titanium Bracers",
+    "ItemLevel": 20,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 923,
+    "Time": 350,
+    "Exp": 579,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 166,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Titanium_Bracers"
+  },
+  "179": {
+    "Id": "179",
+    "Name": "Aldurnian Crakows",
+    "ItemLevel": 22,
+    "ItemSlot": 5,
+    "MainType": "MDefLeg",
+    "SubType": "Crakows",
+    "CrafterID": 4,
+    "Value": 1380,
+    "Time": 358,
+    "Exp": 706,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 211,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Aldurnian_Crakows"
+  },
+  "180": {
+    "Id": "180",
+    "Name": "Aldurnian Jacket",
+    "ItemLevel": 23,
+    "ItemSlot": 4,
+    "MainType": "EvaChest",
+    "SubType": "Jacket",
+    "CrafterID": 4,
+    "Value": 2006,
+    "Time": 362,
+    "Exp": 846,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "160",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 263,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Aldurnian_Jacket"
+  },
+  "181": {
+    "Id": "181",
+    "Name": "Aldurnian Hood",
+    "ItemLevel": 23,
+    "ItemSlot": 2,
+    "MainType": "MDefHead",
+    "SubType": "Hood",
+    "CrafterID": 4,
+    "Value": 1472,
+    "Time": 362,
+    "Exp": 744,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "160",
+        "Amount": 3,
+        "Type": 2
+      }
+    ],
+    "Cost": 222,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Aldurnian_Hood"
+  },
+  "182": {
+    "Id": "182",
+    "Name": "Aldurnian Wraps",
+    "ItemLevel": 21,
+    "ItemSlot": 3,
+    "MainType": "EvaArm",
+    "SubType": "Wraps",
+    "CrafterID": 4,
+    "Value": 1004,
+    "Time": 354,
+    "Exp": 614,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "160",
+        "Amount": 1,
+        "Type": 2
+      }
+    ],
+    "Cost": 177,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Aldurnian_Wraps"
+  },
+  "183": {
+    "Id": "183",
+    "Name": "Antler Helm",
+    "ItemLevel": 23,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Helm",
+    "CrafterID": 2,
+    "Value": 1615,
+    "Time": 385,
+    "Exp": 923,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 269,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "atk": 4
+    },
+    "Image": "Armor-Region3-Antler_Helm"
+  },
+  "184": {
+    "Id": "184",
+    "Name": "Antler Chestplate",
+    "ItemLevel": 24,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 2374,
+    "Time": 390,
+    "Exp": 1094,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 333,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "def": 4
+    },
+    "Image": "Armor-Region3-Antler_Chestplate"
+  },
+  "185": {
+    "Id": "185",
+    "Name": "Antler Greaves",
+    "ItemLevel": 22,
+    "ItemSlot": 5,
+    "MainType": "DefLeg",
+    "SubType": "Greaves",
+    "CrafterID": 2,
+    "Value": 1451,
+    "Time": 380,
+    "Exp": 865,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 250,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "def": 4
+    },
+    "Image": "Armor-Region3-Antler_Greaves"
+  },
+  "186": {
+    "Id": "186",
+    "Name": "Antler Bracers",
+    "ItemLevel": 21,
+    "ItemSlot": 3,
+    "MainType": "DefArm",
+    "SubType": "Bracers",
+    "CrafterID": 2,
+    "Value": 1287,
+    "Time": 375,
+    "Exp": 807,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 231,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "atk": 4
+    },
+    "Image": "Armor-Region3-Antler_Bracers"
+  },
+  "187": {
+    "Id": "187",
+    "Name": "Stone Hoof Boots",
+    "ItemLevel": 22,
+    "ItemSlot": 5,
+    "MainType": "EvaLeg",
+    "SubType": "Boots",
+    "CrafterID": 2,
+    "Value": 1401,
+    "Time": 358,
+    "Exp": 710,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "162",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 212,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Stone_Hoof_Boots"
+  },
+  "188": {
+    "Id": "188",
+    "Name": "Roc Winged Breastplate",
+    "ItemLevel": 23,
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
+    "CrafterID": 2,
+    "Value": 2363,
+    "Time": 385,
+    "Exp": 1065,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "165",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 326,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "eva": 4
+    },
+    "Image": "Armor-Region3-Roc_Winged_Breastplate"
+  },
+  "189": {
+    "Id": "189",
+    "Name": "Roc Feathered Cowl",
+    "ItemLevel": 22,
+    "ItemSlot": 2,
+    "MainType": "EvaHead",
+    "SubType": "Cowl",
+    "CrafterID": 4,
+    "Value": 1554,
+    "Time": 358,
+    "Exp": 739,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "164",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 224,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Roc_Feathered_Cowl"
+  },
+  "190": {
+    "Id": "190",
+    "Name": "Highland Greathelm",
+    "ItemLevel": 25,
+    "ItemSlot": 2,
+    "MainType": "DefHead",
+    "SubType": "Great Helm",
+    "CrafterID": 2,
+    "Value": 2224,
+    "Time": 395,
+    "Exp": 1092,
+    "Recipe": [
+      {
+        "Id": "153",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "163",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 328,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "def": 4
+    },
+    "Image": "Armor-Region3-Highland_Greathelm"
+  },
+  "191": {
+    "Id": "191",
+    "Name": "Rocariel Sword",
+    "ItemLevel": 25,
+    "ItemSlot": 1,
+    "MainType": "Sword",
+    "SubType": "Sword",
+    "CrafterID": 1,
+    "Value": 2009,
+    "Time": 420,
+    "Exp": 1219,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "164",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "165",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 352,
+    "Rarity": 3,
+    "Region": 3,
+    "BStats": {
+      "crit": 7,
+      "eva": 5
+    },
+    "Image": "Weapons-Region3-Rocariel_Sword"
+  },
+  "192": {
+    "Id": "192",
+    "Name": "Howlthorn Mystic Wand",
+    "ItemLevel": 21,
+    "ItemSlot": 1,
+    "MainType": "Wand",
+    "SubType": "Mystic Wand",
+    "CrafterID": 3,
+    "Value": 930,
+    "Time": 354,
+    "Exp": 600,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 171,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Howlthorn_Mystic_Wand"
+  },
+  "193": {
+    "Id": "193",
+    "Name": "Howlthorn Mystic Stave",
+    "ItemLevel": 22,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Mystic Stave",
+    "CrafterID": 3,
+    "Value": 1245,
+    "Time": 358,
+    "Exp": 680,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 7,
+        "Type": 2
+      }
+    ],
+    "Cost": 200,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Howlthorn_Mystic_Stave"
+  },
+  "194": {
+    "Id": "194",
+    "Name": "Howlthorn Cudgel",
+    "ItemLevel": 23,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Cudgel",
+    "CrafterID": 3,
+    "Value": 1099,
+    "Time": 362,
+    "Exp": 673,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 194,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Howlthorn_Cudgel"
+  },
+  "195": {
+    "Id": "195",
+    "Name": "Antler Cudgel",
+    "ItemLevel": 24,
+    "ItemSlot": 1,
+    "MainType": "Club",
+    "SubType": "Cudgel",
+    "CrafterID": 3,
+    "Value": 1762,
+    "Time": 390,
+    "Exp": 977,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 6,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 287,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "crit": 4
+    },
+    "Image": "Weapons-Region3-Antler_Cudgel"
+  },
+  "196": {
+    "Id": "196",
+    "Name": "Antler Mystic Stave",
+    "ItemLevel": 25,
+    "ItemSlot": 1,
+    "MainType": "Stave",
+    "SubType": "Mystic Stave",
+    "CrafterID": 3,
+    "Value": 2213,
+    "Time": 395,
+    "Exp": 1090,
+    "Recipe": [
+      {
+        "Id": "155",
+        "Amount": 7,
+        "Type": 2
+      },
+      {
+        "Id": "161",
+        "Amount": 6,
+        "Type": 2
+      }
+    ],
+    "Cost": 327,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "crit": 4
+    },
+    "Image": "Weapons-Region3-Antler_Mystic_Stave"
+  },
+  "197": {
+    "Id": "197",
+    "Name": "Titanium Axe",
+    "ItemLevel": 22,
+    "ItemSlot": 1,
+    "MainType": "Axe",
+    "SubType": "Axe",
+    "CrafterID": 1,
+    "Value": 939,
+    "Time": 358,
+    "Exp": 622,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 5,
+        "Type": 2
+      }
+    ],
+    "Cost": 177,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Titanium_Axe"
+  },
+  "198": {
+    "Id": "198",
+    "Name": "Titanium Dagger",
+    "ItemLevel": 21,
+    "ItemSlot": 1,
+    "MainType": "Dagger",
+    "SubType": "Dagger",
+    "CrafterID": 1,
+    "Value": 778,
+    "Time": 354,
+    "Exp": 571,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 4,
+        "Type": 2
+      }
+    ],
+    "Cost": 160,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Titanium_Dagger"
+  },
+  "199": {
+    "Id": "199",
+    "Name": "Ram Hammer",
+    "ItemLevel": 24,
+    "ItemSlot": 1,
+    "MainType": "Hammer",
+    "SubType": "Hammer",
+    "CrafterID": 1,
+    "Value": 2096,
+    "Time": 390,
+    "Exp": 1041,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "163",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 312,
+    "Rarity": 2,
+    "Region": 3,
+    "BStats": {
+      "atk": 4
+    },
+    "Image": "Weapons-Region3-Ram_Hammer"
+  },
+  "200": {
+    "Id": "200",
+    "Name": "Titanium Hammer",
+    "ItemLevel": 23,
+    "ItemSlot": 1,
+    "MainType": "Hammer",
+    "SubType": "Hammer",
+    "CrafterID": 1,
+    "Value": 1713,
+    "Time": 362,
+    "Exp": 790,
+    "Recipe": [
+      {
+        "Id": "151",
+        "Amount": 10,
+        "Type": 2
+      }
+    ],
+    "Cost": 241,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Weapons-Region3-Titanium_Hammer"
+  },
+  "201": {
+    "Id": "201",
+    "Name": "Rocariel Robe",
+    "ItemLevel": 25,
+    "ItemSlot": 4,
+    "MainType": "MDefChest",
+    "SubType": "Robe",
+    "CrafterID": 4,
+    "Value": 2777,
+    "Time": 420,
+    "Exp": 1366,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 10,
+        "Type": 2
+      },
+      {
+        "Id": "164",
+        "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "165",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 411,
+    "Rarity": 3,
+    "Region": 3,
+    "BStats": {
+      "mdef": 7,
+      "eva": 5
+    },
+    "Image": "Armor-Region3-Rocariel_Robe"
+  },
+  "202": {
+    "Id": "202",
+    "Name": "Grisly Mitts",
+    "ItemLevel": 24,
+    "ItemSlot": 3,
+    "MainType": "MDefArm",
+    "SubType": "Wraps",
+    "CrafterID": 4,
+    "Value": 1121,
+    "Time": 366,
+    "Exp": 697,
+    "Recipe": [
+      {
+        "Id": "157",
+        "Amount": 5,
+        "Type": 2
+      },
+      {
+        "Id": "166",
+        "Amount": 2,
+        "Type": 2
+      }
+    ],
+    "Cost": 200,
+    "Rarity": 1,
+    "Region": 3,
+    "Image": "Armor-Region3-Grisly_Mitts"
+  }
+}
