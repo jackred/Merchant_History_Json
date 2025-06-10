@@ -8,10 +8,10 @@
     "BldLvl": 21,
     "Time": 200,
     "Rotation": "Aldur_Lake",
-    "ExpeditionCostFlat": 14000,
-    "ExpeditionCostPerHero": 4000,
-    "ExpeditionTravelTime": 330,
-    "ExpeditionEnemyTime": 120
+    "ExpeditionCostFlat": 5500,
+    "ExpeditionCostPerHero": 1800,
+    "ExpeditionTravelTime": 297,
+    "ExpeditionEnemyTime": 54
   },
   "ancient_ritual_grounds": {
     "Id": "ancient_ritual_grounds",
@@ -22,10 +22,10 @@
     "BldLvl": 27,
     "Time": 200,
     "Rotation": "Ancient_Ritual_Grounds",
-    "ExpeditionCostFlat": 18000,
-    "ExpeditionCostPerHero": 7000,
-    "ExpeditionTravelTime": 700,
-    "ExpeditionEnemyTime": 300
+    "ExpeditionCostFlat": 7000,
+    "ExpeditionCostPerHero": 2200,
+    "ExpeditionTravelTime": 630,
+    "ExpeditionEnemyTime": 135
   },
   "badmen_cliff": {
     "Id": "badmen_cliff",
@@ -36,10 +36,10 @@
     "BldLvl": 26,
     "Time": 200,
     "Rotation": "Badmen_Cliff",
-    "ExpeditionCostFlat": 18000,
-    "ExpeditionCostPerHero": 7000,
-    "ExpeditionTravelTime": 600,
-    "ExpeditionEnemyTime": 300
+    "ExpeditionCostFlat": 6900,
+    "ExpeditionCostPerHero": 2150,
+    "ExpeditionTravelTime": 540,
+    "ExpeditionEnemyTime": 135
   },
   "beetle_bridge": {
     "Id": "beetle_bridge",
@@ -52,8 +52,8 @@
     "Rotation": "Beetle_Bridge_01",
     "ExpeditionCostFlat": 400,
     "ExpeditionCostPerHero": 75,
-    "ExpeditionTravelTime": 500,
-    "ExpeditionEnemyTime": 130
+    "ExpeditionTravelTime": 375,
+    "ExpeditionEnemyTime": 49
   },
   "bloody_chasm": {
     "Id": "bloody_chasm",
@@ -64,10 +64,10 @@
     "BldLvl": 23,
     "Time": 200,
     "Rotation": "Bloody_Chasm",
-    "ExpeditionCostFlat": 25000,
-    "ExpeditionCostPerHero": 10000,
-    "ExpeditionTravelTime": 450,
-    "ExpeditionEnemyTime": 450
+    "ExpeditionCostFlat": 10000,
+    "ExpeditionCostPerHero": 2300,
+    "ExpeditionTravelTime": 405,
+    "ExpeditionEnemyTime": 203
   },
   "bridge_falls": {
     "Id": "bridge_falls",
@@ -78,10 +78,10 @@
     "BldLvl": 24,
     "Time": 200,
     "Rotation": "Bridge_Falls",
-    "ExpeditionCostFlat": 16000,
-    "ExpeditionCostPerHero": 7000,
-    "ExpeditionTravelTime": 500,
-    "ExpeditionEnemyTime": 250
+    "ExpeditionCostFlat": 6750,
+    "ExpeditionCostPerHero": 2100,
+    "ExpeditionTravelTime": 450,
+    "ExpeditionEnemyTime": 113
   },
   "brine_atoll": {
     "Id": "brine_atoll",
@@ -92,10 +92,10 @@
     "BldLvl": 13,
     "Time": 84,
     "Rotation": "Brine_Atoll_01",
-    "ExpeditionCostFlat": 3500,
-    "ExpeditionCostPerHero": 1200,
-    "ExpeditionTravelTime": 600,
-    "ExpeditionEnemyTime": 220
+    "ExpeditionCostFlat": 2350,
+    "ExpeditionCostPerHero": 350,
+    "ExpeditionTravelTime": 450,
+    "ExpeditionEnemyTime": 83
   },
   "bunderwolds_last_stand": {
     "Id": "bunderwolds_last_stand",
@@ -106,10 +106,10 @@
     "BldLvl": 30,
     "Time": 200,
     "Rotation": "Bunderwolds_Last_Stand",
-    "ExpeditionCostFlat": 200000,
-    "ExpeditionCostPerHero": 50000,
-    "ExpeditionTravelTime": 3600,
-    "ExpeditionEnemyTime": 1320
+    "ExpeditionCostFlat": 20000,
+    "ExpeditionCostPerHero": 3000,
+    "ExpeditionTravelTime": 3240,
+    "ExpeditionEnemyTime": 594
   },
   "clarice's_crack": {
     "Id": "clarice's_crack",
@@ -120,10 +120,10 @@
     "BldLvl": 15,
     "Time": 154,
     "Rotation": "Clarice_Crack_01",
-    "ExpeditionCostFlat": 5000,
-    "ExpeditionCostPerHero": 1800,
-    "ExpeditionTravelTime": 800,
-    "ExpeditionEnemyTime": 500
+    "ExpeditionCostFlat": 2700,
+    "ExpeditionCostPerHero": 700,
+    "ExpeditionTravelTime": 600,
+    "ExpeditionEnemyTime": 188
   },
   "confined_crevice": {
     "Id": "confined_crevice",
@@ -134,10 +134,10 @@
     "BldLvl": 10,
     "Time": 24,
     "Rotation": "Confined_Crevice_01",
-    "ExpeditionCostFlat": 10000,
-    "ExpeditionCostPerHero": 3000,
-    "ExpeditionTravelTime": 330,
-    "ExpeditionEnemyTime": 550
+    "ExpeditionCostFlat": 3500,
+    "ExpeditionCostPerHero": 750,
+    "ExpeditionTravelTime": 248,
+    "ExpeditionEnemyTime": 206
   },
   "craggy_inlet": {
     "Id": "craggy_inlet",
@@ -150,8 +150,8 @@
     "Rotation": "Craggy_Inlet_01",
     "ExpeditionCostFlat": 400,
     "ExpeditionCostPerHero": 75,
-    "ExpeditionTravelTime": 500,
-    "ExpeditionEnemyTime": 150
+    "ExpeditionTravelTime": 375,
+    "ExpeditionEnemyTime": 56
   },
   "croaker's_cave": {
     "Id": "croaker's_cave",
@@ -162,10 +162,10 @@
     "BldLvl": 17,
     "Time": 140,
     "Rotation": "Croaker_Cave_01",
-    "ExpeditionCostFlat": 15000,
-    "ExpeditionCostPerHero": 5000,
-    "ExpeditionTravelTime": 1800,
-    "ExpeditionEnemyTime": 900
+    "ExpeditionCostFlat": 5000,
+    "ExpeditionCostPerHero": 2000,
+    "ExpeditionTravelTime": 1350,
+    "ExpeditionEnemyTime": 338
   },
   "crosscut_cave": {
     "Id": "crosscut_cave",
@@ -178,8 +178,8 @@
     "Rotation": "Crosscut_Cave_01",
     "ExpeditionCostFlat": 900,
     "ExpeditionCostPerHero": 300,
-    "ExpeditionTravelTime": 600,
-    "ExpeditionEnemyTime": 600
+    "ExpeditionTravelTime": 450,
+    "ExpeditionEnemyTime": 225
   },
   "cutthroat_cross": {
     "Id": "cutthroat_cross",
@@ -192,8 +192,8 @@
     "Rotation": "Cutthroat_Cross_01",
     "ExpeditionCostFlat": 600,
     "ExpeditionCostPerHero": 100,
-    "ExpeditionTravelTime": 1100,
-    "ExpeditionEnemyTime": 400
+    "ExpeditionTravelTime": 825,
+    "ExpeditionEnemyTime": 150
   },
   "dolphin_isle": {
     "Id": "dolphin_isle",
@@ -204,10 +204,10 @@
     "BldLvl": 15,
     "Time": 132,
     "Rotation": "Dolphin_Isle_01",
-    "ExpeditionCostFlat": 4000,
-    "ExpeditionCostPerHero": 1600,
-    "ExpeditionTravelTime": 750,
-    "ExpeditionEnemyTime": 350
+    "ExpeditionCostFlat": 2600,
+    "ExpeditionCostPerHero": 625,
+    "ExpeditionTravelTime": 563,
+    "ExpeditionEnemyTime": 131
   },
   "dryad_ruins": {
     "Id": "dryad_ruins",
@@ -220,8 +220,8 @@
     "Rotation": "Dryad_Ruins_01",
     "ExpeditionCostFlat": 350,
     "ExpeditionCostPerHero": 50,
-    "ExpeditionTravelTime": 400,
-    "ExpeditionEnemyTime": 140
+    "ExpeditionTravelTime": 300,
+    "ExpeditionEnemyTime": 53
   },
   "dunderbaad_fortress": {
     "Id": "dunderbaad_fortress",
@@ -232,10 +232,10 @@
     "BldLvl": 29,
     "Time": 200,
     "Rotation": "Dunderbaad_Fortress",
-    "ExpeditionCostFlat": 100000,
-    "ExpeditionCostPerHero": 30000,
-    "ExpeditionTravelTime": 1800,
-    "ExpeditionEnemyTime": 900
+    "ExpeditionCostFlat": 12500,
+    "ExpeditionCostPerHero": 3000,
+    "ExpeditionTravelTime": 1620,
+    "ExpeditionEnemyTime": 405
   },
   "eternal_beacon": {
     "Id": "eternal_beacon",
@@ -246,10 +246,10 @@
     "BldLvl": 29,
     "Time": 200,
     "Rotation": "Eternal_Beacon",
-    "ExpeditionCostFlat": 15000,
-    "ExpeditionCostPerHero": 5000,
-    "ExpeditionTravelTime": 450,
-    "ExpeditionEnemyTime": 350
+    "ExpeditionCostFlat": 6000,
+    "ExpeditionCostPerHero": 2000,
+    "ExpeditionTravelTime": 405,
+    "ExpeditionEnemyTime": 158
   },
   "gloomy_grotto": {
     "Id": "gloomy_grotto",
@@ -260,10 +260,10 @@
     "BldLvl": 14,
     "Time": 100,
     "Rotation": "Gloomy_Grotto_01",
-    "ExpeditionCostFlat": 8000,
-    "ExpeditionCostPerHero": 2000,
-    "ExpeditionTravelTime": 650,
-    "ExpeditionEnemyTime": 450
+    "ExpeditionCostFlat": 3250,
+    "ExpeditionCostPerHero": 600,
+    "ExpeditionTravelTime": 488,
+    "ExpeditionEnemyTime": 169
   },
   "goblin_fort": {
     "Id": "goblin_fort",
@@ -276,8 +276,8 @@
     "Rotation": "Goblin_Fort_01",
     "ExpeditionCostFlat": 1000,
     "ExpeditionCostPerHero": 500,
-    "ExpeditionTravelTime": 1800,
-    "ExpeditionEnemyTime": 900
+    "ExpeditionTravelTime": 1350,
+    "ExpeditionEnemyTime": 338
   },
   "greantheal_ruins": {
     "Id": "greantheal_ruins",
@@ -288,10 +288,10 @@
     "BldLvl": 22,
     "Time": 200,
     "Rotation": "Greantheal_Ruins",
-    "ExpeditionCostFlat": 15000,
-    "ExpeditionCostPerHero": 5000,
-    "ExpeditionTravelTime": 330,
-    "ExpeditionEnemyTime": 140
+    "ExpeditionCostFlat": 6500,
+    "ExpeditionCostPerHero": 2000,
+    "ExpeditionTravelTime": 297,
+    "ExpeditionEnemyTime": 63
   },
   "grunder's_quarry": {
     "Id": "grunder's_quarry",
@@ -313,10 +313,10 @@
     "BldLvl": 21,
     "Time": 120,
     "Rotation": "Guidehouse_Pass",
-    "ExpeditionCostFlat": 12000,
-    "ExpeditionCostPerHero": 3500,
-    "ExpeditionTravelTime": 400,
-    "ExpeditionEnemyTime": 140
+    "ExpeditionCostFlat": 5750,
+    "ExpeditionCostPerHero": 1850,
+    "ExpeditionTravelTime": 360,
+    "ExpeditionEnemyTime": 63
   },
   "haras_castle": {
     "Id": "haras_castle",
@@ -327,10 +327,10 @@
     "BldLvl": 29,
     "Time": 200,
     "Rotation": "Haras_Castle",
-    "ExpeditionCostFlat": 100000,
-    "ExpeditionCostPerHero": 30000,
-    "ExpeditionTravelTime": 1800,
-    "ExpeditionEnemyTime": 900
+    "ExpeditionCostFlat": 12500,
+    "ExpeditionCostPerHero": 3000,
+    "ExpeditionTravelTime": 1620,
+    "ExpeditionEnemyTime": 405
   },
   "haunted_monastery": {
     "Id": "haunted_monastery",
@@ -343,8 +343,8 @@
     "Rotation": "Haunted_Monastery_01",
     "ExpeditionCostFlat": 1500,
     "ExpeditionCostPerHero": 500,
-    "ExpeditionTravelTime": 3600,
-    "ExpeditionEnemyTime": 1320
+    "ExpeditionTravelTime": 2700,
+    "ExpeditionEnemyTime": 495
   },
   "highland_forest_grounds": {
     "Id": "highland_forest_grounds",
@@ -379,8 +379,8 @@
     "Rotation": "Hoggers_Lake_01",
     "ExpeditionCostFlat": 700,
     "ExpeditionCostPerHero": 300,
-    "ExpeditionTravelTime": 1260,
-    "ExpeditionEnemyTime": 450
+    "ExpeditionTravelTime": 945,
+    "ExpeditionEnemyTime": 169
   },
   "jarsdel_mine": {
     "Id": "jarsdel_mine",
@@ -402,10 +402,10 @@
     "BldLvl": 17,
     "Time": 180,
     "Rotation": "Kobold_Camp_01",
-    "ExpeditionCostFlat": 15000,
-    "ExpeditionCostPerHero": 5000,
-    "ExpeditionTravelTime": 1800,
-    "ExpeditionEnemyTime": 900
+    "ExpeditionCostFlat": 5000,
+    "ExpeditionCostPerHero": 2000,
+    "ExpeditionTravelTime": 1350,
+    "ExpeditionEnemyTime": 338
   },
   "lunderloud_lake": {
     "Id": "lunderloud_lake",
@@ -416,10 +416,10 @@
     "BldLvl": 30,
     "Time": 200,
     "Rotation": "Lunderlouds_Lake",
-    "ExpeditionCostFlat": 300000,
-    "ExpeditionCostPerHero": 100000,
-    "ExpeditionTravelTime": 1800,
-    "ExpeditionEnemyTime": 1860
+    "ExpeditionCostFlat": 25000,
+    "ExpeditionCostPerHero": 3500,
+    "ExpeditionTravelTime": 1620,
+    "ExpeditionEnemyTime": 837
   },
   "moody's_maelstrom": {
     "Id": "moody's_maelstrom",
@@ -430,10 +430,10 @@
     "BldLvl": 10,
     "Time": 60,
     "Rotation": "Moody_Maelstrom_01",
-    "ExpeditionCostFlat": 8000,
-    "ExpeditionCostPerHero": 2000,
-    "ExpeditionTravelTime": 400,
-    "ExpeditionEnemyTime": 450
+    "ExpeditionCostFlat": 3000,
+    "ExpeditionCostPerHero": 500,
+    "ExpeditionTravelTime": 300,
+    "ExpeditionEnemyTime": 169
   },
   "mossy_cave": {
     "Id": "mossy_cave",
@@ -444,10 +444,10 @@
     "BldLvl": 9,
     "Time": 16,
     "Rotation": "Mossy_Cave_01",
-    "ExpeditionCostFlat": 3000,
-    "ExpeditionCostPerHero": 1000,
-    "ExpeditionTravelTime": 300,
-    "ExpeditionEnemyTime": 110
+    "ExpeditionCostFlat": 2000,
+    "ExpeditionCostPerHero": 300,
+    "ExpeditionTravelTime": 225,
+    "ExpeditionEnemyTime": 41
   },
   "mugger's_trail": {
     "Id": "mugger's_trail",
@@ -460,8 +460,8 @@
     "Rotation": "Muggers_Trail_01",
     "ExpeditionCostFlat": 450,
     "ExpeditionCostPerHero": 75,
-    "ExpeditionTravelTime": 900,
-    "ExpeditionEnemyTime": 220
+    "ExpeditionTravelTime": 675,
+    "ExpeditionEnemyTime": 83
   },
   "mysterious_falls": {
     "Id": "mysterious_falls",
@@ -472,10 +472,10 @@
     "BldLvl": 29,
     "Time": 200,
     "Rotation": "Mysterious_Falls",
-    "ExpeditionCostFlat": 50000,
-    "ExpeditionCostPerHero": 20000,
-    "ExpeditionTravelTime": 2700,
-    "ExpeditionEnemyTime": 1110
+    "ExpeditionCostFlat": 12500,
+    "ExpeditionCostPerHero": 3000,
+    "ExpeditionTravelTime": 2430,
+    "ExpeditionEnemyTime": 500
   },
   "old_forest_lumber_camp": {
     "Id": "old_forest_lumber_camp",
@@ -499,8 +499,8 @@
     "Rotation": "Old_Hallow_Tree_01",
     "ExpeditionCostFlat": 500,
     "ExpeditionCostPerHero": 100,
-    "ExpeditionTravelTime": 1000,
-    "ExpeditionEnemyTime": 330
+    "ExpeditionTravelTime": 750,
+    "ExpeditionEnemyTime": 124
   },
   "pickman's_ore_depot": {
     "Id": "pickman's_ore_depot",
@@ -522,10 +522,10 @@
     "BldLvl": 25,
     "Time": 200,
     "Rotation": "Plane_of_Contemplation",
-    "ExpeditionCostFlat": 30000,
-    "ExpeditionCostPerHero": 15000,
-    "ExpeditionTravelTime": 1200,
-    "ExpeditionEnemyTime": 700
+    "ExpeditionCostFlat": 15000,
+    "ExpeditionCostPerHero": 3000,
+    "ExpeditionTravelTime": 1080,
+    "ExpeditionEnemyTime": 315
   },
   "platinnus_landing": {
     "Id": "platinnus_landing",
@@ -536,10 +536,10 @@
     "BldLvl": 19,
     "Time": 150,
     "Rotation": "Platinnus_Landing",
-    "ExpeditionCostFlat": 10000,
-    "ExpeditionCostPerHero": 3000,
-    "ExpeditionTravelTime": 300,
-    "ExpeditionEnemyTime": 110
+    "ExpeditionCostFlat": 5000,
+    "ExpeditionCostPerHero": 1700,
+    "ExpeditionTravelTime": 270,
+    "ExpeditionEnemyTime": 50
   },
   "platinnus_passage": {
     "Id": "platinnus_passage",
@@ -550,10 +550,10 @@
     "BldLvl": 20,
     "Time": 120,
     "Rotation": "Platinnus_Passage",
-    "ExpeditionCostFlat": 150000,
-    "ExpeditionCostPerHero": 5000,
-    "ExpeditionTravelTime": 330,
-    "ExpeditionEnemyTime": 360
+    "ExpeditionCostFlat": 7500,
+    "ExpeditionCostPerHero": 2000,
+    "ExpeditionTravelTime": 297,
+    "ExpeditionEnemyTime": 162
   },
   "quick_sand_pits": {
     "Id": "quick_sand_pits",
@@ -564,10 +564,10 @@
     "BldLvl": 16,
     "Time": 166,
     "Rotation": "Quick_Sand_Pits_01",
-    "ExpeditionCostFlat": 12000,
-    "ExpeditionCostPerHero": 3500,
-    "ExpeditionTravelTime": 1000,
-    "ExpeditionEnemyTime": 650
+    "ExpeditionCostFlat": 4000,
+    "ExpeditionCostPerHero": 1500,
+    "ExpeditionTravelTime": 750,
+    "ExpeditionEnemyTime": 244
   },
   "riverway_logging_camp": {
     "Id": "riverway_logging_camp",
@@ -589,10 +589,10 @@
     "BldLvl": 11,
     "Time": 54,
     "Rotation": "Rocky_Penninsula_01",
-    "ExpeditionCostFlat": 10000,
-    "ExpeditionCostPerHero": 3000,
-    "ExpeditionTravelTime": 500,
-    "ExpeditionEnemyTime": 600
+    "ExpeditionCostFlat": 3500,
+    "ExpeditionCostPerHero": 750,
+    "ExpeditionTravelTime": 375,
+    "ExpeditionEnemyTime": 225
   },
   "sandy_shores": {
     "Id": "sandy_shores",
@@ -603,10 +603,10 @@
     "BldLvl": 14,
     "Time": 114,
     "Rotation": "Sandy_Shores_01",
-    "ExpeditionCostFlat": 3800,
-    "ExpeditionCostPerHero": 1400,
-    "ExpeditionTravelTime": 700,
-    "ExpeditionEnemyTime": 330
+    "ExpeditionCostFlat": 2500,
+    "ExpeditionCostPerHero": 600,
+    "ExpeditionTravelTime": 525,
+    "ExpeditionEnemyTime": 124
   },
   "scarab_woods": {
     "Id": "scarab_woods",
@@ -619,8 +619,8 @@
     "Rotation": "Scarab_Woods_E1",
     "ExpeditionCostFlat": 300,
     "ExpeditionCostPerHero": 50,
-    "ExpeditionTravelTime": 300,
-    "ExpeditionEnemyTime": 110
+    "ExpeditionTravelTime": 225,
+    "ExpeditionEnemyTime": 41
   },
   "screecher_slaughter": {
     "Id": "screecher_slaughter",
@@ -631,10 +631,10 @@
     "BldLvl": 28,
     "Time": 200,
     "Rotation": "Screechers_Slaughter",
-    "ExpeditionCostFlat": 20000,
-    "ExpeditionCostPerHero": 10000,
-    "ExpeditionTravelTime": 900,
-    "ExpeditionEnemyTime": 400
+    "ExpeditionCostFlat": 7500,
+    "ExpeditionCostPerHero": 2300,
+    "ExpeditionTravelTime": 810,
+    "ExpeditionEnemyTime": 180
   },
   "snake_pit": {
     "Id": "snake_pit",
@@ -647,8 +647,8 @@
     "Rotation": "Snake_Pit_01",
     "ExpeditionCostFlat": 500,
     "ExpeditionCostPerHero": 100,
-    "ExpeditionTravelTime": 430,
-    "ExpeditionEnemyTime": 370
+    "ExpeditionTravelTime": 323,
+    "ExpeditionEnemyTime": 139
   },
   "spider_sanctuary": {
     "Id": "spider_sanctuary",
@@ -661,8 +661,8 @@
     "Rotation": "Spider_Sanctuary_01",
     "ExpeditionCostFlat": 800,
     "ExpeditionCostPerHero": 300,
-    "ExpeditionTravelTime": 1300,
-    "ExpeditionEnemyTime": 500
+    "ExpeditionTravelTime": 975,
+    "ExpeditionEnemyTime": 188
   },
   "ss_mary_celeste": {
     "Id": "ss_mary_celeste",
@@ -673,10 +673,10 @@
     "BldLvl": 19,
     "Time": 260,
     "Rotation": "SS_Mary Celeste_01",
-    "ExpeditionCostFlat": 20000,
-    "ExpeditionCostPerHero": 7500,
-    "ExpeditionTravelTime": 2700,
-    "ExpeditionEnemyTime": 1110
+    "ExpeditionCostFlat": 7500,
+    "ExpeditionCostPerHero": 1750,
+    "ExpeditionTravelTime": 2025,
+    "ExpeditionEnemyTime": 416
   },
   "stomping_grounds": {
     "Id": "stomping_grounds",
@@ -689,8 +689,8 @@
     "Rotation": "Stomping_E1",
     "ExpeditionCostFlat": 350,
     "ExpeditionCostPerHero": 50,
-    "ExpeditionTravelTime": 330,
-    "ExpeditionEnemyTime": 120
+    "ExpeditionTravelTime": 248,
+    "ExpeditionEnemyTime": 45
   },
   "striker_strip": {
     "Id": "striker_strip",
@@ -701,10 +701,10 @@
     "BldLvl": 12,
     "Time": 60,
     "Rotation": "Striker_Strip_01",
-    "ExpeditionCostFlat": 5000,
-    "ExpeditionCostPerHero": 2000,
-    "ExpeditionTravelTime": 475,
-    "ExpeditionEnemyTime": 200
+    "ExpeditionCostFlat": 2300,
+    "ExpeditionCostPerHero": 400,
+    "ExpeditionTravelTime": 356,
+    "ExpeditionEnemyTime": 75
   },
   "submerged_cave": {
     "Id": "submerged_cave",
@@ -717,8 +717,8 @@
     "Rotation": "Submerged_Cave_01",
     "ExpeditionCostFlat": 800,
     "ExpeditionCostPerHero": 300,
-    "ExpeditionTravelTime": 2700,
-    "ExpeditionEnemyTime": 1110
+    "ExpeditionTravelTime": 2025,
+    "ExpeditionEnemyTime": 416
   },
   "tainted_forest_clearing": {
     "Id": "tainted_forest_clearing",
@@ -740,10 +740,10 @@
     "BldLvl": 11,
     "Time": 72,
     "Rotation": "Turtle_Cay_01",
-    "ExpeditionCostFlat": 8000,
-    "ExpeditionCostPerHero": 2000,
-    "ExpeditionTravelTime": 450,
-    "ExpeditionEnemyTime": 450
+    "ExpeditionCostFlat": 3000,
+    "ExpeditionCostPerHero": 500,
+    "ExpeditionTravelTime": 338,
+    "ExpeditionEnemyTime": 169
   },
   "tuvale_log_clear": {
     "Id": "tuvale_log_clear",
@@ -765,10 +765,10 @@
     "BldLvl": 24,
     "Time": 200,
     "Rotation": "Undors_Lair",
-    "ExpeditionCostFlat": 20000,
-    "ExpeditionCostPerHero": 7500,
-    "ExpeditionTravelTime": 450,
-    "ExpeditionEnemyTime": 500
+    "ExpeditionCostFlat": 8000,
+    "ExpeditionCostPerHero": 2250,
+    "ExpeditionTravelTime": 405,
+    "ExpeditionEnemyTime": 225
   },
   "unknown_reef": {
     "Id": "unknown_reef",
@@ -779,10 +779,10 @@
     "BldLvl": 18,
     "Time": 220,
     "Rotation": "Unknown_Reef_01",
-    "ExpeditionCostFlat": 5000,
+    "ExpeditionCostFlat": 3000,
     "ExpeditionCostPerHero": 1500,
-    "ExpeditionTravelTime": 1200,
-    "ExpeditionEnemyTime": 330
+    "ExpeditionTravelTime": 900,
+    "ExpeditionEnemyTime": 124
   },
   "ursa's_den": {
     "Id": "ursa's_den",
@@ -795,8 +795,8 @@
     "Rotation": "Ursa_Den_01",
     "ExpeditionCostFlat": 1000,
     "ExpeditionCostPerHero": 500,
-    "ExpeditionTravelTime": 1800,
-    "ExpeditionEnemyTime": 900
+    "ExpeditionTravelTime": 1350,
+    "ExpeditionEnemyTime": 338
   },
   "waterbed_quarry": {
     "Id": "waterbed_quarry",
@@ -818,10 +818,10 @@
     "BldLvl": 24,
     "Time": 200,
     "Rotation": "Waterside_Cave",
-    "ExpeditionCostFlat": 14000,
-    "ExpeditionCostPerHero": 6000,
-    "ExpeditionTravelTime": 550,
-    "ExpeditionEnemyTime": 270
+    "ExpeditionCostFlat": 6800,
+    "ExpeditionCostPerHero": 2100,
+    "ExpeditionTravelTime": 495,
+    "ExpeditionEnemyTime": 122
   },
   "webbed_bridge": {
     "Id": "webbed_bridge",
@@ -834,8 +834,8 @@
     "Rotation": "Webbed_Bridge_01",
     "ExpeditionCostFlat": 450,
     "ExpeditionCostPerHero": 75,
-    "ExpeditionTravelTime": 960,
-    "ExpeditionEnemyTime": 250
+    "ExpeditionTravelTime": 720,
+    "ExpeditionEnemyTime": 94
   },
   "weeping_rock": {
     "Id": "weeping_rock",
@@ -846,10 +846,10 @@
     "BldLvl": 20,
     "Time": 150,
     "Rotation": "Weeping_Rock",
-    "ExpeditionCostFlat": 11000,
-    "ExpeditionCostPerHero": 3300,
-    "ExpeditionTravelTime": 330,
-    "ExpeditionEnemyTime": 130
+    "ExpeditionCostFlat": 5250,
+    "ExpeditionCostPerHero": 1750,
+    "ExpeditionTravelTime": 297,
+    "ExpeditionEnemyTime": 59
   },
   "westsea_mineshaft": {
     "Id": "westsea_mineshaft",
@@ -871,10 +871,10 @@
     "BldLvl": 9,
     "Time": 40,
     "Rotation": "Yarsol_Archipelago_01",
-    "ExpeditionCostFlat": 3000,
-    "ExpeditionCostPerHero": 1000,
-    "ExpeditionTravelTime": 330,
-    "ExpeditionEnemyTime": 120
+    "ExpeditionCostFlat": 2250,
+    "ExpeditionCostPerHero": 350,
+    "ExpeditionTravelTime": 248,
+    "ExpeditionEnemyTime": 45
   },
   "yarsol_log_clear": {
     "Id": "yarsol_log_clear",

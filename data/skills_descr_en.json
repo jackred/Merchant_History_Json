@@ -266,7 +266,7 @@
   "NatureFury": {
     "n": "Nature's Fury",
     "t": "",
-    "ft": "{buff}300%{atk} next attack",
+    "ft": "{buff}150%{atk} next attack",
     "fbt": ""
   },
   "Silence": {

@@ -121,14 +121,14 @@
       "TierInLeague": 5
     },
     {
-      "GuildsPerLeague": 10,
-      "DoublePromote": 2,
-      "Promote": 2,
-      "Relegate": 4,
-      "MinToPromote": 8,
+      "GuildsPerLeague": 8,
+      "DoublePromote": 0,
+      "Promote": 0,
+      "Relegate": 2,
+      "MinToPromote": 12,
       "MinToRelegate": 6,
-      "LeagueId": 4,
-      "TierInLeague": 1
+      "LeagueId": 3,
+      "TierInLeague": 6
     },
     {
       "GuildsPerLeague": 10,

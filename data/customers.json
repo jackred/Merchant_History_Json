@@ -15,9 +15,9 @@
       20,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "2": {
@@ -36,9 +36,9 @@
       20,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "3": {
@@ -57,9 +57,9 @@
       20,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "4": {
@@ -78,9 +78,9 @@
       20,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "5": {
@@ -99,9 +99,9 @@
       20,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "6": {
@@ -120,9 +120,9 @@
       20,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "7": {
@@ -141,9 +141,9 @@
       40,
       10
     ],
-    "MsToEnergy": 86400,
+    "MsToEnergy": 14400,
     "MaxEnergy": 3000,
-    "Cooldown": 600000,
+    "Cooldown": 360000,
     "BuyMod": 0
   },
   "8": {
@@ -162,9 +162,9 @@
       40,
       10
     ],
-    "MsToEnergy": 86400,
+    "MsToEnergy": 14400,
     "MaxEnergy": 3000,
-    "Cooldown": 600000,
+    "Cooldown": 360000,
     "BuyMod": 0
   },
   "9": {
@@ -183,9 +183,9 @@
       40,
       10
     ],
-    "MsToEnergy": 86400,
+    "MsToEnergy": 14400,
     "MaxEnergy": 3000,
-    "Cooldown": 600000,
+    "Cooldown": 360000,
     "BuyMod": 0
   },
   "10": {
@@ -204,9 +204,9 @@
       40,
       10
     ],
-    "MsToEnergy": 86400,
+    "MsToEnergy": 14400,
     "MaxEnergy": 3000,
-    "Cooldown": 600000,
+    "Cooldown": 360000,
     "BuyMod": 0
   },
   "11": {
@@ -225,9 +225,9 @@
       40,
       10
     ],
-    "MsToEnergy": 86400,
+    "MsToEnergy": 14400,
     "MaxEnergy": 3000,
-    "Cooldown": 600000,
+    "Cooldown": 360000,
     "BuyMod": 0
   },
   "12": {
@@ -246,9 +246,9 @@
       20,
       -100
     ],
-    "MsToEnergy": 28800,
+    "MsToEnergy": 17280,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "13": {
@@ -267,9 +267,9 @@
       20,
       -50
     ],
-    "MsToEnergy": 28800,
+    "MsToEnergy": 17280,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "14": {
@@ -328,7 +328,7 @@
     ],
     "MsToEnergy": 7200,
     "MaxEnergy": 4000,
-    "Cooldown": 600000,
+    "Cooldown": 360000,
     "BuyMod": 0
   },
   "17": {
@@ -347,7 +347,7 @@
       -50,
       -100
     ],
-    "MsToEnergy": 576000,
+    "MsToEnergy": 345600,
     "MaxEnergy": 1000,
     "Cooldown": 1800000,
     "BuyMod": 100
@@ -358,11 +358,13 @@
     "Name": "Joe",
     "ShopMinLevel": 1,
     "Rarity": 1,
-    "Traits": [],
+    "Traits": [
+      ""
+    ],
     "TraitMods": [
       0
     ],
-    "MsToEnergy": 300,
+    "MsToEnergy": 600,
     "MaxEnergy": 2000,
     "Cooldown": 120000,
     "BuyMod": 0
@@ -383,9 +385,9 @@
       30,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "20": {
@@ -404,9 +406,9 @@
       20,
       -40
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "21": {
@@ -425,9 +427,9 @@
       40,
       -50
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   },
   "22": {
@@ -446,9 +448,9 @@
       20,
       -100
     ],
-    "MsToEnergy": 43200,
+    "MsToEnergy": 21600,
     "MaxEnergy": 2000,
-    "Cooldown": 1200000,
+    "Cooldown": 600000,
     "BuyMod": 0
   }
 }

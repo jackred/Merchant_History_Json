@@ -11,7 +11,35 @@
       5,
       10
     ],
-    "MinRarityForHpSave": 3
+    "MinRarityForHpSave": 3,
+    "LuckCapForBase": 28,
+    "BaseRewardsPercentPerLuck": [
+      10,
+      5,
+      2.5,
+      1.5,
+      0.5,
+      0.1
+    ],
+    "AmntBfExp": 60,
+    "MinLvlDiffExp": 5,
+    "WagonHeroCapacity": [
+      4,
+      5,
+      6
+    ],
+    "WagonRationCapacity": [
+      4,
+      6,
+      8
+    ],
+    "WagonHealTo": [
+      10,
+      20,
+      30
+    ],
+    "WagonGradeSpeed": 2,
+    "WagonGradeHealTo": 1
   },
   "Inventory": {
     "CollectionBoxTtl": "2.00:00:00"
@@ -747,7 +775,9 @@
       "ItemTypeMod": [
         1,
         0,
-        0.5
+        0.5,
+        0,
+        1
       ],
       "Decay": 0.05
     },
@@ -891,6 +921,10 @@
     "Stock": {
       "BaseSize": 40,
       "PlvlSize": 2,
+      "PremiumPlvlSizes": [
+        1,
+        2
+      ],
       "PremiumSizes": [
         8,
         20
@@ -1985,8 +2019,8 @@
     "EquipmentPrefixStrengthModBonus": 4,
     "PrefixMaxStrPriceBonus": 7,
     "CustomerTradeTime": 120000,
-    "WanderingMinDuration": 60000,
-    "WanderingMaxDuration": 180000,
+    "WanderingMinDuration": 30000,
+    "WanderingMaxDuration": 150000,
     "LeavingMinDuration": 30000,
     "LeavingMaxDuration": 60000,
     "QueuedMinDuration": 900000,

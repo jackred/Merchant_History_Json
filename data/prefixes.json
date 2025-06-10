@@ -22,7 +22,7 @@
   },
   "10": {
     "Id": "10",
-    "Name": "Artic",
+    "Name": "Arctic",
     "Region": 1,
     "Strength": 14,
     "SlotStatsValues": [
@@ -685,7 +685,7 @@
   },
   "122": {
     "Id": "122",
-    "Name": "Artic",
+    "Name": "Arctic",
     "Region": 3,
     "Strength": 30,
     "SlotStatsValues": [
@@ -1315,7 +1315,7 @@
   },
   "143": {
     "Id": "143",
-    "Name": "Artic",
+    "Name": "Arctic",
     "Region": 3,
     "Strength": 27,
     "SlotStatsValues": [
@@ -1612,7 +1612,7 @@
   },
   "24": {
     "Id": "24",
-    "Name": "Artic",
+    "Name": "Arctic",
     "Region": 1,
     "Strength": 10,
     "SlotStatsValues": [
@@ -2056,7 +2056,7 @@
   },
   "61": {
     "Id": "61",
-    "Name": "Artic",
+    "Name": "Arctic",
     "Region": 2,
     "Strength": 23,
     "SlotStatsValues": [
