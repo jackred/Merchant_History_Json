@@ -739,8 +739,8 @@
     "ExpPenaltyStartAfter": 7,
     "ExpPenaltyPerLevel": 7,
     "ManaRegen": {
-      "MinChance": 3,
-      "BaseChance": 16,
+      "MinChance": 5,
+      "BaseChance": 26,
       "LevelDiff": -0.75,
       "RarityMod": 4,
       "ItemTypeMod": [
@@ -782,6 +782,12 @@
         0,
         0,
         0
+      ],
+      "CraftExpMult": [
+        2,
+        3.5,
+        6.5,
+        12
       ],
       "TimeMult": [
         4,

@@ -58,7 +58,8 @@
   "MindBlast": {
     "n": "Mind Blast",
     "t": 1,
-    "ft": "Deal !NB!HL{0:f1}x{1} {target}"
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}",
+    "fbt": "Deal 1.5x{matk} {target}"
   },
   "MagicMissile": {
     "n": "Magic Missile",
