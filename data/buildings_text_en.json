@@ -2,9 +2,17 @@
   "ghall": "Guild Hall",
   "tavern": "Tavern",
   "work": "Workers' Barracks",
-  "craft": "Crafters' Circle",
+  "craft": "Crafter Circle",
   "stock": "Warehouse",
   "shop": "Shop",
   "hhall": "Heroes' Hall",
-  "gate": "Town Gate"
+  "gate": "World Gate",
+  "ghall_short": "Guild",
+  "tavern_short": "Tavern",
+  "work_short": "Workers",
+  "craft_short": "Crafters",
+  "stock_short": "Stock",
+  "shop_short": "Shop",
+  "hhall_short": "Heroes",
+  "gate_short": "World"
 }

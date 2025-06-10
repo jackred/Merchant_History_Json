@@ -245,12 +245,12 @@
     "Name": "Sea Salt Brownie",
     "SubType": "Food",
     "ItemLevel": 12,
-    "Value": 753,
-    "Rarity": 1,
+    "Value": 782,
+    "Rarity": 2,
     "Region": 2,
     "CrafterID": 6,
     "Time": 45,
-    "Exp": 419,
+    "Exp": 521,
     "Recipe": [
       {
         "Id": "809",
@@ -268,7 +268,7 @@
         "Type": 2
       }
     ],
-    "Cost": 131,
+    "Cost": 155,
     "StatNameA": "speed",
     "StatValueA": 30
   },

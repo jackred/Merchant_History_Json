@@ -20,11 +20,11 @@
   "buildings": {
     "Customer Frequency": {
       "name": "Customer Frequency",
-      "desc": "Customers will only enter the Shop while you are inside the building. Once a customer enters, they will wander around and eventually enter the checkout queue. This occurs whether or not you are still inside the building. When you first enter the Shop after not checking it in a while, there may be many customers lined up all ready to enter at once. If you make a customer wait in line too long, they may leave early without buying anything. If a customer leaves without you telling them to, they will use the “Come Back Later” feature if available, otherwise it will be treated as a regular decline."
+      "desc": "Customers will only enter the Shop while you are inside the building. Once a customer enters, they will wander around and eventually enter the checkout queue. This occurs whether or not you are still inside the building.\n\nWhen you first enter the Shop after not checking it in a while, there may be many customers lined up all ready to enter at once.\n\nIf you make a customer wait in line too long, they may leave early without buying anything. If a customer leaves without you telling them to, they will use the “Come Back Later” feature if available, otherwise it will be treated as a regular decline."
     },
     "Haggling": {
       "name": "Haggling",
-      "desc": "While selling to a customer you are able to haggle with them on the price. The likelihood of a customer buying the item for your haggle price is dependent on how much you are charging, your relationship with the customer, and how much the customer likes the item. Selling an item for below average price may increase your relationship with the customer. Alternatively selling for above average price may hurt your relationship with the customer."
+      "desc": "While selling to a customer you are able to haggle with them on the price. The likelihood of a customer buying the item for your haggle price is dependent on how much you are charging, your relationship with the customer, and how much the customer likes the item.\n\nSelling an item for below average price may increase your relationship with the customer. Alternatively selling for above average price may hurt your relationship with the customer."
     },
     "Customer Item Valuation": {
       "name": "Customer Item Valuation",
@@ -32,7 +32,7 @@
     },
     "Customer Relationship": {
       "name": "Customer Relationship",
-      "desc": "As you sell items with a customer your relationship with them may change. This relationship is represented by their hearts. You can gain and lose hearts with a customer dependent on the deal you give them and how much they like the item. The more hearts you have with a customer, the more likely they are to accept deals you offer them so be sure to maintain good relationships!"
+      "desc": "As you sell items with a customer your relationship with them may change. This relationship is represented by their hearts.\n\nYou can gain and lose hearts with a customer dependent on the deal you give them and how much they like the item.\n\nThe more hearts you have with a customer, the more likely they are to accept deals you offer them so be sure to maintain good relationships!"
     },
     "Customer Level": {
       "name": "Customer Level",
@@ -40,23 +40,23 @@
     },
     "Customer Traits": {
       "name": "Customer Traits",
-      "desc": "Customers may also have traits that will affect how much they like an item, how much they will pay for an item, and if they are willing to buy the item at all. Be sure to pay attention to traits when deciding what to sell to a customer!"
+      "desc": "Customers may also have traits that will affect how much they like an item, how much they will pay for an item, and if they are willing to buy the item at all.\n\nBe sure to pay attention to traits when deciding what to sell to a customer!"
     },
     "Customer Energy": {
       "name": "Customer Energy",
-      "desc": "Each customer has their own energy points, and can only enter the Shop if they have at least 1 energy available. When a customer makes a purchase or is declined at the register, they will spend an energy point. However, if the “Come Back Later” feature is used, customers will leave the store without using energy and will return after some time. Customers recharge energy whether or not you are playing, and each customer has a different recharge rate as well as max energy they can store. Every customer also has a different cooldown for when they can re-enter after coming in the store, which is unrelated to energy."
+      "desc": "Each customer has their own energy points, and can only enter the Shop if they have at least 1 energy available. When a customer makes a purchase or is declined at the register, they will spend an energy point. However, if the “Come Back Later” feature is used, customers will leave the store without using energy and will return after some time.\n\nCustomers recharge energy whether or not you are playing, and each customer has a different recharge rate as well as max energy they can store.\n\nEvery customer also has a different cooldown for when they can re-enter after coming in the store, which is unrelated to energy."
     },
     "Customer Come Back Later": {
       "name": "Customer Come Back Later",
-      "desc": "Instead of declining a customer's sale, you will sometimes have the option to ask them to Come Back Later. Doing this will not consume energy, and the customer will then re-enter the Shop after a period of time. After being asked to Come Back Later once, the option will not become available again until the customer is sold to or declined like normal."
+      "desc": "Instead of declining a customer's sale, you will sometimes have the option to ask them to Come Back Later. Doing this will not consume energy, and the customer will then re-enter the Shop after a period of time.\n\nAfter being asked to Come Back Later once, the option will not become available again until the customer is sold to or declined like normal."
     },
     "Market Fluctuation": {
       "name": "Market Fluctuation",
-      "desc": "All item values will fluctuate based on their current market value. The market updates frequently, so something that sold for a very high price previously may sell for much less now. When viewing the market, the greener the item’s value is, the higher it is above the item’s default price. The more red the item’s value is, the lower it is below the item’s default price. Note that you can only view the market price of items you have discovered. Market prices are the same for all players, so be sure to let your friends know when an item is hot!"
+      "desc": "All item values will fluctuate based on their current market value. The market updates frequently, so something that sold for a very high price previously may sell for much less now.\n\nWhen viewing the market, the greener the item’s value is, the higher it is above the item’s default price.\n\nThe more red the item’s value is, the lower it is below the item’s default price.\n\nNote that you can only view the market price of items you have discovered.\n\nMarket prices are the same for all players, so be sure to let your friends know when an item is hot!"
     },
     "Bargain Bin": {
       "name": "Bargain Bin",
-      "desc": "The Bargain Bin is a place to sell any and all items that you don’t wish to give a designated slot. Items placed here will be automatically sold over time, at which point gold will be available to collect. The only downside is that all items placed here will be sold at a 25% markdown based on the current market price… What a bargain!"
+      "desc": "The Bargain Bin is a place to sell any and all items that you don’t wish to give a designated slot. Items placed here will be automatically sold over time, at which point gold will be available to collect.\n\nThe only downside is that all items placed here will be sold at a 25% markdown based on the current market price… What a bargain!"
     },
     "Shop Table": {
       "name": "Shop Table",
@@ -64,35 +64,43 @@
     },
     "Glass Case": {
       "name": "Glass Case",
-      "desc": "Glass Case is a special type of sell slot. Only equipment can be placed in a Glass Case and will sell for a 50% markup based on its current market price at time of listing. Only items of rarity Rare or higher can be placed inside. Customers think items placed here are fancier than those on a regular table."
+      "desc": "Glass Case is a special type of sell slot. Only equipment can be placed in a Glass Case and will sell for a 50% markup based on its current market price at time of listing.\n\nOnly items of rarity Rare or higher can be placed inside. Customers think items placed here are fancier than those on a regular table."
     },
-    "Bulk Case": {
-      "name": "Bulk Case",
-      "desc": "Bulk Case is a special type of sell slot. Only materials or consumables can be placed in a Bulk Case. Items sold here must be sold in stacks of certain sizes, dependent on the item rarity. Stack sizes are 40 for common, 20 for uncommon, 10 for rare, 5 for epic, 2 for legendary, and 1 for mythic. Items put in a Bulk Case will sell for their current market price at time of listing. Customers love thinking they are getting more for their money, even though they are not technically."
+    "Bulk Bin": {
+      "name": "Bulk Bin",
+      "desc": "Bulk Case is a special type of sell slot. Only materials can be placed in a Bulk Case.\n\nMaterials sold here must be sold in stacks of certain sizes, dependent on the item rarity. Stack sizes are 40 for common, 20 for uncommon, 10 for rare, 5 for epic, 2 for legendary, and 1 for mythic.\n\nMaterials put in a Bulk Case will sell for their current market price at time of listing. Customers love thinking they are getting more for their money, even though they are not technically."
+    },
+    "Banquet Table": {
+      "name": "Banquet Table",
+      "desc": "Banquet Table is a special type of sell slot. Only consumables can be placed on a Banquet Table.Consumables sold here must be sold in stacks of 4.\n\nConsumables put on a Banquet Table will sell for their current market price at time of listing. Customers love thinking they are getting more for their money, even though they are not technically."
     },
     "Capacity": {
       "name": "Capacity",
-      "desc": "Capacity is the total amount of inventory slots you have. Each material or consumable stack will use 1 capacity, regardless of stack size. Each equipment will use 1 capacity as well, but will not stack. Duplicates of the same equipment will use 1 capacity each. If you have reached max capacity, any new equipment or new materials/consumables that do not already have a stack will be placed in the Collection Box instead for a period of time. The same capacity value is shared between equipment, consumables, and materials."
+      "desc": "Capacity is the total amount of inventory slots you have. Each material or consumable stack will use 1 capacity, regardless of stack size. Each equipment will use 1 capacity as well, but will not stack. Duplicates of the same equipment will use 1 capacity each.\n\nIf you have reached max capacity, any new equipment or new materials/consumables that do not already have a stack will be placed in the Collection Box instead for a period of time.\n\nThe same capacity value is shared between equipment, consumables, and materials."
     },
     "Stack Size": {
       "name": "Stack Size",
-      "desc": "All materials and consumables have a maximum stack size, which is indicated by the Stock Stack Size shown on the top of the screen. If you reach maximum stack size for an item in Stock, any more of that item you collect will be placed in the Collection Box instead for a period of time."
+      "desc": "All materials and consumables have a maximum stack size, which is indicated by the Stock Stack Size shown on the top of the screen.\n\nIf you reach maximum stack size for an item in Stock, any more of that item you collect will be placed in the Collection Box instead for a period of time."
     },
     "Collection Box": {
       "name": "Collection Box",
-      "desc": "When any collected items are unable to be placed in Stock for any reason, they will be placed in the Collection Box instead. This is indicated by the icon on the top right of an item icon when collecting: a bag means it was sent to Stock, and a chest means it was sent to your Collection Box. If you are able to free up space in your Stock, you will be able to move Collection Box items to Stock to keep them safe. You can choose individual items to move to your Stock from your Collection Box, and you do not need to take them all. You can also choose to send items from the Collection Box to the Shop Bargain Bin for the market price at the time of listing, including the Bargain Bin markdown. An item with a green number panel in its top left corner indicates it has multiple stacks that will expire at different times, and the time displayed shows the stack that will expire soonest. The item amount shown is the combined total of all stacks of the item. If an item expires from the Collection Box, it will automatically be sent to the Bargain Bin for the lowest possible price including the Bargain Bin markdown, not current market value, so it is best to handle the items yourself!"
+      "desc": "When any collected items are unable to be placed in Stock for any reason, they will be placed in the Collection Box instead. This is indicated by the icon on the top right of an item icon when collecting: a bag means it was sent to Stock, and a chest means it was sent to your Collection Box.\n\nIf you are able to free up space in your Stock, you will be able to move Collection Box items to Stock to keep them safe. You can choose individual items to move to your Stock from your Collection Box, and you do not need to take them all.\n\nYou can also choose to send items from the Collection Box to the Shop Bargain Bin for the market price at the time of listing, including the Bargain Bin markdown.\n\nAn item with a green number panel in its top left corner indicates it has multiple stacks that will expire at different times, and the time displayed shows the stack that will expire soonest. The item amount shown is the combined total of all stacks of the item.\n\nIf an item expires from the Collection Box, it will automatically be sent to the Bargain Bin for the lowest possible price including the Bargain Bin markdown, not current market value, so it is best to handle the items yourself!"
     },
     "Locations": {
       "name": "Locations",
-      "desc": "Your Town Gate building level determines how many locations you have available for your heroes to quest at and workers to work at. A hero must still meet the level requirement to quest at a location, even if it is unlocked. Occasionally quest locations will run out of enemies to fight, and you will have to wait a time for the enemies to return."
+      "desc": "Your Town Gate building level determines how many locations you have available for your heroes to quest at and workers to work at. A hero must still meet the level requirement to quest at a location, even if it is unlocked.\n\nOccasionally quest locations will run out of enemies to fight, and you will have to wait a time for the enemies to return."
     },
     "Travel Time": {
       "name": "Travel Time",
       "desc": "Your Town Gate can affect the time it takes for your heroes to travel to and from a location. This does not affect combat time, but will reduce overall quest time. The current modifier is determined by the building level."
     },
+    "Expeditions": {
+      "name": "Expeditions",
+      "desc": "Expeditions are a series of quests at a location. Only one expedition can be active per region. Before you can start an expedition at a location you must win an amount of quests at that location. To begin an Expedition you must have a wagon capable of exploring the region.\n\nWagons have different sizes. The size determines how many heroes the Wagon can carry and how many supply slots. Supplies are split into Ration slots and Gear slots. Wagon size also determines heal amount after each encounter. Wagons also have a grade. The grade can decrease travel time and increase Wagon heal amount.\n\nWhen providing Rations to a Wagon you can place one item into a slot with amount equal to number of heroes in the party. Rations will boost your heroes after each encounter at  fraction of the item's normal value. When an expedition is complete or called back early all remaining supplies are discarded.\n\nExpeditions have three stages: Travelling, Adventuring, and Returning. Each location has a travel time. This time duration is used for Travelling and Returning times. If your heroes are not already Returning, you may call them back early and they will enter the Returning phase. If you call you heroes back while they are in the Travelling phase, they will Return in half the amount of time that they have been Travelling for.\n\nWhile Adventuring your heroes will encounter many enemies and random items. After every encounter all heroes are revived if fainted, then healed up to a percent of their maximum health determined by the Wagon. If their health is already above this threshold they will not be healed by the wagon. Then Ration items are applied to your heroes to boost them further. If your entire party faints, the enemy will be skipped pending any gear items, and the party will revive and continue on to the next enemy."
+    },
     "Crafters": {
       "name": "Crafters",
-      "desc": "Any Crafters you have unlocked will stay in the Crafters’ Circle building. You can unlock more crafters by improving the building!"
+      "desc": "Any Crafters you have unlocked will stay in the Crafters’ Circle building. Crafters' max level is determined by the Crafters' Circle building level."
     },
     "Crafter Recipes": {
       "name": "Crafter Recipes",
@@ -100,27 +108,27 @@
     },
     "Crafter Queues": {
       "name": "Crafter Queues",
-      "desc": "Crafter queues allow you to queue multiple items to be crafted at once, though they will still only be crafted one at a time. You unlock more queue slots by leveling up the Crafters’ Circle building."
+      "desc": "Crafter queues allow you to queue multiple items to be crafted at once, though they will still only be crafted one at a time.\n\nYou unlock more queue slots by leveling up the Crafters’ Circle building."
     },
     "Crafter Choose Amount": {
       "name": "Crafter Choose Amount",
-      "desc": "For consumables and materials you are able to change the stack size amount you craft at once! You can increase the max stack size to craft at once by upgrading the Crafters’ Circle building."
+      "desc": "For consumables and materials you are able to change the stack size amount you craft at once!\n\nYou can increase the max stack size to craft at once by upgrading the Crafters’ Circle building."
     },
     "Crafter Mana": {
       "name": "Crafter Mana",
-      "desc": "Crafter Mana is used to improve your crafted items. For materials and consumables, you can use mana to craft a larger quantity of the item. For equipment, you can use it to improve your odds of getting a higher item grade. Crafter Mana is refreshed for the crafter upon crafter level up. You also have a chance to gain more crafter mana after each craft."
+      "desc": "Crafter Mana is used to improve your crafted items.\n\nFor materials and consumables, you can use mana to craft a larger quantity of the item. For equipment, you can use it to improve your odds of getting a higher item grade.\n\nCrafter Mana is refreshed for the crafter upon crafter level up. You also have a chance to gain more crafter mana after each craft."
     },
     "Infusion Buffs": {
       "name": "Infusion Buffs",
-      "desc": "A single material can be applied to equipment to provide an extra bonus to a single stat for the cost of one mana, extra gold, and extra time. This bonus may be different depending on if the material is being applied to a weapon, armor, or a trinket. There is a chance this infusion may fail. The higher your crafter level, the better chance you have to succeed. The greater the difference between the equipment level and the material level, the more chance you have for a failure."
+      "desc": "A single material can be applied to equipment to provide an extra bonus to a single stat for the cost of one mana, extra gold, and extra time.\n\nThis bonus may be different depending on if the material is being applied to a weapon, armor, or a trinket.\n\nThere is a chance this infusion may fail. The higher your crafter level, the better chance you have to succeed. The greater the difference between the equipment level and the material level, the more chance you have for a failure."
     },
     "Infusion Synergies": {
       "name": "Infusion Synergies",
-      "desc": "Two materials can be applied to equipment to provide a variety of unique bonuses for the cost of two mana, extra gold, and extra time. If the two materials synergize together, there is no chance for failure. If they do not, it will fail, and one of the materials will be chosen at random to provide a Buff to the equipment. This Buff will not fail."
+      "desc": "Two materials can be applied to equipment to provide a variety of unique bonuses for the cost of two mana, extra gold, and extra time.\n\nIf the two materials synergize together, there is no chance for failure. If they do not, it will fail, and one of the materials will be chosen at random to provide a Buff to the equipment. This Buff will not fail."
     },
     "Infusion Synergies+": {
       "name": "Infusion Synergies+",
-      "desc": "Three materials can be applied to equipment to provide a variety of unique bonuses for the cost of three mana, extra gold, and extra time. This works exactly the same regular Synergies except now you can add a gem as a third material. This third material has no effect on whether or not the first two materials will synergize or not. This gem will provide a grade bonus to the equipment. This grade bonus will be applied regardless of if the Synergy succeeds or not."
+      "desc": "Three materials can be applied to equipment to provide a variety of unique bonuses for the cost of three mana, extra gold, and extra time.\n\nThis works exactly the same regular Synergies except now you can add a gem as a third material. This third material has no effect on whether or not the first two materials will synergize or not.\n\nThis gem will provide a grade bonus to the equipment. This grade bonus will be applied regardless of if the Synergy succeeds or not."
     },
     "Heroes": {
       "name": "Heroes",
@@ -132,15 +140,15 @@
     },
     "Hero Equipment": {
       "name": "Hero Equipment",
-      "desc": "From the Hero Stats you can access a hero’s equipment. You are only able to edit a hero’s equipment if they are currently contracted, alive, and not questing. Something to consider before dismissing a hero is to remove all of their equipment in case you need it later."
+      "desc": "From the Hero Stats you can access a hero’s equipment.\n\nYou are only able to edit a hero’s equipment if they are currently contracted, alive, and not questing. Something to consider before dismissing a hero is to remove all of their equipment in case you need it later."
     },
     "Hero Dismiss": {
       "name": "Hero Dismiss",
-      "desc": "When a hero uses all the quests from their contract you will have the option to renew their contract for a new number of quests of your choice, or dismiss them. If you dismiss them they will return to the Tavern and keep all equipment you gave them. Next time you hire them they will still have the same equipment as when they were dismissed."
+      "desc": "When a hero uses all the quests from their contract you will have the option to renew their contract for a new number of quests of your choice, or dismiss them.\n\nIf you dismiss them they will return to the Tavern and keep all equipment you gave them. Next time you hire them they will still have the same equipment as when they were dismissed."
     },
     "Hero Revive": {
       "name": "Hero Revive",
-      "desc": "A hero may faint upon losing a battle. If this happens, you can pay gold to revive them instantly, or wait for the hero to automatically revive after a waiting time. The amount of gold needed to revive instantly will decrease as the revive timer decreases."
+      "desc": "A hero may faint upon losing a battle. If this happens, you can pay gold to revive them instantly, or wait for the hero to automatically revive after a waiting time.\n\nThe amount of gold needed to revive instantly will decrease as the revive timer decreases."
     },
     "Hero Consumables": {
       "name": "Hero Consumables",
@@ -148,51 +156,55 @@
     },
     "Hero Boosts": {
       "name": "Hero Boosts",
-      "desc": "Within the Hero Consumables menu you can also apply Hero Boosts. A hero can only have 1 boost active at a time, but you can use multiple of the same boost to extend its duration. The effects of the boost will not stack, however. The boost effect will only be applied once no matter how many times it is used."
+      "desc": "Within the Hero Consumables menu you can also apply Hero Boosts.\n\nA hero can only have 1 boost active at a time, but you can use multiple of the same boost to extend its duration. The effects of the boost will not stack, however. The boost effect will only be applied once no matter how many times it is used."
     },
     "Party Battles": {
       "name": "Party Battles",
-      "desc": "Occasionally you will run across strong enemies that require multiple heroes to defeat. In order to join the fight, a hero must first meet the location level requirement. Turn order is indicated by the number displayed below each hero’s level when placed into the party layout. A tough enemy may defeat your party at first, but the enemy will stay weakened if you manage to deal enough damage to pass a notch on its HP bar for an easier fight next time. Be quick though, as the enemy will slowly heal over time!"
+      "desc": "Occasionally you will run across strong enemies that require multiple heroes to defeat. In order to join the fight, a hero must first meet the location level requirement.\n\nTurn order is indicated by the number displayed below each hero’s level when placed into the party layout.\n\nA tough enemy may defeat your party at first, but the enemy will stay weakened if you manage to deal enough damage to pass a notch on its HP bar for an easier fight next time. Be quick though, as the enemy will slowly heal over time!"
+    },
+    "Guild Quick Join": {
+      "name": "Guild Quick Join",
+      "desc": "Using this feature will place you in a community guild.\n\nCommunities guilds have no leader and cannot participate in Guild Leagues. It is reccommended for new players."
     },
     "Guild Chat": {
       "name": "Guild Chat",
-      "desc": "Guild Chat is a place for you and your guildmates to communicate and view a log of various ongoings within the guild. Feel free to chat, but be sure to be friendly or they may kick you out! You can also make requests from your guildmates and contribute to your guildmates requests."
+      "desc": "Guild Chat is a place for you and your guildmates to communicate and view a log of various ongoings within the guild.\n\nFeel free to chat, but be sure to be friendly or they may kick you out!\n\nYou can also make requests from your guildmates and contribute to your guildmates requests."
     },
     "Guild Requests": {
       "name": "Guild Requests",
-      "desc": "In the Guild Request Menu, guildmates can request and receive items from one another. This is limited to only materials that you have discovered. The amount of materials you can request depends on the rarity of the material you want. Upon making a request, you must wait until either the full request amount is met or the request timer expires before collecting any available items. Once the request is complete, you’ll have a set amount of time to collect the items or else they will be automatically discarded."
+      "desc": "In the Guild Request Menu, guildmates can request and receive items from one another. This is limited to only materials that you have discovered.\n\nThe amount of materials you can request depends on the rarity of the material you want.\n\nOnce the request is complete, you’ll have a set amount of time to collect the items or else they will be automatically discarded."
     },
     "Building Experience": {
       "name": "Building Experience",
-      "desc": "By tapping on the hammer button on the Town screen, you can access the building upgrade menu. Here you can contribute gold or materials to level up buildings and unlock upgrades, which are shared across your whole Guild. Once you contribute to a building, you are unable to get the gold back. If you leave your Guild, you will take all of your building experience with you, but it will be automatically applied to the total contribution of the buildings for the next Guild you join. In order to receive level benefits from a building there is a minimum amount you must donate per level. For example your guild may have Shop level 3 but since you have not contributed a lot to Shop you may only be receiving level 1 benefits. On the other hand, you maintain maximum benefits you have ever received even when the guild loses investors or you change a guild. For example you let’s say you are in a 2 person guild. The other member has gained a lot of experience for the Town Gate so that Yarsol is unlocked. You may have only contributed the minimum amount so that you can quest in Yarsol but they did the rest. If the other person leaves the guild you will still be able to quest in Yarsol, however you will not unlock any new locations until you upgrade the building back to your benefit level."
+      "desc": "By tapping on the hammer button on the Town screen, you can access the building upgrade menu. Here you can contribute gold or materials to level up buildings and unlock upgrades, which are shared across your whole Guild.\n\nOnce you contribute to a building, you are unable to get the gold back.\n\nIf you leave your Guild, you will take all of your building experience with you, but it will be automatically applied to the total contribution of the buildings for the next Guild you join.\n\nIn order to receive level benefits from a building there is a minimum amount you must donate per level. For example your guild may have Shop level 3 but since you have not contributed a lot to Shop you may only be receiving level 1 benefits.\n\nOn the other hand, you maintain maximum benefits you have ever received even when the guild loses investors or you change a guild.\n\nFor example, you let’s say you are in a 2 person guild. The other member has gained a lot of experience for the Town Gate so that Yarsol is unlocked. You may have only contributed the minimum amount so that you can quest in Yarsol, but they did the rest. If the other person leaves the guild you will still be able to quest in Yarsol, however you will not unlock any new locations until you upgrade the building back to your benefit level."
     },
     "Building Top Investor": {
       "name": "Building Top Investor",
-      "desc": "The player with the most invested in a building will be displayed on the building upgrade screen. Just as a friendly competition! You can see how you and your other guildmates match up by switching to the “investor view” on the building upgrade screen."
+      "desc": "The player with the most invested in a building will be displayed on the building upgrade screen. Just as a friendly competition!\n\nYou can see how you and your other guildmates match up by switching to the “investor view” on the building upgrade screen."
     },
     "Building Material Investment": {
       "name": "Building Material Investment",
-      "desc": "You and your guildmates can make a material contribution to each building in the town once per day. The value of the materials will be added to the building gold investment total, with an additional multiplier based on the total number of guildmates that have contributed. The more, the merrier! Unlike gold investments however, material donations will stay with the guild even after you leave."
+      "desc": "You and your guildmates can make a material contribution to each building in the town once per day. The value of the materials will be added to the building gold investment total, with an additional multiplier based on the total number of guildmates that have contributed. The more, the merrier!\n\nUnlike gold investments however, material donations will stay with the guild even after you leave."
     },
     "Guild Leagues": {
       "name": "Guild Leagues",
-      "desc": "Each week guilds will compete in a bracket against other guilds of the same league. Guild members must work together to complete a set of increasingly difficult missions. When your guild completes a stage of the mission you get a large point bonus. This bonus gets larger with each stage. Depending on how well your guild does, you may be promoted, demoted or have no league movement. Your guild movement is determined at the end of the league war. At the end of the league war there is a short cooldown time before the next one starts. As your guild rises through the leagues the guild gains powerful bonuses. These bonuses are available for all members. If a player joins a guild mid-war they cannot compete in the missions until the next league war. If a guild is created mid-war it will not be able to participate in league wars until the next week. "
+      "desc": "Each week guilds will compete in a bracket against other guilds of the same league.\n\nGuild members must work together to complete a set of increasingly difficult missions. When your guild completes a stage of the mission you get a large point bonus. This bonus gets larger with each stage.\n\nDepending on how well your guild does, you may be promoted, demoted or have no league movement. Your guild movement is determined at the end of the league war.\n\nAt the end of the league war there is a short cooldown time before the next one starts.\n\nAs your guild rises through the leagues the guild gains powerful bonuses. These bonuses are available for all members.\n\nIf a player joins a guild mid-war they cannot compete in the missions until the next league war.\n\nIf a guild is created mid-war it will not be able to participate in league wars until the next week. "
     },
     "Hirable Heroes": {
       "name": "Hirable Heroes",
-      "desc": "In the Tavern, you’ll find any unemployed heroes currently available to be hired. There may only be few available at the start, but upgrading your Tavern will eventually unlock more heroes to hire. Any employed heroes you’ve dismissed will return here for you to hire again in the future as well."
+      "desc": "In the Tavern, you’ll find any unemployed heroes currently available to be hired. There may only be few available at the start, but upgrading your Tavern will eventually unlock more heroes to hire.\n\nAny employed heroes you’ve dismissed will return here for you to hire again in the future as well."
     },
     "Hero Contracts": {
       "name": "Hero Contracts",
-      "desc": "If you want a hero to work for you, you first must hire them with a contract. You have the option to hire a hero for a set number of quest charges indicated by the lightning bolt icon, in exchange for a set amount of gold. When questing, a charge will be used regardless of whether the hero wins or loses. Once their contract is complete, you can choose to renew or dismiss. You can increase the number of options per timeframe by levelling up the hero in the shop. Be sure to keep a healthy relationship with the local talent as it may effect their prices and more!"
+      "desc": "If you want a hero to work for you, you first must hire them with a contract. You have the option to hire a hero for a set number of quest charges indicated by the lightning bolt icon, in exchange for a set amount of gold.\n\nWhen questing, a charge will be used regardless of whether the hero wins or loses. Once their contract is complete, you can choose to renew or dismiss.\n\nYou can increase the number of options per timeframe by levelling up the hero in the shop. Be sure to keep a healthy relationship with the local talent as it may effect their prices and more!"
     },
     "Tavern Gold": {
       "name": "Tavern Gold",
-      "desc": "Your Tavern will slowly accumulate gold overtime, which can be collected from a button resting above the Tavern on the town screen. Tavern upgrades will sometimes unlock faster gold generation, so be sure to invest in this local establishment!"
+      "desc": "Your Tavern will slowly accumulate gold over time, which can be collected from a button resting above the Tavern on the town screen.\n\nTavern upgrades will sometimes unlock faster gold generation, so be sure to invest in this local establishment!"
     },
     "Workers": {
       "name": "Workers",
-      "desc": "All workers you have unlocked will be held in the Workers’ Barracks. Upgrading this building will unlock new locations for your workers to work at. You can also recieve additional contract types as you upgrade the Workers' Barracks. "
+      "desc": "All workers you have unlocked will be held in the Workers’ Barracks.\n\nUpgrading this building will unlock new locations for your workers to work at. You can also recieve additional contract types as you upgrade the Workers' Barracks. "
     },
     "Hiring Workers": {
       "name": "Hiring Workers",
@@ -258,7 +270,7 @@
     },
     "luck": {
       "name": "Luck",
-      "desc": "Luck. No effect for now. Increases rewards from quests. Increases chance for skills"
+      "desc": "Increases rewards from quests"
     },
     "exp": {
       "name": "Exp",
@@ -415,7 +427,7 @@
       "desc": ""
     },
     "8": {
-      "name": "Careful how long you send your workers out for, you cannot call them back early!",
+      "name": "Give your workers a deal they like! They may work harder and bring you more materials!",
       "desc": ""
     },
     "9": {

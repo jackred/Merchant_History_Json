@@ -4,9 +4,9 @@
     "Name": "Tuvale Bag",
     "Parcel": "TuvaleUncommonBag",
     "Region": 1,
-    "Rarity": 2,
+    "Rarity": 1,
     "Type": "",
-    "Desc": "An uncommon Tuvale Bag"
+    "Desc": "A common Tuvale Bag"
   },
   "2": {
     "Id": "2",
@@ -19,21 +19,21 @@
   },
   "3": {
     "Id": "3",
-    "Name": "Legendary Tuvale Bag",
+    "Name": "Epic Tuvale Bag",
     "Parcel": "TuvaleEpicBag",
     "Region": 1,
-    "Rarity": 5,
+    "Rarity": 4,
     "Type": "",
-    "Desc": "A legendary Tuvale Bag"
+    "Desc": "An epic Tuvale Bag"
   },
   "4": {
     "Id": "4",
     "Name": "Yarsol Bag",
     "Parcel": "YarsolUncommonBag",
     "Region": 2,
-    "Rarity": 2,
+    "Rarity": 1,
     "Type": "",
-    "Desc": "An uncommon Yarsol Bag"
+    "Desc": "A common Yarsol Bag"
   },
   "5": {
     "Id": "5",
@@ -46,26 +46,26 @@
   },
   "6": {
     "Id": "6",
-    "Name": "Legendary Yarsol Bag",
+    "Name": "Epic Yarsol Bag",
     "Parcel": "YarsolEpicBag",
     "Region": 2,
-    "Rarity": 5,
+    "Rarity": 4,
     "Type": "",
-    "Desc": "A legendary Yarsol Bag"
+    "Desc": "An epic Yarsol Bag"
   },
   "7": {
     "Id": "7",
     "Name": "Aldur Bag",
-    "Parcel": "YarsolEpicBag",
+    "Parcel": "AldurUncommonBag",
     "Region": 3,
-    "Rarity": 2,
+    "Rarity": 1,
     "Type": "",
-    "Desc": "An uncommon Aldur Bag"
+    "Desc": "A common Aldur Bag"
   },
   "8": {
     "Id": "8",
     "Name": "Rare Aldur Bag",
-    "Parcel": "YarsolEpicBag",
+    "Parcel": "AldurRareBag",
     "Region": 3,
     "Rarity": 3,
     "Type": "",
@@ -73,12 +73,12 @@
   },
   "9": {
     "Id": "9",
-    "Name": "Legendary Aldur Bag",
-    "Parcel": "YarsolEpicBag",
+    "Name": "Epic Aldur Bag",
+    "Parcel": "AldurEpicBag",
     "Region": 3,
-    "Rarity": 5,
+    "Rarity": 4,
     "Type": "",
-    "Desc": "A legendary Aldur Bag"
+    "Desc": "An epic Aldur Bag"
   },
   "10": {
     "Id": "10",

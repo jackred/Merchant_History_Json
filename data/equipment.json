@@ -7,17 +7,17 @@
     "MainType": "Dagger",
     "SubType": "Dagger",
     "CrafterID": 1,
-    "Value": 22,
+    "Value": 11,
     "Time": 34,
-    "Exp": 13,
+    "Exp": 11,
     "Recipe": [
       {
-        "Id": "4",
+        "Id": "2",
         "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 3,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1,
     "Ssf": true
@@ -30,17 +30,17 @@
     "MainType": "Sword",
     "SubType": "Sword",
     "CrafterID": 1,
-    "Value": 30,
+    "Value": 15,
     "Time": 34,
-    "Exp": 15,
+    "Exp": 12,
     "Recipe": [
       {
-        "Id": "4",
+        "Id": "2",
         "Amount": 3,
         "Type": 2
       }
     ],
-    "Cost": 3,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1
   },
@@ -52,17 +52,17 @@
     "MainType": "Wand",
     "SubType": "Wand",
     "CrafterID": 3,
-    "Value": 22,
+    "Value": 11,
     "Time": 34,
-    "Exp": 13,
+    "Exp": 11,
     "Recipe": [
       {
-        "Id": "3",
+        "Id": "1",
         "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 3,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1,
     "Ssf": true
@@ -75,17 +75,17 @@
     "MainType": "Club",
     "SubType": "Club",
     "CrafterID": 3,
-    "Value": 22,
+    "Value": 11,
     "Time": 34,
-    "Exp": 13,
+    "Exp": 11,
     "Recipe": [
       {
-        "Id": "3",
+        "Id": "1",
         "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 3,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1
   },
@@ -97,17 +97,17 @@
     "MainType": "Dagger",
     "SubType": "Knife",
     "CrafterID": 1,
-    "Value": 25,
+    "Value": 14,
     "Time": 38,
-    "Exp": 22,
+    "Exp": 20,
     "Recipe": [
       {
-        "Id": "4",
+        "Id": "2",
         "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 5,
+    "Cost": 4,
     "Rarity": 1,
     "Region": 1,
     "Ssf": true
@@ -120,17 +120,22 @@
     "MainType": "Axe",
     "SubType": "Axe",
     "CrafterID": 1,
-    "Value": 42,
+    "Value": 26,
     "Time": 38,
-    "Exp": 25,
+    "Exp": 22,
     "Recipe": [
       {
-        "Id": "4",
+        "Id": "2",
         "Amount": 4,
+        "Type": 2
+      },
+      {
+        "Id": "1",
+        "Amount": 1,
         "Type": 2
       }
     ],
-    "Cost": 6,
+    "Cost": 5,
     "Rarity": 1,
     "Region": 1,
     "Ssf": true
@@ -143,17 +148,17 @@
     "MainType": "Stave",
     "SubType": "Stave",
     "CrafterID": 3,
-    "Value": 42,
+    "Value": 21,
     "Time": 38,
-    "Exp": 25,
+    "Exp": 21,
     "Recipe": [
       {
-        "Id": "3",
+        "Id": "1",
         "Amount": 4,
         "Type": 2
       }
     ],
-    "Cost": 6,
+    "Cost": 4,
     "Rarity": 1,
     "Region": 1
   },
@@ -165,22 +170,22 @@
     "MainType": "Axe",
     "SubType": "Hatchet",
     "CrafterID": 1,
-    "Value": 30,
+    "Value": 15,
     "Time": 34,
-    "Exp": 15,
+    "Exp": 12,
     "Recipe": [
       {
-        "Id": "4",
+        "Id": "2",
         "Amount": 2,
         "Type": 2
       },
       {
-        "Id": "3",
+        "Id": "1",
         "Amount": 1,
         "Type": 2
       }
     ],
-    "Cost": 3,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1,
     "Ssf": true
@@ -224,22 +229,22 @@
     "MainType": "Sword",
     "SubType": "Longsword",
     "CrafterID": 1,
-    "Value": 75,
+    "Value": 55,
     "Time": 46,
-    "Exp": 49,
+    "Exp": 45,
     "Recipe": [
       {
         "Id": "4",
-        "Amount": 5,
+        "Amount": 4,
         "Type": 2
       },
       {
-        "Id": "3",
+        "Id": "1",
         "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 12,
+    "Cost": 10,
     "Rarity": 1,
     "Region": 1
   },
@@ -411,13 +416,13 @@
     "MainType": "Sword",
     "SubType": "Longsword",
     "CrafterID": 1,
-    "Value": 390,
+    "Value": 325,
     "Time": 86,
-    "Exp": 144,
+    "Exp": 141,
     "Recipe": [
       {
         "Id": "4",
-        "Amount": 10,
+        "Amount": 8,
         "Type": 2
       },
       {
@@ -427,11 +432,11 @@
       },
       {
         "Id": "32",
-        "Amount": 8,
+        "Amount": 6,
         "Type": 2
       }
     ],
-    "Cost": 44,
+    "Cost": 39,
     "Rarity": 2,
     "Region": 1,
     "BStats": {
@@ -473,9 +478,9 @@
     "MainType": "Wand",
     "SubType": "Mystic Wand",
     "CrafterID": 3,
-    "Value": 154,
+    "Value": 140,
     "Time": 114,
-    "Exp": 129,
+    "Exp": 126,
     "Recipe": [
       {
         "Id": "3",
@@ -493,7 +498,7 @@
         "Type": 2
       }
     ],
-    "Cost": 30,
+    "Cost": 29,
     "Rarity": 3,
     "Region": 1,
     "BStats": {
@@ -510,9 +515,9 @@
     "MainType": "Stave",
     "SubType": "Mystic Stave",
     "CrafterID": 3,
-    "Value": 426,
+    "Value": 407,
     "Time": 210,
-    "Exp": 294,
+    "Exp": 290,
     "Recipe": [
       {
         "Id": "18",
@@ -530,7 +535,7 @@
         "Type": 2
       }
     ],
-    "Cost": 72,
+    "Cost": 70,
     "Rarity": 3,
     "Region": 1,
     "BStats": {
@@ -613,7 +618,7 @@
     "MainType": "Sword",
     "SubType": "Sword",
     "CrafterID": 1,
-    "Value": 930,
+    "Value": 845,
     "Time": 186,
     "Exp": 306,
     "Recipe": [
@@ -633,7 +638,7 @@
         "Type": 2
       }
     ],
-    "Cost": 105,
+    "Cost": 99,
     "Rarity": 3,
     "Region": 1,
     "BStats": {
@@ -649,13 +654,13 @@
     "MainType": "MDefHead",
     "SubType": "Hood",
     "CrafterID": 4,
-    "Value": 30,
+    "Value": 19,
     "Time": 34,
-    "Exp": 15,
+    "Exp": 12,
     "Recipe": [
       {
-        "Id": "5",
-        "Amount": 3,
+        "Id": "7",
+        "Amount": 4,
         "Type": 2
       }
     ],
@@ -671,17 +676,17 @@
     "MainType": "EvaArm",
     "SubType": "Gloves",
     "CrafterID": 4,
-    "Value": 22,
+    "Value": 11,
     "Time": 34,
-    "Exp": 13,
+    "Exp": 11,
     "Recipe": [
       {
-        "Id": "5",
+        "Id": "7",
         "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 3,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1
   },
@@ -693,17 +698,17 @@
     "MainType": "EvaChest",
     "SubType": "Tunic",
     "CrafterID": 4,
-    "Value": 94,
+    "Value": 23,
     "Time": 34,
-    "Exp": 18,
+    "Exp": 13,
     "Recipe": [
       {
-        "Id": "5",
-        "Amount": 10,
+        "Id": "7",
+        "Amount": 5,
         "Type": 2
       }
     ],
-    "Cost": 8,
+    "Cost": 3,
     "Rarity": 1,
     "Region": 1
   },
@@ -715,17 +720,17 @@
     "MainType": "EvaLeg",
     "SubType": "Shoes",
     "CrafterID": 4,
-    "Value": 59,
+    "Value": 15,
     "Time": 34,
-    "Exp": 18,
+    "Exp": 12,
     "Recipe": [
       {
-        "Id": "5",
-        "Amount": 6,
+        "Id": "7",
+        "Amount": 3,
         "Type": 2
       }
     ],
-    "Cost": 6,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1
   },
@@ -737,13 +742,13 @@
     "MainType": "DefHead",
     "SubType": "Helm",
     "CrafterID": 2,
-    "Value": 30,
+    "Value": 19,
     "Time": 34,
-    "Exp": 15,
+    "Exp": 12,
     "Recipe": [
       {
-        "Id": "6",
-        "Amount": 3,
+        "Id": "8",
+        "Amount": 4,
         "Type": 2
       }
     ],
@@ -759,17 +764,17 @@
     "MainType": "DefArm",
     "SubType": "Bracers",
     "CrafterID": 2,
-    "Value": 22,
+    "Value": 11,
     "Time": 34,
-    "Exp": 13,
+    "Exp": 11,
     "Recipe": [
       {
-        "Id": "6",
+        "Id": "8",
         "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 3,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1
   },
@@ -781,17 +786,17 @@
     "MainType": "DefChest",
     "SubType": "Platemail",
     "CrafterID": 2,
-    "Value": 94,
+    "Value": 23,
     "Time": 34,
-    "Exp": 18,
+    "Exp": 13,
     "Recipe": [
       {
-        "Id": "6",
-        "Amount": 10,
+        "Id": "8",
+        "Amount": 5,
         "Type": 2
       }
     ],
-    "Cost": 8,
+    "Cost": 3,
     "Rarity": 1,
     "Region": 1
   },
@@ -803,17 +808,17 @@
     "MainType": "DefLeg",
     "SubType": "Greaves",
     "CrafterID": 2,
-    "Value": 59,
+    "Value": 15,
     "Time": 34,
-    "Exp": 18,
+    "Exp": 12,
     "Recipe": [
       {
-        "Id": "6",
-        "Amount": 6,
+        "Id": "8",
+        "Amount": 3,
         "Type": 2
       }
     ],
-    "Cost": 6,
+    "Cost": 2,
     "Rarity": 1,
     "Region": 1
   },
@@ -825,17 +830,17 @@
     "MainType": "MDefHead",
     "SubType": "Cowl",
     "CrafterID": 4,
-    "Value": 42,
+    "Value": 21,
     "Time": 38,
-    "Exp": 25,
+    "Exp": 21,
     "Recipe": [
       {
-        "Id": "5",
+        "Id": "7",
         "Amount": 4,
         "Type": 2
       }
     ],
-    "Cost": 6,
+    "Cost": 4,
     "Rarity": 1,
     "Region": 1
   },
@@ -847,17 +852,17 @@
     "MainType": "MDefArm",
     "SubType": "Mitts",
     "CrafterID": 4,
-    "Value": 42,
+    "Value": 14,
     "Time": 38,
-    "Exp": 25,
+    "Exp": 20,
     "Recipe": [
       {
-        "Id": "5",
-        "Amount": 4,
+        "Id": "7",
+        "Amount": 2,
         "Type": 2
       }
     ],
-    "Cost": 6,
+    "Cost": 4,
     "Rarity": 1,
     "Region": 1
   },
@@ -896,17 +901,17 @@
     "MainType": "MDefChest",
     "SubType": "Robe",
     "CrafterID": 4,
-    "Value": 97,
+    "Value": 26,
     "Time": 38,
-    "Exp": 35,
+    "Exp": 22,
     "Recipe": [
       {
-        "Id": "5",
-        "Amount": 10,
+        "Id": "7",
+        "Amount": 5,
         "Type": 2
       }
     ],
-    "Cost": 10,
+    "Cost": 5,
     "Rarity": 1,
     "Region": 1
   },
@@ -1160,9 +1165,9 @@
     "MainType": "DefHead",
     "SubType": "Helm",
     "CrafterID": 2,
-    "Value": 142,
+    "Value": 118,
     "Time": 54,
-    "Exp": 61,
+    "Exp": 57,
     "Recipe": [
       {
         "Id": "6",
@@ -1175,12 +1180,12 @@
         "Type": 2
       },
       {
-        "Id": "15",
+        "Id": "13",
         "Amount": 3,
         "Type": 2
       }
     ],
-    "Cost": 17,
+    "Cost": 15,
     "Rarity": 2,
     "Region": 1,
     "BStats": {
@@ -1415,9 +1420,9 @@
     "MainType": "DefChest",
     "SubType": "Platemail",
     "CrafterID": 2,
-    "Value": 223,
+    "Value": 241,
     "Time": 90,
-    "Exp": 113,
+    "Exp": 117,
     "Recipe": [
       {
         "Id": "6",
@@ -1425,17 +1430,17 @@
         "Type": 2
       },
       {
-        "Id": "13",
-        "Amount": 8,
-        "Type": 2
-      },
-      {
         "Id": "12",
         "Amount": 6,
         "Type": 2
+      },
+      {
+        "Id": "15",
+        "Amount": 2,
+        "Type": 2
       }
     ],
-    "Cost": 30,
+    "Cost": 31,
     "Rarity": 3,
     "Region": 1,
     "BStats": {
@@ -1860,9 +1865,9 @@
     "MainType": "DefChest",
     "SubType": "Platemail",
     "CrafterID": 2,
-    "Value": 521,
+    "Value": 545,
     "Time": 270,
-    "Exp": 384,
+    "Exp": 389,
     "Recipe": [
       {
         "Id": "51",
@@ -1880,7 +1885,7 @@
         "Type": 2
       }
     ],
-    "Cost": 87,
+    "Cost": 89,
     "Rarity": 4,
     "Region": 1,
     "BStats": {
@@ -2620,9 +2625,9 @@
     "MainType": "Dagger",
     "SubType": "Dagger",
     "CrafterID": 1,
-    "Value": 904,
+    "Value": 950,
     "Time": 296,
-    "Exp": 591,
+    "Exp": 600,
     "Recipe": [
       {
         "Id": "71",
@@ -2635,7 +2640,7 @@
         "Type": 2
       }
     ],
-    "Cost": 162,
+    "Cost": 165,
     "Rarity": 2,
     "Region": 2,
     "BStats": {
@@ -3400,9 +3405,9 @@
     "MainType": "MDefChest",
     "SubType": "Robe",
     "CrafterID": 4,
-    "Value": 789,
+    "Value": 1273,
     "Time": 224,
-    "Exp": 398,
+    "Exp": 487,
     "Recipe": [
       {
         "Id": "59",
@@ -3413,9 +3418,14 @@
         "Id": "65",
         "Amount": 6,
         "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 5,
+        "Type": 2
       }
     ],
-    "Cost": 115,
+    "Cost": 152,
     "Rarity": 2,
     "Region": 2,
     "BStats": {
@@ -3430,9 +3440,9 @@
     "MainType": "MDefHead",
     "SubType": "Hood",
     "CrafterID": 4,
-    "Value": 609,
+    "Value": 996,
     "Time": 248,
-    "Exp": 420,
+    "Exp": 494,
     "Recipe": [
       {
         "Id": "59",
@@ -3443,9 +3453,14 @@
         "Id": "68",
         "Amount": 5,
         "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 4,
+        "Type": 2
       }
     ],
-    "Cost": 114,
+    "Cost": 143,
     "Rarity": 2,
     "Region": 2,
     "BStats": {
@@ -3460,9 +3475,9 @@
     "MainType": "MDefLeg",
     "SubType": "Sandals",
     "CrafterID": 4,
-    "Value": 522,
+    "Value": 716,
     "Time": 208,
-    "Exp": 309,
+    "Exp": 346,
     "Recipe": [
       {
         "Id": "59",
@@ -3473,9 +3488,14 @@
         "Id": "64",
         "Amount": 4,
         "Type": 2
+      },
+      {
+        "Id": "72",
+        "Amount": 2,
+        "Type": 2
       }
     ],
-    "Cost": 86,
+    "Cost": 101,
     "Rarity": 2,
     "Region": 2,
     "BStats": {
@@ -3490,13 +3510,18 @@
     "MainType": "EvaArm",
     "SubType": "Wraps",
     "CrafterID": 4,
-    "Value": 864,
+    "Value": 974,
     "Time": 264,
-    "Exp": 507,
+    "Exp": 528,
     "Recipe": [
       {
         "Id": "59",
         "Amount": 8,
+        "Type": 2
+      },
+      {
+        "Id": "63",
+        "Amount": 4,
         "Type": 2
       },
       {
@@ -3505,7 +3530,7 @@
         "Type": 2
       }
     ],
-    "Cost": 142,
+    "Cost": 150,
     "Rarity": 2,
     "Region": 2,
     "BStats": {
@@ -3990,7 +4015,7 @@
     "MainType": "Braclet",
     "SubType": "Ring",
     "CrafterID": 7,
-    "Value": 5934,
+    "Value": 6857,
     "Time": 336,
     "Exp": 765,
     "Recipe": [
@@ -4010,7 +4035,7 @@
         "Type": 2
       }
     ],
-    "Cost": 548,
+    "Cost": 619,
     "Rarity": 3,
     "Region": 2,
     "BStats": {
@@ -4026,9 +4051,9 @@
     "MainType": "Necklace",
     "SubType": "Pendant",
     "CrafterID": 7,
-    "Value": 1862,
+    "Value": 2004,
     "Time": 360,
-    "Exp": 831,
+    "Exp": 850,
     "Recipe": [
       {
         "Id": "100",
@@ -4041,7 +4066,7 @@
         "Type": 2
       }
     ],
-    "Cost": 248,
+    "Cost": 259,
     "Rarity": 3,
     "Region": 2,
     "BStats": {
@@ -4093,7 +4118,7 @@
     "MainType": "Necklace",
     "SubType": "Trinket",
     "CrafterID": 7,
-    "Value": 8529,
+    "Value": 9168,
     "Time": 520,
     "Exp": 1275,
     "Recipe": [
@@ -4113,7 +4138,7 @@
         "Type": 2
       }
     ],
-    "Cost": 810,
+    "Cost": 859,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -4129,7 +4154,7 @@
     "MainType": "Necklace",
     "SubType": "Necklace",
     "CrafterID": 7,
-    "Value": 8323,
+    "Value": 9680,
     "Time": 420,
     "Exp": 1063,
     "Recipe": [
@@ -4149,7 +4174,7 @@
         "Type": 2
       }
     ],
-    "Cost": 768,
+    "Cost": 871,
     "Rarity": 3,
     "Region": 2,
     "BStats": {
@@ -4267,7 +4292,7 @@
     "MainType": "Necklace",
     "SubType": "Medallion",
     "CrafterID": 7,
-    "Value": 5912,
+    "Value": 5873,
     "Time": 520,
     "Exp": 1275,
     "Recipe": [
@@ -4287,7 +4312,7 @@
         "Type": 2
       }
     ],
-    "Cost": 610,
+    "Cost": 607,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -4303,7 +4328,7 @@
     "MainType": "MDefHead",
     "SubType": "Great Helm",
     "CrafterID": 2,
-    "Value": 3423,
+    "Value": 3384,
     "Time": 520,
     "Exp": 1275,
     "Recipe": [
@@ -4323,7 +4348,7 @@
         "Type": 2
       }
     ],
-    "Cost": 420,
+    "Cost": 417,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -4375,7 +4400,7 @@
     "MainType": "MDefLeg",
     "SubType": "Greaves",
     "CrafterID": 2,
-    "Value": 4644,
+    "Value": 5336,
     "Time": 472,
     "Exp": 1122,
     "Recipe": [
@@ -4395,7 +4420,7 @@
         "Type": 2
       }
     ],
-    "Cost": 494,
+    "Cost": 547,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -4711,7 +4736,7 @@
     "MainType": "EvaHead",
     "SubType": "Trifold",
     "CrafterID": 4,
-    "Value": 5640,
+    "Value": 5587,
     "Time": 520,
     "Exp": 1275,
     "Recipe": [
@@ -4731,7 +4756,7 @@
         "Type": 2
       }
     ],
-    "Cost": 590,
+    "Cost": 586,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -4747,7 +4772,7 @@
     "MainType": "EvaChest",
     "SubType": "Jacket",
     "CrafterID": 4,
-    "Value": 6701,
+    "Value": 6661,
     "Time": 520,
     "Exp": 1275,
     "Recipe": [
@@ -4767,7 +4792,7 @@
         "Type": 2
       }
     ],
-    "Cost": 671,
+    "Cost": 668,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -4783,7 +4808,7 @@
     "MainType": "EvaLeg",
     "SubType": "Boots",
     "CrafterID": 4,
-    "Value": 6071,
+    "Value": 6019,
     "Time": 488,
     "Exp": 1173,
     "Recipe": [
@@ -4803,7 +4828,7 @@
         "Type": 2
       }
     ],
-    "Cost": 610,
+    "Cost": 606,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -4819,7 +4844,7 @@
     "MainType": "EvaArm",
     "SubType": "Gloves",
     "CrafterID": 4,
-    "Value": 5545,
+    "Value": 5492,
     "Time": 504,
     "Exp": 1224,
     "Recipe": [
@@ -4839,7 +4864,7 @@
         "Type": 2
       }
     ],
-    "Cost": 576,
+    "Cost": 572,
     "Rarity": 4,
     "Region": 2,
     "BStats": {
@@ -5657,7 +5682,7 @@
     "Region": 3,
     "BStats": {
       "crit": 7,
-      "eva": 5
+      "eva": 6
     }
   },
   "192": {
@@ -5930,7 +5955,7 @@
     "Region": 3,
     "BStats": {
       "mdef": 7,
-      "eva": 5
+      "eva": 6
     }
   },
   "202": {
@@ -6633,7 +6658,7 @@
     "MainType": "Spear",
     "SubType": "Pike",
     "CrafterID": 1,
-    "Value": 8033,
+    "Value": 8395,
     "Time": 814,
     "Exp": 2499,
     "Recipe": [
@@ -6653,7 +6678,7 @@
         "Type": 2
       }
     ],
-    "Cost": 938,
+    "Cost": 966,
     "Rarity": 4,
     "Region": 3,
     "BStats": {
@@ -6992,9 +7017,9 @@
     "Id": "232",
     "Name": "Ogre Bone Chestplate",
     "ItemLevel": 30,
-    "ItemSlot": 2,
-    "MainType": "DefHead",
-    "SubType": "Helm",
+    "ItemSlot": 4,
+    "MainType": "DefChest",
+    "SubType": "Platemail",
     "CrafterID": 2,
     "Value": 5784,
     "Time": 630,
@@ -8475,7 +8500,7 @@
     "Exp": 1290,
     "Recipe": [
       {
-        "Id": "203",
+        "Id": "194",
         "Amount": 5,
         "Type": 2
       },
@@ -8535,7 +8560,7 @@
     "Exp": 1521,
     "Recipe": [
       {
-        "Id": "203",
+        "Id": "194",
         "Amount": 7,
         "Type": 2
       },
@@ -8565,7 +8590,7 @@
     "Exp": 1575,
     "Recipe": [
       {
-        "Id": "203",
+        "Id": "194",
         "Amount": 10,
         "Type": 2
       },

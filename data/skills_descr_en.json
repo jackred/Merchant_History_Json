@@ -503,6 +503,12 @@
     "ft": "{buff}40%{outHeal}",
     "fbt": ""
   },
+  "Whirlpool": {
+    "n": "Whirlpool",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {party} !NB!HL{5}{turn} & 1 {rotation}",
+    "fbt": "Deal 1.5x{matk} & {debuff}40%{eva} 2 {turn} {party} & 1 {rotation}"
+  },
   "": {
     "": ""
   }

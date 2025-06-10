@@ -358,9 +358,7 @@
     "Name": "Joe",
     "ShopMinLevel": 1,
     "Rarity": 1,
-    "Traits": [
-      ""
-    ],
+    "Traits": [],
     "TraitMods": [
       0
     ],

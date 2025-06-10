@@ -1,0 +1,3110 @@
+{
+  "Enabled": true,
+  "Achievements": [
+    {
+      "Id": "0",
+      "Name": "Path of the Merchant",
+      "Section": "Epic",
+      "Rarity": 1,
+      "Stages": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    {
+      "Id": "1",
+      "Name": "Customer Relations",
+      "Section": "Epic",
+      "Rarity": 4,
+      "Stages": [
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "Id": "2",
+      "Name": "Artisan Mastery",
+      "Section": "Epic",
+      "Rarity": 2,
+      "Stages": [
+        "21",
+        "22",
+        "23"
+      ]
+    },
+    {
+      "Id": "3",
+      "Name": "Angel Investor",
+      "Section": "Epic",
+      "Rarity": 1,
+      "Stages": [
+        "31",
+        "32",
+        "33"
+      ]
+    },
+    {
+      "Id": "4",
+      "Name": "Infusion Mastery",
+      "Section": "Epic",
+      "Rarity": 3,
+      "Stages": [
+        "40",
+        "41",
+        "42"
+      ]
+    },
+    {
+      "Id": "5",
+      "Name": "Underpaid Laborer",
+      "Section": "Epic",
+      "Rarity": 2,
+      "Stages": [
+        "51",
+        "52",
+        "53"
+      ]
+    },
+    {
+      "Id": "6",
+      "Name": "Divine Warrior",
+      "Section": "Epic",
+      "Rarity": 6,
+      "Stages": [
+        "61",
+        "62",
+        "63",
+        "64"
+      ]
+    },
+    {
+      "Id": "7",
+      "Name": "Will of the Warrior",
+      "Section": "Epic",
+      "Rarity": 3,
+      "Stages": [
+        "71",
+        "72",
+        "73"
+      ]
+    },
+    {
+      "Id": "8",
+      "Name": "Bane of Behemoths",
+      "Section": "Epic",
+      "Rarity": 5,
+      "Stages": [
+        "79",
+        "80",
+        "81"
+      ]
+    },
+    {
+      "Id": "9",
+      "Name": "Executioner's Fury",
+      "Section": "Epic",
+      "Rarity": 3,
+      "Stages": [
+        "86",
+        "87",
+        "88"
+      ]
+    },
+    {
+      "Id": "10",
+      "Name": "Heart of the Philanthropist",
+      "Section": "Epic",
+      "Rarity": 4,
+      "Stages": [
+        "95",
+        "96",
+        "97",
+        "98",
+        "99",
+        "100",
+        "101"
+      ]
+    },
+    {
+      "Id": "11",
+      "Name": "Mercenary of Tuvale",
+      "Section": "Epic",
+      "Rarity": 4,
+      "Stages": [
+        "312",
+        "313",
+        "314",
+        "315",
+        "316",
+        "317",
+        "318",
+        "319",
+        "320",
+        "321",
+        "322",
+        "323",
+        "324",
+        "325",
+        "326",
+        "327",
+        "328",
+        "329"
+      ]
+    },
+    {
+      "Id": "12",
+      "Name": "Swashbuckler of Yarsol",
+      "Section": "Epic",
+      "Rarity": 4,
+      "Stages": [
+        "336",
+        "337",
+        "338",
+        "339",
+        "340",
+        "341",
+        "342",
+        "343",
+        "344",
+        "345",
+        "346",
+        "347",
+        "348",
+        "349",
+        "350",
+        "351",
+        "352",
+        "353"
+      ]
+    },
+    {
+      "Id": "13",
+      "Name": "Stoneheart of Aldur",
+      "Section": "Epic",
+      "Rarity": 4,
+      "Stages": [
+        "360",
+        "361",
+        "362",
+        "363",
+        "364",
+        "365",
+        "366",
+        "367",
+        "368",
+        "369",
+        "370",
+        "371",
+        "372",
+        "373",
+        "374",
+        "375",
+        "376",
+        "377",
+        "378",
+        "379",
+        "380"
+      ]
+    },
+    {
+      "Id": "108",
+      "Name": "Beetle Bruiser",
+      "Section": "Enemy",
+      "Rarity": 1,
+      "Stages": [
+        "388",
+        "389",
+        "390",
+        "391",
+        "392"
+      ]
+    },
+    {
+      "Id": "109",
+      "Name": "Spider Squisher",
+      "Section": "Enemy",
+      "Rarity": 2,
+      "Stages": [
+        "393",
+        "394",
+        "395",
+        "396",
+        "397"
+      ]
+    },
+    {
+      "Id": "110",
+      "Name": "Serpent Slayer",
+      "Section": "Enemy",
+      "Rarity": 2,
+      "Stages": [
+        "398",
+        "399",
+        "400",
+        "401",
+        "402"
+      ]
+    },
+    {
+      "Id": "111",
+      "Name": "Hog Hunter",
+      "Section": "Enemy",
+      "Rarity": 3,
+      "Stages": [
+        "403",
+        "404",
+        "405",
+        "406",
+        "407"
+      ]
+    },
+    {
+      "Id": "112",
+      "Name": "Lone Wolf",
+      "Section": "Enemy",
+      "Rarity": 3,
+      "Stages": [
+        "408",
+        "409",
+        "410",
+        "411",
+        "412"
+      ]
+    },
+    {
+      "Id": "113",
+      "Name": "Goblin Slayer",
+      "Section": "Enemy",
+      "Rarity": 5,
+      "Stages": [
+        "413",
+        "414",
+        "415",
+        "416",
+        "417",
+        "418",
+        "419",
+        "420",
+        "421",
+        "422",
+        "423",
+        "424",
+        "425",
+        "426",
+        "427",
+        "428"
+      ]
+    },
+    {
+      "Id": "114",
+      "Name": "Bane of Bears",
+      "Section": "Enemy",
+      "Rarity": 4,
+      "Stages": [
+        "429",
+        "430",
+        "431",
+        "432",
+        "433"
+      ]
+    },
+    {
+      "Id": "115",
+      "Name": "Stone Shatterer",
+      "Section": "Enemy",
+      "Rarity": 6,
+      "Stages": [
+        "897",
+        "898",
+        "899",
+        "900",
+        "901",
+        "902",
+        "903",
+        "904",
+        "905"
+      ]
+    },
+    {
+      "Id": "116",
+      "Name": "Timber Terror",
+      "Section": "Enemy",
+      "Rarity": 6,
+      "Stages": [
+        "1088",
+        "1089",
+        "1090",
+        "1091",
+        "1092",
+        "1093",
+        "1094",
+        "1095",
+        "1096"
+      ]
+    },
+    {
+      "Id": "117",
+      "Name": "Albatross Marksman",
+      "Section": "Enemy",
+      "Rarity": 1,
+      "Stages": [
+        "516",
+        "517",
+        "518",
+        "519",
+        "520"
+      ]
+    },
+    {
+      "Id": "118",
+      "Name": "Shellbreaker",
+      "Section": "Enemy",
+      "Rarity": 2,
+      "Stages": [
+        "521",
+        "522",
+        "523",
+        "524",
+        "525"
+      ]
+    },
+    {
+      "Id": "119",
+      "Name": "Lizard Lurker",
+      "Section": "Enemy",
+      "Rarity": 2,
+      "Stages": [
+        "526",
+        "527",
+        "528",
+        "529",
+        "530"
+      ]
+    },
+    {
+      "Id": "120",
+      "Name": "Claw Crusher",
+      "Section": "Enemy",
+      "Rarity": 3,
+      "Stages": [
+        "531",
+        "532",
+        "533",
+        "534",
+        "535"
+      ]
+    },
+    {
+      "Id": "121",
+      "Name": "Jellyfishing",
+      "Section": "Enemy",
+      "Rarity": 3,
+      "Stages": [
+        "536",
+        "537",
+        "538",
+        "539",
+        "540"
+      ]
+    },
+    {
+      "Id": "122",
+      "Name": "Kobold Slayer",
+      "Section": "Enemy",
+      "Rarity": 5,
+      "Stages": [
+        "541",
+        "542",
+        "543",
+        "544",
+        "545",
+        "546",
+        "547",
+        "548",
+        "549",
+        "550",
+        "551",
+        "552"
+      ]
+    },
+    {
+      "Id": "123",
+      "Name": "Striker Scourge",
+      "Section": "Enemy",
+      "Rarity": 4,
+      "Stages": [
+        "553",
+        "554",
+        "555",
+        "556",
+        "557"
+      ]
+    },
+    {
+      "Id": "124",
+      "Name": "Toad Tyrant",
+      "Section": "Enemy",
+      "Rarity": 4,
+      "Stages": [
+        "558",
+        "559",
+        "560"
+      ]
+    },
+    {
+      "Id": "125",
+      "Name": "Antler Breaker",
+      "Section": "Enemy",
+      "Rarity": 1,
+      "Stages": [
+        "664",
+        "665",
+        "666",
+        "667",
+        "668"
+      ]
+    },
+    {
+      "Id": "126",
+      "Name": "Ram Rounder",
+      "Section": "Enemy",
+      "Rarity": 2,
+      "Stages": [
+        "669",
+        "670",
+        "671",
+        "672",
+        "673"
+      ]
+    },
+    {
+      "Id": "127",
+      "Name": "Soul Purger",
+      "Section": "Enemy",
+      "Rarity": 3,
+      "Stages": [
+        "679",
+        "680",
+        "681",
+        "682",
+        "683"
+      ]
+    },
+    {
+      "Id": "128",
+      "Name": "Roc Reaper",
+      "Section": "Enemy",
+      "Rarity": 2,
+      "Stages": [
+        "674",
+        "675",
+        "676",
+        "677",
+        "678"
+      ]
+    },
+    {
+      "Id": "129",
+      "Name": "Lake Menace",
+      "Section": "Enemy",
+      "Rarity": 4,
+      "Stages": [
+        "684",
+        "685",
+        "686",
+        "687",
+        "688"
+      ]
+    },
+    {
+      "Id": "130",
+      "Name": "Ogre Omenbringer",
+      "Section": "Enemy",
+      "Rarity": 4,
+      "Stages": [
+        "689",
+        "690",
+        "691",
+        "692",
+        "693"
+      ]
+    },
+    {
+      "Id": "131",
+      "Name": "Drake's Demise",
+      "Section": "Enemy",
+      "Rarity": 3,
+      "Stages": [
+        "694",
+        "695",
+        "696"
+      ]
+    },
+    {
+      "Id": "132",
+      "Name": "Harpy Slayer",
+      "Section": "Enemy",
+      "Rarity": 5,
+      "Stages": [
+        "697",
+        "698",
+        "699",
+        "700",
+        "701",
+        "702",
+        "703",
+        "704",
+        "705",
+        "706",
+        "707",
+        "708"
+      ]
+    },
+    {
+      "Id": "345",
+      "Name": "Way of the Warrior",
+      "Section": "Hero",
+      "Rarity": 1,
+      "Stages": [
+        "1572",
+        "1573",
+        "1574"
+      ]
+    },
+    {
+      "Id": "346",
+      "Name": "Path of the Outlaw",
+      "Section": "Hero",
+      "Rarity": 1,
+      "Stages": [
+        "1575",
+        "1576",
+        "1577"
+      ]
+    },
+    {
+      "Id": "347",
+      "Name": "Journey of the Sorcerer",
+      "Section": "Hero",
+      "Rarity": 1,
+      "Stages": [
+        "1578",
+        "1579",
+        "1580"
+      ]
+    },
+    {
+      "Id": "348",
+      "Name": "Traveler of Fury",
+      "Section": "Hero",
+      "Rarity": 2,
+      "Stages": [
+        "1581",
+        "1582",
+        "1583"
+      ]
+    },
+    {
+      "Id": "349",
+      "Name": "Path of the Altruist",
+      "Section": "Hero",
+      "Rarity": 2,
+      "Stages": [
+        "1584",
+        "1585",
+        "1586"
+      ]
+    },
+    {
+      "Id": "350",
+      "Name": "Road of the Silent",
+      "Section": "Hero",
+      "Rarity": 2,
+      "Stages": [
+        "1587",
+        "1588",
+        "1589"
+      ]
+    },
+    {
+      "Id": "351",
+      "Name": "Trials of the Stoneheart",
+      "Section": "Hero",
+      "Rarity": 3,
+      "Stages": [
+        "1590",
+        "1591",
+        "1592"
+      ]
+    },
+    {
+      "Id": "352",
+      "Name": "Trail of Bones",
+      "Section": "Hero",
+      "Rarity": 3,
+      "Stages": [
+        "1593",
+        "1594",
+        "1595"
+      ]
+    },
+    {
+      "Id": "353",
+      "Name": "Way of the Wilderness",
+      "Section": "Hero",
+      "Rarity": 3,
+      "Stages": [
+        "1596",
+        "1597",
+        "1598"
+      ]
+    },
+    {
+      "Id": "354",
+      "Name": "Burdens of the Stalwart",
+      "Section": "Hero",
+      "Rarity": 3,
+      "Stages": [
+        "1599",
+        "1600",
+        "1601"
+      ]
+    },
+    {
+      "Id": "387",
+      "Name": "Forged in Flame",
+      "Section": "Crafter",
+      "Rarity": 2,
+      "Stages": [
+        "1754",
+        "1755",
+        "1756",
+        "1757",
+        "1758"
+      ]
+    },
+    {
+      "Id": "388",
+      "Name": "Molten Bender",
+      "Section": "Crafter",
+      "Rarity": 2,
+      "Stages": [
+        "1759",
+        "1760",
+        "1761",
+        "1762",
+        "1763"
+      ]
+    },
+    {
+      "Id": "389",
+      "Name": "Whittle Craftmaster",
+      "Section": "Crafter",
+      "Rarity": 2,
+      "Stages": [
+        "1764",
+        "1765",
+        "1766",
+        "1767",
+        "1768"
+      ]
+    },
+    {
+      "Id": "390",
+      "Name": "Needlepoint Weaver",
+      "Section": "Crafter",
+      "Rarity": 2,
+      "Stages": [
+        "1769",
+        "1770",
+        "1771",
+        "1772",
+        "1773"
+      ]
+    },
+    {
+      "Id": "391",
+      "Name": "Masterchef",
+      "Section": "Crafter",
+      "Rarity": 2,
+      "Stages": [
+        "1774",
+        "1775",
+        "1776",
+        "1777",
+        "1778"
+      ]
+    },
+    {
+      "Id": "417",
+      "Name": "Joe the Farmer",
+      "Section": "Customer",
+      "Rarity": 1,
+      "Stages": [
+        "1866",
+        "1867",
+        "1868"
+      ]
+    },
+    {
+      "Id": "418",
+      "Name": "Friend of Bob",
+      "Section": "Customer",
+      "Rarity": 2,
+      "Stages": [
+        "1869",
+        "1870",
+        "1871"
+      ]
+    },
+    {
+      "Id": "419",
+      "Name": "Jenny's Agent",
+      "Section": "Customer",
+      "Rarity": 2,
+      "Stages": [
+        "1872",
+        "1873",
+        "1874"
+      ]
+    },
+    {
+      "Id": "420",
+      "Name": "Edna's Steward",
+      "Section": "Customer",
+      "Rarity": 2,
+      "Stages": [
+        "1875",
+        "1876",
+        "1877"
+      ]
+    },
+    {
+      "Id": "421",
+      "Name": "Taste of Wealth",
+      "Section": "Customer",
+      "Rarity": 4,
+      "Stages": [
+        "1878",
+        "1879",
+        "1880"
+      ]
+    },
+    {
+      "Id": "469",
+      "Name": "Deforestation",
+      "Section": "Misc",
+      "Rarity": 1,
+      "Stages": [
+        "2153",
+        "2154",
+        "2155",
+        "2156",
+        "2157"
+      ]
+    },
+    {
+      "Id": "470",
+      "Name": "Rock and Stone",
+      "Section": "Misc",
+      "Rarity": 1,
+      "Stages": [
+        "2165",
+        "2166",
+        "2167",
+        "2168",
+        "2169"
+      ]
+    },
+    {
+      "Id": "471",
+      "Name": "Cheapskate",
+      "Section": "Misc",
+      "Rarity": 1,
+      "Stages": [
+        "2181"
+      ]
+    }
+  ],
+  "Stages": [
+    {
+      "Id": "0",
+      "QuestType": 1,
+      "AmountNeeded": 10000,
+      "Reward": "loot:2$10|gold:100"
+    },
+    {
+      "Id": "1",
+      "QuestType": 1,
+      "AmountNeeded": 100000,
+      "Reward": "loot:5$10|gold:1000"
+    },
+    {
+      "Id": "2",
+      "QuestType": 1,
+      "AmountNeeded": 1000000,
+      "Reward": "loot:8$10|gold:10000"
+    },
+    {
+      "Id": "11",
+      "QuestType": 40,
+      "AmountNeeded": 1000,
+      "Reward": "gold:10000"
+    },
+    {
+      "Id": "12",
+      "QuestType": 42,
+      "AmountNeeded": 1000,
+      "Reward": "gold:100000"
+    },
+    {
+      "Id": "13",
+      "QuestType": 41,
+      "AmountNeeded": 1000,
+      "Reward": "gold:300000"
+    },
+    {
+      "Id": "21",
+      "QuestType": 20,
+      "AmountNeeded": 1000,
+      "Reward": "tkn:45$10|tkn:300$5|tkn:20$5|gold:1000"
+    },
+    {
+      "Id": "22",
+      "QuestType": 20,
+      "AmountNeeded": 10000,
+      "Reward": "tkn:45$10|loot:37$5|tkn:301$5|tkn:21$5|gold:10000"
+    },
+    {
+      "Id": "23",
+      "QuestType": 20,
+      "AmountNeeded": 100000,
+      "Reward": "tkn:45$10|loot:37$10|tkn:302$5|tkn:22$5|gold:50000"
+    },
+    {
+      "Id": "31",
+      "QuestType": 2,
+      "AmountNeeded": 100000,
+      "Reward": "tkn:10$10|gold:10000"
+    },
+    {
+      "Id": "32",
+      "QuestType": 2,
+      "AmountNeeded": 1000000,
+      "Reward": "tkn:10$10|tkn:11$|gold:50000"
+    },
+    {
+      "Id": "33",
+      "QuestType": 2,
+      "AmountNeeded": 10000000,
+      "Reward": "tkn:10$10|tkn:11$10|tkn:12$5|gold:100000"
+    },
+    {
+      "Id": "40",
+      "QuestType": 23,
+      "AmountNeeded": 500,
+      "Reward": "tkn:45$5|tkn:22$5|gold:20000"
+    },
+    {
+      "Id": "41",
+      "QuestType": 23,
+      "AmountNeeded": 1000,
+      "Reward": "tkn:45$10|tkn:23$5|gold:50000"
+    },
+    {
+      "Id": "42",
+      "QuestType": 23,
+      "AmountNeeded": 10000,
+      "Reward": "tkn:45$20|tkn:24$5|gold:100000"
+    },
+    {
+      "Id": "51",
+      "QuestType": 35,
+      "AmountNeeded": 604800,
+      "Reward": "gold:1000|loot:2$5|tkn:309$5"
+    },
+    {
+      "Id": "52",
+      "QuestType": 35,
+      "AmountNeeded": 8640000,
+      "Reward": "tkn:310$10|gold:10000"
+    },
+    {
+      "Id": "53",
+      "QuestType": 35,
+      "AmountNeeded": 51840000,
+      "Reward": "tkn:311$10|gold:50000|title:5$"
+    },
+    {
+      "Id": "61",
+      "QuestType": 144,
+      "AmountNeeded": 10,
+      "Reward": "gold:1000|csm:1$10"
+    },
+    {
+      "Id": "62",
+      "QuestType": 144,
+      "AmountNeeded": 100,
+      "Reward": "loot:40$5|csm:4$10|gold:10000"
+    },
+    {
+      "Id": "63",
+      "QuestType": 144,
+      "AmountNeeded": 1000,
+      "Reward": "loot:40$10|csm:14$10|gold:50000"
+    },
+    {
+      "Id": "64",
+      "QuestType": 144,
+      "AmountNeeded": 10000,
+      "Reward": "loot:40$20|csm:20$10|gold:100000|title:6$"
+    },
+    {
+      "Id": "71",
+      "QuestType": 100,
+      "AmountNeeded": 100,
+      "Reward": "gold:1000|csm:1$10|tkn:1$5"
+    },
+    {
+      "Id": "72",
+      "QuestType": 100,
+      "AmountNeeded": 1000,
+      "Reward": "tkn:100$5|tkn:101$5|gold:10000"
+    },
+    {
+      "Id": "73",
+      "QuestType": 100,
+      "AmountNeeded": 10000,
+      "Reward": "loot:40$10|gold:50000|title:7$"
+    },
+    {
+      "Id": "79",
+      "QuestType": 101,
+      "AmountNeeded": 100,
+      "Reward": "tkn:140$10|gold:10000"
+    },
+    {
+      "Id": "80",
+      "QuestType": 101,
+      "AmountNeeded": 1000,
+      "Reward": "tkn:140$10|tkn:141$10|gold:50000"
+    },
+    {
+      "Id": "81",
+      "QuestType": 101,
+      "AmountNeeded": 10000,
+      "Reward": "loot:40$10|gold:100000|title:8$"
+    },
+    {
+      "Id": "86",
+      "QuestType": 221,
+      "AmountNeeded": 1000,
+      "Reward": "tkn:1$10|tkn:2$10|gold:10000"
+    },
+    {
+      "Id": "87",
+      "QuestType": 221,
+      "AmountNeeded": 5000,
+      "Reward": "tkn:1$15|tkn:2$15|gold:50000"
+    },
+    {
+      "Id": "88",
+      "QuestType": 221,
+      "AmountNeeded": 10000,
+      "Reward": "tkn:1$20|tkn:2$20|gold:100000|title:9$"
+    },
+    {
+      "Id": "95",
+      "QuestType": 10300,
+      "AmountNeeded": 1000,
+      "ReqVar": "1",
+      "Reward": "gold:5000|tkn:10$10"
+    },
+    {
+      "Id": "96",
+      "QuestType": 10300,
+      "AmountNeeded": 1000,
+      "ReqVar": "2",
+      "Reward": "tkn:10$10|tkn:11$10|gold:10000"
+    },
+    {
+      "Id": "97",
+      "QuestType": 10300,
+      "AmountNeeded": 500,
+      "ReqVar": "3",
+      "Reward": "tkn:12$10|tkn:11$10|tkn:10$10|gold:50000"
+    },
+    {
+      "Id": "98",
+      "QuestType": 10300,
+      "AmountNeeded": 300,
+      "ReqVar": "4",
+      "Reward": "tkn:13$5|tkn:12$10|tkn:11$10|tkn:10$10|gold:100000"
+    },
+    {
+      "Id": "99",
+      "QuestType": 10300,
+      "AmountNeeded": 100,
+      "ReqVar": "5",
+      "Reward": "gold:200000|tkn:13$5|tkn:12$20|tkn:11$20|tkn:10$20"
+    },
+    {
+      "Id": "100",
+      "QuestType": 10300,
+      "AmountNeeded": 100,
+      "ReqVar": "6",
+      "Reward": "gold:300000|tkn:13$5|tkn:12$50|tkn:11$50|tkn:10$50"
+    },
+    {
+      "Id": "101",
+      "QuestType": 300,
+      "AmountNeeded": 10000,
+      "Reward": "gold:500000|tkn:13$5|tkn:12$100|tkn:11$100|tkn:10$100|title:10$"
+    },
+    {
+      "Id": "312",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "scarab_woods",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "313",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "stomping_grounds",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "314",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "dryad_ruins",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "315",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "beetle_bridge",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "316",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "snake_pit",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "317",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "craggy_inlet",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "318",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "mugger's_trail",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "319",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "crosscut_cave",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "320",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "webbed_bridge",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "321",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "hoggers_lake",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "322",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "spider_sanctuary",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "323",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "old_hallow_tree",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "324",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "cutthroat_cross",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "325",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "submerged_cave",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "326",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "goblin_fort",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "327",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "haunted_monastery",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "328",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "ursa's_den",
+      "Reward": "tkn:100$1|gold:300"
+    },
+    {
+      "Id": "329",
+      "QuestType": 10120,
+      "AmountNeeded": 5000,
+      "ReqVar": "1",
+      "Reward": "tkn:100$10|tkn:140$20|gold:5000|title:11$"
+    },
+    {
+      "Id": "336",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "mossy_cave",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "337",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "yarsol_archipelago",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "338",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "confined_crevice",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "339",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "moody's_maelstrom",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "340",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "turtle_cay",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "341",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "rocky_penninsula",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "342",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "striker_strip",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "343",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "brine_atoll",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "344",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "gloomy_grotto",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "345",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "sandy_shores",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "346",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "dolphin_isle",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "347",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "clarice's_crack",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "348",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "quick_sand_pits",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "349",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "kobold_camp",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "350",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "croaker's_cave",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "351",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "unknown_reef",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "352",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "ss_mary_celeste",
+      "Reward": "tkn:101$1|gold:500"
+    },
+    {
+      "Id": "353",
+      "QuestType": 10120,
+      "AmountNeeded": 5000,
+      "ReqVar": "2",
+      "Reward": "tkn:101$10|tkn:141$20|gold:10000|title:12$"
+    },
+    {
+      "Id": "360",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "platinnus_landing",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "361",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "platinnus_passage",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "362",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "weeping_rock",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "363",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "aldur_lake",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "364",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "guidehouse_pass",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "365",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "greantheal_ruins",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "366",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "bloody_chasm",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "367",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "waterside_cave",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "368",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "bridge_falls",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "369",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "undors_lair",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "370",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "plane_of_contemplation",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "371",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "badmen_cliff",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "372",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "ancient_ritual_grounds",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "373",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "screecher_slaughter",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "374",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "dunderbaad_fortress",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "375",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "haras_castle",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "376",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "eternal_beacon",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "377",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "bunderwolds_last_stand",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "378",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "mysterious_falls",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "379",
+      "QuestType": 10110,
+      "AmountNeeded": 100,
+      "ReqVar": "lunderloud_lake",
+      "Reward": "tkn:102$1|gold:2000"
+    },
+    {
+      "Id": "380",
+      "QuestType": 10120,
+      "AmountNeeded": 5000,
+      "ReqVar": "3",
+      "Reward": "tkn:102$10|tkn:142$20|gold:50000|title:13$"
+    },
+    {
+      "Id": "388",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "1",
+      "Reward": "avatar:Avatars-Enemies-Region1-1$|gold:500"
+    },
+    {
+      "Id": "389",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Beetle",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "390",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "2",
+      "Reward": "avatar:Avatars-Enemies-Region1-2$|gold:500"
+    },
+    {
+      "Id": "391",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Beetle",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "392",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "3",
+      "Reward": "avatar:Avatars-Enemies-Region1-3$|gold:500|title:108$"
+    },
+    {
+      "Id": "393",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "4",
+      "Reward": "avatar:Avatars-Enemies-Region1-4$|gold:500"
+    },
+    {
+      "Id": "394",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Spider",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "395",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "5",
+      "Reward": "avatar:Avatars-Enemies-Region1-5$|gold:500"
+    },
+    {
+      "Id": "396",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Spider",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "397",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "6",
+      "Reward": "avatar:Avatars-Enemies-Region1-6$|gold:500|title:109$"
+    },
+    {
+      "Id": "398",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "7",
+      "Reward": "avatar:Avatars-Enemies-Region1-7$|gold:500"
+    },
+    {
+      "Id": "399",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Snake",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "400",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "8",
+      "Reward": "avatar:Avatars-Enemies-Region1-8$|gold:500"
+    },
+    {
+      "Id": "401",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Snake",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "402",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "9",
+      "Reward": "avatar:Avatars-Enemies-Region1-9$|gold:500|title:110$"
+    },
+    {
+      "Id": "403",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "10",
+      "Reward": "avatar:Avatars-Enemies-Region1-10$|gold:500"
+    },
+    {
+      "Id": "404",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Boar",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "405",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "11",
+      "Reward": "avatar:Avatars-Enemies-Region1-11$|gold:500"
+    },
+    {
+      "Id": "406",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Boar",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "407",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "12",
+      "Reward": "avatar:Avatars-Enemies-Region1-12$|gold:500|title:111$"
+    },
+    {
+      "Id": "408",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "13",
+      "Reward": "avatar:Avatars-Enemies-Region1-13$|gold:500"
+    },
+    {
+      "Id": "409",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Wolf",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "410",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "14",
+      "Reward": "avatar:Avatars-Enemies-Region1-14$|gold:500"
+    },
+    {
+      "Id": "411",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Wolf",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "412",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "15",
+      "Reward": "avatar:Avatars-Enemies-Region1-15$|gold:500|title:112$"
+    },
+    {
+      "Id": "413",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "16",
+      "Reward": "avatar:Avatars-Enemies-Region1-16$|gold:500"
+    },
+    {
+      "Id": "414",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "17",
+      "Reward": "avatar:Avatars-Enemies-Region1-17$|gold:500"
+    },
+    {
+      "Id": "415",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "18",
+      "Reward": "avatar:Avatars-Enemies-Region1-18$|gold:500"
+    },
+    {
+      "Id": "416",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Goblin Footman",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "417",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "19",
+      "Reward": "avatar:Avatars-Enemies-Region1-19$|gold:500"
+    },
+    {
+      "Id": "418",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "20",
+      "Reward": "avatar:Avatars-Enemies-Region1-20$|gold:500"
+    },
+    {
+      "Id": "419",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Goblin Mage",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "420",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "21",
+      "Reward": "avatar:Avatars-Enemies-Region1-21$|gold:500"
+    },
+    {
+      "Id": "421",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "22",
+      "Reward": "avatar:Avatars-Enemies-Region1-22$|gold:500"
+    },
+    {
+      "Id": "422",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Goblin Thief",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "423",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "23",
+      "Reward": "avatar:Avatars-Enemies-Region1-23$|gold:500"
+    },
+    {
+      "Id": "424",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "24",
+      "Reward": "avatar:Avatars-Enemies-Region1-24$|gold:500"
+    },
+    {
+      "Id": "425",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Goblin Archer",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "426",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "25",
+      "Reward": "avatar:Avatars-Enemies-Region1-25$|gold:500"
+    },
+    {
+      "Id": "427",
+      "QuestType": 10115,
+      "AmountNeeded": 500,
+      "ReqVar": "Goblin",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "428",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "26",
+      "Reward": "avatar:Avatars-Enemies-Region1-26$|gold:500|title:113$"
+    },
+    {
+      "Id": "429",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "27",
+      "Reward": "avatar:Avatars-Enemies-Region1-27$|gold:500"
+    },
+    {
+      "Id": "430",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Bear",
+      "Reward": "loot:1$10|gold:500"
+    },
+    {
+      "Id": "431",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "28",
+      "Reward": "avatar:Avatars-Enemies-Region1-28$|gold:500"
+    },
+    {
+      "Id": "432",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Bear",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "433",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "29",
+      "Reward": "avatar:Avatars-Enemies-Region1-29$|gold:500|title:114$"
+    },
+    {
+      "Id": "516",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "34",
+      "Reward": "avatar:Avatars-Enemies-Region2-34$|gold:3000"
+    },
+    {
+      "Id": "517",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Albatross",
+      "Reward": "loot:4$10|gold:3000"
+    },
+    {
+      "Id": "518",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "35",
+      "Reward": "avatar:Avatars-Enemies-Region2-35$|gold:3000"
+    },
+    {
+      "Id": "519",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Albatross",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "520",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "36",
+      "Reward": "avatar:Avatars-Enemies-Region2-36$|gold:3000|title:117$"
+    },
+    {
+      "Id": "521",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "37",
+      "Reward": "avatar:Avatars-Enemies-Region2-37$|gold:3000"
+    },
+    {
+      "Id": "522",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Turtle",
+      "Reward": "loot:4$10|gold:3000"
+    },
+    {
+      "Id": "523",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "38",
+      "Reward": "avatar:Avatars-Enemies-Region2-38$|gold:3000"
+    },
+    {
+      "Id": "524",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Turtle",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "525",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "39",
+      "Reward": "avatar:Avatars-Enemies-Region2-39$|gold:3000|title:118$"
+    },
+    {
+      "Id": "526",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "40",
+      "Reward": "avatar:Avatars-Enemies-Region2-40$|gold:3000"
+    },
+    {
+      "Id": "527",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Sand Lizard",
+      "Reward": "loot:4$10|gold:3000"
+    },
+    {
+      "Id": "528",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "41",
+      "Reward": "avatar:Avatars-Enemies-Region2-41$|gold:3000"
+    },
+    {
+      "Id": "529",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Sand Lizard",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "530",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "42",
+      "Reward": "avatar:Avatars-Enemies-Region2-42$|gold:3000|title:119$"
+    },
+    {
+      "Id": "531",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "43",
+      "Reward": "avatar:Avatars-Enemies-Region2-43$|gold:3000"
+    },
+    {
+      "Id": "532",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Crab",
+      "Reward": "loot:4$10|gold:3000"
+    },
+    {
+      "Id": "533",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "44",
+      "Reward": "avatar:Avatars-Enemies-Region2-44$|gold:3000"
+    },
+    {
+      "Id": "534",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Crab",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "535",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "45",
+      "Reward": "avatar:Avatars-Enemies-Region2-45$|gold:3000|title:120$"
+    },
+    {
+      "Id": "536",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "46",
+      "Reward": "avatar:Avatars-Enemies-Region2-46$|gold:3000"
+    },
+    {
+      "Id": "537",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Jellyfish",
+      "Reward": "loot:4$10|gold:3000"
+    },
+    {
+      "Id": "538",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "47",
+      "Reward": "avatar:Avatars-Enemies-Region2-47$|gold:3000"
+    },
+    {
+      "Id": "539",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Jellyfish",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "540",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "48",
+      "Reward": "avatar:Avatars-Enemies-Region2-48$|gold:3000|title:121$"
+    },
+    {
+      "Id": "541",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "49",
+      "Reward": "avatar:Avatars-Enemies-Region2-49$|gold:3000"
+    },
+    {
+      "Id": "542",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "50",
+      "Reward": "avatar:Avatars-Enemies-Region2-50$|gold:3000"
+    },
+    {
+      "Id": "543",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Kobold Pikeman",
+      "Reward": "loot:4$|gold:3000"
+    },
+    {
+      "Id": "544",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "51",
+      "Reward": "avatar:Avatars-Enemies-Region2-51$|gold:3000"
+    },
+    {
+      "Id": "545",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "52",
+      "Reward": "avatar:Avatars-Enemies-Region2-52$|gold:3000"
+    },
+    {
+      "Id": "546",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Kobold Assassin",
+      "Reward": "loot:4$|gold:3000"
+    },
+    {
+      "Id": "547",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "53",
+      "Reward": "avatar:Avatars-Enemies-Region2-53$|gold:3000"
+    },
+    {
+      "Id": "548",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "54",
+      "Reward": "avatar:Avatars-Enemies-Region2-54$|gold:3000"
+    },
+    {
+      "Id": "549",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Kobold Mage",
+      "Reward": "loot:4$|gold:3000"
+    },
+    {
+      "Id": "550",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "55",
+      "Reward": "avatar:Avatars-Enemies-Region2-55$|gold:3000"
+    },
+    {
+      "Id": "551",
+      "QuestType": 10115,
+      "AmountNeeded": 500,
+      "ReqVar": "Kobold",
+      "Reward": "loot:5$|gold:3000"
+    },
+    {
+      "Id": "552",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "56",
+      "Reward": "avatar:Avatars-Enemies-Region2-56$|gold:3000|title:122$"
+    },
+    {
+      "Id": "553",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "57",
+      "Reward": "avatar:Avatars-Enemies-Region2-57$|gold:3000"
+    },
+    {
+      "Id": "554",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Sandstriker",
+      "Reward": "loot:4$10|gold:3000"
+    },
+    {
+      "Id": "555",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "58",
+      "Reward": "avatar:Avatars-Enemies-Region2-58$|gold:3000"
+    },
+    {
+      "Id": "556",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Sandstriker",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "557",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "59",
+      "Reward": "avatar:Avatars-Enemies-Region2-59$|gold:3000|title:123$"
+    },
+    {
+      "Id": "558",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "60",
+      "Reward": "avatar:Avatars-Enemies-Region2-60$|gold:3000"
+    },
+    {
+      "Id": "559",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Giant Frog",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "560",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "61",
+      "Reward": "avatar:Avatars-Enemies-Region2-61$|gold:3000|title:124$"
+    },
+    {
+      "Id": "664",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "66",
+      "Reward": "avatar:Avatars-Enemies-Region3-66$|gold:5000"
+    },
+    {
+      "Id": "665",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Deer",
+      "Reward": "loot:7$10|gold:5000"
+    },
+    {
+      "Id": "666",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "67",
+      "Reward": "avatar:Avatars-Enemies-Region3-67$|gold:5000"
+    },
+    {
+      "Id": "667",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Deer",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "668",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "68",
+      "Reward": "avatar:Avatars-Enemies-Region3-68$|gold:5000|title:125$"
+    },
+    {
+      "Id": "669",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "69",
+      "Reward": "avatar:Avatars-Enemies-Region3-69$|gold:5000"
+    },
+    {
+      "Id": "670",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Goat",
+      "Reward": "loot:7$10|gold:5000"
+    },
+    {
+      "Id": "671",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "70",
+      "Reward": "avatar:Avatars-Enemies-Region3-70$|gold:5000"
+    },
+    {
+      "Id": "672",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Goat",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "673",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "71",
+      "Reward": "avatar:Avatars-Enemies-Region3-71$|gold:5000|title:126$"
+    },
+    {
+      "Id": "674",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "72",
+      "Reward": "avatar:Avatars-Enemies-Region3-72$|gold:5000"
+    },
+    {
+      "Id": "675",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Roc",
+      "Reward": "loot:7$10|gold:5000"
+    },
+    {
+      "Id": "676",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "73",
+      "Reward": "avatar:Avatars-Enemies-Region3-73$|gold:5000"
+    },
+    {
+      "Id": "677",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Roc",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "678",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "74",
+      "Reward": "avatar:Avatars-Enemies-Region3-74$|gold:5000|title:128$"
+    },
+    {
+      "Id": "679",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "75",
+      "Reward": "avatar:Avatars-Enemies-Region3-75$|gold:5000"
+    },
+    {
+      "Id": "680",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Spirit",
+      "Reward": "loot:7$10|gold:5000"
+    },
+    {
+      "Id": "681",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "76",
+      "Reward": "avatar:Avatars-Enemies-Region3-76$|gold:5000"
+    },
+    {
+      "Id": "682",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Spirit",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "683",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "77",
+      "Reward": "avatar:Avatars-Enemies-Region3-77$|gold:5000|title:127$"
+    },
+    {
+      "Id": "684",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "78",
+      "Reward": "avatar:Avatars-Enemies-Region3-78$|gold:5000"
+    },
+    {
+      "Id": "685",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Loch",
+      "Reward": "loot:7$10|gold:5000"
+    },
+    {
+      "Id": "686",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "79",
+      "Reward": "avatar:Avatars-Enemies-Region3-79$|gold:5000"
+    },
+    {
+      "Id": "687",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Loch",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "688",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "80",
+      "Reward": "avatar:Avatars-Enemies-Region3-80$|gold:5000|title:129$"
+    },
+    {
+      "Id": "689",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "81",
+      "Reward": "avatar:Avatars-Enemies-Region3-81$|gold:5000"
+    },
+    {
+      "Id": "690",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Ogre",
+      "Reward": "loot:7$10|gold:5000"
+    },
+    {
+      "Id": "691",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "82",
+      "Reward": "avatar:Avatars-Enemies-Region3-82$|gold:5000"
+    },
+    {
+      "Id": "692",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Ogre",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "693",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "83",
+      "Reward": "avatar:Avatars-Enemies-Region3-83$|gold:5000|title:130$"
+    },
+    {
+      "Id": "694",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "84",
+      "Reward": "avatar:Avatars-Enemies-Region3-84$|gold:3000"
+    },
+    {
+      "Id": "695",
+      "QuestType": 10114,
+      "AmountNeeded": 500,
+      "ReqVar": "Drake",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "696",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "85",
+      "Reward": "avatar:Avatars-Enemies-Region3-85$|gold:3000|title:131$"
+    },
+    {
+      "Id": "697",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "86",
+      "Reward": "avatar:Avatars-Enemies-Region3-86$|gold:3000"
+    },
+    {
+      "Id": "698",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "87",
+      "Reward": "avatar:Avatars-Enemies-Region3-87$|gold:3000"
+    },
+    {
+      "Id": "699",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Harpy Scrapper",
+      "Reward": "loot:7$10|gold:3000"
+    },
+    {
+      "Id": "700",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "88",
+      "Reward": "avatar:Avatars-Enemies-Region3-88$|gold:3000"
+    },
+    {
+      "Id": "701",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "89",
+      "Reward": "avatar:Avatars-Enemies-Region3-89$|gold:3000"
+    },
+    {
+      "Id": "702",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Harpy Axe Wielder",
+      "Reward": "loot:7$10|gold:3000"
+    },
+    {
+      "Id": "703",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "90",
+      "Reward": "avatar:Avatars-Enemies-Region3-90$|gold:3000"
+    },
+    {
+      "Id": "704",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "91",
+      "Reward": "avatar:Avatars-Enemies-Region3-91$|gold:3000"
+    },
+    {
+      "Id": "705",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Harpy Mage",
+      "Reward": "loot:7$10|gold:3000"
+    },
+    {
+      "Id": "706",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "92",
+      "Reward": "avatar:Avatars-Enemies-Region3-92$|gold:3000"
+    },
+    {
+      "Id": "707",
+      "QuestType": 10115,
+      "AmountNeeded": 500,
+      "ReqVar": "Harpy",
+      "Reward": "loot:8$10|gold:3000|title:132$"
+    },
+    {
+      "Id": "708",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "93",
+      "Reward": "avatar:Avatars-Enemies-Region3-93$"
+    },
+    {
+      "Id": "897",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "32",
+      "Reward": "avatar:Avatars-Enemies-Region1-32$|gold:500"
+    },
+    {
+      "Id": "898",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "33",
+      "Reward": "avatar:Avatars-Enemies-Region1-33$|gold:500"
+    },
+    {
+      "Id": "899",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Tuvale Golem",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "900",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "64",
+      "Reward": "avatar:Avatars-Enemies-Region2-64$|gold:3000"
+    },
+    {
+      "Id": "901",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "65",
+      "Reward": "avatar:Avatars-Enemies-Region2-65$|gold:3000"
+    },
+    {
+      "Id": "902",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Yarsol Golem",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "903",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "97",
+      "Reward": "avatar:Avatars-Enemies-Region3-97$|gold:5000"
+    },
+    {
+      "Id": "904",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "98",
+      "Reward": "avatar:Avatars-Enemies-Region3-98$|gold:5000"
+    },
+    {
+      "Id": "905",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Aldur Golem",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "1088",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "30",
+      "Reward": "avatar:Avatars-Enemies-Region1-30$|gold:500"
+    },
+    {
+      "Id": "1089",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "31",
+      "Reward": "avatar:Avatars-Enemies-Region1-31$|gold:500"
+    },
+    {
+      "Id": "1090",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Tuvale Golem",
+      "Reward": "loot:2$10|gold:500"
+    },
+    {
+      "Id": "1091",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "62",
+      "Reward": "avatar:Avatars-Enemies-Region2-62$|gold:3000"
+    },
+    {
+      "Id": "1092",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "63",
+      "Reward": "avatar:Avatars-Enemies-Region2-63$|gold:3000"
+    },
+    {
+      "Id": "1093",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Yarsol Golem",
+      "Reward": "loot:5$10|gold:3000"
+    },
+    {
+      "Id": "1094",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "95",
+      "Reward": "avatar:Avatars-Enemies-Region3-95$|gold:5000"
+    },
+    {
+      "Id": "1095",
+      "QuestType": 10100,
+      "AmountNeeded": 100,
+      "ReqVar": "96",
+      "Reward": "avatar:Avatars-Enemies-Region3-96$|gold:5000"
+    },
+    {
+      "Id": "1096",
+      "QuestType": 10114,
+      "AmountNeeded": 300,
+      "ReqVar": "Aldur Golem",
+      "Reward": "loot:8$10|gold:5000"
+    },
+    {
+      "Id": "1572",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Warrior",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1573",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Warrior",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1574",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Warrior",
+      "Reward": "avatar:Avatars-Heroes-Warrior$|gold:10000|title:345$"
+    },
+    {
+      "Id": "1575",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Rogue",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1576",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Rogue",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1577",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Rogue",
+      "Reward": "avatar:Avatars-Heroes-Rogue$|gold:10000|title:346$"
+    },
+    {
+      "Id": "1578",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Mage",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1579",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Mage",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1580",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Mage",
+      "Reward": "avatar:Avatars-Heroes-Mage$|gold:10000|title:347$"
+    },
+    {
+      "Id": "1581",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Berserker",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1582",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Berserker",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1583",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Berserker",
+      "Reward": "avatar:Avatars-Heroes-Berserker$|gold:10000|title:348$"
+    },
+    {
+      "Id": "1584",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Cleric",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1585",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Cleric",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1586",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Cleric",
+      "Reward": "avatar:Avatars-Heroes-Cleric$|gold:10000|title:349$"
+    },
+    {
+      "Id": "1587",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Assassin",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1588",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Assassin",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1589",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Assassin",
+      "Reward": "avatar:Avatars-Heroes-Assassin$|gold:10000|title:350$"
+    },
+    {
+      "Id": "1590",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Dwarf Warrior",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1591",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Dwarf Warrior",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1592",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Dwarf Warrior",
+      "Reward": "avatar:Avatars-Heroes-Dwarf_Warrior$|gold:10000|title:351$"
+    },
+    {
+      "Id": "1593",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Skull Rogue",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1594",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Skull Rogue",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1595",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Skull Rogue",
+      "Reward": "avatar:Avatars-Heroes-Skull_Rogue$|gold:10000|title:352$"
+    },
+    {
+      "Id": "1596",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Earth Mage",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1597",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Earth Mage",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1598",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Earth Mage",
+      "Reward": "avatar:Avatars-Heroes-Earth_Mage$|gold:10000|title:353$"
+    },
+    {
+      "Id": "1599",
+      "QuestType": 10130,
+      "AmountNeeded": 1000,
+      "ReqVar": "Paladin",
+      "Reward": "gold:1000"
+    },
+    {
+      "Id": "1600",
+      "QuestType": 10130,
+      "AmountNeeded": 5000,
+      "ReqVar": "Paladin",
+      "Reward": "gold:5000"
+    },
+    {
+      "Id": "1601",
+      "QuestType": 10130,
+      "AmountNeeded": 10000,
+      "ReqVar": "Paladin",
+      "Reward": "avatar:Avatars-Heroes-Paladin$|gold:10000|title:354$"
+    },
+    {
+      "Id": "1754",
+      "QuestType": 10022,
+      "AmountNeeded": 500,
+      "ReqVar": "1",
+      "Reward": "gold:1000|tkn:30$10"
+    },
+    {
+      "Id": "1755",
+      "QuestType": 10022,
+      "AmountNeeded": 1000,
+      "ReqVar": "1",
+      "Reward": "gold:5000|tkn:30$10"
+    },
+    {
+      "Id": "1756",
+      "QuestType": 10022,
+      "AmountNeeded": 10000,
+      "ReqVar": "1",
+      "Reward": "gold:10000|tkn:30$10"
+    },
+    {
+      "Id": "1757",
+      "QuestType": 10023,
+      "AmountNeeded": 8640000,
+      "ReqVar": "1",
+      "Reward": "gold:20000|tkn:30$10"
+    },
+    {
+      "Id": "1758",
+      "QuestType": 10023,
+      "AmountNeeded": 31536000,
+      "ReqVar": "1",
+      "Reward": "avatar:Avatars-Customers-7$|gold:50000|tkn:30$10|title:387$"
+    },
+    {
+      "Id": "1759",
+      "QuestType": 10022,
+      "AmountNeeded": 500,
+      "ReqVar": "2",
+      "Reward": "gold:1000|tkn:31$10"
+    },
+    {
+      "Id": "1760",
+      "QuestType": 10022,
+      "AmountNeeded": 1000,
+      "ReqVar": "2",
+      "Reward": "gold:5000|tkn:31$10"
+    },
+    {
+      "Id": "1761",
+      "QuestType": 10022,
+      "AmountNeeded": 10000,
+      "ReqVar": "2",
+      "Reward": "gold:10000|tkn:31$10"
+    },
+    {
+      "Id": "1762",
+      "QuestType": 10023,
+      "AmountNeeded": 8640000,
+      "ReqVar": "2",
+      "Reward": "gold:20000|tkn:31$10"
+    },
+    {
+      "Id": "1763",
+      "QuestType": 10023,
+      "AmountNeeded": 31536000,
+      "ReqVar": "2",
+      "Reward": "avatar:Avatars-Customers-8$|gold:50000|tkn:31$10|title:388$"
+    },
+    {
+      "Id": "1764",
+      "QuestType": 10022,
+      "AmountNeeded": 500,
+      "ReqVar": "3",
+      "Reward": "gold:1000|tkn:32$10"
+    },
+    {
+      "Id": "1765",
+      "QuestType": 10022,
+      "AmountNeeded": 1000,
+      "ReqVar": "3",
+      "Reward": "gold:5000|tkn:32$10"
+    },
+    {
+      "Id": "1766",
+      "QuestType": 10022,
+      "AmountNeeded": 10000,
+      "ReqVar": "3",
+      "Reward": "gold:10000|tkn:32$10"
+    },
+    {
+      "Id": "1767",
+      "QuestType": 10023,
+      "AmountNeeded": 8640000,
+      "ReqVar": "3",
+      "Reward": "gold:20000|tkn:32$10"
+    },
+    {
+      "Id": "1768",
+      "QuestType": 10023,
+      "AmountNeeded": 31536000,
+      "ReqVar": "3",
+      "Reward": "avatar:Avatars-Customers-9$|gold:50000|tkn:32$10|title:389$"
+    },
+    {
+      "Id": "1769",
+      "QuestType": 10022,
+      "AmountNeeded": 500,
+      "ReqVar": "4",
+      "Reward": "gold:1000|tkn:33$10"
+    },
+    {
+      "Id": "1770",
+      "QuestType": 10022,
+      "AmountNeeded": 1000,
+      "ReqVar": "4",
+      "Reward": "gold:5000|tkn:33$10"
+    },
+    {
+      "Id": "1771",
+      "QuestType": 10022,
+      "AmountNeeded": 10000,
+      "ReqVar": "4",
+      "Reward": "gold:10000|tkn:33$10"
+    },
+    {
+      "Id": "1772",
+      "QuestType": 10023,
+      "AmountNeeded": 8640000,
+      "ReqVar": "4",
+      "Reward": "gold:20000|tkn:33$10"
+    },
+    {
+      "Id": "1773",
+      "QuestType": 10023,
+      "AmountNeeded": 31536000,
+      "ReqVar": "4",
+      "Reward": "avatar:Avatars-Customers-10$|gold:50000|tkn:33$10|title:390$"
+    },
+    {
+      "Id": "1774",
+      "QuestType": 10022,
+      "AmountNeeded": 500,
+      "ReqVar": "6",
+      "Reward": "gold:1000|tkn:35$10"
+    },
+    {
+      "Id": "1775",
+      "QuestType": 10022,
+      "AmountNeeded": 1000,
+      "ReqVar": "6",
+      "Reward": "gold:5000|tkn:35$10"
+    },
+    {
+      "Id": "1776",
+      "QuestType": 10022,
+      "AmountNeeded": 10000,
+      "ReqVar": "6",
+      "Reward": "gold:10000|tkn:35$10"
+    },
+    {
+      "Id": "1777",
+      "QuestType": 10023,
+      "AmountNeeded": 8640000,
+      "ReqVar": "6",
+      "Reward": "gold:20000|tkn:35$10"
+    },
+    {
+      "Id": "1778",
+      "QuestType": 10023,
+      "AmountNeeded": 31536000,
+      "ReqVar": "6",
+      "Reward": "avatar:Avatars-Customers-11$|gold:50000|tkn:35$10|title:391$"
+    },
+    {
+      "Id": "1866",
+      "QuestType": 10040,
+      "AmountNeeded": 100,
+      "ReqVar": "18",
+      "Reward": "loot:40$1|gold:1000"
+    },
+    {
+      "Id": "1867",
+      "QuestType": 10040,
+      "AmountNeeded": 500,
+      "ReqVar": "18",
+      "Reward": "loot:40$5|gold:5000"
+    },
+    {
+      "Id": "1868",
+      "QuestType": 10040,
+      "AmountNeeded": 1000,
+      "ReqVar": "18",
+      "Reward": "avatar:Avatars-Customers-18$|gold:10000|title:417$"
+    },
+    {
+      "Id": "1869",
+      "QuestType": 10040,
+      "AmountNeeded": 100,
+      "ReqVar": "14",
+      "Reward": "loot:40$1|gold:1000"
+    },
+    {
+      "Id": "1870",
+      "QuestType": 10040,
+      "AmountNeeded": 500,
+      "ReqVar": "14",
+      "Reward": "loot:40$5|gold:5000"
+    },
+    {
+      "Id": "1871",
+      "QuestType": 10040,
+      "AmountNeeded": 1000,
+      "ReqVar": "14",
+      "Reward": "avatar:Avatars-Customers-14$|gold:10000|title:418$"
+    },
+    {
+      "Id": "1872",
+      "QuestType": 10040,
+      "AmountNeeded": 100,
+      "ReqVar": "15",
+      "Reward": "loot:40$1|gold:1000"
+    },
+    {
+      "Id": "1873",
+      "QuestType": 10040,
+      "AmountNeeded": 500,
+      "ReqVar": "15",
+      "Reward": "loot:40$5|gold:5000"
+    },
+    {
+      "Id": "1874",
+      "QuestType": 10040,
+      "AmountNeeded": 1000,
+      "ReqVar": "15",
+      "Reward": "avatar:Avatars-Customers-15$|gold:10000|title:419$"
+    },
+    {
+      "Id": "1875",
+      "QuestType": 10040,
+      "AmountNeeded": 100,
+      "ReqVar": "16",
+      "Reward": "loot:40$1|gold:1000"
+    },
+    {
+      "Id": "1876",
+      "QuestType": 10040,
+      "AmountNeeded": 500,
+      "ReqVar": "16",
+      "Reward": "loot:40$5|gold:5000"
+    },
+    {
+      "Id": "1877",
+      "QuestType": 10040,
+      "AmountNeeded": 1000,
+      "ReqVar": "16",
+      "Reward": "avatar:Avatars-Customers-16$|gold:10000|title:420$"
+    },
+    {
+      "Id": "1878",
+      "QuestType": 10040,
+      "AmountNeeded": 100,
+      "ReqVar": "17",
+      "Reward": "loot:40$1|gold:1000"
+    },
+    {
+      "Id": "1879",
+      "QuestType": 10040,
+      "AmountNeeded": 500,
+      "ReqVar": "17",
+      "Reward": "loot:40$5|gold:5000"
+    },
+    {
+      "Id": "1880",
+      "QuestType": 10040,
+      "AmountNeeded": 1000,
+      "ReqVar": "17",
+      "Reward": "avatar:Avatars-Customers-17$|gold:10000|title:421$"
+    },
+    {
+      "Id": "2153",
+      "QuestType": 10505,
+      "AmountNeeded": 500,
+      "ReqVar": "Foraging",
+      "Reward": "loot:40$1|gold:5000"
+    },
+    {
+      "Id": "2154",
+      "QuestType": 10505,
+      "AmountNeeded": 1000,
+      "ReqVar": "Foraging",
+      "Reward": "loot:40$3|gold:10000"
+    },
+    {
+      "Id": "2155",
+      "QuestType": 10505,
+      "AmountNeeded": 10000,
+      "ReqVar": "Foraging",
+      "Reward": "loot:40$5|gold:50000"
+    },
+    {
+      "Id": "2156",
+      "QuestType": 10507,
+      "AmountNeeded": 8640000,
+      "ReqVar": "Foraging",
+      "Reward": "loot:40$5|gold:100000"
+    },
+    {
+      "Id": "2157",
+      "QuestType": 10507,
+      "AmountNeeded": 31536000,
+      "ReqVar": "Foraging",
+      "Reward": "avatar:Avatars-Customers-13$|gold:300000|title:469$"
+    },
+    {
+      "Id": "2165",
+      "QuestType": 10505,
+      "AmountNeeded": 500,
+      "ReqVar": "Mining",
+      "Reward": "loot:40$1|gold:5000"
+    },
+    {
+      "Id": "2166",
+      "QuestType": 10505,
+      "AmountNeeded": 1000,
+      "ReqVar": "Mining",
+      "Reward": "loot:40$3|gold:10000"
+    },
+    {
+      "Id": "2167",
+      "QuestType": 10505,
+      "AmountNeeded": 10000,
+      "ReqVar": "Mining",
+      "Reward": "loot:40$5|gold:50000"
+    },
+    {
+      "Id": "2168",
+      "QuestType": 10507,
+      "AmountNeeded": 8640000,
+      "ReqVar": "Mining",
+      "Reward": "loot:40$5|gold:100000"
+    },
+    {
+      "Id": "2169",
+      "QuestType": 10507,
+      "AmountNeeded": 31536000,
+      "ReqVar": "Mining",
+      "Reward": "avatar:Avatars-Customers-12$|gold:300000|title:470$"
+    },
+    {
+      "Id": "2181",
+      "QuestType": 46,
+      "AmountNeeded": 1000000,
+      "Reward": "gold:1|title:471$"
+    }
+  ]
+}

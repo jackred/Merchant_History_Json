@@ -3,6 +3,7 @@
     "Id": "1",
     "Name": "Stygian Beetle",
     "EnemyType": "Beetle",
+    "Species": "Beetle",
     "PartySize": 1,
     "LevelReq": 1,
     "Rarity": 1,
@@ -27,6 +28,14 @@
       {
         "Id": "13",
         "Percent": 125
+      },
+      {
+        "Id": "14",
+        "Percent": 50
+      },
+      {
+        "Id": "16",
+        "Percent": 30
       }
     ],
     "Parcels": [
@@ -38,6 +47,7 @@
     "Id": "2",
     "Name": "Emerald Beetle",
     "EnemyType": "Beetle",
+    "Species": "Beetle",
     "PartySize": 1,
     "LevelReq": 2,
     "Rarity": 2,
@@ -62,6 +72,14 @@
       {
         "Id": "13",
         "Percent": 250
+      },
+      {
+        "Id": "14",
+        "Percent": 80
+      },
+      {
+        "Id": "16",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -74,6 +92,7 @@
     "Id": "3",
     "Name": "Sacer",
     "EnemyType": "Beetle",
+    "Species": "Beetle",
     "PartySize": 2,
     "LevelReq": 3,
     "Rarity": 3,
@@ -102,6 +121,14 @@
       {
         "Id": "14",
         "Percent": 105
+      },
+      {
+        "Id": "16",
+        "Percent": 105
+      },
+      {
+        "Id": "15",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -114,6 +141,7 @@
     "Id": "4",
     "Name": "Grass Spider",
     "EnemyType": "Spider",
+    "Species": "Spider",
     "PartySize": 1,
     "LevelReq": 3,
     "Rarity": 1,
@@ -136,8 +164,16 @@
     ],
     "BaseRewards": [
       {
-        "Id": "18",
+        "Id": "17",
         "Percent": 125
+      },
+      {
+        "Id": "18",
+        "Percent": 50
+      },
+      {
+        "Id": "19",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -149,6 +185,7 @@
     "Id": "5",
     "Name": "Tarantula",
     "EnemyType": "Spider",
+    "Species": "Spider",
     "PartySize": 1,
     "LevelReq": 4,
     "Rarity": 2,
@@ -171,8 +208,16 @@
     ],
     "BaseRewards": [
       {
-        "Id": "18",
+        "Id": "17",
         "Percent": 250
+      },
+      {
+        "Id": "18",
+        "Percent": 110
+      },
+      {
+        "Id": "19",
+        "Percent": 110
       }
     ],
     "Parcels": [
@@ -185,6 +230,7 @@
     "Id": "6",
     "Name": "Maexna",
     "EnemyType": "Spider",
+    "Species": "Spider",
     "PartySize": 2,
     "LevelReq": 6,
     "Rarity": 3,
@@ -207,12 +253,20 @@
     ],
     "BaseRewards": [
       {
-        "Id": "18",
+        "Id": "17",
         "Percent": 305
       },
       {
-        "Id": "17",
-        "Percent": 105
+        "Id": "18",
+        "Percent": 220
+      },
+      {
+        "Id": "19",
+        "Percent": 220
+      },
+      {
+        "Id": "52",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -225,6 +279,7 @@
     "Id": "7",
     "Name": "Green Snake",
     "EnemyType": "Snake",
+    "Species": "Snake",
     "PartySize": 1,
     "LevelReq": 3,
     "Rarity": 1,
@@ -249,6 +304,10 @@
       {
         "Id": "20",
         "Percent": 125
+      },
+      {
+        "Id": "21",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -260,6 +319,7 @@
     "Id": "8",
     "Name": "Viper",
     "EnemyType": "Snake",
+    "Species": "Snake",
     "PartySize": 1,
     "LevelReq": 4,
     "Rarity": 2,
@@ -284,6 +344,10 @@
       {
         "Id": "20",
         "Percent": 250
+      },
+      {
+        "Id": "21",
+        "Percent": 70
       }
     ],
     "Parcels": [
@@ -296,6 +360,7 @@
     "Id": "9",
     "Name": "Zahhak",
     "EnemyType": "Snake",
+    "Species": "Snake",
     "PartySize": 2,
     "LevelReq": 7,
     "Rarity": 3,
@@ -324,6 +389,10 @@
       {
         "Id": "21",
         "Percent": 105
+      },
+      {
+        "Id": "22",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -336,6 +405,7 @@
     "Id": "10",
     "Name": "Boar",
     "EnemyType": "Boar",
+    "Species": "Boar",
     "PartySize": 1,
     "LevelReq": 4,
     "Rarity": 1,
@@ -360,6 +430,10 @@
       {
         "Id": "23",
         "Percent": 125
+      },
+      {
+        "Id": "24",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -371,6 +445,7 @@
     "Id": "11",
     "Name": "Great Boar",
     "EnemyType": "Boar",
+    "Species": "Boar",
     "PartySize": 1,
     "LevelReq": 5,
     "Rarity": 2,
@@ -395,6 +470,10 @@
       {
         "Id": "23",
         "Percent": 250
+      },
+      {
+        "Id": "24",
+        "Percent": 80
       }
     ],
     "Parcels": [
@@ -407,6 +486,7 @@
     "Id": "12",
     "Name": "Hogger",
     "EnemyType": "Boar",
+    "Species": "Boar",
     "PartySize": 2,
     "LevelReq": 8,
     "Rarity": 3,
@@ -435,6 +515,10 @@
       {
         "Id": "24",
         "Percent": 105
+      },
+      {
+        "Id": "25",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -447,6 +531,7 @@
     "Id": "13",
     "Name": "Wolf",
     "EnemyType": "Wolf",
+    "Species": "Wolf",
     "PartySize": 1,
     "LevelReq": 4,
     "Rarity": 1,
@@ -471,6 +556,10 @@
       {
         "Id": "26",
         "Percent": 125
+      },
+      {
+        "Id": "27",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -482,6 +571,7 @@
     "Id": "14",
     "Name": "Tattered Wolf",
     "EnemyType": "Wolf",
+    "Species": "Wolf",
     "PartySize": 1,
     "LevelReq": 6,
     "Rarity": 2,
@@ -506,6 +596,14 @@
       {
         "Id": "26",
         "Percent": 250
+      },
+      {
+        "Id": "27",
+        "Percent": 60
+      },
+      {
+        "Id": "29",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -518,6 +616,7 @@
     "Id": "15",
     "Name": "Amarok",
     "EnemyType": "Wolf",
+    "Species": "Wolf",
     "PartySize": 2,
     "LevelReq": 9,
     "Rarity": 3,
@@ -546,6 +645,14 @@
       {
         "Id": "27",
         "Percent": 105
+      },
+      {
+        "Id": "29",
+        "Percent": 50
+      },
+      {
+        "Id": "28",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -558,6 +665,7 @@
     "Id": "16",
     "Name": "Goblin",
     "EnemyType": "Goblin Footman",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 5,
     "Rarity": 1,
@@ -582,6 +690,18 @@
       {
         "Id": "30",
         "Percent": 125
+      },
+      {
+        "Id": "31",
+        "Percent": 20
+      },
+      {
+        "Id": "32",
+        "Percent": 20
+      },
+      {
+        "Id": "803",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -593,6 +713,7 @@
     "Id": "17",
     "Name": "Goblin Fighter",
     "EnemyType": "Goblin Footman",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 6,
     "Rarity": 2,
@@ -617,6 +738,18 @@
       {
         "Id": "33",
         "Percent": 250
+      },
+      {
+        "Id": "31",
+        "Percent": 50
+      },
+      {
+        "Id": "32",
+        "Percent": 50
+      },
+      {
+        "Id": "803",
+        "Percent": 60
       }
     ],
     "Parcels": [
@@ -629,6 +762,7 @@
     "Id": "18",
     "Name": "Goblin Pack Leader",
     "EnemyType": "Goblin Footman",
+    "Species": "Goblin",
     "PartySize": 2,
     "LevelReq": 9,
     "Rarity": 3,
@@ -656,7 +790,15 @@
       },
       {
         "Id": "31",
-        "Percent": 100
+        "Percent": 105
+      },
+      {
+        "Id": "32",
+        "Percent": 105
+      },
+      {
+        "Id": "803",
+        "Percent": 105
       }
     ],
     "Parcels": [
@@ -669,6 +811,7 @@
     "Id": "19",
     "Name": "Goblin Mage",
     "EnemyType": "Goblin Mage",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 7,
     "Rarity": 2,
@@ -693,6 +836,14 @@
       {
         "Id": "30",
         "Percent": 250
+      },
+      {
+        "Id": "34",
+        "Percent": 50
+      },
+      {
+        "Id": "38",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -705,6 +856,7 @@
     "Id": "20",
     "Name": "Goblin Acolyte",
     "EnemyType": "Goblin Mage",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 9,
     "Rarity": 3,
@@ -732,7 +884,11 @@
       },
       {
         "Id": "34",
-        "Percent": 100
+        "Percent": 105
+      },
+      {
+        "Id": "38",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -745,6 +901,7 @@
     "Id": "21",
     "Name": "Goblin Thief",
     "EnemyType": "Goblin Thief",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 7,
     "Rarity": 2,
@@ -769,6 +926,14 @@
       {
         "Id": "30",
         "Percent": 250
+      },
+      {
+        "Id": "32",
+        "Percent": 50
+      },
+      {
+        "Id": "36",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -781,6 +946,7 @@
     "Id": "22",
     "Name": "Goblin Ninja",
     "EnemyType": "Goblin Thief",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 9,
     "Rarity": 3,
@@ -808,7 +974,11 @@
       },
       {
         "Id": "32",
-        "Percent": 100
+        "Percent": 105
+      },
+      {
+        "Id": "36",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -821,6 +991,7 @@
     "Id": "23",
     "Name": "Goblin Archer",
     "EnemyType": "Goblin Archer",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 7,
     "Rarity": 2,
@@ -845,6 +1016,14 @@
       {
         "Id": "30",
         "Percent": 250
+      },
+      {
+        "Id": "31",
+        "Percent": 50
+      },
+      {
+        "Id": "37",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -857,6 +1036,7 @@
     "Id": "24",
     "Name": "Goblin Ace",
     "EnemyType": "Goblin Archer",
+    "Species": "Goblin",
     "PartySize": 1,
     "LevelReq": 9,
     "Rarity": 3,
@@ -884,7 +1064,11 @@
       },
       {
         "Id": "31",
-        "Percent": 100
+        "Percent": 105
+      },
+      {
+        "Id": "37",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -897,6 +1081,7 @@
     "Id": "25",
     "Name": "Goblin Chieftain",
     "EnemyType": "Goblin Chieftain",
+    "Species": "Goblin",
     "PartySize": 2,
     "LevelReq": 10,
     "Rarity": 3,
@@ -921,6 +1106,14 @@
       {
         "Id": "33",
         "Percent": 250
+      },
+      {
+        "Id": "35",
+        "Percent": 50
+      },
+      {
+        "Id": "39",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -933,6 +1126,7 @@
     "Id": "26",
     "Name": "Goblin Warlord",
     "EnemyType": "Goblin Chieftain",
+    "Species": "Goblin",
     "PartySize": 3,
     "LevelReq": 13,
     "Rarity": 4,
@@ -961,6 +1155,14 @@
       {
         "Id": "35",
         "Percent": 100
+      },
+      {
+        "Id": "39",
+        "Percent": 50
+      },
+      {
+        "Id": "40",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -973,6 +1175,7 @@
     "Id": "27",
     "Name": "Bear",
     "EnemyType": "Bear",
+    "Species": "Bear",
     "PartySize": 2,
     "LevelReq": 10,
     "Rarity": 2,
@@ -997,6 +1200,14 @@
       {
         "Id": "41",
         "Percent": 125
+      },
+      {
+        "Id": "807",
+        "Percent": 105
+      },
+      {
+        "Id": "808",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1009,6 +1220,7 @@
     "Id": "28",
     "Name": "Magic Bear",
     "EnemyType": "Bear",
+    "Species": "Bear",
     "PartySize": 2,
     "LevelReq": 11,
     "Rarity": 3,
@@ -1037,6 +1249,14 @@
       {
         "Id": "42",
         "Percent": 105
+      },
+      {
+        "Id": "807",
+        "Percent": 205
+      },
+      {
+        "Id": "808",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -1049,6 +1269,7 @@
     "Id": "29",
     "Name": "Kunnigas",
     "EnemyType": "Bear",
+    "Species": "Bear",
     "PartySize": 3,
     "LevelReq": 15,
     "Rarity": 4,
@@ -1081,6 +1302,18 @@
       {
         "Id": "43",
         "Percent": 100
+      },
+      {
+        "Id": "44",
+        "Percent": 10
+      },
+      {
+        "Id": "807",
+        "Percent": 350
+      },
+      {
+        "Id": "808",
+        "Percent": 105
       }
     ],
     "Parcels": [
@@ -1093,6 +1326,7 @@
     "Id": "30",
     "Name": "Oak Treant",
     "EnemyType": "Tuvale Treant",
+    "Species": "Treant",
     "PartySize": 2,
     "LevelReq": 5,
     "Rarity": 3,
@@ -1141,6 +1375,7 @@
     "Id": "31",
     "Name": "Ancient Oak Treant",
     "EnemyType": "Tuvale Treant",
+    "Species": "Treant",
     "PartySize": 3,
     "LevelReq": 14,
     "Rarity": 4,
@@ -1177,6 +1412,14 @@
       {
         "Id": "7",
         "Percent": 1600
+      },
+      {
+        "Id": "45",
+        "Percent": 100
+      },
+      {
+        "Id": "47",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1189,6 +1432,7 @@
     "Id": "32",
     "Name": "Iron Golem",
     "EnemyType": "Tuvale Golem",
+    "Species": "Golem",
     "PartySize": 2,
     "LevelReq": 5,
     "Rarity": 3,
@@ -1237,6 +1481,7 @@
     "Id": "33",
     "Name": "Weathered Iron Golem",
     "EnemyType": "Tuvale Golem",
+    "Species": "Golem",
     "PartySize": 3,
     "LevelReq": 14,
     "Rarity": 4,
@@ -1273,6 +1518,14 @@
       {
         "Id": "8",
         "Percent": 1600
+      },
+      {
+        "Id": "46",
+        "Percent": 100
+      },
+      {
+        "Id": "48",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1285,6 +1538,7 @@
     "Id": "34",
     "Name": "Albatross",
     "EnemyType": "Albatross",
+    "Species": "Bird",
     "PartySize": 1,
     "LevelReq": 8,
     "Rarity": 1,
@@ -1309,6 +1563,10 @@
       {
         "Id": "68",
         "Percent": 125
+      },
+      {
+        "Id": "75",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -1320,6 +1578,7 @@
     "Id": "35",
     "Name": "Enraged Albatross",
     "EnemyType": "Albatross",
+    "Species": "Bird",
     "PartySize": 1,
     "LevelReq": 12,
     "Rarity": 2,
@@ -1344,6 +1603,14 @@
       {
         "Id": "68",
         "Percent": 250
+      },
+      {
+        "Id": "75",
+        "Percent": 80
+      },
+      {
+        "Id": "91",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -1356,6 +1623,7 @@
     "Id": "36",
     "Name": "Garsci",
     "EnemyType": "Albatross",
+    "Species": "Bird",
     "PartySize": 2,
     "LevelReq": 15,
     "Rarity": 3,
@@ -1384,6 +1652,10 @@
       {
         "Id": "75",
         "Percent": 105
+      },
+      {
+        "Id": "91",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1396,6 +1668,7 @@
     "Id": "37",
     "Name": "Snapping Turtle",
     "EnemyType": "Turtle",
+    "Species": "Turtle",
     "PartySize": 1,
     "LevelReq": 9,
     "Rarity": 1,
@@ -1420,6 +1693,10 @@
       {
         "Id": "65",
         "Percent": 125
+      },
+      {
+        "Id": "78",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -1431,6 +1708,7 @@
     "Id": "38",
     "Name": "Spiked Turtle",
     "EnemyType": "Turtle",
+    "Species": "Turtle",
     "PartySize": 1,
     "LevelReq": 12,
     "Rarity": 2,
@@ -1455,6 +1733,14 @@
       {
         "Id": "65",
         "Percent": 250
+      },
+      {
+        "Id": "78",
+        "Percent": 80
+      },
+      {
+        "Id": "94",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -1467,6 +1753,7 @@
     "Id": "39",
     "Name": "Gopil",
     "EnemyType": "Turtle",
+    "Species": "Turtle",
     "PartySize": 2,
     "LevelReq": 16,
     "Rarity": 3,
@@ -1494,7 +1781,11 @@
       },
       {
         "Id": "78",
-        "Percent": 105
+        "Percent": 210
+      },
+      {
+        "Id": "94",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1507,6 +1798,7 @@
     "Id": "40",
     "Name": "Sand Lizard",
     "EnemyType": "Sand Lizard",
+    "Species": "Lizard",
     "PartySize": 1,
     "LevelReq": 11,
     "Rarity": 1,
@@ -1531,6 +1823,10 @@
       {
         "Id": "63",
         "Percent": 125
+      },
+      {
+        "Id": "84",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -1542,6 +1838,7 @@
     "Id": "41",
     "Name": "Evolved Lizard",
     "EnemyType": "Sand Lizard",
+    "Species": "Lizard",
     "PartySize": 1,
     "LevelReq": 14,
     "Rarity": 2,
@@ -1566,6 +1863,10 @@
       {
         "Id": "63",
         "Percent": 250
+      },
+      {
+        "Id": "84",
+        "Percent": 80
       }
     ],
     "Parcels": [
@@ -1578,6 +1879,7 @@
     "Id": "42",
     "Name": "Ielec",
     "EnemyType": "Sand Lizard",
+    "Species": "Lizard",
     "PartySize": 2,
     "LevelReq": 18,
     "Rarity": 3,
@@ -1606,6 +1908,10 @@
       {
         "Id": "84",
         "Percent": 105
+      },
+      {
+        "Id": "92",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1618,6 +1924,7 @@
     "Id": "43",
     "Name": "Giant Crab",
     "EnemyType": "Crab",
+    "Species": "Crab",
     "PartySize": 1,
     "LevelReq": 12,
     "Rarity": 1,
@@ -1642,6 +1949,10 @@
       {
         "Id": "76",
         "Percent": 125
+      },
+      {
+        "Id": "80",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -1653,6 +1964,7 @@
     "Id": "44",
     "Name": "Volcano Crab",
     "EnemyType": "Crab",
+    "Species": "Crab",
     "PartySize": 1,
     "LevelReq": 14,
     "Rarity": 2,
@@ -1677,6 +1989,10 @@
       {
         "Id": "76",
         "Percent": 250
+      },
+      {
+        "Id": "80",
+        "Percent": 80
       }
     ],
     "Parcels": [
@@ -1689,6 +2005,7 @@
     "Id": "45",
     "Name": "Aosag",
     "EnemyType": "Crab",
+    "Species": "Crab",
     "PartySize": 2,
     "LevelReq": 19,
     "Rarity": 3,
@@ -1717,6 +2034,10 @@
       {
         "Id": "80",
         "Percent": 105
+      },
+      {
+        "Id": "96",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1729,6 +2050,7 @@
     "Id": "46",
     "Name": "Jellyfish",
     "EnemyType": "Jellyfish",
+    "Species": "Jellyfish",
     "PartySize": 1,
     "LevelReq": 11,
     "Rarity": 1,
@@ -1753,6 +2075,10 @@
       {
         "Id": "64",
         "Percent": 125
+      },
+      {
+        "Id": "77",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -1764,6 +2090,7 @@
     "Id": "47",
     "Name": "Gloom Jellyfish",
     "EnemyType": "Jellyfish",
+    "Species": "Jellyfish",
     "PartySize": 1,
     "LevelReq": 13,
     "Rarity": 2,
@@ -1788,6 +2115,10 @@
       {
         "Id": "64",
         "Percent": 250
+      },
+      {
+        "Id": "77",
+        "Percent": 80
       }
     ],
     "Parcels": [
@@ -1800,6 +2131,7 @@
     "Id": "48",
     "Name": "Griroa",
     "EnemyType": "Jellyfish",
+    "Species": "Jellyfish",
     "PartySize": 2,
     "LevelReq": 17,
     "Rarity": 3,
@@ -1828,6 +2160,10 @@
       {
         "Id": "77",
         "Percent": 105
+      },
+      {
+        "Id": "93",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1840,6 +2176,7 @@
     "Id": "49",
     "Name": "Kobold Pikeman",
     "EnemyType": "Kobold Pikeman",
+    "Species": "Kobold",
     "PartySize": 1,
     "LevelReq": 16,
     "Rarity": 2,
@@ -1864,6 +2201,14 @@
       {
         "Id": "69",
         "Percent": 250
+      },
+      {
+        "Id": "70",
+        "Percent": 50
+      },
+      {
+        "Id": "85",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -1876,6 +2221,7 @@
     "Id": "50",
     "Name": "Kobold Guardsman",
     "EnemyType": "Kobold Pikeman",
+    "Species": "Kobold",
     "PartySize": 1,
     "LevelReq": 18,
     "Rarity": 3,
@@ -1903,7 +2249,15 @@
       },
       {
         "Id": "70",
-        "Percent": 100
+        "Percent": 105
+      },
+      {
+        "Id": "85",
+        "Percent": 50
+      },
+      {
+        "Id": "86",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1916,6 +2270,7 @@
     "Id": "51",
     "Name": "Kobold Knife Thrower",
     "EnemyType": "Kobold Assassin",
+    "Species": "Kobold",
     "PartySize": 1,
     "LevelReq": 17,
     "Rarity": 2,
@@ -1940,6 +2295,14 @@
       {
         "Id": "69",
         "Percent": 250
+      },
+      {
+        "Id": "71",
+        "Percent": 50
+      },
+      {
+        "Id": "85",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -1952,6 +2315,7 @@
     "Id": "52",
     "Name": "Kobold Assassin",
     "EnemyType": "Kobold Assassin",
+    "Species": "Kobold",
     "PartySize": 1,
     "LevelReq": 22,
     "Rarity": 3,
@@ -1979,11 +2343,15 @@
       },
       {
         "Id": "71",
-        "Percent": 100
+        "Percent": 105
       },
       {
         "Id": "85",
-        "Percent": 100
+        "Percent": 50
+      },
+      {
+        "Id": "87",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -1996,6 +2364,7 @@
     "Id": "53",
     "Name": "Kobold Apprentice",
     "EnemyType": "Kobold Mage",
+    "Species": "Kobold",
     "PartySize": 1,
     "LevelReq": 17,
     "Rarity": 2,
@@ -2020,6 +2389,14 @@
       {
         "Id": "69",
         "Percent": 250
+      },
+      {
+        "Id": "72",
+        "Percent": 50
+      },
+      {
+        "Id": "85",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -2032,6 +2409,7 @@
     "Id": "54",
     "Name": "Kobold Highpriest",
     "EnemyType": "Kobold Mage",
+    "Species": "Kobold",
     "PartySize": 1,
     "LevelReq": 23,
     "Rarity": 3,
@@ -2059,11 +2437,15 @@
       },
       {
         "Id": "72",
-        "Percent": 100
+        "Percent": 105
       },
       {
         "Id": "85",
-        "Percent": 100
+        "Percent": 50
+      },
+      {
+        "Id": "88",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2076,6 +2458,7 @@
     "Id": "55",
     "Name": "Kobold Chieftain",
     "EnemyType": "Kobold Chieftain",
+    "Species": "Kobold",
     "PartySize": 2,
     "LevelReq": 20,
     "Rarity": 3,
@@ -2112,6 +2495,14 @@
       {
         "Id": "85",
         "Percent": 345
+      },
+      {
+        "Id": "90",
+        "Percent": 50
+      },
+      {
+        "Id": "74",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2124,6 +2515,7 @@
     "Id": "56",
     "Name": "Kobold Monarch",
     "EnemyType": "Kobold Monarch",
+    "Species": "Kobold",
     "PartySize": 3,
     "LevelReq": 25,
     "Rarity": 4,
@@ -2160,6 +2552,14 @@
       {
         "Id": "85",
         "Percent": 215
+      },
+      {
+        "Id": "89",
+        "Percent": 50
+      },
+      {
+        "Id": "73",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2172,6 +2572,7 @@
     "Id": "57",
     "Name": "Sand Striker",
     "EnemyType": "Sandstriker",
+    "Species": "Worm",
     "PartySize": 1,
     "LevelReq": 15,
     "Rarity": 2,
@@ -2196,6 +2597,10 @@
       {
         "Id": "66",
         "Percent": 125
+      },
+      {
+        "Id": "79",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -2208,6 +2613,7 @@
     "Id": "58",
     "Name": "Weeping Sand Striker",
     "EnemyType": "Sandstriker",
+    "Species": "Worm",
     "PartySize": 2,
     "LevelReq": 21,
     "Rarity": 3,
@@ -2232,6 +2638,14 @@
       {
         "Id": "66",
         "Percent": 250
+      },
+      {
+        "Id": "79",
+        "Percent": 80
+      },
+      {
+        "Id": "95",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -2244,6 +2658,7 @@
     "Id": "59",
     "Name": "Scorok",
     "EnemyType": "Sandstriker",
+    "Species": "Worm",
     "PartySize": 3,
     "LevelReq": 25,
     "Rarity": 4,
@@ -2272,6 +2687,10 @@
       {
         "Id": "79",
         "Percent": 105
+      },
+      {
+        "Id": "95",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2284,6 +2703,7 @@
     "Id": "60",
     "Name": "Giant Frog",
     "EnemyType": "Giant Frog",
+    "Species": "Frog",
     "PartySize": 2,
     "LevelReq": 20,
     "Rarity": 3,
@@ -2312,6 +2732,10 @@
       {
         "Id": "81",
         "Percent": 120
+      },
+      {
+        "Id": "97",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -2324,6 +2748,7 @@
     "Id": "61",
     "Name": "Croaker",
     "EnemyType": "Giant Frog",
+    "Species": "Frog",
     "PartySize": 3,
     "LevelReq": 25,
     "Rarity": 4,
@@ -2352,6 +2777,10 @@
       {
         "Id": "81",
         "Percent": 240
+      },
+      {
+        "Id": "97",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2364,6 +2793,7 @@
     "Id": "62",
     "Name": "Yew Treant",
     "EnemyType": "Yarsol Treant",
+    "Species": "Treant",
     "PartySize": 2,
     "LevelReq": 15,
     "Rarity": 3,
@@ -2412,6 +2842,7 @@
     "Id": "63",
     "Name": "Ancient Yew Treant",
     "EnemyType": "Yarsol Treant",
+    "Species": "Treant",
     "PartySize": 3,
     "LevelReq": 24,
     "Rarity": 4,
@@ -2448,6 +2879,10 @@
       {
         "Id": "82",
         "Percent": 350
+      },
+      {
+        "Id": "98",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2460,6 +2895,7 @@
     "Id": "64",
     "Name": "Cobalt Golem",
     "EnemyType": "Yarsol Golem",
+    "Species": "Golem",
     "PartySize": 2,
     "LevelReq": 15,
     "Rarity": 3,
@@ -2496,6 +2932,10 @@
       {
         "Id": "813",
         "Percent": 800
+      },
+      {
+        "Id": "83",
+        "Percent": 250
       }
     ],
     "Parcels": [
@@ -2508,6 +2948,7 @@
     "Id": "65",
     "Name": "Weathered Cobalt Golem",
     "EnemyType": "Yarsol Golem",
+    "Species": "Golem",
     "PartySize": 3,
     "LevelReq": 24,
     "Rarity": 4,
@@ -2544,6 +2985,14 @@
       {
         "Id": "813",
         "Percent": 1600
+      },
+      {
+        "Id": "83",
+        "Percent": 350
+      },
+      {
+        "Id": "99",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2556,6 +3005,7 @@
     "Id": "66",
     "Name": "Rasselbock",
     "EnemyType": "Deer",
+    "Species": "Deer",
     "PartySize": 1,
     "LevelReq": 20,
     "Rarity": 1,
@@ -2580,6 +3030,10 @@
       {
         "Id": "160",
         "Percent": 125
+      },
+      {
+        "Id": "161",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -2591,6 +3045,7 @@
     "Id": "67",
     "Name": "Highland Deer",
     "EnemyType": "Deer",
+    "Species": "Deer",
     "PartySize": 1,
     "LevelReq": 23,
     "Rarity": 2,
@@ -2615,6 +3070,10 @@
       {
         "Id": "160",
         "Percent": 250
+      },
+      {
+        "Id": "161",
+        "Percent": 80
       }
     ],
     "Parcels": [
@@ -2627,11 +3086,12 @@
     "Id": "68",
     "Name": "Kiruk",
     "EnemyType": "Deer",
+    "Species": "Deer",
     "PartySize": 2,
-    "LevelReq": 27,
+    "LevelReq": 26,
     "Rarity": 3,
     "Region": 3,
-    "Exp": 540,
+    "Exp": 520,
     "EnemyHp": 18000,
     "EnemyAtk": 123,
     "EnemyMatk": 30,
@@ -2655,6 +3115,10 @@
       {
         "Id": "161",
         "Percent": 105
+      },
+      {
+        "Id": "172",
+        "Percent": 8
       }
     ],
     "Parcels": [
@@ -2667,6 +3131,7 @@
     "Id": "69",
     "Name": "Highland Goat",
     "EnemyType": "Goat",
+    "Species": "Goat",
     "PartySize": 1,
     "LevelReq": 21,
     "Rarity": 1,
@@ -2691,6 +3156,14 @@
       {
         "Id": "162",
         "Percent": 125
+      },
+      {
+        "Id": "163",
+        "Percent": 20
+      },
+      {
+        "Id": "819",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -2702,6 +3175,7 @@
     "Id": "70",
     "Name": "Elder Ram",
     "EnemyType": "Goat",
+    "Species": "Goat",
     "PartySize": 1,
     "LevelReq": 25,
     "Rarity": 2,
@@ -2726,6 +3200,14 @@
       {
         "Id": "162",
         "Percent": 250
+      },
+      {
+        "Id": "163",
+        "Percent": 50
+      },
+      {
+        "Id": "819",
+        "Percent": 80
       }
     ],
     "Parcels": [
@@ -2738,19 +3220,20 @@
     "Id": "71",
     "Name": "Grondal",
     "EnemyType": "Goat",
+    "Species": "Goat",
     "PartySize": 2,
-    "LevelReq": 26,
+    "LevelReq": 27,
     "Rarity": 3,
     "Region": 3,
-    "Exp": 520,
-    "EnemyHp": 25000,
-    "EnemyAtk": 40,
+    "Exp": 540,
+    "EnemyHp": 18000,
+    "EnemyAtk": 65,
     "EnemyMatk": 10,
     "EnemyDef": 350,
     "EnemyMdef": 320,
     "EnemyEva": 40,
     "EnemyAcc": 50,
-    "EnemyPower": 4014,
+    "EnemyPower": 3046,
     "AttackList": [
       "BeastBellow",
       "BestialCharge",
@@ -2766,6 +3249,18 @@
       {
         "Id": "163",
         "Percent": 105
+      },
+      {
+        "Id": "819",
+        "Percent": 120
+      },
+      {
+        "Id": "170",
+        "Percent": 10
+      },
+      {
+        "Id": "171",
+        "Percent": 110
       }
     ],
     "Parcels": [
@@ -2778,6 +3273,7 @@
     "Id": "72",
     "Name": "Roc",
     "EnemyType": "Roc",
+    "Species": "Bird",
     "PartySize": 1,
     "LevelReq": 22,
     "Rarity": 1,
@@ -2802,6 +3298,10 @@
       {
         "Id": "164",
         "Percent": 125
+      },
+      {
+        "Id": "165",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2813,6 +3313,7 @@
     "Id": "73",
     "Name": "Burly Roc",
     "EnemyType": "Roc",
+    "Species": "Bird",
     "PartySize": 1,
     "LevelReq": 23,
     "Rarity": 2,
@@ -2837,6 +3338,10 @@
       {
         "Id": "164",
         "Percent": 250
+      },
+      {
+        "Id": "165",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -2849,6 +3354,7 @@
     "Id": "74",
     "Name": "Ahir",
     "EnemyType": "Roc",
+    "Species": "Bird",
     "PartySize": 2,
     "LevelReq": 28,
     "Rarity": 4,
@@ -2877,6 +3383,10 @@
       {
         "Id": "165",
         "Percent": 105
+      },
+      {
+        "Id": "173",
+        "Percent": 8
       }
     ],
     "Parcels": [
@@ -2889,19 +3399,20 @@
     "Id": "75",
     "Name": "Highland Spirit",
     "EnemyType": "Spirit",
+    "Species": "Ghost",
     "PartySize": 1,
     "LevelReq": 24,
     "Rarity": 1,
     "Region": 3,
     "Exp": 240,
-    "EnemyHp": 500,
+    "EnemyHp": 1200,
     "EnemyAtk": 35,
     "EnemyMatk": 130,
     "EnemyDef": 125,
     "EnemyMdef": 55,
     "EnemyEva": 67,
     "EnemyAcc": 40,
-    "EnemyPower": 464,
+    "EnemyPower": 564,
     "AttackList": [
       "MindBlast",
       "Basic",
@@ -2913,6 +3424,10 @@
       {
         "Id": "166",
         "Percent": 125
+      },
+      {
+        "Id": "167",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -2924,19 +3439,20 @@
     "Id": "76",
     "Name": "Moor Phantom",
     "EnemyType": "Spirit",
+    "Species": "Ghost",
     "PartySize": 2,
     "LevelReq": 27,
     "Rarity": 2,
     "Region": 3,
     "Exp": 540,
-    "EnemyHp": 15000,
+    "EnemyHp": 12000,
     "EnemyAtk": 10,
-    "EnemyMatk": 70,
+    "EnemyMatk": 145,
     "EnemyDef": 200,
     "EnemyMdef": 500,
     "EnemyEva": 100,
     "EnemyAcc": 60,
-    "EnemyPower": 2700,
+    "EnemyPower": 2368,
     "AttackList": [
       "MindBlast",
       "MagicMissile",
@@ -2948,6 +3464,10 @@
       {
         "Id": "166",
         "Percent": 250
+      },
+      {
+        "Id": "167",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -2960,19 +3480,20 @@
     "Id": "77",
     "Name": "Summit Death Reaper",
     "EnemyType": "Spirit",
+    "Species": "Ghost",
     "PartySize": 3,
     "LevelReq": 29,
     "Rarity": 3,
     "Region": 3,
     "Exp": 870,
-    "EnemyHp": 18000,
+    "EnemyHp": 16000,
     "EnemyAtk": 12,
-    "EnemyMatk": 85,
+    "EnemyMatk": 165,
     "EnemyDef": 220,
     "EnemyMdef": 550,
     "EnemyEva": 120,
     "EnemyAcc": 63,
-    "EnemyPower": 3201,
+    "EnemyPower": 3018,
     "AttackList": [
       "MagicMissile",
       "MindBlast",
@@ -2988,6 +3509,10 @@
       {
         "Id": "167",
         "Percent": 105
+      },
+      {
+        "Id": "169",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -3000,19 +3525,20 @@
     "Id": "78",
     "Name": "Murk Dweller",
     "EnemyType": "Loch",
+    "Species": "Loch",
     "PartySize": 2,
     "LevelReq": 24,
     "Rarity": 2,
     "Region": 3,
     "Exp": 480,
-    "EnemyHp": 30000,
-    "EnemyAtk": 30,
+    "EnemyHp": 24000,
+    "EnemyAtk": 60,
     "EnemyMatk": 10,
     "EnemyDef": 300,
     "EnemyMdef": 300,
     "EnemyEva": 30,
     "EnemyAcc": 60,
-    "EnemyPower": 4689,
+    "EnemyPower": 3870,
     "AttackList": [
       "Basic",
       "Flood",
@@ -3024,6 +3550,10 @@
       {
         "Id": "181",
         "Percent": 125
+      },
+      {
+        "Id": "182",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -3036,6 +3566,7 @@
     "Id": "79",
     "Name": "Tidecaller Colossus",
     "EnemyType": "Loch",
+    "Species": "Loch",
     "PartySize": 3,
     "LevelReq": 31,
     "Rarity": 3,
@@ -3076,24 +3607,25 @@
     "Id": "80",
     "Name": "Abyssal Leviathan",
     "EnemyType": "Loch",
+    "Species": "Loch",
     "PartySize": 6,
     "LevelReq": 35,
     "Rarity": 5,
     "Region": 3,
     "Exp": 2100,
-    "EnemyHp": 13485,
-    "EnemyAtk": 540,
-    "EnemyMatk": 108,
-    "EnemyDef": 210,
-    "EnemyMdef": 128,
-    "EnemyEva": 2,
-    "EnemyAcc": 96,
-    "EnemyPower": 3016,
+    "EnemyHp": 150000,
+    "EnemyAtk": 300,
+    "EnemyMatk": 200,
+    "EnemyDef": 800,
+    "EnemyMdef": 600,
+    "EnemyEva": 50,
+    "EnemyAcc": 100,
+    "EnemyPower": 22829,
     "AttackList": [
-      "Flood",
+      "Whirlpool",
       "SteamGeysers",
-      "Flood",
       "ColossalChomp",
+      "Whirlpool",
       "Flood"
     ],
     "BaseRewards": [
@@ -3104,6 +3636,14 @@
       {
         "Id": "182",
         "Percent": 220
+      },
+      {
+        "Id": "183",
+        "Percent": 10
+      },
+      {
+        "Id": "184",
+        "Percent": 1
       }
     ],
     "Parcels": [
@@ -3116,6 +3656,7 @@
     "Id": "81",
     "Name": "Boulderback Ogre",
     "EnemyType": "Ogre",
+    "Species": "Ogre",
     "PartySize": 2,
     "LevelReq": 25,
     "Rarity": 1,
@@ -3140,6 +3681,14 @@
       {
         "Id": "178",
         "Percent": 125
+      },
+      {
+        "Id": "206",
+        "Percent": 20
+      },
+      {
+        "Id": "179",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -3152,6 +3701,7 @@
     "Id": "82",
     "Name": "Twin Brute Raider",
     "EnemyType": "Ogre",
+    "Species": "Ogre",
     "PartySize": 3,
     "LevelReq": 26,
     "Rarity": 3,
@@ -3176,6 +3726,18 @@
       {
         "Id": "178",
         "Percent": 250
+      },
+      {
+        "Id": "206",
+        "Percent": 50
+      },
+      {
+        "Id": "179",
+        "Percent": 50
+      },
+      {
+        "Id": "180",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -3188,6 +3750,7 @@
     "Id": "83",
     "Name": "Dunderbaad",
     "EnemyType": "Ogre",
+    "Species": "Ogre",
     "PartySize": 3,
     "LevelReq": 33,
     "Rarity": 4,
@@ -3216,6 +3779,18 @@
       {
         "Id": "206",
         "Percent": 105
+      },
+      {
+        "Id": "179",
+        "Percent": 105
+      },
+      {
+        "Id": "180",
+        "Percent": 50
+      },
+      {
+        "Id": "207",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -3228,19 +3803,20 @@
     "Id": "84",
     "Name": "Mountain Drake",
     "EnemyType": "Drake",
+    "Species": "Lizard",
     "PartySize": 2,
     "LevelReq": 27,
     "Rarity": 2,
     "Region": 3,
     "Exp": 540,
-    "EnemyHp": 20000,
-    "EnemyAtk": 60,
-    "EnemyMatk": 10,
+    "EnemyHp": 16000,
+    "EnemyAtk": 90,
+    "EnemyMatk": 25,
     "EnemyDef": 300,
     "EnemyMdef": 100,
     "EnemyEva": 40,
     "EnemyAcc": 40,
-    "EnemyPower": 3199,
+    "EnemyPower": 2685,
     "AttackList": [
       "Sandstorm",
       "TunnelRush",
@@ -3268,19 +3844,20 @@
     "Id": "85",
     "Name": "Undor",
     "EnemyType": "Drake",
+    "Species": "Lizard",
     "PartySize": 3,
     "LevelReq": 32,
     "Rarity": 4,
     "Region": 3,
     "Exp": 960,
-    "EnemyHp": 26000,
-    "EnemyAtk": 80,
+    "EnemyHp": 19500,
+    "EnemyAtk": 120,
     "EnemyMatk": 30,
     "EnemyDef": 330,
     "EnemyMdef": 140,
     "EnemyEva": 50,
     "EnemyAcc": 42,
-    "EnemyPower": 4148,
+    "EnemyPower": 3271,
     "AttackList": [
       "Sandstorm",
       "TunnelRush",
@@ -3296,6 +3873,10 @@
       {
         "Id": "175",
         "Percent": 240
+      },
+      {
+        "Id": "176",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -3308,6 +3889,7 @@
     "Id": "86",
     "Name": "Harpy Scrapper",
     "EnemyType": "Harpy Scrapper",
+    "Species": "Harpy",
     "PartySize": 1,
     "LevelReq": 26,
     "Rarity": 1,
@@ -3332,6 +3914,10 @@
       {
         "Id": "185",
         "Percent": 120
+      },
+      {
+        "Id": "186",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -3344,6 +3930,7 @@
     "Id": "87",
     "Name": "Harpy Shredder",
     "EnemyType": "Harpy Scrapper",
+    "Species": "Harpy",
     "PartySize": 1,
     "LevelReq": 27,
     "Rarity": 2,
@@ -3368,6 +3955,14 @@
       {
         "Id": "185",
         "Percent": 205
+      },
+      {
+        "Id": "186",
+        "Percent": 105
+      },
+      {
+        "Id": "187",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -3380,6 +3975,7 @@
     "Id": "88",
     "Name": "Harpy Axe Wielder",
     "EnemyType": "Harpy Axe Wielder",
+    "Species": "Harpy",
     "PartySize": 1,
     "LevelReq": 28,
     "Rarity": 2,
@@ -3404,6 +4000,14 @@
       {
         "Id": "185",
         "Percent": 120
+      },
+      {
+        "Id": "190",
+        "Percent": 20
+      },
+      {
+        "Id": "188",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -3416,6 +4020,7 @@
     "Id": "89",
     "Name": "Harpy Axe Commander",
     "EnemyType": "Harpy Axe Wielder",
+    "Species": "Harpy",
     "PartySize": 1,
     "LevelReq": 29,
     "Rarity": 3,
@@ -3440,6 +4045,18 @@
       {
         "Id": "185",
         "Percent": 205
+      },
+      {
+        "Id": "190",
+        "Percent": 50
+      },
+      {
+        "Id": "188",
+        "Percent": 80
+      },
+      {
+        "Id": "189",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -3452,6 +4069,7 @@
     "Id": "90",
     "Name": "Harpy Sorcerer",
     "EnemyType": "Harpy Mage",
+    "Species": "Harpy",
     "PartySize": 1,
     "LevelReq": 28,
     "Rarity": 2,
@@ -3476,6 +4094,14 @@
       {
         "Id": "185",
         "Percent": 120
+      },
+      {
+        "Id": "190",
+        "Percent": 20
+      },
+      {
+        "Id": "191",
+        "Percent": 50
       }
     ],
     "Parcels": [
@@ -3488,6 +4114,7 @@
     "Id": "91",
     "Name": "Harpy Archmage",
     "EnemyType": "Harpy Mage",
+    "Species": "Harpy",
     "PartySize": 1,
     "LevelReq": 29,
     "Rarity": 3,
@@ -3512,6 +4139,18 @@
       {
         "Id": "185",
         "Percent": 205
+      },
+      {
+        "Id": "190",
+        "Percent": 50
+      },
+      {
+        "Id": "191",
+        "Percent": 80
+      },
+      {
+        "Id": "192",
+        "Percent": 10
       }
     ],
     "Parcels": [
@@ -3524,6 +4163,7 @@
     "Id": "92",
     "Name": "Harpy Roc Tamer",
     "EnemyType": "Harpy Roc Tamer",
+    "Species": "Harpy",
     "PartySize": 2,
     "LevelReq": 30,
     "Rarity": 3,
@@ -3548,6 +4188,22 @@
       {
         "Id": "185",
         "Percent": 120
+      },
+      {
+        "Id": "186",
+        "Percent": 150
+      },
+      {
+        "Id": "187",
+        "Percent": 105
+      },
+      {
+        "Id": "193",
+        "Percent": 105
+      },
+      {
+        "Id": "195",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -3560,6 +4216,7 @@
     "Id": "93",
     "Name": "Haras the Harpy Hagwitch",
     "EnemyType": "Harpy Witch",
+    "Species": "Harpy",
     "PartySize": 4,
     "LevelReq": 35,
     "Rarity": 4,
@@ -3583,7 +4240,23 @@
     "BaseRewards": [
       {
         "Id": "185",
-        "Percent": 250
+        "Percent": 350
+      },
+      {
+        "Id": "202",
+        "Percent": 30
+      },
+      {
+        "Id": "196",
+        "Percent": 105
+      },
+      {
+        "Id": "197",
+        "Percent": 20
+      },
+      {
+        "Id": "201",
+        "Percent": 5
       }
     ],
     "Parcels": [
@@ -3596,6 +4269,7 @@
     "Id": "95",
     "Name": "Howlthorn Treant",
     "EnemyType": "Aldur Treant",
+    "Species": "Treant",
     "PartySize": 2,
     "LevelReq": 25,
     "Rarity": 3,
@@ -3603,12 +4277,12 @@
     "Exp": 500,
     "EnemyHp": 20000,
     "EnemyAtk": 15,
-    "EnemyMatk": 40,
+    "EnemyMatk": 70,
     "EnemyDef": 100,
     "EnemyMdef": 160,
     "EnemyEva": 10,
     "EnemyAcc": 58,
-    "EnemyPower": 3114,
+    "EnemyPower": 3153,
     "AttackList": [
       "Basic",
       "Basic",
@@ -3644,6 +4318,7 @@
     "Id": "96",
     "Name": "Ancient Howlthorn Treant",
     "EnemyType": "Aldur Treant",
+    "Species": "Treant",
     "PartySize": 3,
     "LevelReq": 34,
     "Rarity": 4,
@@ -3651,12 +4326,12 @@
     "Exp": 1020,
     "EnemyHp": 40000,
     "EnemyAtk": 17,
-    "EnemyMatk": 60,
+    "EnemyMatk": 95,
     "EnemyDef": 120,
     "EnemyMdef": 200,
     "EnemyEva": 12,
     "EnemyAcc": 68,
-    "EnemyPower": 6038,
+    "EnemyPower": 6083,
     "AttackList": [
       "Basic",
       "Basic",
@@ -3680,6 +4355,10 @@
       {
         "Id": "168",
         "Percent": 350
+      },
+      {
+        "Id": "204",
+        "Percent": 20
       }
     ],
     "Parcels": [
@@ -3692,19 +4371,20 @@
     "Id": "97",
     "Name": "Titanium Golem",
     "EnemyType": "Aldur Golem",
+    "Species": "Golem",
     "PartySize": 2,
     "LevelReq": 25,
     "Rarity": 3,
     "Region": 3,
     "Exp": 500,
     "EnemyHp": 20000,
-    "EnemyAtk": 40,
+    "EnemyAtk": 70,
     "EnemyMatk": 15,
     "EnemyDef": 160,
     "EnemyMdef": 100,
     "EnemyEva": 10,
     "EnemyAcc": 58,
-    "EnemyPower": 3114,
+    "EnemyPower": 3153,
     "AttackList": [
       "Basic",
       "Basic",
@@ -3740,19 +4420,20 @@
     "Id": "98",
     "Name": "Weathered Titanium Golem",
     "EnemyType": "Aldur Golem",
+    "Species": "Golem",
     "PartySize": 3,
     "LevelReq": 34,
     "Rarity": 4,
     "Region": 3,
     "Exp": 1020,
     "EnemyHp": 40000,
-    "EnemyAtk": 60,
+    "EnemyAtk": 95,
     "EnemyMatk": 17,
     "EnemyDef": 200,
     "EnemyMdef": 120,
     "EnemyEva": 12,
     "EnemyAcc": 68,
-    "EnemyPower": 6038,
+    "EnemyPower": 6083,
     "AttackList": [
       "Basic",
       "Basic",
@@ -3776,6 +4457,10 @@
       {
         "Id": "177",
         "Percent": 800
+      },
+      {
+        "Id": "205",
+        "Percent": 20
       }
     ],
     "Parcels": [

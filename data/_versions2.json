@@ -1,15 +1,15 @@
 {
   "buildings": {
-    "Version": "1.14.9",
-    "Hash": "b58872b2faf2d9edc9cb56438af2faf2"
+    "Version": "1.14.10",
+    "Hash": "c523417d9c18eef8030acdd764d025e6"
   },
   "equipment": {
-    "Version": "1.15.7",
-    "Hash": "8b9732540a7a8127d75be24484f5f4f7"
+    "Version": "1.15.11",
+    "Hash": "2d863901324a5e95afeedd88ccaffac2"
   },
   "default": {
-    "Version": "1.18.21",
-    "Hash": "d10cfa5a269897ab21bef61f1997f2b0"
+    "Version": "1.18.26",
+    "Hash": "1298e85f4917f2aa7e2b8fa227ce2b90"
   },
   "formula": {
     "Version": "1.2.3",
@@ -20,32 +20,32 @@
     "Hash": "20c5b0dbfd3692506213dc9e1c39d1b1"
   },
   "quests": {
-    "Version": "1.15.12",
-    "Hash": "21da139fd6b5bcf64e03940330b719b6"
+    "Version": "1.15.17",
+    "Hash": "9371d34406d6ff75ac68d64e4bfad5cc"
   },
   "pois": {
-    "Version": "1.8.8",
-    "Hash": "2a576723846bb5b42897b83858a63561"
+    "Version": "1.8.12",
+    "Hash": "650a020d7cd33b55048426ae40702a3e"
   },
   "materials": {
-    "Version": "1.14.7",
-    "Hash": "3becb799942123b4884f406b139c0423"
+    "Version": "1.14.8",
+    "Hash": "8e485617dd0bbc0841b2e008b5a2d869"
   },
   "workerDrops": {
-    "Version": "1.2.5",
-    "Hash": "8c1b9fe9c1f692fec787dfc6d0806180"
+    "Version": "1.2.6",
+    "Hash": "c1dacb01c31ca7ed1b8e9c4324efbe0c"
   },
   "consumables": {
-    "Version": "1.11.11",
-    "Hash": "ebd7ceec5041ed576ae8df3111ad43e7"
+    "Version": "1.11.12",
+    "Hash": "67961c051046cfe38f482f01752804e0"
   },
   "customers": {
-    "Version": "1.7.3",
-    "Hash": "11d2d2f99091b9a002e1a007e111a90c"
+    "Version": "1.7.4",
+    "Hash": "96d3eb748d4af9eb080af0ea97599b78"
   },
   "skills": {
-    "Version": "1.0.5",
-    "Hash": "64bd56139ab8a2c628c9b2bebe4a5fe8"
+    "Version": "1.0.6",
+    "Hash": "88485131b0546a75649f75759d87079b"
   },
   "passives": {
     "Version": "1.0.1",
@@ -57,11 +57,11 @@
   },
   "loot": {
     "Version": "1.0.6",
-    "Hash": "6c1529fb40ecd495aeb461d4537e34c5"
+    "Hash": "4ea32331c9b4e37b2359de651dd32f61"
   },
   "tokens": {
-    "Version": "1.0.0",
-    "Hash": "89bfd31a021e67aeaf0a737b01cef40d"
+    "Version": "1.0.1",
+    "Hash": "d2a044c6f34c77277bc8d77b9e86b5fd"
   },
   "herotraits": {
     "Version": "1.0.0",
@@ -80,7 +80,23 @@
     "Hash": "8ec812109bdfb78695daabf86d54283a"
   },
   "story": {
+    "Version": "1.0.4",
+    "Hash": "9c3d294f7cba01cc1aa17981db986fd3"
+  },
+  "cosmetics": {
+    "Version": "1.0.1",
+    "Hash": "d88b7c8e8c2f6b431294e529dcbd385e"
+  },
+  "achievements": {
     "Version": "1.0.2",
-    "Hash": "5c4be0223c3e81250daa776df467467b"
+    "Hash": "b205c7062f72d9334617b2357b29955b"
+  },
+  "expeditionitems": {
+    "Version": "1.0.0",
+    "Hash": "6be323060cd4f9ee04edcced82a9e730"
+  },
+  "others": {
+    "Version": "1.0.0",
+    "Hash": "2b717f999dfa079c16c3c4a98cb698d6"
   }
 }

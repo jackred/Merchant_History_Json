@@ -158,7 +158,7 @@
     },
     "40": {
       "name": "Goblin Warlord's Emblem",
-      "desc": "Emblem the most fearsome Goblin fighters, the Goblin Warlords"
+      "desc": "Emblem of the most fearsome Goblin fighters, the Goblin Warlords"
     },
     "41": {
       "name": "Bear Hide",
@@ -486,7 +486,7 @@
     },
     "169": {
       "name": "Spirit Scythe Blade",
-      "desc": "Refined Highland Crystals, used to make Crimsonite Runes"
+      "desc": "Soul infused blade of death"
     },
     "170": {
       "name": "Yak Hackles",
@@ -1940,39 +1940,39 @@
   "lootbags": {
     "1": {
       "name": "Tuvale Bag",
-      "desc": "An uncommon Tuvale Bag"
+      "desc": "A commonTuvale Bag"
     },
     "2": {
       "name": "Rare Tuvale Bag",
       "desc": "A rare Tuvale Bag"
     },
     "3": {
-      "name": "Legendary Tuvale Bag",
-      "desc": "A legendary Tuvale Bag"
+      "name": "Epic Tuvale Bag",
+      "desc": "An epic Tuvale Bag"
     },
     "4": {
       "name": "Yarsol Bag",
-      "desc": "An uncommon Yarsol Bag"
+      "desc": "A common Yarsol Bag"
     },
     "5": {
       "name": "Rare Yarsol Bag",
       "desc": "A rare Yarsol Bag"
     },
     "6": {
-      "name": "Legendary Yarsol Bag",
-      "desc": "A legendary Yarsol Bag"
+      "name": "Epic Yarsol Bag",
+      "desc": "An epic Yarsol Bag"
     },
     "7": {
       "name": "Aldur Bag",
-      "desc": "An uncommon Aldur Bag"
+      "desc": "A common Aldur Bag"
     },
     "8": {
       "name": "Rare Aldur Bag",
       "desc": "A rare Aldur Bag"
     },
     "9": {
-      "name": "Legendary Aldur Bag",
-      "desc": "A legendary Aldur Bag"
+      "name": "Epic Aldur Bag",
+      "desc": "An epic Aldur Bag"
     },
     "10": {
       "name": "Region 4 Bag",
@@ -2072,6 +2072,10 @@
       "name": "All Crafter +1 Mana",
       "desc": "Gives +1 mana to all crafters. If crafter is at max mana will not give them any"
     },
+    "46": {
+      "name": "Any Crafter +1 Mana",
+      "desc": ""
+    },
     "100": {
       "name": "POI Refresh Tuvale",
       "desc": "Refreshes a Tuvale location with enemies when empty"
@@ -2083,6 +2087,10 @@
     "102": {
       "name": "POI Refresh Aldur",
       "desc": "Refreshes an Aldur location with enemies when empty"
+    },
+    "103": {
+      "name": "POI Refresh R4",
+      "desc": ""
     },
     "120": {
       "name": "Skip Enemy Tuvale",
@@ -2096,6 +2104,10 @@
       "name": "Skip Enemy Aldur",
       "desc": "Skip an enemy at an Aldur location"
     },
+    "123": {
+      "name": "Skip Enemy R4",
+      "desc": ""
+    },
     "140": {
       "name": "Skip To Rare Tuvale",
       "desc": "Skips to a rare enemy at a Tuvale location if any available"
@@ -2107,6 +2119,10 @@
     "142": {
       "name": "Skip To Rare Aldur",
       "desc": "Skips to a rare enemy at an Aldur location if any available"
+    },
+    "143": {
+      "name": "Skip To Rare R4",
+      "desc": ""
     },
     "300": {
       "name": "Craft Speed 5 Min",
@@ -2134,7 +2150,7 @@
     },
     "306": {
       "name": "Quest Exp 5 Min",
-      "desc": "Increase quest exp gained by 2x for 10 minutes. Only applies to quests started after boost is active"
+      "desc": "Increase quest exp gained by 2x for 5 minutes. Only applies to quests started after boost is active"
     },
     "307": {
       "name": "Quest Exp 30 Min",
@@ -2159,10 +2175,6 @@
     "999": {
       "name": "Starter Boost",
       "desc": "Increase quest, craft, and work speed by 2x for 1 hour. Only applies to jobs started after the boost is active"
-    },
-    "": {
-      "name": "Work Finish",
-      "desc": "Immediately completes a work"
     }
   }
 }
