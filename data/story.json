@@ -3,7 +3,7 @@
     {
       "Rewards": "gold:50|loot:1$1",
       "QuestType": 31,
-      "RequiredAmount": 4
+      "RequiredAmount": 2
     },
     {
       "Rewards": "gold:50|csm:1$5",
