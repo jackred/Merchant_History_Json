@@ -1,0 +1,390 @@
+{
+  "1": {
+    "name": "Stygian Beetle",
+    "subtype": "Beetle"
+  },
+  "2": {
+    "name": "Emerald Beetle",
+    "subtype": "Beetle"
+  },
+  "3": {
+    "name": "Sacer",
+    "subtype": "Beetle"
+  },
+  "4": {
+    "name": "Grass Spider",
+    "subtype": "Spider"
+  },
+  "5": {
+    "name": "Tarantula",
+    "subtype": "Spider"
+  },
+  "6": {
+    "name": "Maexna",
+    "subtype": "Spider"
+  },
+  "7": {
+    "name": "Green Snake",
+    "subtype": "Snake"
+  },
+  "8": {
+    "name": "Viper",
+    "subtype": "Snake"
+  },
+  "9": {
+    "name": "Zahhak",
+    "subtype": "Snake"
+  },
+  "10": {
+    "name": "Boar",
+    "subtype": "Boar"
+  },
+  "11": {
+    "name": "Great Boar",
+    "subtype": "Boar"
+  },
+  "12": {
+    "name": "Hogger",
+    "subtype": "Boar"
+  },
+  "13": {
+    "name": "Wolf",
+    "subtype": "Wolf"
+  },
+  "14": {
+    "name": "Tattered Wolf",
+    "subtype": "Wolf"
+  },
+  "15": {
+    "name": "Amarok",
+    "subtype": "Wolf"
+  },
+  "16": {
+    "name": "Goblin",
+    "subtype": "Goblin Footman"
+  },
+  "17": {
+    "name": "Goblin Fighter",
+    "subtype": "Goblin Footman"
+  },
+  "18": {
+    "name": "Goblin Pack Leader",
+    "subtype": "Goblin Footman"
+  },
+  "19": {
+    "name": "Goblin Mage",
+    "subtype": "Goblin Mage"
+  },
+  "20": {
+    "name": "Goblin Acolyte",
+    "subtype": "Goblin Mage"
+  },
+  "21": {
+    "name": "Goblin Thief",
+    "subtype": "Goblin Thief"
+  },
+  "22": {
+    "name": "Goblin Ninja",
+    "subtype": "Goblin Thief"
+  },
+  "23": {
+    "name": "Goblin Archer",
+    "subtype": "Goblin Archer"
+  },
+  "24": {
+    "name": "Goblin Ace",
+    "subtype": "Goblin Archer"
+  },
+  "25": {
+    "name": "Goblin Chieftain",
+    "subtype": "Goblin Chieftain"
+  },
+  "26": {
+    "name": "Goblin Warlord",
+    "subtype": "Goblin Chieftain"
+  },
+  "27": {
+    "name": "Bear",
+    "subtype": "Bear"
+  },
+  "28": {
+    "name": "Magic Bear",
+    "subtype": "Bear"
+  },
+  "29": {
+    "name": "Kunnigas",
+    "subtype": "Bear"
+  },
+  "30": {
+    "name": "Oak Treant",
+    "subtype": "Tuvale Treant"
+  },
+  "31": {
+    "name": "Ancient Oak Treant",
+    "subtype": "Tuvale Treant"
+  },
+  "32": {
+    "name": "Iron Golem",
+    "subtype": "Tuvale Golem"
+  },
+  "33": {
+    "name": "Weathered Iron Golem",
+    "subtype": "Tuvale Golem"
+  },
+  "34": {
+    "name": "Albatross",
+    "subtype": "Albatross"
+  },
+  "35": {
+    "name": "Enraged Albatross",
+    "subtype": "Albatross"
+  },
+  "36": {
+    "name": "Garsci",
+    "subtype": "Albatross"
+  },
+  "37": {
+    "name": "Snapping Turtle",
+    "subtype": "Turtle"
+  },
+  "38": {
+    "name": "Spiked Turtle",
+    "subtype": "Turtle"
+  },
+  "39": {
+    "name": "Gopil",
+    "subtype": "Turtle"
+  },
+  "40": {
+    "name": "Sand Lizard",
+    "subtype": "Sand Lizard"
+  },
+  "41": {
+    "name": "Evolved Lizard",
+    "subtype": "Sand Lizard"
+  },
+  "42": {
+    "name": "Ielec",
+    "subtype": "Sand Lizard"
+  },
+  "43": {
+    "name": "Giant Crab",
+    "subtype": "Crab"
+  },
+  "44": {
+    "name": "Volcano Crab",
+    "subtype": "Crab"
+  },
+  "45": {
+    "name": "Aosag",
+    "subtype": "Crab"
+  },
+  "46": {
+    "name": "Jellyfish",
+    "subtype": "Jellyfish"
+  },
+  "47": {
+    "name": "Gloom Jellyfish",
+    "subtype": "Jellyfish"
+  },
+  "48": {
+    "name": "Griroa",
+    "subtype": "Jellyfish"
+  },
+  "49": {
+    "name": "Kobold Pikeman",
+    "subtype": "Kobold Pikeman"
+  },
+  "50": {
+    "name": "Kobold Guardsman",
+    "subtype": "Kobold Pikeman"
+  },
+  "51": {
+    "name": "Kobold Knife Thrower",
+    "subtype": "Kobold Assassin"
+  },
+  "52": {
+    "name": "Kobold Assassin",
+    "subtype": "Kobold Assassin"
+  },
+  "53": {
+    "name": "Kobold Apprentice",
+    "subtype": "Kobold Mage"
+  },
+  "54": {
+    "name": "Kobold Highpriest",
+    "subtype": "Kobold Mage"
+  },
+  "55": {
+    "name": "Kobold Chieftain",
+    "subtype": "Kobold Chieftain"
+  },
+  "56": {
+    "name": "Kobold Monarch",
+    "subtype": "Kobold Monarch"
+  },
+  "57": {
+    "name": "Sand Striker",
+    "subtype": "Sandstriker"
+  },
+  "58": {
+    "name": "Weeping Sand Striker",
+    "subtype": "Sandstriker"
+  },
+  "59": {
+    "name": "Scorok",
+    "subtype": "Sandstriker"
+  },
+  "60": {
+    "name": "Giant Frog",
+    "subtype": "Giant Frog"
+  },
+  "61": {
+    "name": "Croaker",
+    "subtype": "Giant Frog"
+  },
+  "62": {
+    "name": "Yew Treant",
+    "subtype": "Yarsol Treant"
+  },
+  "63": {
+    "name": "Ancient Yew Treant",
+    "subtype": "Yarsol Treant"
+  },
+  "64": {
+    "name": "Cobalt Golem",
+    "subtype": "Yarsol Golem"
+  },
+  "65": {
+    "name": "Weathered Cobalt Golem",
+    "subtype": "Yarsol Golem"
+  },
+  "66": {
+    "name": "Rasselbock",
+    "subtype": "Deer"
+  },
+  "67": {
+    "name": "Highland Deer",
+    "subtype": "Deer"
+  },
+  "68": {
+    "name": "Kiruk",
+    "subtype": "Deer"
+  },
+  "69": {
+    "name": "Highland Goat",
+    "subtype": "Goat"
+  },
+  "70": {
+    "name": "Elder Ram",
+    "subtype": "Goat"
+  },
+  "71": {
+    "name": "Grondal",
+    "subtype": "Goat"
+  },
+  "72": {
+    "name": "Roc",
+    "subtype": "Roc"
+  },
+  "73": {
+    "name": "Burly Roc",
+    "subtype": "Roc"
+  },
+  "74": {
+    "name": "Ahir",
+    "subtype": "Roc"
+  },
+  "75": {
+    "name": "Highland Spirit",
+    "subtype": "Spirit"
+  },
+  "76": {
+    "name": "Moor Phantom",
+    "subtype": "Spirit"
+  },
+  "77": {
+    "name": "Summit Death Reaper",
+    "subtype": "Spirit"
+  },
+  "78": {
+    "name": "Murk Dweller",
+    "subtype": "Loch"
+  },
+  "79": {
+    "name": "Tidecaller Colossus",
+    "subtype": "Loch"
+  },
+  "80": {
+    "name": "Abyssal Leviathan",
+    "subtype": "Loch"
+  },
+  "81": {
+    "name": "Boulderback Ogre",
+    "subtype": "Ogre"
+  },
+  "82": {
+    "name": "Twin Brute Raider",
+    "subtype": "Ogre"
+  },
+  "83": {
+    "name": "Dunderbaad",
+    "subtype": "Ogre"
+  },
+  "84": {
+    "name": "Mountain Drake",
+    "subtype": "Drake"
+  },
+  "85": {
+    "name": "Undor",
+    "subtype": "Drake"
+  },
+  "86": {
+    "name": "Harpy Scrapper",
+    "subtype": "Harpy Scrapper"
+  },
+  "87": {
+    "name": "Harpy Shredder",
+    "subtype": "Harpy Scrapper"
+  },
+  "88": {
+    "name": "Harpy Axe Wielder",
+    "subtype": "Harpy Axe Wielder"
+  },
+  "89": {
+    "name": "Harpy Axe Commander",
+    "subtype": "Harpy Axe Wielder"
+  },
+  "90": {
+    "name": "Harpy Sorcerer",
+    "subtype": "Harpy Mage"
+  },
+  "91": {
+    "name": "Harpy Archmage",
+    "subtype": "Harpy Mage"
+  },
+  "92": {
+    "name": "Harpy Roc Tamer",
+    "subtype": "Harpy Roc Tamer"
+  },
+  "93": {
+    "name": "Haras the Harpy Hagwitch",
+    "subtype": "Harpy Witch"
+  },
+  "95": {
+    "name": "Howlthorn Treant",
+    "subtype": "Aldur Treant"
+  },
+  "96": {
+    "name": "Sturdy Howlthorn Treant",
+    "subtype": "Aldur Treant"
+  },
+  "97": {
+    "name": "Titanium Golem",
+    "subtype": "Aldur Golem"
+  },
+  "98": {
+    "name": "Better Golem",
+    "subtype": "Aldur Golem"
+  }
+}
