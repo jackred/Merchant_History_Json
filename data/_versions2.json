@@ -1,102 +1,14 @@
 {
   "buildings": {
     "Version": "1.14.10",
-    "Hash": "47944a90727acdbd792ba7e62697866b"
-  },
-  "equipment": {
-    "Version": "1.15.11",
-    "Hash": "2d863901324a5e95afeedd88ccaffac2"
+    "Hash": "30208abe089c067a6321a940dfc37193"
   },
   "default": {
     "Version": "1.18.28",
-    "Hash": "86c8cff9b698394c9614bb4f045b8600"
-  },
-  "formula": {
-    "Version": "1.2.3",
-    "Hash": "a1ee2e99601851f0e5fb1173b14dd6f9"
+    "Hash": "0490c487b52bb99cd61ce4cd429753bc"
   },
   "heroes": {
     "Version": "1.11.6",
-    "Hash": "20c5b0dbfd3692506213dc9e1c39d1b1"
-  },
-  "quests": {
-    "Version": "1.15.17",
-    "Hash": "9371d34406d6ff75ac68d64e4bfad5cc"
-  },
-  "pois": {
-    "Version": "1.8.12",
-    "Hash": "756dec8b6f58204495fc61f3264d5969"
-  },
-  "materials": {
-    "Version": "1.14.8",
-    "Hash": "8e485617dd0bbc0841b2e008b5a2d869"
-  },
-  "workerDrops": {
-    "Version": "1.2.6",
-    "Hash": "c1dacb01c31ca7ed1b8e9c4324efbe0c"
-  },
-  "consumables": {
-    "Version": "1.11.12",
-    "Hash": "67961c051046cfe38f482f01752804e0"
-  },
-  "customers": {
-    "Version": "1.7.5",
-    "Hash": "d91f2c9ae395f960b42277ce9f2f4b52"
-  },
-  "skills": {
-    "Version": "1.0.7",
-    "Hash": "ca589600e2877835b8b37bad408a7d81"
-  },
-  "passives": {
-    "Version": "1.0.1",
-    "Hash": "82b55de7b249de751907c319e20e207b"
-  },
-  "skills.descr.en": {
-    "Version": "1.0.0",
-    "Hash": null
-  },
-  "loot": {
-    "Version": "1.0.6",
-    "Hash": "4ea32331c9b4e37b2359de651dd32f61"
-  },
-  "tokens": {
-    "Version": "1.0.1",
-    "Hash": "d2a044c6f34c77277bc8d77b9e86b5fd"
-  },
-  "herotraits": {
-    "Version": "1.0.0",
-    "Hash": "491ccdad59d212ea913e2020a27d2129"
-  },
-  "momentum": {
-    "Version": "1.0.2",
-    "Hash": "ea28d4770f8375c67893b2e4bdbf215b"
-  },
-  "prefixes": {
-    "Version": "1.0.5",
-    "Hash": "3e749549eb931edf4274e442696a71ac"
-  },
-  "infusions": {
-    "Version": "1.0.1",
-    "Hash": "8ec812109bdfb78695daabf86d54283a"
-  },
-  "story": {
-    "Version": "1.0.4",
-    "Hash": "9c3d294f7cba01cc1aa17981db986fd3"
-  },
-  "cosmetics": {
-    "Version": "1.0.1",
-    "Hash": "d88b7c8e8c2f6b431294e529dcbd385e"
-  },
-  "achievements": {
-    "Version": "1.0.2",
-    "Hash": "b205c7062f72d9334617b2357b29955b"
-  },
-  "expeditionitems": {
-    "Version": "1.0.0",
-    "Hash": "6be323060cd4f9ee04edcced82a9e730"
-  },
-  "others": {
-    "Version": "1.0.0",
-    "Hash": "2b717f999dfa079c16c3c4a98cb698d6"
+    "Hash": "547a345756aad64d931ede2ef15f3d4a"
   }
 }

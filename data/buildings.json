@@ -1,7 +1,7 @@
 {
   "craft": {
     "Id": "craft",
-    "MaxLvl": 40,
+    "MaxLvl": 33,
     "Image": "crafters_circle",
     "LevelCosts": [
       3,
@@ -86,7 +86,8 @@
       5162,
       5662,
       6195
-    ]
+    ],
+    "ItemRequirements": []
   },
   "gate": {
     "Id": "gate",
@@ -157,6 +158,111 @@
       4528,
       5128,
       5728
+    ],
+    "ItemRequirements": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      [
+        {
+          "Id": "1",
+          "Amount": 22
+        },
+        {
+          "Id": "2",
+          "Amount": 12
+        }
+      ],
+      [
+        {
+          "Id": "13",
+          "Amount": 22
+        },
+        {
+          "Id": "16",
+          "Amount": 25
+        }
+      ],
+      null,
+      null,
+      null,
+      null,
+      null,
+      [
+        {
+          "Id": "1",
+          "Amount": 22
+        },
+        {
+          "Id": "2",
+          "Amount": 12
+        }
+      ],
+      null,
+      null,
+      null,
+      null,
+      null,
+      [
+        {
+          "Id": "1",
+          "Amount": 22
+        },
+        {
+          "Id": "2",
+          "Amount": 12
+        }
+      ],
+      null,
+      null,
+      null,
+      null,
+      [
+        {
+          "Id": "1",
+          "Amount": 22
+        },
+        {
+          "Id": "2",
+          "Amount": 12
+        }
+      ],
+      null,
+      null,
+      null,
+      null,
+      [
+        {
+          "Id": "1",
+          "Amount": 22
+        },
+        {
+          "Id": "2",
+          "Amount": 12
+        }
+      ],
+      [
+        {
+          "Id": "1",
+          "Amount": 22
+        },
+        {
+          "Id": "2",
+          "Amount": 12
+        }
+      ],
+      [
+        {
+          "Id": "1",
+          "Amount": 22
+        },
+        {
+          "Id": "2",
+          "Amount": 12
+        }
+      ]
     ]
   },
   "ghall": {
@@ -190,11 +296,12 @@
       929,
       1429,
       2329
-    ]
+    ],
+    "ItemRequirements": []
   },
   "hhall": {
     "Id": "hhall",
-    "MaxLvl": 33,
+    "MaxLvl": 32,
     "Image": "heroes_hall",
     "LevelCosts": [
       3,
@@ -265,7 +372,8 @@
       3879,
       4212,
       4478
-    ]
+    ],
+    "ItemRequirements": []
   },
   "shop": {
     "Id": "shop",
@@ -288,11 +396,12 @@
       290,
       640,
       1240
-    ]
+    ],
+    "ItemRequirements": []
   },
   "stock": {
     "Id": "stock",
-    "MaxLvl": 51,
+    "MaxLvl": 49,
     "Image": "warehouse",
     "LevelCosts": [
       0,
@@ -413,6 +522,392 @@
       5743,
       6026,
       6309
+    ],
+    "ItemRequirements": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      [
+        {
+          "Id": "1",
+          "Amount": 4
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 4
+        }
+      ],
+      [
+        {
+          "Id": "6",
+          "Amount": 2
+        }
+      ],
+      [
+        {
+          "Id": "12",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "3",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "56",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "56",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "56",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "56",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "56",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "56",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "56",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ],
+      [
+        {
+          "Id": "155",
+          "Amount": 1
+        }
+      ]
     ]
   },
   "tavern": {
@@ -458,7 +953,8 @@
       948,
       1114,
       1314
-    ]
+    ],
+    "ItemRequirements": []
   },
   "work": {
     "Id": "work",
@@ -503,6 +999,7 @@
       801,
       1034,
       1334
-    ]
+    ],
+    "ItemRequirements": []
   }
 }

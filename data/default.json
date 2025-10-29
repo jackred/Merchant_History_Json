@@ -1,5 +1,5 @@
 {
-  "Season": null,
+  "Season": "halloween",
   "GuildCost": 150,
   "Questing": {
     "TimePerAction": 2,
