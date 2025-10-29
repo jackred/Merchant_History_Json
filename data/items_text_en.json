@@ -1,4 +1,834 @@
 {
+  "equipment": {
+    "1": {
+      "name": "Iron Dagger"
+    },
+    "2": {
+      "name": "Iron Sword"
+    },
+    "3": {
+      "name": "Oak Wand"
+    },
+    "4": {
+      "name": "Oak Club"
+    },
+    "5": {
+      "name": "Iron Knife"
+    },
+    "6": {
+      "name": "Iron Axe"
+    },
+    "7": {
+      "name": "Oak Stave"
+    },
+    "8": {
+      "name": "Iron Hatchet"
+    },
+    "9": {
+      "name": "Beetle Axe"
+    },
+    "10": {
+      "name": "Iron Longsword"
+    },
+    "11": {
+      "name": "Boar Club"
+    },
+    "12": {
+      "name": "Beetle Wand"
+    },
+    "13": {
+      "name": "Snake Stave"
+    },
+    "14": {
+      "name": "Maexna Wand"
+    },
+    "15": {
+      "name": "Goblin Sword"
+    },
+    "16": {
+      "name": "Goblin Longsword"
+    },
+    "17": {
+      "name": "Oak Mystic Stave"
+    },
+    "18": {
+      "name": "Goblin Wand"
+    },
+    "19": {
+      "name": "Bear Mystic Stave"
+    },
+    "20": {
+      "name": "Cursed Blade"
+    },
+    "21": {
+      "name": "Bear Cudgel"
+    },
+    "22": {
+      "name": "Bear Bane"
+    },
+    "23": {
+      "name": "Hempen Hood"
+    },
+    "24": {
+      "name": "Hempen Gloves"
+    },
+    "25": {
+      "name": "Hempen Shirt"
+    },
+    "26": {
+      "name": "Hempen Shoes"
+    },
+    "27": {
+      "name": "Iron Helm"
+    },
+    "28": {
+      "name": "Iron Bracers"
+    },
+    "29": {
+      "name": "Iron Chestplate"
+    },
+    "30": {
+      "name": "Iron Greaves"
+    },
+    "31": {
+      "name": "Hempen Cowl"
+    },
+    "32": {
+      "name": "Hempen Mitts"
+    },
+    "33": {
+      "name": "Bug Bracers"
+    },
+    "34": {
+      "name": "Hempen Robe"
+    },
+    "35": {
+      "name": "Bovine Greaves"
+    },
+    "36": {
+      "name": "Bovine Tunic"
+    },
+    "37": {
+      "name": "Snake Sandals"
+    },
+    "38": {
+      "name": "Snake Tunic"
+    },
+    "39": {
+      "name": "Snake Gloves"
+    },
+    "40": {
+      "name": "Snake Boots"
+    },
+    "41": {
+      "name": "Silk Chainlinks"
+    },
+    "42": {
+      "name": "Silk Mitts"
+    },
+    "43": {
+      "name": "Bug Helmet"
+    },
+    "44": {
+      "name": "Spider Silk Robe"
+    },
+    "45": {
+      "name": "Spider Silk Hat"
+    },
+    "46": {
+      "name": "Wolf Boots"
+    },
+    "47": {
+      "name": "Wolf Hood"
+    },
+    "48": {
+      "name": "Wolf Gloves"
+    },
+    "49": {
+      "name": "Wolf Feet"
+    },
+    "50": {
+      "name": "Wolf Helm"
+    },
+    "51": {
+      "name": "Chitin Chestplate"
+    },
+    "52": {
+      "name": "Gatherer Gloves"
+    },
+    "53": {
+      "name": "Goblin Bracers"
+    },
+    "54": {
+      "name": "Goblin Chestplate"
+    },
+    "55": {
+      "name": "Bear Gauntlets"
+    },
+    "56": {
+      "name": "Bear Sabatons"
+    },
+    "57": {
+      "name": "Forest Helm"
+    },
+    "58": {
+      "name": "Bear Helmet"
+    },
+    "59": {
+      "name": "Tuvale Robe"
+    },
+    "60": {
+      "name": "Tuvale Sabatons"
+    },
+    "61": {
+      "name": "Tuvale Hood"
+    },
+    "62": {
+      "name": "Tuvale Bracers"
+    },
+    "63": {
+      "name": "Oak Cudgel"
+    },
+    "64": {
+      "name": "Kunnigas Breastplate"
+    },
+    "65": {
+      "name": "Viper's Fang"
+    },
+    "66": {
+      "name": "Bovine Carver"
+    },
+    "67": {
+      "name": "Warlord's Medallion"
+    },
+    "68": {
+      "name": "Concealed Blade"
+    },
+    "69": {
+      "name": "Star of the Forest"
+    },
+    "70": {
+      "name": "Grok's Lucky Charm"
+    },
+    "71": {
+      "name": "Magi Ring"
+    },
+    "72": {
+      "name": "Cobalt Dagger"
+    },
+    "73": {
+      "name": "Cobalt Axe"
+    },
+    "74": {
+      "name": "Cobalt Sword"
+    },
+    "75": {
+      "name": "Cobalt Pike"
+    },
+    "76": {
+      "name": "Yew Mystic Stave"
+    },
+    "77": {
+      "name": "Yew Mystic Wand"
+    },
+    "78": {
+      "name": "Yew Club"
+    },
+    "79": {
+      "name": "Yew Wand"
+    },
+    "80": {
+      "name": "Yew Cudgel"
+    },
+    "81": {
+      "name": "Yew Stave"
+    },
+    "82": {
+      "name": "Cobalt Knife"
+    },
+    "83": {
+      "name": "Cobalt Chain Whip"
+    },
+    "84": {
+      "name": "Cobalt Longsword"
+    },
+    "86": {
+      "name": "Ashened Water Stave"
+    },
+    "87": {
+      "name": "Water Wand"
+    },
+    "88": {
+      "name": "Luminous Pike"
+    },
+    "89": {
+      "name": "Anguished Pike"
+    },
+    "90": {
+      "name": "Axe of Agony"
+    },
+    "91": {
+      "name": "Sandy Dagger"
+    },
+    "92": {
+      "name": "Shell Axe"
+    },
+    "93": {
+      "name": "Fowled Knife"
+    },
+    "94": {
+      "name": "Scaled Blade"
+    },
+    "95": {
+      "name": "Water's Edge"
+    },
+    "96": {
+      "name": "Riptides Sorrow"
+    },
+    "97": {
+      "name": "Cnidocyte's Blight"
+    },
+    "98": {
+      "name": "Wand of Warts"
+    },
+    "99": {
+      "name": "Marinachnid's Bane"
+    },
+    "100": {
+      "name": "Claw Longsword"
+    },
+    "101": {
+      "name": "Parotid Kriss"
+    },
+    "102": {
+      "name": "Sailor's Knife"
+    },
+    "103": {
+      "name": "Sargassum Wand"
+    },
+    "104": {
+      "name": "Hydrostave"
+    },
+    "105": {
+      "name": "Marrowed Club"
+    },
+    "106": {
+      "name": "Alkaline Cudgel"
+    },
+    "107": {
+      "name": "Reed Hood"
+    },
+    "108": {
+      "name": "Reed Tunic"
+    },
+    "109": {
+      "name": "Reed Wraps"
+    },
+    "110": {
+      "name": "Reed Crakows"
+    },
+    "111": {
+      "name": "Cobalt Helm"
+    },
+    "112": {
+      "name": "Cobalt Chestplate"
+    },
+    "113": {
+      "name": "Cobalt Greaves"
+    },
+    "114": {
+      "name": "Cobalt Bracers"
+    },
+    "115": {
+      "name": "Trifold Hat"
+    },
+    "116": {
+      "name": "Cobalt Hook"
+    },
+    "117": {
+      "name": "Yew Peg Leg"
+    },
+    "118": {
+      "name": "Seafoam Robe"
+    },
+    "119": {
+      "name": "Flowing Hood"
+    },
+    "120": {
+      "name": "Aquatic Sandals"
+    },
+    "121": {
+      "name": "Hydro Wraps"
+    },
+    "122": {
+      "name": "Amphibian Boots"
+    },
+    "123": {
+      "name": "Scaly Chest"
+    },
+    "124": {
+      "name": "Scaly Bracers"
+    },
+    "125": {
+      "name": "Scaly Greaves"
+    },
+    "126": {
+      "name": "Scaly Helm"
+    },
+    "127": {
+      "name": "Monarch's Robe"
+    },
+    "128": {
+      "name": "Seamarrow Chestplate"
+    },
+    "129": {
+      "name": "Seamarrow Helm"
+    },
+    "130": {
+      "name": "Seamarrow Greaves"
+    },
+    "131": {
+      "name": "Seamarrow Gloves"
+    },
+    "132": {
+      "name": "Carrioned Chestplate"
+    },
+    "133": {
+      "name": "Carrioned Helm"
+    },
+    "134": {
+      "name": "Carrioned Boots"
+    },
+    "135": {
+      "name": "Carrioned Gauntlets"
+    },
+    "136": {
+      "name": "Breakwater Band"
+    },
+    "137": {
+      "name": "Seafoam Pendant"
+    },
+    "138": {
+      "name": "Littoral Ring"
+    },
+    "139": {
+      "name": "Coastal Calamity"
+    },
+    "140": {
+      "name": "Lazulite Amulet"
+    },
+    "141": {
+      "name": "Crab Chestplate"
+    },
+    "142": {
+      "name": "Terror Helm"
+    },
+    "143": {
+      "name": "Terror Chest"
+    },
+    "144": {
+      "name": "Charm Of Wisdom"
+    },
+    "145": {
+      "name": "Yarsol Helm"
+    },
+    "146": {
+      "name": "Yarsol Chestplate"
+    },
+    "147": {
+      "name": "Yarsol Greaves"
+    },
+    "148": {
+      "name": "Yarsol Gloves"
+    },
+    "149": {
+      "name": "Slimy Sabatons"
+    },
+    "150": {
+      "name": "Lightweight Crakows"
+    },
+    "151": {
+      "name": "Kobold Scaled Chestplate"
+    },
+    "152": {
+      "name": "Edged Bracers"
+    },
+    "153": {
+      "name": "Cavalier Boots"
+    },
+    "154": {
+      "name": "Sailor's Tunic"
+    },
+    "155": {
+      "name": "Buccaneer's Cap"
+    },
+    "156": {
+      "name": "Privateer's Gloves"
+    },
+    "157": {
+      "name": "Admiral's Trifold"
+    },
+    "158": {
+      "name": "Admiral's Jacket"
+    },
+    "159": {
+      "name": "Admiral's Boots"
+    },
+    "160": {
+      "name": "Admiral's Gloves"
+    },
+    "161": {
+      "name": "Turtle Chestplate"
+    },
+    "162": {
+      "name": "Turtle Boots"
+    },
+    "163": {
+      "name": "Turtle Bracers"
+    },
+    "164": {
+      "name": "Turtle Helm"
+    },
+    "165": {
+      "name": "Titanium Knife"
+    },
+    "166": {
+      "name": "Titanium Hatchet"
+    },
+    "167": {
+      "name": "Titanium Sword"
+    },
+    "168": {
+      "name": "Howlthorn Wand"
+    },
+    "169": {
+      "name": "Howlthorn Stave"
+    },
+    "170": {
+      "name": "Howlthorn Club"
+    },
+    "171": {
+      "name": "Highrye Robe"
+    },
+    "172": {
+      "name": "Highrye Cowl"
+    },
+    "173": {
+      "name": "Highrye Shoes"
+    },
+    "174": {
+      "name": "Highrye Mitts"
+    },
+    "175": {
+      "name": "Titanium Helm"
+    },
+    "176": {
+      "name": "Titanium Chestplate"
+    },
+    "177": {
+      "name": "Titanium Greaves"
+    },
+    "178": {
+      "name": "Titanium Bracers"
+    },
+    "179": {
+      "name": "Aldurnian Crakows"
+    },
+    "180": {
+      "name": "Aldurnian Jacket"
+    },
+    "181": {
+      "name": "Aldurnian Hood"
+    },
+    "182": {
+      "name": "Aldurnian Mitts"
+    },
+    "183": {
+      "name": "Antler Helm"
+    },
+    "184": {
+      "name": "Antler Chestplate"
+    },
+    "185": {
+      "name": "Antler Greaves"
+    },
+    "186": {
+      "name": "Antler Bracers"
+    },
+    "187": {
+      "name": "Stone Hoof Boots"
+    },
+    "188": {
+      "name": "Roc Winged Breastplate"
+    },
+    "189": {
+      "name": "Roc Feathered Cowl"
+    },
+    "190": {
+      "name": "Highland Greathelm"
+    },
+    "191": {
+      "name": "Rocariel Sword"
+    },
+    "192": {
+      "name": "Howlthorn Mystic Wand"
+    },
+    "193": {
+      "name": "Howlthorn Mystic Stave"
+    },
+    "194": {
+      "name": "Howlthorn Cudgel"
+    },
+    "195": {
+      "name": "Antler Cudgel"
+    },
+    "196": {
+      "name": "Antler Mystic Stave"
+    },
+    "197": {
+      "name": "Titanium Axe"
+    },
+    "198": {
+      "name": "Titanium Dagger"
+    },
+    "199": {
+      "name": "Ram Hammer"
+    },
+    "200": {
+      "name": "Titanium Hammer"
+    },
+    "201": {
+      "name": "Rocariel Jacket"
+    },
+    "202": {
+      "name": "Ethereal Mitts"
+    },
+    "203": {
+      "name": "Spirit Wand"
+    },
+    "204": {
+      "name": "Reaping Blade"
+    },
+    "205": {
+      "name": "Yak Gauntlets"
+    },
+    "206": {
+      "name": "Skinwalker Greathelm"
+    },
+    "207": {
+      "name": "Golden Feather Chestplate"
+    },
+    "208": {
+      "name": "Drake Tail Pike"
+    },
+    "209": {
+      "name": "Drake Rib Chainmail"
+    },
+    "210": {
+      "name": "Cinder Oil Wand"
+    },
+    "211": {
+      "name": "Ogre Bone Whip"
+    },
+    "212": {
+      "name": "Ogrehead Warhammer"
+    },
+    "213": {
+      "name": "Loch Bracers"
+    },
+    "214": {
+      "name": "Loch Chestplate"
+    },
+    "215": {
+      "name": "Acidworn Hood"
+    },
+    "216": {
+      "name": "Acidworn Robe"
+    },
+    "217": {
+      "name": "Acidworn Mitts"
+    },
+    "218": {
+      "name": "Acidworn Sandals"
+    },
+    "219": {
+      "name": "Solar Whip"
+    },
+    "220": {
+      "name": "Ogre Scourge"
+    },
+    "221": {
+      "name": "Moonshadow Axe"
+    },
+    "222": {
+      "name": "Highlandearth Spear"
+    },
+    "223": {
+      "name": "Warhammer of the Highlands"
+    },
+    "224": {
+      "name": "Ogre Bone Sword"
+    },
+    "225": {
+      "name": "Lochhead Hammer"
+    },
+    "226": {
+      "name": "Windcutter Knife"
+    },
+    "227": {
+      "name": "Harpy Axe"
+    },
+    "228": {
+      "name": "Subterranean Woe"
+    },
+    "229": {
+      "name": "Hardrake Axe"
+    },
+    "230": {
+      "name": "Hacken Scythe"
+    },
+    "231": {
+      "name": "Skykiss"
+    },
+    "232": {
+      "name": "Ogre Bone Chestplate"
+    },
+    "233": {
+      "name": "Harpy Legate Greathelm"
+    },
+    "234": {
+      "name": "Loch Helm"
+    },
+    "235": {
+      "name": "Loch Greaves"
+    },
+    "236": {
+      "name": "Damned Lich Breastplate"
+    },
+    "237": {
+      "name": "Scrapper Gauntlets"
+    },
+    "238": {
+      "name": "Scrapper Chestplate"
+    },
+    "239": {
+      "name": "Scrapper Helm"
+    },
+    "240": {
+      "name": "Scrapper Greaves"
+    },
+    "241": {
+      "name": "Harpy Legionnaire Helm"
+    },
+    "243": {
+      "name": "Heart of Mountains"
+    },
+    "244": {
+      "name": "Yak Sabatons"
+    },
+    "245": {
+      "name": "Mystic Harpy Wand"
+    },
+    "246": {
+      "name": "Lunar Wand"
+    },
+    "247": {
+      "name": "Harpy Solar Stave"
+    },
+    "248": {
+      "name": "Lunar Bludgeonor"
+    },
+    "249": {
+      "name": "Cursed Oozer"
+    },
+    "250": {
+      "name": "Harpy Slicer"
+    },
+    "251": {
+      "name": "Highland Astral Stave"
+    },
+    "252": {
+      "name": "Harpy Wand"
+    },
+    "253": {
+      "name": "Harpy Staff"
+    },
+    "254": {
+      "name": "Skinwalker Cudgel"
+    },
+    "255": {
+      "name": "Acid Mystic Wand"
+    },
+    "256": {
+      "name": "Ram Club"
+    },
+    "257": {
+      "name": "Ogre Blood Bender"
+    },
+    "258": {
+      "name": "Drake Stave"
+    },
+    "259": {
+      "name": "Loch Wand"
+    },
+    "260": {
+      "name": "Highland Cowl"
+    },
+    "261": {
+      "name": "Nightshade Robe"
+    },
+    "262": {
+      "name": "Damned Mitts"
+    },
+    "263": {
+      "name": "Ritual Sandals"
+    },
+    "264": {
+      "name": "Hagwitch Cloak"
+    },
+    "265": {
+      "name": "Harpy Crakows"
+    },
+    "266": {
+      "name": "Roc Flighters"
+    },
+    "267": {
+      "name": "Roc Feather Shoes"
+    },
+    "268": {
+      "name": "Witch Hat"
+    },
+    "269": {
+      "name": "Roc Feathered Wraps"
+    },
+    "270": {
+      "name": "Harpy Tunic"
+    },
+    "271": {
+      "name": "Harpy Slayer Jacket"
+    },
+    "272": {
+      "name": "Highland Gloves"
+    },
+    "273": {
+      "name": "Acid Hammer"
+    },
+    "274": {
+      "name": "Harpy Gloves"
+    },
+    "275": {
+      "name": "Soulfire Gauntlets"
+    },
+    "276": {
+      "name": "Soulfire Greaves"
+    },
+    "277": {
+      "name": "Soulfire Helm"
+    },
+    "278": {
+      "name": "Soulfire Chestplate"
+    }
+  },
   "materials": {
     "1": {
       "name": "Oak Log",
@@ -745,1112 +1575,6 @@
       "desc": "A recipe found on cave wall scratchings"
     }
   },
-  "equipment": {
-    "1": {
-      "name": "Iron Dagger",
-      "desc": ""
-    },
-    "2": {
-      "name": "Iron Sword",
-      "desc": ""
-    },
-    "3": {
-      "name": "Oak Wand",
-      "desc": ""
-    },
-    "4": {
-      "name": "Oak Club",
-      "desc": ""
-    },
-    "5": {
-      "name": "Iron Knife",
-      "desc": ""
-    },
-    "6": {
-      "name": "Iron Axe",
-      "desc": ""
-    },
-    "7": {
-      "name": "Oak Stave",
-      "desc": ""
-    },
-    "8": {
-      "name": "Iron Hatchet",
-      "desc": ""
-    },
-    "9": {
-      "name": "Beetle Axe",
-      "desc": ""
-    },
-    "10": {
-      "name": "Iron Longsword",
-      "desc": ""
-    },
-    "11": {
-      "name": "Boar Club",
-      "desc": ""
-    },
-    "12": {
-      "name": "Beetle Wand",
-      "desc": ""
-    },
-    "13": {
-      "name": "Snake Stave",
-      "desc": ""
-    },
-    "14": {
-      "name": "Maexna Wand",
-      "desc": ""
-    },
-    "15": {
-      "name": "Goblin Sword",
-      "desc": ""
-    },
-    "16": {
-      "name": "Goblin Longsword",
-      "desc": ""
-    },
-    "17": {
-      "name": "Oak Mystic Stave",
-      "desc": ""
-    },
-    "18": {
-      "name": "Goblin Wand",
-      "desc": ""
-    },
-    "19": {
-      "name": "Bear Mystic Stave",
-      "desc": ""
-    },
-    "20": {
-      "name": "Cursed Blade",
-      "desc": ""
-    },
-    "21": {
-      "name": "Bear Cudgel",
-      "desc": ""
-    },
-    "22": {
-      "name": "Bear Bane",
-      "desc": ""
-    },
-    "23": {
-      "name": "Hempen Hood",
-      "desc": ""
-    },
-    "24": {
-      "name": "Hempen Gloves",
-      "desc": ""
-    },
-    "25": {
-      "name": "Hempen Shirt",
-      "desc": ""
-    },
-    "26": {
-      "name": "Hempen Shoes",
-      "desc": ""
-    },
-    "27": {
-      "name": "Iron Helm",
-      "desc": ""
-    },
-    "28": {
-      "name": "Iron Bracers",
-      "desc": ""
-    },
-    "29": {
-      "name": "Iron Chestplate",
-      "desc": ""
-    },
-    "30": {
-      "name": "Iron Greaves",
-      "desc": ""
-    },
-    "31": {
-      "name": "Hempen Cowl",
-      "desc": ""
-    },
-    "32": {
-      "name": "Hempen Mitts",
-      "desc": ""
-    },
-    "33": {
-      "name": "Bug Bracers",
-      "desc": ""
-    },
-    "34": {
-      "name": "Hempen Robe",
-      "desc": ""
-    },
-    "35": {
-      "name": "Bovine Greaves",
-      "desc": ""
-    },
-    "36": {
-      "name": "Bovine Tunic",
-      "desc": ""
-    },
-    "37": {
-      "name": "Snake Sandals",
-      "desc": ""
-    },
-    "38": {
-      "name": "Snake Tunic",
-      "desc": ""
-    },
-    "39": {
-      "name": "Snake Gloves",
-      "desc": ""
-    },
-    "40": {
-      "name": "Snake Boots",
-      "desc": ""
-    },
-    "41": {
-      "name": "Silk Chainlinks",
-      "desc": ""
-    },
-    "42": {
-      "name": "Silk Mitts",
-      "desc": ""
-    },
-    "43": {
-      "name": "Bug Helmet",
-      "desc": ""
-    },
-    "44": {
-      "name": "Spider Silk Robe",
-      "desc": ""
-    },
-    "45": {
-      "name": "Spider Silk Hat",
-      "desc": ""
-    },
-    "46": {
-      "name": "Wolf Boots",
-      "desc": ""
-    },
-    "47": {
-      "name": "Wolf Hood",
-      "desc": ""
-    },
-    "48": {
-      "name": "Wolf Gloves",
-      "desc": ""
-    },
-    "49": {
-      "name": "Wolf Feet",
-      "desc": ""
-    },
-    "50": {
-      "name": "Wolf Helm",
-      "desc": ""
-    },
-    "51": {
-      "name": "Chitin Chestplate",
-      "desc": ""
-    },
-    "52": {
-      "name": "Gatherer Gloves",
-      "desc": ""
-    },
-    "53": {
-      "name": "Goblin Bracers",
-      "desc": ""
-    },
-    "54": {
-      "name": "Goblin Chestplate",
-      "desc": ""
-    },
-    "55": {
-      "name": "Bear Gauntlets",
-      "desc": ""
-    },
-    "56": {
-      "name": "Bear Sabatons",
-      "desc": ""
-    },
-    "57": {
-      "name": "Forest Helm",
-      "desc": ""
-    },
-    "58": {
-      "name": "Bear Helmet",
-      "desc": ""
-    },
-    "59": {
-      "name": "Tuvale Robe",
-      "desc": ""
-    },
-    "60": {
-      "name": "Tuvale Sabatons",
-      "desc": ""
-    },
-    "61": {
-      "name": "Tuvale Hood",
-      "desc": ""
-    },
-    "62": {
-      "name": "Tuvale Bracers",
-      "desc": ""
-    },
-    "63": {
-      "name": "Oak Cudgel",
-      "desc": ""
-    },
-    "64": {
-      "name": "Kunnigas Breastplate",
-      "desc": ""
-    },
-    "65": {
-      "name": "Viper's Fang",
-      "desc": ""
-    },
-    "66": {
-      "name": "Bovine Carver",
-      "desc": ""
-    },
-    "67": {
-      "name": "Warlord's Medallion",
-      "desc": ""
-    },
-    "68": {
-      "name": "Concealed Blade",
-      "desc": ""
-    },
-    "69": {
-      "name": "Star of the Forest",
-      "desc": ""
-    },
-    "70": {
-      "name": "Grok's Lucky Charm",
-      "desc": ""
-    },
-    "71": {
-      "name": "Magi Ring",
-      "desc": ""
-    },
-    "72": {
-      "name": "Cobalt Dagger",
-      "desc": ""
-    },
-    "73": {
-      "name": "Cobalt Axe",
-      "desc": ""
-    },
-    "74": {
-      "name": "Cobalt Sword",
-      "desc": ""
-    },
-    "75": {
-      "name": "Cobalt Pike",
-      "desc": ""
-    },
-    "76": {
-      "name": "Yew Mystic Stave",
-      "desc": ""
-    },
-    "77": {
-      "name": "Yew Mystic Wand",
-      "desc": ""
-    },
-    "78": {
-      "name": "Yew Club",
-      "desc": ""
-    },
-    "79": {
-      "name": "Yew Wand",
-      "desc": ""
-    },
-    "80": {
-      "name": "Yew Cudgel",
-      "desc": ""
-    },
-    "81": {
-      "name": "Yew Stave",
-      "desc": ""
-    },
-    "82": {
-      "name": "Cobalt Knife",
-      "desc": ""
-    },
-    "83": {
-      "name": "Cobalt Chain Whip",
-      "desc": ""
-    },
-    "84": {
-      "name": "Cobalt Longsword",
-      "desc": ""
-    },
-    "86": {
-      "name": "Ashened Water Stave",
-      "desc": ""
-    },
-    "87": {
-      "name": "Water Wand",
-      "desc": ""
-    },
-    "88": {
-      "name": "Luminous Pike",
-      "desc": ""
-    },
-    "89": {
-      "name": "Anguished Pike",
-      "desc": ""
-    },
-    "90": {
-      "name": "Axe of Agony",
-      "desc": ""
-    },
-    "91": {
-      "name": "Sandy Dagger",
-      "desc": ""
-    },
-    "92": {
-      "name": "Shell Axe",
-      "desc": ""
-    },
-    "93": {
-      "name": "Fowled Knife",
-      "desc": ""
-    },
-    "94": {
-      "name": "Scaled Blade",
-      "desc": ""
-    },
-    "95": {
-      "name": "Water's Edge",
-      "desc": ""
-    },
-    "96": {
-      "name": "Riptides Sorrow",
-      "desc": ""
-    },
-    "97": {
-      "name": "Cnidocyte's Blight",
-      "desc": ""
-    },
-    "98": {
-      "name": "Wand of Warts",
-      "desc": ""
-    },
-    "99": {
-      "name": "Marinachnid's Bane",
-      "desc": ""
-    },
-    "100": {
-      "name": "Claw Longsword",
-      "desc": ""
-    },
-    "101": {
-      "name": "Parotid Kriss",
-      "desc": ""
-    },
-    "102": {
-      "name": "Sailor's Knife",
-      "desc": ""
-    },
-    "103": {
-      "name": "Sargassum Wand",
-      "desc": ""
-    },
-    "104": {
-      "name": "Hydrostave",
-      "desc": ""
-    },
-    "105": {
-      "name": "Marrowed Club",
-      "desc": ""
-    },
-    "106": {
-      "name": "Alkaline Cudgel",
-      "desc": ""
-    },
-    "107": {
-      "name": "Reed Hood",
-      "desc": ""
-    },
-    "108": {
-      "name": "Reed Tunic",
-      "desc": ""
-    },
-    "109": {
-      "name": "Reed Wraps",
-      "desc": ""
-    },
-    "110": {
-      "name": "Reed Crakows",
-      "desc": ""
-    },
-    "111": {
-      "name": "Cobalt Helm",
-      "desc": ""
-    },
-    "112": {
-      "name": "Cobalt Chestplate",
-      "desc": ""
-    },
-    "113": {
-      "name": "Cobalt Greaves",
-      "desc": ""
-    },
-    "114": {
-      "name": "Cobalt Bracers",
-      "desc": ""
-    },
-    "115": {
-      "name": "Trifold Hat",
-      "desc": ""
-    },
-    "116": {
-      "name": "Cobalt Hook",
-      "desc": ""
-    },
-    "117": {
-      "name": "Yew Peg Leg",
-      "desc": ""
-    },
-    "118": {
-      "name": "Seafoam Robe",
-      "desc": ""
-    },
-    "119": {
-      "name": "Flowing Hood",
-      "desc": ""
-    },
-    "120": {
-      "name": "Aquatic Sandals",
-      "desc": ""
-    },
-    "121": {
-      "name": "Hydro Wraps",
-      "desc": ""
-    },
-    "122": {
-      "name": "Amphibian Boots",
-      "desc": ""
-    },
-    "123": {
-      "name": "Scaly Chest",
-      "desc": ""
-    },
-    "124": {
-      "name": "Scaly Bracers",
-      "desc": ""
-    },
-    "125": {
-      "name": "Scaly Greaves",
-      "desc": ""
-    },
-    "126": {
-      "name": "Scaly Helm",
-      "desc": ""
-    },
-    "127": {
-      "name": "Monarch's Robe",
-      "desc": ""
-    },
-    "128": {
-      "name": "Seamarrow Chestplate",
-      "desc": ""
-    },
-    "129": {
-      "name": "Seamarrow Helm",
-      "desc": ""
-    },
-    "130": {
-      "name": "Seamarrow Greaves",
-      "desc": ""
-    },
-    "131": {
-      "name": "Seamarrow Gloves",
-      "desc": ""
-    },
-    "132": {
-      "name": "Carrioned Chestplate",
-      "desc": ""
-    },
-    "133": {
-      "name": "Carrioned Helm",
-      "desc": ""
-    },
-    "134": {
-      "name": "Carrioned Boots",
-      "desc": ""
-    },
-    "135": {
-      "name": "Carrioned Gauntlets",
-      "desc": ""
-    },
-    "136": {
-      "name": "Breakwater Band",
-      "desc": ""
-    },
-    "137": {
-      "name": "Seafoam Pendant",
-      "desc": ""
-    },
-    "138": {
-      "name": "Littoral Ring",
-      "desc": ""
-    },
-    "139": {
-      "name": "Coastal Calamity",
-      "desc": ""
-    },
-    "140": {
-      "name": "Lazulite Amulet",
-      "desc": ""
-    },
-    "141": {
-      "name": "Crab Chestplate",
-      "desc": ""
-    },
-    "142": {
-      "name": "Terror Helm",
-      "desc": ""
-    },
-    "143": {
-      "name": "Terror Chest",
-      "desc": ""
-    },
-    "144": {
-      "name": "Charm Of Wisdom",
-      "desc": ""
-    },
-    "145": {
-      "name": "Yarsol Helm",
-      "desc": ""
-    },
-    "146": {
-      "name": "Yarsol Chestplate",
-      "desc": ""
-    },
-    "147": {
-      "name": "Yarsol Greaves",
-      "desc": ""
-    },
-    "148": {
-      "name": "Yarsol Gloves",
-      "desc": ""
-    },
-    "149": {
-      "name": "Slimy Sabatons",
-      "desc": ""
-    },
-    "150": {
-      "name": "Lightweight Crakows",
-      "desc": ""
-    },
-    "151": {
-      "name": "Kobold Scaled Chestplate",
-      "desc": ""
-    },
-    "152": {
-      "name": "Edged Bracers",
-      "desc": ""
-    },
-    "153": {
-      "name": "Cavalier Boots",
-      "desc": ""
-    },
-    "154": {
-      "name": "Sailor's Tunic",
-      "desc": ""
-    },
-    "155": {
-      "name": "Buccaneer's Cap",
-      "desc": ""
-    },
-    "156": {
-      "name": "Privateer's Gloves",
-      "desc": ""
-    },
-    "157": {
-      "name": "Admiral's Trifold",
-      "desc": ""
-    },
-    "158": {
-      "name": "Admiral's Jacket",
-      "desc": ""
-    },
-    "159": {
-      "name": "Admiral's Boots",
-      "desc": ""
-    },
-    "160": {
-      "name": "Admiral's Gloves",
-      "desc": ""
-    },
-    "161": {
-      "name": "Turtle Chestplate",
-      "desc": ""
-    },
-    "162": {
-      "name": "Turtle Boots",
-      "desc": ""
-    },
-    "163": {
-      "name": "Turtle Bracers",
-      "desc": ""
-    },
-    "164": {
-      "name": "Turtle Helm",
-      "desc": ""
-    },
-    "165": {
-      "name": "Titanium Knife",
-      "desc": ""
-    },
-    "166": {
-      "name": "Titanium Hatchet",
-      "desc": ""
-    },
-    "167": {
-      "name": "Titanium Sword",
-      "desc": ""
-    },
-    "168": {
-      "name": "Howlthorn Wand",
-      "desc": ""
-    },
-    "169": {
-      "name": "Howlthorn Stave",
-      "desc": ""
-    },
-    "170": {
-      "name": "Howlthorn Club",
-      "desc": ""
-    },
-    "171": {
-      "name": "Highrye Robe",
-      "desc": ""
-    },
-    "172": {
-      "name": "Highrye Cowl",
-      "desc": ""
-    },
-    "173": {
-      "name": "Highrye Shoes",
-      "desc": ""
-    },
-    "174": {
-      "name": "Highrye Mitts",
-      "desc": ""
-    },
-    "175": {
-      "name": "Titanium Helm",
-      "desc": ""
-    },
-    "176": {
-      "name": "Titanium Chestplate",
-      "desc": ""
-    },
-    "177": {
-      "name": "Titanium Greaves",
-      "desc": ""
-    },
-    "178": {
-      "name": "Titanium Bracers",
-      "desc": ""
-    },
-    "179": {
-      "name": "Aldurnian Crakows",
-      "desc": ""
-    },
-    "180": {
-      "name": "Aldurnian Jacket",
-      "desc": ""
-    },
-    "181": {
-      "name": "Aldurnian Hood",
-      "desc": ""
-    },
-    "182": {
-      "name": "Aldurnian Mitts",
-      "desc": ""
-    },
-    "183": {
-      "name": "Antler Helm",
-      "desc": ""
-    },
-    "184": {
-      "name": "Antler Chestplate",
-      "desc": ""
-    },
-    "185": {
-      "name": "Antler Greaves",
-      "desc": ""
-    },
-    "186": {
-      "name": "Antler Bracers",
-      "desc": ""
-    },
-    "187": {
-      "name": "Stone Hoof Boots",
-      "desc": ""
-    },
-    "188": {
-      "name": "Roc Winged Breastplate",
-      "desc": ""
-    },
-    "189": {
-      "name": "Roc Feathered Cowl",
-      "desc": ""
-    },
-    "190": {
-      "name": "Highland Greathelm",
-      "desc": ""
-    },
-    "191": {
-      "name": "Rocariel Sword",
-      "desc": ""
-    },
-    "192": {
-      "name": "Howlthorn Mystic Wand",
-      "desc": ""
-    },
-    "193": {
-      "name": "Howlthorn Mystic Stave",
-      "desc": ""
-    },
-    "194": {
-      "name": "Howlthorn Cudgel",
-      "desc": ""
-    },
-    "195": {
-      "name": "Antler Cudgel",
-      "desc": ""
-    },
-    "196": {
-      "name": "Antler Mystic Stave",
-      "desc": ""
-    },
-    "197": {
-      "name": "Titanium Axe",
-      "desc": ""
-    },
-    "198": {
-      "name": "Titanium Dagger",
-      "desc": ""
-    },
-    "199": {
-      "name": "Ram Hammer",
-      "desc": ""
-    },
-    "200": {
-      "name": "Titanium Hammer",
-      "desc": ""
-    },
-    "201": {
-      "name": "Rocariel Jacket",
-      "desc": ""
-    },
-    "202": {
-      "name": "Ethereal Mitts",
-      "desc": ""
-    },
-    "203": {
-      "name": "Spirit Wand",
-      "desc": ""
-    },
-    "204": {
-      "name": "Reaping Blade",
-      "desc": ""
-    },
-    "205": {
-      "name": "Yak Gauntlets",
-      "desc": ""
-    },
-    "206": {
-      "name": "Skinwalker Greathelm",
-      "desc": ""
-    },
-    "207": {
-      "name": "Golden Feather Chestplate",
-      "desc": ""
-    },
-    "208": {
-      "name": "Drake Tail Pike",
-      "desc": ""
-    },
-    "209": {
-      "name": "Drake Rib Chainmail",
-      "desc": ""
-    },
-    "210": {
-      "name": "Cinder Oil Wand",
-      "desc": ""
-    },
-    "211": {
-      "name": "Ogre Bone Whip",
-      "desc": ""
-    },
-    "212": {
-      "name": "Ogrehead Warhammer",
-      "desc": ""
-    },
-    "213": {
-      "name": "Loch Bracers",
-      "desc": ""
-    },
-    "214": {
-      "name": "Loch Chestplate",
-      "desc": ""
-    },
-    "215": {
-      "name": "Acidworn Hood",
-      "desc": ""
-    },
-    "216": {
-      "name": "Acidworn Robe",
-      "desc": ""
-    },
-    "217": {
-      "name": "Acidworn Mitts",
-      "desc": ""
-    },
-    "218": {
-      "name": "Acidworn Sandals",
-      "desc": ""
-    },
-    "219": {
-      "name": "Solar Whip",
-      "desc": ""
-    },
-    "220": {
-      "name": "Ogre Scourge",
-      "desc": ""
-    },
-    "221": {
-      "name": "Moonshadow Axe",
-      "desc": ""
-    },
-    "222": {
-      "name": "Highlandearth Spear",
-      "desc": ""
-    },
-    "223": {
-      "name": "Warhammer of the Highlands",
-      "desc": ""
-    },
-    "224": {
-      "name": "Ogre Bone Sword",
-      "desc": ""
-    },
-    "225": {
-      "name": "Lochhead Hammer",
-      "desc": ""
-    },
-    "226": {
-      "name": "Windcutter Knife",
-      "desc": ""
-    },
-    "227": {
-      "name": "Harpy Axe",
-      "desc": ""
-    },
-    "228": {
-      "name": "Subterranean Woe",
-      "desc": ""
-    },
-    "229": {
-      "name": "Hardrake Axe",
-      "desc": ""
-    },
-    "230": {
-      "name": "Hacken Scythe",
-      "desc": ""
-    },
-    "231": {
-      "name": "Skykiss",
-      "desc": ""
-    },
-    "232": {
-      "name": "Ogre Bone Chestplate",
-      "desc": ""
-    },
-    "233": {
-      "name": "Harpy Legate Greathelm",
-      "desc": ""
-    },
-    "234": {
-      "name": "Loch Helm",
-      "desc": ""
-    },
-    "235": {
-      "name": "Loch Greaves",
-      "desc": ""
-    },
-    "236": {
-      "name": "Damned Lich Breastplate",
-      "desc": ""
-    },
-    "237": {
-      "name": "Scrapper Gauntlets",
-      "desc": ""
-    },
-    "238": {
-      "name": "Scrapper Chestplate",
-      "desc": ""
-    },
-    "239": {
-      "name": "Scrapper Helm",
-      "desc": ""
-    },
-    "240": {
-      "name": "Scrapper Greaves",
-      "desc": ""
-    },
-    "241": {
-      "name": "Harpy Legionnaire Helm",
-      "desc": ""
-    },
-    "243": {
-      "name": "Heart of Mountains",
-      "desc": ""
-    },
-    "244": {
-      "name": "Yak Sabatons",
-      "desc": ""
-    },
-    "245": {
-      "name": "Mystic Harpy Wand",
-      "desc": ""
-    },
-    "246": {
-      "name": "Lunar Wand",
-      "desc": ""
-    },
-    "247": {
-      "name": "Harpy Solar Stave",
-      "desc": ""
-    },
-    "248": {
-      "name": "Lunar Bludgeonor",
-      "desc": ""
-    },
-    "249": {
-      "name": "Cursed Oozer",
-      "desc": ""
-    },
-    "250": {
-      "name": "Harpy Slicer",
-      "desc": ""
-    },
-    "251": {
-      "name": "Highland Astral Stave",
-      "desc": ""
-    },
-    "252": {
-      "name": "Harpy Wand",
-      "desc": ""
-    },
-    "253": {
-      "name": "Harpy Staff",
-      "desc": ""
-    },
-    "254": {
-      "name": "Skinwalker Cudgel",
-      "desc": ""
-    },
-    "255": {
-      "name": "Acid Mystic Wand",
-      "desc": ""
-    },
-    "256": {
-      "name": "Ram Club",
-      "desc": ""
-    },
-    "257": {
-      "name": "Ogre Blood Bender",
-      "desc": ""
-    },
-    "258": {
-      "name": "Drake Stave",
-      "desc": ""
-    },
-    "259": {
-      "name": "Loch Wand",
-      "desc": ""
-    },
-    "260": {
-      "name": "Highland Cowl",
-      "desc": ""
-    },
-    "261": {
-      "name": "Nightshade Robe",
-      "desc": ""
-    },
-    "262": {
-      "name": "Damned Mitts",
-      "desc": ""
-    },
-    "263": {
-      "name": "Ritual Sandals",
-      "desc": ""
-    },
-    "264": {
-      "name": "Hagwitch Cloak",
-      "desc": ""
-    },
-    "265": {
-      "name": "Harpy Crakows",
-      "desc": ""
-    },
-    "266": {
-      "name": "Roc Flighters",
-      "desc": ""
-    },
-    "267": {
-      "name": "Roc Feather Shoes",
-      "desc": ""
-    },
-    "268": {
-      "name": "Witch Hat",
-      "desc": ""
-    },
-    "269": {
-      "name": "Roc Feathered Wraps",
-      "desc": ""
-    },
-    "270": {
-      "name": "Harpy Tunic",
-      "desc": ""
-    },
-    "271": {
-      "name": "Harpy Slayer Jacket",
-      "desc": ""
-    },
-    "272": {
-      "name": "Highland Gloves",
-      "desc": ""
-    },
-    "273": {
-      "name": "Acid Hammer",
-      "desc": ""
-    },
-    "274": {
-      "name": "Harpy Gloves",
-      "desc": ""
-    },
-    "275": {
-      "name": "Soulfire Gauntlets",
-      "desc": ""
-    },
-    "276": {
-      "name": "Soulfire Greaves",
-      "desc": ""
-    },
-    "277": {
-      "name": "Soulfire Helm",
-      "desc": ""
-    },
-    "278": {
-      "name": "Soulfire Chestplate",
-      "desc": ""
-    }
-  },
   "consumables": {
     "1": {
       "name": "Forest Gruel",
@@ -1940,7 +1664,7 @@
   "lootbags": {
     "1": {
       "name": "Tuvale Bag",
-      "desc": "A commonTuvale Bag"
+      "desc": "A common Tuvale Bag"
     },
     "2": {
       "name": "Rare Tuvale Bag",
@@ -2175,6 +1899,35 @@
     "999": {
       "name": "Starter Boost",
       "desc": "Increase quest, craft, and work speed by 2x for 1 hour. Only applies to jobs started after the boost is active"
+    }
+  },
+  "expeditions": {
+    "1": {
+      "name": "Small Tuvale Wagon"
+    },
+    "2": {
+      "name": "Medium Tuvale Wagon"
+    },
+    "3": {
+      "name": "Large Tuvale Wagon"
+    },
+    "4": {
+      "name": "Small Yarsol Wagon"
+    },
+    "5": {
+      "name": "Medium Yarsol Wagon"
+    },
+    "6": {
+      "name": "Large Yarsol Wagon"
+    },
+    "7": {
+      "name": "Small Aldur Wagon"
+    },
+    "8": {
+      "name": "Medium Aldur Wagon"
+    },
+    "9": {
+      "name": "Large Aldur Wagon"
     }
   }
 }

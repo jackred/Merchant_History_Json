@@ -1,6 +1,66 @@
 {
+  "buildings_text_en": {
+    "Version": "1.0.2",
+    "Hash": "1528a7ade70b3daea727b157d0f9e285"
+  },
+  "common_placeholder_text_en": {
+    "Version": "1.0.9",
+    "Hash": "c4af9e8dbf2e8e7557352740a167e13d"
+  },
+  "compendium_text_en": {
+    "Version": "1.0.4",
+    "Hash": "497b9ad8a1215a368ff8ed52133b809d"
+  },
+  "enemies_text_en": {
+    "Version": "1.0.1",
+    "Hash": "1c071ffdf13447961ccc0f56104076f8"
+  },
+  "generic_text_en": {
+    "Version": "1.0.19",
+    "Hash": "9af6271d57af729d5807877bfb03f2d4"
+  },
+  "heroes_text_en": {
+    "Version": "1.0.0",
+    "Hash": "1106635d5c65af2c3e88d8dc615fcbf1"
+  },
+  "items_text_en": {
+    "Version": "1.0.4",
+    "Hash": "6212e0802c1ab7a397e41e8520bbbb97"
+  },
+  "momentum_rewards_en": {
+    "Version": "1.0.0",
+    "Hash": "87453816d56db952a7609aca5ff1ce16"
+  },
+  "options_text_en": {
+    "Version": "1.0.6",
+    "Hash": "935ae748b11be99af7e5f1def4adc46b"
+  },
+  "pois_text_en": {
+    "Version": "1.0.0",
+    "Hash": "ed284700386956fa567f874207743c01"
+  },
+  "quests_custom_descriptions_en": {
+    "Version": "1.0.2",
+    "Hash": "fc6254e8eb9ea803f4c63317350afb20"
+  },
   "skills_descr_en": {
     "Version": "1.0.1",
     "Hash": "62e5fabaf67d2aa9531e157527715e3a"
+  },
+  "tutorial_text_en": {
+    "Version": "1.0.4",
+    "Hash": "58a99a44d6c90c6fe2d11a0b5dcc7f08"
+  },
+  "iap_text_en": {
+    "Version": "1.0.2",
+    "Hash": "d4d697879742ed01fa379529b8834bfb"
+  },
+  "achievements_text_en": {
+    "Version": "1.0.2",
+    "Hash": "a17f944d45caf18bea9382b9ed5614a3"
+  },
+  "expedition_flavor_text_en": {
+    "Version": "1.0.0",
+    "Hash": "36b5be87cd6d7b2357318d1c405f3a18"
   }
 }

@@ -58,7 +58,8 @@
   "MindBlast": {
     "n": "Mind Blast",
     "t": 1,
-    "ft": "Deal !NB!HL{0:f1}x{1} {target}"
+    "ft": "Deal !NB!HL{0:f1}x{1} {target}",
+    "fbt": "Deal 1.5x{matk} {target}"
   },
   "MagicMissile": {
     "n": "Magic Missile",
@@ -250,7 +251,7 @@
   },
   "NatureFury": {
     "n": "Nature's Fury",
-    "ft": "{buff}300%{atk} next attack"
+    "ft": "{buff}150%{atk} next attack"
   },
   "Silence": {
     "n": "Silence",
@@ -365,6 +366,12 @@
     "t": 3,
     "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {party} !NB!HL{5}{turn}",
     "fbt": "Deal 2x{atk} & {debuff}40%{acc} {party} 1{turn}"
+  },
+  "Whirlpool": {
+    "n": "Whirlpool",
+    "t": 3,
+    "ft": "Deal !NB!HL{0:f1}x{1} & !NB{2}!HL{3}%{4} {party} !NB!HL{5}{turn}",
+    "fbt": "Deal 1.5x{matk} & {debuff}40%{eva} 2 {turn} {party} & 1 {rotation}"
   },
   "CelestialBeam": {
     "n": "Celestial Beam",

@@ -1,7 +1,7 @@
 {
   "craft": {
     "Id": "craft",
-    "MaxLvl": 33,
+    "MaxLvl": 40,
     "Image": "crafters_circle",
     "LevelCosts": [
       3,
@@ -194,7 +194,7 @@
   },
   "hhall": {
     "Id": "hhall",
-    "MaxLvl": 32,
+    "MaxLvl": 33,
     "Image": "heroes_hall",
     "LevelCosts": [
       3,
@@ -292,7 +292,7 @@
   },
   "stock": {
     "Id": "stock",
-    "MaxLvl": 49,
+    "MaxLvl": 51,
     "Image": "warehouse",
     "LevelCosts": [
       0,

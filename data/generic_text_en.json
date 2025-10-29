@@ -457,5 +457,12 @@
   "expedition_log": "Expedition Log",
   "expedition_events": "Expedition Events",
   "call_back": "Call Back",
-  "no_wagons_meeet_requirements": "No wagons meet requirements!"
+  "no_wagons_meeet_requirements": "No wagons meet requirements!",
+  "no_items_for_sale": "No items for sale!",
+  "not_interested_in_items_for_sale": "Not interested in items for sale!",
+  "quests": "Quests",
+  "too_many": "Too Many",
+  "equipment_loadout_link": "Equipment Loadout Link",
+  "try_equip_phantom_item_stock_full_message": "Cannot equip item as stock is full and cannot unequip the current item!",
+  "purchase_successful": "Purchase Successful!"
 }
